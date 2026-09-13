@@ -54,14 +54,14 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 ---
 
 #### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-`★136,998 · JavaScript · ⭐ 已 star`
+`★136,999 · JavaScript · ⭐ 已 star`
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 > 收录日期：2026-09-13
 
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★136,193 · Python · ⭐ 已 star`
+`★136,194 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with Spec-Driven Development
 > 收录日期：2026-09-13
 
@@ -75,7 +75,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 ---
 
 #### [earendil-works/pi](https://github.com/earendil-works/pi)
-`★104,567 · TypeScript · ⭐ 已 star`
+`★104,568 · TypeScript · ⭐ 已 star`
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 > 收录日期：2026-09-13
 

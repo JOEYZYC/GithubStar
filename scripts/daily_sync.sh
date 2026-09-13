@@ -39,7 +39,16 @@ else
     echo "   已提交：$(git log -1 --oneline)"
 fi
 if git remote get-url origin >/dev/null 2>&1; then
-    if git push -q origin HEAD 2>&1; then
+    # 先同步远程：网页端改过 README 等文件时，直接 push 会被拒（非快进）
+    OB=$(git branch --show-current)
+    if git fetch -q origin "$OB" 2>/dev/null; then
+        if ! git rebase -q "origin/$OB" >/dev/null 2>&1; then
+            git rebase --abort 2>/dev/null
+            echo "   ⚠️ 远程有冲突改动，本次未推送；请手动处理后重跑" >&2
+            exit 1
+        fi
+    fi
+    if git push -q origin HEAD:"$OB" 2>&1; then
         echo "   ✅ 已推送到 origin"
     else
         echo "   ⚠️ 推送失败（本地提交已完成，稍后可重试 git push）" >&2

@@ -1560,7 +1560,7 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "language": "JavaScript",
-   "stars": 136998,
+   "stars": 136999,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -1584,7 +1584,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
    "language": "Python",
-   "stars": 136193,
+   "stars": 136194,
    "topics": [
     "ai",
     "copilot",
@@ -1638,7 +1638,7 @@
    "url": "https://github.com/earendil-works/pi",
    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
    "language": "TypeScript",
-   "stars": 104567,
+   "stars": 104568,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -3081,7 +3081,7 @@
    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
    "language": "Java",
-   "stars": 29134,
+   "stars": 29135,
    "topics": [
     "a11y",
     "accessibility",
