@@ -1,0 +1,31 @@
+{"url": "https://github.com/78/xiaozhi-esp32", "stars": 29863, "desc": "基于 MCP 协议的开源 AI 语音聊天机器人固件，跑在 ESP32-S3 上", "date": "2026-09-13"}
+{"url": "https://github.com/tinygo-org/tinygo", "stars": 17726, "desc": "面向单片机与 WebAssembly 的 Go 编译器（基于 LLVM）", "date": "2026-09-13"}
+{"url": "https://github.com/zephyrproject-rtos/zephyr", "stars": 16498, "desc": "新一代可扩展、安全的嵌入式实时操作系统（RTOS）", "date": "2026-09-13"}
+{"url": "https://github.com/k2-fsa/sherpa-onnx", "stars": 14741, "desc": "端侧语音识别、语音合成、说话人分离与 VAD 一体化工具链", "date": "2026-09-13"}
+{"url": "https://github.com/mit-pdos/xv6-riscv", "stars": 10364, "desc": "MIT 教学操作系统 xv6 的 RISC-V 版本", "date": "2026-09-13"}
+{"url": "https://github.com/stlink-org/stlink", "stars": 5165, "desc": "开源 STM32 编程与调试工具集（st-flash / st-util）", "date": "2026-09-13"}
+{"url": "https://github.com/MaliosDark/wifi-3d-fusion", "stars": 1729, "desc": "WiFi CSI + 深度学习做三维人体姿态感知，穿墙、无需摄像头", "date": "2026-09-13"}
+{"url": "https://github.com/Eriemon/verilog-generator", "stars": 278, "desc": "面向 Verilog-2001 RTL 生成与 FPGA 设计流程的 Agent Skill", "date": "2026-09-13"}
+{"url": "https://github.com/Liwuyuee/xiaozhi-esp32-local", "stars": 124, "desc": "小智 ESP32 的本地化部署改造版本（语音链路全离线）", "date": "2026-09-13"}
+{"url": "https://github.com/ZhaoChengBo/zhaoming-embedded", "stars": 105, "desc": "《C 语言面向对象编程·嵌入式实战》永久免费在线书 + 配套代码", "date": "2026-09-13"}
+{"url": "https://github.com/loganwilliams/thermografree", "stars": 81, "desc": "开源中分辨率、宽带热成像相机（传感器到成像链路自研）", "date": "2026-09-13"}
+{"url": "https://github.com/lalitshankarch/rvcore", "stars": 33, "desc": "能跑 DOOM 的极简 RISC-V 模拟器", "date": "2026-09-13"}
+{"url": "https://github.com/nathanfarlow/univac-1219-riscv", "stars": 31, "desc": "UNIVAC 1219B 复古计算机的 C 工具链与程序", "date": "2026-09-13"}
+{"url": "https://github.com/raylanlin/smarttune-cli", "stars": 28, "desc": "多平台飞行日志分析与自动调参顾问（ArduPilot / Betaflight / PX4）", "date": "2026-09-13"}
+{"url": "https://github.com/kavishka-dot/vulcan-os", "stars": 12, "desc": "面向 STM32H7 从零构建的极简 RTOS，支持边缘 ML 推理与端侧训练", "date": "2026-09-13"}
+{"url": "https://github.com/karagure/rvkit", "stars": 7, "desc": "Rust + Zig 写的 RISC-V MCU 开发 CLI/TUI 工具链（脚手架/编译/烧录/监视）", "date": "2026-09-13"}
+{"url": "https://github.com/renesas-rdk/rzv2h_drone_px4", "stars": 7, "desc": "Renesas RZ/V2H FreeRTOS 平台上的 PX4 飞控移植", "date": "2026-09-13"}
+{"url": "https://github.com/HUYATIEO/silk-fpga", "stars": 6, "desc": "ASIC/FPGA 设计流程工具与远程实验平台", "date": "2026-09-13"}
+{"url": "https://github.com/tenstorrent/rv_tester", "stars": 4, "desc": "RISC-V CPU 测试组件（SystemVerilog + C++ 测试台）", "date": "2026-09-13"}
+{"url": "https://github.com/lvgl/lv_esp_idf", "stars": 1305, "desc": "LVGL 官方 ESP-IDF 移植，含多种显示与触摸驱动，嵌入式 UI 直接可用", "date": "2026-09-13"}
+{"url": "https://github.com/Kevincoooool/OpenMV_PCB", "stars": 422, "desc": "OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考", "date": "2026-09-13"}
+{"url": "https://github.com/flexcompute/tidy3d", "stars": 364, "desc": "大规模光子/电磁 FDTD 仿真云平台，Python API 驱动，适合批量参数扫描", "date": "2026-09-13"}
+{"url": "https://github.com/zer011b/fdtd3d", "stars": 162, "desc": "开源 1D/2D/3D FDTD 电磁求解器，MPI/OpenMP/CUDA 并行，支持 ARM64 与 RISC-V", "date": "2026-09-13"}
+{"url": "https://github.com/hzzg0727/Metasurface-Design", "stars": 137, "desc": "基于 Lumerical FDTD 的超表面设计工作流（Python notebook 实现）", "date": "2026-09-13"}
+{"url": "https://github.com/Fratres-X-AI/JamBoy", "stars": 135, "desc": "GPS 拒止环境下的无人机导航层：光流 + 离线地图匹配 + EKF，输出 MAVLink", "date": "2026-09-13"}
+{"url": "https://github.com/euaziel/WiFi-CSI-Human-Pose-Detection", "stars": 125, "desc": "WiFi CSI + 深度学习做人体姿态估计与生命体征监测，无摄像头、可穿墙", "date": "2026-09-13"}
+{"url": "https://github.com/youxch/Inverse-design-of-metasurfaces", "stars": 99, "desc": "机器学习辅助的多波束超表面加速设计与综合方法", "date": "2026-09-13"}
+{"url": "https://github.com/jonathanmuller/esp-ppb", "stars": 67, "desc": "ESP32-C3 无线电池供电 CSI 相位相干同步平台（空中锁相多节点）", "date": "2026-09-13"}
+{"url": "https://github.com/korvin011/CSTMWS-Matlab-Interface", "stars": 58, "desc": "CST 微波工作室与 MATLAB 的双向接口，用于脚本化仿真与批量扫参", "date": "2026-09-13"}
+{"url": "https://github.com/piecol/LEVIA-H7", "stars": 49, "desc": "开源硬件 STM32H743 无人机飞控板（原理图 + PCB + 固件）", "date": "2026-09-13"}
+{"url": "https://github.com/kaankvrck/Cst-Py-Api", "stars": 44, "desc": "CST Studio Suite 微波工作室的 Python API 封装", "date": "2026-09-13"}
