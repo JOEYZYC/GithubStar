@@ -29,3 +29,57 @@
 {"url": "https://github.com/korvin011/CSTMWS-Matlab-Interface", "stars": 58, "desc": "CST 微波工作室与 MATLAB 的双向接口，用于脚本化仿真与批量扫参", "date": "2026-09-13"}
 {"url": "https://github.com/piecol/LEVIA-H7", "stars": 49, "desc": "开源硬件 STM32H743 无人机飞控板（原理图 + PCB + 固件）", "date": "2026-09-13"}
 {"url": "https://github.com/kaankvrck/Cst-Py-Api", "stars": 44, "desc": "CST Studio Suite 微波工作室的 Python API 封装", "date": "2026-09-13"}
+{"url": "https://github.com/espressif/arduino-esp32", "stars": 17374, "desc": "ESP32 全系的 Arduino 核心，含 ESP32-C/S/H 系列板级支持包", "date": "2026-09-14"}
+{"url": "https://github.com/betaflight/betaflight", "stars": 11528, "desc": "开源多旋翼飞控固件，STM32 全系目标板与多种 IMU/GPS 外设支持", "date": "2026-09-14"}
+{"url": "https://github.com/OpenXiangShan/XiangShan", "stars": 7253, "desc": "香山：开源高性能 RISC-V 处理器核，Chisel 实现，面向数据中心级乱序超标量", "date": "2026-09-14"}
+{"url": "https://github.com/sipeed/NanoKVM", "stars": 6508, "desc": "基于 RISC-V 的低成本 IP-KVM，可远程接管被控机键鼠与显示", "date": "2026-09-14"}
+{"url": "https://github.com/tock/tock", "stars": 6442, "desc": "面向微控制器的安全嵌入式操作系统，Rust 编写，内核与 capsule 分层隔离", "date": "2026-09-14"}
+{"url": "https://github.com/Bodmer/TFT_eSPI", "stars": 4909, "desc": "为 RP2040/STM32/ESP32 优化的 TFT 显示库，兼容 Arduino 与 PlatformIO", "date": "2026-09-14"}
+{"url": "https://github.com/cpq/bare-metal-programming-guide", "stars": 4875, "desc": "ARM 微控制器裸机编程指南，从启动到外设的完整实践教程", "date": "2026-09-14"}
+{"url": "https://github.com/sgoudelis/ground-station", "stars": 4779, "desc": "浏览器版卫星地面站套件，集成 SDR 接收、硬件控制与遥测解码", "date": "2026-09-14"}
+{"url": "https://github.com/FreeRTOS/FreeRTOS-Kernel", "stars": 4494, "desc": "FreeRTOS 内核源码主体，以子模块形式被各发行版引用", "date": "2026-09-14"}
+{"url": "https://github.com/xiaowenxia/embedded-notes", "stars": 4203, "desc": "嵌入式 Linux 驱动、C 语言、单片机与 IoT 开发面试要点中文笔记", "date": "2026-09-14"}
+{"url": "https://github.com/BrunoLevy/learn-fpga", "stars": 3680, "desc": "从零学习 FPGA、yosys、nextpnr 与 RISC-V 的渐进式教程", "date": "2026-09-14"}
+{"url": "https://github.com/libopencm3/libopencm3", "stars": 3654, "desc": "面向 ARM Cortex-M 的开源固件库，提供外设寄存器级驱动", "date": "2026-09-14"}
+{"url": "https://github.com/InfiniTimeOrg/InfiniTime", "stars": 3369, "desc": "PineTime 智能手表固件，C++ 与 FreeRTOS 的产品级嵌入式参考实现", "date": "2026-09-14"}
+{"url": "https://github.com/SpinalHDL/VexRiscv", "stars": 3252, "desc": "FPGA 友好的 32 位 RISC-V 软核 CPU，SpinalHDL 生成，流水线可配置", "date": "2026-09-14"}
+{"url": "https://github.com/but0n/Avem", "stars": 2893, "desc": "轻量级无人机飞控，STM32 与 PID 控制，含 KiCad 硬件工程", "date": "2026-09-14"}
+{"url": "https://github.com/earlephilhower/arduino-pico", "stars": 2871, "desc": "RP2040 与 RP2350 全系的 Arduino 核心，树莓派 Pico 生态基础", "date": "2026-09-14"}
+{"url": "https://github.com/cleanflight/cleanflight", "stars": 2734, "desc": "Betaflight 的前身飞控固件，飞控架构演进的对照样本", "date": "2026-09-14"}
+{"url": "https://github.com/espressif/esp-drone", "stars": 2175, "desc": "乐鑫官方 ESP32/ESP32-S 迷你四轴固件，移植自 Crazyflie", "date": "2026-09-14"}
+{"url": "https://github.com/mcauser/awesome-micropython", "stars": 1806, "desc": "MicroPython 库、框架与资源精选清单", "date": "2026-09-14"}
+{"url": "https://github.com/pikasTech/PikaPython", "stars": 1755, "desc": "超轻量 Python 解释器，仅需 4KB RAM 且零依赖，可用 C 扩展", "date": "2026-09-14"}
+{"url": "https://github.com/nickrehm/dRehmFlight", "stars": 1448, "desc": "Teensy 与 Arduino 平台的小型 VTOL 飞行控制与增稳固件", "date": "2026-09-14"}
+{"url": "https://github.com/pixhawk/Hardware", "stars": 1379, "desc": "PX4 与 Pixhawk 飞控硬件设计资料，含原理图与布局", "date": "2026-09-14"}
+{"url": "https://github.com/okalachev/flix", "stars": 1256, "desc": "从零用 ESP32 打造四轴飞行器的完整工程记录，支持 MAVLink", "date": "2026-09-14"}
+{"url": "https://github.com/DroneBridge/ESP32", "stars": 1092, "desc": "ESP-NOW 与 Wi-Fi 透明安全遥测链路，支持 MAVLink、MSP、LTM", "date": "2026-09-14"}
+{"url": "https://github.com/1ove9/antenna-forge", "stars": 1029, "desc": "AI 驱动的逆向天线设计，把 NEC2 与 openEMS 放进优化回路", "date": "2026-09-14"}
+{"url": "https://github.com/HASwitchPlate/openHASP", "stars": 1018, "desc": "基于 LVGL 的 ESP32 智能触摸面板固件，可对接 Home Assistant", "date": "2026-09-14"}
+{"url": "https://github.com/PreSenseRadar/OpenRadar", "stars": 935, "desc": "面向 MIMO 毫米波雷达的数据交互与处理开源库", "date": "2026-09-14"}
+{"url": "https://github.com/mavlink/MAVSDK", "stars": 934, "desc": "C++20 编写的 MAVLink 系统 API 与上层库，便于地面站与机载程序开发", "date": "2026-09-14"}
+{"url": "https://github.com/PegasusSimulator/PegasusSimulator", "stars": 876, "desc": "基于 NVIDIA Isaac Sim 的无人机仿真框架，原生支持 PX4", "date": "2026-09-14"}
+{"url": "https://github.com/rtlopez/esp-fc", "stars": 826, "desc": "面向 DIY 爱好者的 ESP32 飞控固件，含 ELRS、DShot 与动态陷波", "date": "2026-09-14"}
+{"url": "https://github.com/StevenMHernandez/ESP32-CSI-Tool", "stars": 557, "desc": "从 ESP32 提取 WiFi CSI 的参考实现，支持主动与被动采集模式", "date": "2026-09-14"}
+{"url": "https://github.com/emuflight/EmuFlight", "stars": 505, "desc": "多旋翼飞控固件，走 Betaflight 之外的滤波与手感调校路线", "date": "2026-09-14"}
+{"url": "https://github.com/qqqlab/madflight", "stars": 493, "desc": "跨 ESP32、树莓派 Pico 与 STM32 的轻量飞控固件", "date": "2026-09-14"}
+{"url": "https://github.com/maksimdrachov/zephyr-rtos-tutorial", "stars": 474, "desc": "Zephyr RTOS 初学者教程，从环境搭建到驱动开发", "date": "2026-09-14"}
+{"url": "https://github.com/m6c7l/pymmw", "stars": 348, "desc": "TI IWR 系列毫米波雷达的 Python 化工具箱", "date": "2026-09-14"}
+{"url": "https://github.com/wuzhiguocarter/Awesome-WiFi-CSI-Research", "stars": 317, "desc": "WiFi CSI 研究资源合集，覆盖数据集、论文与开源实现", "date": "2026-09-14"}
+{"url": "https://github.com/radar-lab/ti_mmwave_rospkg", "stars": 313, "desc": "TI 毫米波雷达 ROS 驱动，含传感器融合与相机叠加", "date": "2026-09-14"}
+{"url": "https://github.com/Gi-z/CSIKit", "stars": 306, "desc": "跨网卡格式的 CSI 解析与可视化工具，支持 Intel 与 Nexmon 等", "date": "2026-09-14"}
+{"url": "https://github.com/FennisRobert/EMerge", "stars": 283, "desc": "开源电磁场计算程序，面向静场与低频电磁问题的有限元求解", "date": "2026-09-14"}
+{"url": "https://github.com/lbolla/EMpy", "stars": 230, "desc": "电磁问题 Python 算法库，覆盖周期结构、传输线、波导与谐振腔", "date": "2026-09-14"}
+{"url": "https://github.com/RedBlight/RaytrAMP", "stars": 151, "desc": "弹跳射线法加 BVH 加速的雷达散射截面计算，GPU 实现", "date": "2026-09-14"}
+{"url": "https://github.com/citysu/csiread", "stars": 142, "desc": "高速 CSI 解析库，支持 Intel、Atheros、Nexmon、ESP32 与 PicoScenes", "date": "2026-09-14"}
+{"url": "https://github.com/The-Masked-Bear/wifisense-pi", "stars": 114, "desc": "ESP32-S3 采集 WiFi CSI 配合树莓派 4 做 DSP 的隔墙呼吸与存在感知", "date": "2026-09-14"}
+{"url": "https://github.com/Zeloksa/Cardputer-ADV-CSI-Radar", "stars": 104, "desc": "M5Stack Cardputer ADV 上的 WiFi CSI 感知，双核 FreeRTOS 架构", "date": "2026-09-14"}
+{"url": "https://github.com/simonp0420/PSSFSS.jl", "stars": 63, "desc": "Julia 实现的极化选择面与频率选择面分析工具，另提供 Python 绑定", "date": "2026-09-14"}
+{"url": "https://github.com/comp-ime-eb-br/open-rcs", "stars": 56, "desc": "从三维目标几何计算雷达散射截面的开源平台", "date": "2026-09-14"}
+{"url": "https://github.com/jman4162/Phased-Array-Antenna-Model", "stars": 53, "desc": "Python 相控阵天线方向图计算与可视化教程", "date": "2026-09-14"}
+{"url": "https://github.com/renanmav/pycst", "stars": 45, "desc": "CST Studio Suite 的 Python API 封装，可作脚本化接口参考", "date": "2026-09-14"}
+{"url": "https://github.com/gems-uff/pypofacets", "stars": 39, "desc": "POFacets 的 Python 实现，用物理光学法计算目标散射", "date": "2026-09-14"}
+{"url": "https://github.com/OURadar/SimRadar", "stars": 31, "desc": "极化雷达时序仿真器，内置目标 RCS 库", "date": "2026-09-14"}
+{"url": "https://github.com/bbl21/cst-runtime-cli", "stars": 31, "desc": "CST Studio Suite 自动化 CLI，113 个原子命令覆盖建模到远场导出", "date": "2026-09-14"}
+{"url": "https://github.com/lmdiazangulo/RCS-DGTD", "stars": 29, "desc": "不连续伽辽金时域法全波雷达散射截面计算", "date": "2026-09-14"}
+{"url": "https://github.com/zhaosih/ChatEM", "stars": 18, "desc": "电磁领域 LLM 问答机器人，域内知识检索加对话", "date": "2026-09-14"}
+{"url": "https://github.com/ihalage/MetaZero", "stars": 15, "desc": "AlphaZero 式自博弈强化学习优化超表面雷达散射截面", "date": "2026-09-14"}

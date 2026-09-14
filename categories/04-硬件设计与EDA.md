@@ -1,46 +1,46 @@
 # 硬件设计与 EDA
 
-> 共 16 个项目 · 数据更新时间 2026-09-13 · [返回总览](../README.md)
+> 共 16 个项目 · 数据更新时间 2026-09-14 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★15,512 · Python · ⭐ 已 star`
+`★15,635 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
 ---
 
 #### [atopile/atopile](https://github.com/atopile/atopile)
-`★3,895 · Python · ⭐ 已 star`
+`★3,896 · Python · ⭐ 已 star`
 Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 > 收录日期：2026-09-13
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,870 · C++ · ⭐ 已 star`
+`★2,873 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
 
 #### [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
-`★2,227 · Python · ⭐ 已 star`
+`★2,233 · Python · ⭐ 已 star`
 KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 > 收录日期：2026-09-13
 
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★1,777 · Rust · ⭐ 已 star`
+`★1,828 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
 ---
 
 #### [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)
-`★1,195 · Python · ⭐ 已 star`
+`★1,198 · Python · ⭐ 已 star`
 AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.
 > 收录日期：2026-09-13
 
@@ -83,7 +83,7 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 ---
 
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
-`★89 · Python · ⭐ 已 star`
+`★90 · Python · ⭐ 已 star`
 AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
 > 收录日期：2026-09-13
 
