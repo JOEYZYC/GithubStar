@@ -19,14 +19,14 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [mattpocock/skills](https://github.com/mattpocock/skills)
-`★261,432 · Shell · ⭐ 已 star`
+`★261,433 · Shell · ⭐ 已 star`
 Skills for Real Engineers. Straight from my .agents directory.
 > 收录日期：2026-09-13
 
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★257,851 · JavaScript · ⭐ 已 star`
+`★257,852 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -68,7 +68,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★127,428 · Python · ⭐ 已 star`
+`★127,429 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -103,7 +103,7 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★67,976 · TypeScript · ⭐ 已 star`
+`★67,977 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 

@@ -3,7 +3,7 @@
 个人 GitHub 项目雷达 —— 把「已 star 的项目」和「每日热点检索推荐的项目」分类归档，便于检索与回顾。
 
 - 数据更新时间：**2026-09-14**
-- 收录总数：**224** 个仓库（⭐ 已 star 141 个、🔥 热点推荐 83 个）
+- 收录总数：**225** 个仓库（⭐ 已 star 141 个、🔥 热点推荐 84 个）
 - 数据源：[`data/repos.json`](data/repos.json)（单一事实源）；每日热点推荐记录在 [`data/recommendations.jsonl`](data/recommendations.jsonl)
 - 维护方式：Hermes Agent 每日热点任务自动同步（GitHub search → 分类归档 → 提交推送）
 
@@ -15,7 +15,7 @@
 | [电磁仿真与超表面](categories/02-电磁仿真与超表面.md) | 20 | FDTD / CST / 超表面与电磁材料设计 |
 | [嵌入式与单片机](categories/03-嵌入式与单片机.md) | 51 | RTOS、MCU 生态、LVGL、MicroPython、调试与仿真工具 |
 | [硬件设计与 EDA](categories/04-硬件设计与EDA.md) | 16 | KiCad / EDA / CAD / PCB / FPGA 设计流程 |
-| [无线通信与感知](categories/05-无线通信与感知.md) | 12 | WiFi CSI、无线链路、IMU、GNSS 等感知与通信 |
+| [无线通信与感知](categories/05-无线通信与感知.md) | 13 | WiFi CSI、无线链路、IMU、GNSS 等感知与通信 |
 | [AI Agent 与 LLM 工具链](categories/06-AIAgent与LLM工具链.md) | 48 | 编码 Agent、Skills、MCP、浏览器与自动化 |
 | [知识管理与笔记](categories/07-知识管理与笔记.md) | 16 | Obsidian、知识图谱、RAG、教程与书籍 |
 | [AI 模型与视觉](categories/08-AI模型与视觉.md) | 10 | 语音、视觉、模型训练 / 压缩 / 推理 |

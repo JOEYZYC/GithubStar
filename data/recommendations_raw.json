@@ -1,4 +1,5 @@
 [
+  {"url": "https://github.com/NawfalMotii79/PLFM_RADAR", "stars": 25196, "desc": "开源低成本 10.5 GHz 脉冲 LFM 相控阵雷达系统，硬件与固件全开源"},
   {"url": "https://github.com/espressif/arduino-esp32", "stars": 17374, "desc": "ESP32 全系的 Arduino 核心，含 ESP32-C/S/H 系列板级支持包"},
   {"url": "https://github.com/betaflight/betaflight", "stars": 11528, "desc": "开源多旋翼飞控固件，STM32 全系目标板与多种 IMU/GPS 外设支持"},
   {"url": "https://github.com/OpenXiangShan/XiangShan", "stars": 7253, "desc": "香山：开源高性能 RISC-V 处理器核，Chisel 实现，面向数据中心级乱序超标量"},

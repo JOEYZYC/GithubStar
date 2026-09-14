@@ -2304,6 +2304,20 @@
    ]
   },
   {
+   "full_name": "NawfalMotii79/PLFM_RADAR",
+   "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+   "description": "开源低成本 10.5 GHz 脉冲 LFM 相控阵雷达系统，硬件与固件全开源",
+   "language": "",
+   "stars": 25196,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-14",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "sgoudelis/ground-station",
    "url": "https://github.com/sgoudelis/ground-station",
    "description": "浏览器版卫星地面站套件，集成 SDR 接收、硬件控制与遥测解码",
@@ -2585,7 +2599,7 @@
    "url": "https://github.com/mattpocock/skills",
    "description": "Skills for Real Engineers. Straight from my .agents directory.",
    "language": "Shell",
-   "stars": 261432,
+   "stars": 261433,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -2598,7 +2612,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 257851,
+   "stars": 257852,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -2704,7 +2718,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 127428,
+   "stars": 127429,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -2844,7 +2858,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 67976,
+   "stars": 67977,
    "topics": [
     "ade",
     "agent-ide",
@@ -3570,7 +3584,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 116492,
+   "stars": 116493,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -3603,7 +3617,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 82589,
+   "stars": 82591,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -3634,7 +3648,7 @@
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
    "language": "JavaScript",
-   "stars": 65994,
+   "stars": 65995,
    "topics": [
     "agent-computer",
     "agent-harness",
@@ -3715,7 +3729,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 46447,
+   "stars": 46449,
    "topics": [
     "agent",
     "agent-memory",
@@ -4176,7 +4190,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 479814,
+   "stars": 479815,
    "topics": [
     "api",
     "apis",
