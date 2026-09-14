@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 22 个项目 · 数据更新时间 2026-09-15 · [返回总览](../README.md)
+> 共 24 个项目 · 数据更新时间 2026-09-15 · [返回总览](../README.md)
 
 ---
 
@@ -47,8 +47,9 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect)
-`★673 · 🔥 热点推荐`
+`★673 · ⭐🔥 已 star + 热点推荐`
 AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DRC/制造导出）
+> 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
 
 ---
@@ -91,8 +92,9 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 ---
 
 #### [way2pramil/awesome-kicad-projects](https://github.com/way2pramil/awesome-kicad-projects)
-`★108 · 🔥 热点推荐`
+`★108 · ⭐🔥 已 star + 热点推荐`
 用 KiCad 完成的项目精选清单
+> 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
 
 ---
@@ -113,8 +115,9 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 ---
 
 #### [ref42/seex](https://github.com/ref42/seex)
-`★66 · 🔥 热点推荐`
+`★66 · ⭐🔥 已 star + 热点推荐`
 批量导出立创商城（LCSC）元件为 Altium Designer / KiCad 可用格式
+> 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
 
 ---
@@ -126,9 +129,26 @@ X-Laser，一款小型的矢量激光投影仪
 
 ---
 
+#### [YutongChenVictor/NPU-E2E](https://github.com/YutongChenVictor/NPU-E2E)
+`★53 · ⭐🔥 已 star + 热点推荐`
+端到端 NPU 工程：RTL 脉动阵列 → AXI4 SoC → TVM 编译器 → FPGA 推理
+> 热点推荐于 2026-09-15
+> 收录日期：2026-09-15
+
+---
+
+#### [haruto89610/rtl-nic](https://github.com/haruto89610/rtl-nic)
+`★39 · ⭐🔥 已 star + 热点推荐`
+自研 FPGA 以太网数据通路的 SystemVerilog RTL（ARP / IPv4 / UDP / TCP 传输控制）
+> 热点推荐于 2026-09-15
+> 收录日期：2026-09-15
+
+---
+
 #### [zhbi98/pcb-layout-design](https://github.com/zhbi98/pcb-layout-design)
-`★34 · 🔥 热点推荐`
+`★34 · ⭐🔥 已 star + 热点推荐`
 面向 Codex 的 KiCad 10 PCB 自动布线 Skill
+> 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
 
 ---
@@ -141,15 +161,17 @@ X-Laser，一款小型的矢量激光投影仪
 ---
 
 #### [Cimos/kicad-druid](https://github.com/Cimos/kicad-druid)
-`★25 · 🔥 热点推荐`
+`★25 · ⭐🔥 已 star + 热点推荐`
 对齐嘉立创（JLCPCB）与 PCBWay 工艺能力的 KiCad 自定义设计规则（.kicad_dru）
+> 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
 
 ---
 
 #### [AskStr/kicad_CoilForge_plugin](https://github.com/AskStr/kicad_CoilForge_plugin)
-`★14 · 🔥 热点推荐`
+`★14 · ⭐🔥 已 star + 热点推荐`
 KiCad 平面线圈 / 平面电机绕组生成插件，支持 KiCad 6–10
+> 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
 
 ---

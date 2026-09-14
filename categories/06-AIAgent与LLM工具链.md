@@ -33,7 +33,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★212,998 · ⭐ 已 star`
+`★212,999 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -221,7 +221,7 @@ Multiplayer agent harness for work.
 ---
 
 #### [openchamber/openchamber](https://github.com/openchamber/openchamber)
-`★9,865 · TypeScript · ⭐ 已 star`
+`★9,866 · TypeScript · ⭐ 已 star`
 Agentic Development Environment based on OpenCode AI agent
 > 收录日期：2026-09-13
 
@@ -277,7 +277,7 @@ J-Space Cognition Suite — a model-agnostic inference-time control suite for de
 ---
 
 #### [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
-`★2,298 · Python · ⭐ 已 star`
+`★2,299 · Python · ⭐ 已 star`
 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 > 收录日期：2026-09-15
 
@@ -339,8 +339,9 @@ My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a 
 ---
 
 #### [prasetyarobert205-jpg/codex-fpga-engineering-workflow](https://github.com/prasetyarobert205-jpg/codex-fpga-engineering-workflow)
-`★12 · 🔥 热点推荐`
+`★12 · ⭐🔥 已 star + 热点推荐`
 面向 Codex 的多智能体 FPGA/SoC 工作流：RTL、CDC/RDC、STA、验证与独立签核
+> 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
 
 ---

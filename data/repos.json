@@ -260,7 +260,14 @@
    "added_at": "2026-09-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "rtlopez/esp-fc",
@@ -385,6 +392,27 @@
    ]
   },
   {
+   "full_name": "huobuilds/quadfs_flight_controller",
+   "url": "https://github.com/huobuilds/quadfs_flight_controller",
+   "description": "四轴飞行控制器工程（仓库未填写描述）",
+   "language": "",
+   "stars": 72,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
    "full_name": "dashs20/Chesapeake",
    "url": "https://github.com/dashs20/Chesapeake",
    "description": "面向自研飞控硬件的无人机飞行软件",
@@ -396,7 +424,14 @@
    "added_at": "2026-09-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "SwiftWing001/swiftwing-simulation",
@@ -457,7 +492,14 @@
    "added_at": "2026-09-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "raylanlin/smarttune-cli",
@@ -492,7 +534,35 @@
    "added_at": "2026-09-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "chadaewoon/virtual-fpv-flight-connector",
+   "url": "https://github.com/chadaewoon/virtual-fpv-flight-connector",
+   "description": "浏览器内虚拟 FPV 飞行模拟，支持真实遥控器输入",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "pingyun001/LimeRC",
@@ -561,7 +631,35 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "thliebig/openEMS",
+   "url": "https://github.com/thliebig/openEMS",
+   "description": "openEMS 求解器源码仓（与 openEMS-Project 配套）",
+   "language": "",
+   "stars": 731,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "flexcompute/tidy3d",
@@ -617,7 +715,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "antmicro/gerber2ems",
@@ -631,7 +736,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "lbolla/EMpy",
@@ -708,21 +820,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "hardcoreerik/OrcSDR",
-   "url": "https://github.com/hardcoreerik/OrcSDR",
-   "description": "M5Stack Tab5 + RTL-SDR 便携触屏 SDR：频谱、瀑布图、ADS-B、P25、LoRa 与 Wi-Fi 分析",
-   "language": "",
-   "stars": 149,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "kc-ml2/meent",
@@ -736,7 +841,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "hzzg0727/Metasurface-Design",
@@ -792,7 +904,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "simonp0420/PSSFSS.jl",
@@ -1016,7 +1135,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "zhaosih/ChatEM",
@@ -1051,7 +1177,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "ihalage/MetaZero",
@@ -1086,7 +1219,14 @@
    "added_at": "2026-09-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "78/xiaozhi-esp32",
@@ -1440,7 +1580,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "SpinalHDL/VexRiscv",
@@ -1603,7 +1750,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "nickrehm/dRehmFlight",
@@ -1696,7 +1850,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "github0null/eide",
@@ -1765,7 +1926,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "emlearn/emlearn",
@@ -1779,7 +1947,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "lvgl/lv_micropython",
@@ -1942,7 +2117,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "Liwuyuee/xiaozhi-esp32-local",
@@ -1977,7 +2159,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "smallerxuan/mvl",
@@ -1991,7 +2180,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "The-Masked-Bear/wifisense-pi",
@@ -2081,21 +2277,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jedarden-org/whofi",
-   "url": "https://github.com/jedarden-org/whofi",
-   "description": "ESP32 CSI 室内定位系统，含 Docker 服务端与移动端",
-   "language": "",
-   "stars": 91,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "pyrite-project/pyrite-ide",
@@ -2134,7 +2323,35 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "cwu766485-ctrl/LumenRV32",
+   "url": "https://github.com/cwu766485-ctrl/LumenRV32",
+   "description": "Verilog 实现的轻量 RV32I 处理器核（面向体系结构与 RTL 练习）",
+   "language": "",
+   "stars": 40,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "lalitshankarch/rvcore",
@@ -2212,7 +2429,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "MikeWuPing/UEFI_LVGL",
@@ -2226,7 +2450,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "Stevee87/Tactical-Radar-System-ESP32-P4",
@@ -2240,7 +2471,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "RT-Thread-Studio/sdk-bsp-ra8p1-titan-board",
@@ -2297,7 +2535,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -2345,7 +2590,14 @@
    "added_at": "2026-09-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "karagure/rvkit",
@@ -2559,7 +2811,14 @@
    "added_at": "2026-09-15",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "mercedes-benz/ardep",
@@ -2661,7 +2920,14 @@
    "added_at": "2026-09-15",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "oaslananka/kicad-mcp-pro",
@@ -2730,7 +2996,14 @@
    "added_at": "2026-09-15",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "zrrraa/X-Laser",
@@ -2746,6 +3019,48 @@
    "note": ""
   },
   {
+   "full_name": "YutongChenVictor/NPU-E2E",
+   "url": "https://github.com/YutongChenVictor/NPU-E2E",
+   "description": "端到端 NPU 工程：RTL 脉动阵列 → AXI4 SoC → TVM 编译器 → FPGA 推理",
+   "language": "",
+   "stars": 53,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "haruto89610/rtl-nic",
+   "url": "https://github.com/haruto89610/rtl-nic",
+   "description": "自研 FPGA 以太网数据通路的 SystemVerilog RTL（ARP / IPv4 / UDP / TCP 传输控制）",
+   "language": "",
+   "stars": 39,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
    "full_name": "zhbi98/pcb-layout-design",
    "url": "https://github.com/zhbi98/pcb-layout-design",
    "description": "面向 Codex 的 KiCad 10 PCB 自动布线 Skill",
@@ -2757,7 +3072,14 @@
    "added_at": "2026-09-15",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "easyeda/easyeda-simulation-engine",
@@ -2784,7 +3106,14 @@
    "added_at": "2026-09-15",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "AskStr/kicad_CoilForge_plugin",
@@ -2798,7 +3127,14 @@
    "added_at": "2026-09-15",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "HUYATIEO/silk-fpga",
@@ -3033,7 +3369,35 @@
    "added_at": "2026-09-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "hardcoreerik/OrcSDR",
+   "url": "https://github.com/hardcoreerik/OrcSDR",
+   "description": "M5Stack Tab5 + RTL-SDR 便携触屏 SDR：频谱、瀑布图、ADS-B、P25、LoRa 与 Wi-Fi 分析",
+   "language": "",
+   "stars": 149,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "zhangleino1/WIFI-SCI-Indoor-Positioning",
@@ -3047,7 +3411,14 @@
    "added_at": "2026-09-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "euaziel/WiFi-CSI-Human-Pose-Detection",
@@ -3068,6 +3439,27 @@
    ],
    "hot_dates": [
     "2026-09-13"
+   ]
+  },
+  {
+   "full_name": "jedarden-org/whofi",
+   "url": "https://github.com/jedarden-org/whofi",
+   "description": "ESP32 CSI 室内定位系统，含 Docker 服务端与移动端",
+   "language": "",
+   "stars": 91,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
    ]
   },
   {
@@ -3116,7 +3508,14 @@
    "added_at": "2026-09-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "DandongExpress/RadarHPE-Toolbox",
@@ -3130,7 +3529,14 @@
    "added_at": "2026-09-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "Robot-Nav/lidar_imu_camera_ws",
@@ -3144,7 +3550,14 @@
    "added_at": "2026-09-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "hardcoreerik/esp-rtl-sdr",
@@ -3158,7 +3571,14 @@
    "added_at": "2026-09-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "Stevee87/Lidar-Radar-combination-Raspberry",
@@ -3172,7 +3592,14 @@
    "added_at": "2026-09-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "openclaw/openclaw",
@@ -3257,7 +3684,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 212998,
+   "stars": 212999,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -3822,7 +4249,7 @@
    "url": "https://github.com/openchamber/openchamber",
    "description": "Agentic Development Environment based on OpenCode AI agent",
    "language": "TypeScript",
-   "stars": 9865,
+   "stars": 9866,
    "topics": [
     "agentic-engineering",
     "agents",
@@ -3994,7 +4421,7 @@
    "url": "https://github.com/bojieli/ai-infra-book",
    "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
    "language": "Python",
-   "stars": 2298,
+   "stars": 2299,
    "topics": [
     "accelerator",
     "ai-infra",
@@ -4209,7 +4636,14 @@
    "added_at": "2026-09-15",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "techmanual-ai/lablink-mcp",
@@ -4811,7 +5245,14 @@
    "added_at": "2026-09-15",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "PaddlePaddle/PaddleSlim",
@@ -4854,7 +5295,14 @@
    "added_at": "2026-09-15",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "fromgof/TridentVision",
@@ -4868,7 +5316,14 @@
    "added_at": "2026-09-15",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "VisionICLab/SwinFuSR",
@@ -4882,7 +5337,14 @@
    "added_at": "2026-09-15",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "swaggyliu/FlatWorld",
@@ -4918,7 +5380,14 @@
    "added_at": "2026-09-15",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "KRoszyk/YOLOv4-Middle_detector",
@@ -4932,14 +5401,42 @@
    "added_at": "2026-09-15",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "ivmech/pitfusion",
+   "url": "https://github.com/ivmech/pitfusion",
+   "description": "热成像传感器与树莓派摄像头的图像融合实现",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-15",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-15"
+   ]
   },
   {
    "full_name": "public-apis/public-apis",
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 480172,
+   "stars": 480173,
    "topics": [
     "api",
     "apis",
@@ -5519,104 +6016,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "thliebig/openEMS",
-   "url": "https://github.com/thliebig/openEMS",
-   "description": "openEMS 求解器源码仓（与 openEMS-Project 配套）",
-   "language": "",
-   "stars": 731,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "huobuilds/quadfs_flight_controller",
-   "url": "https://github.com/huobuilds/quadfs_flight_controller",
-   "description": "四轴飞行控制器工程（仓库未填写描述）",
-   "language": "",
-   "stars": 72,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "YutongChenVictor/NPU-E2E",
-   "url": "https://github.com/YutongChenVictor/NPU-E2E",
-   "description": "端到端 NPU 工程：RTL 脉动阵列 → AXI4 SoC → TVM 编译器 → FPGA 推理",
-   "language": "",
-   "stars": 53,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "cwu766485-ctrl/LumenRV32",
-   "url": "https://github.com/cwu766485-ctrl/LumenRV32",
-   "description": "Verilog 实现的轻量 RV32I 处理器核（面向体系结构与 RTL 练习）",
-   "language": "",
-   "stars": 40,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "haruto89610/rtl-nic",
-   "url": "https://github.com/haruto89610/rtl-nic",
-   "description": "自研 FPGA 以太网数据通路的 SystemVerilog RTL（ARP / IPv4 / UDP / TCP 传输控制）",
-   "language": "",
-   "stars": 39,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "chadaewoon/virtual-fpv-flight-connector",
-   "url": "https://github.com/chadaewoon/virtual-fpv-flight-connector",
-   "description": "浏览器内虚拟 FPV 飞行模拟，支持真实遥控器输入",
-   "language": "",
-   "stars": 25,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ivmech/pitfusion",
-   "url": "https://github.com/ivmech/pitfusion",
-   "description": "热成像传感器与树莓派摄像头的图像融合实现",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-15",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
