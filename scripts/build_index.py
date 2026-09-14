@@ -74,6 +74,12 @@ def main() -> int:
         path.write_text("\n".join(body), encoding="utf-8")
         files[c] = path
 
+    # 清理已不存在的分类页（例如「待归类」被清空后残留的 10-待归类.md）
+    keep = {p.name for p in files.values()}
+    for stale in CAT_DIR.glob("*.md"):
+        if stale.name not in keep:
+            stale.unlink()
+
     # README
     total = len(repos)
     n_star = sum(1 for r in repos if r.get("source") == "star")
