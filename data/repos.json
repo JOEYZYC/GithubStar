@@ -47,7 +47,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "but0n/Avem",
@@ -61,7 +68,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "cleanflight/cleanflight",
@@ -75,7 +89,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "espressif/esp-drone",
@@ -89,7 +110,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "ZJU-FAST-Lab/ego-planner-swarm",
@@ -129,7 +157,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "DroneBridge/ESP32",
@@ -183,7 +218,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "rtlopez/esp-fc",
@@ -197,7 +239,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "emuflight/EmuFlight",
@@ -211,7 +260,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "qqqlab/madflight",
@@ -225,7 +281,14 @@
    "added_at": "2026-09-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "swarm-subnet/Langostino",
@@ -400,7 +463,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "flexcompute/tidy3d",
@@ -435,7 +505,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "lbolla/EMpy",
@@ -449,7 +526,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "zer011b/fdtd3d",
@@ -547,7 +631,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "jman4162/Phased-Array-Antenna-Model",
@@ -561,7 +652,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "renanmav/pycst",
@@ -575,7 +673,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "kaankvrck/Cst-Py-Api",
@@ -610,7 +715,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "bbl21/cst-runtime-cli",
@@ -624,7 +736,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "lmdiazangulo/RCS-DGTD",
@@ -638,7 +757,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "zhaosih/ChatEM",
@@ -652,7 +778,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "ihalage/MetaZero",
@@ -666,7 +799,14 @@
    "added_at": "2026-09-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "78/xiaozhi-esp32",
@@ -756,7 +896,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "zephyrproject-rtos/zephyr",
@@ -803,7 +950,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "sipeed/NanoKVM",
@@ -817,7 +971,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "tock/tock",
@@ -831,7 +992,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "stlink-org/stlink",
@@ -866,7 +1034,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "FreeRTOS/FreeRTOS-Kernel",
@@ -880,7 +1055,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "xiaowenxia/embedded-notes",
@@ -894,7 +1076,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "BrunoLevy/learn-fpga",
@@ -908,7 +1097,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "libopencm3/libopencm3",
@@ -922,7 +1118,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "InfiniTimeOrg/InfiniTime",
@@ -936,7 +1139,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "SpinalHDL/VexRiscv",
@@ -950,14 +1160,21 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "renode/renode",
    "url": "https://github.com/renode/renode",
    "description": "Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems",
    "language": "RobotFramework",
-   "stars": 2879,
+   "stars": 2880,
    "topics": [
     "arm",
     "embedded-systems",
@@ -985,7 +1202,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "openmv/openmv",
@@ -1036,7 +1260,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "nickrehm/dRehmFlight",
@@ -1050,7 +1281,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "toitlang/toit",
@@ -1101,7 +1339,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "github0null/eide",
@@ -1149,7 +1394,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "lvgl/lv_micropython",
@@ -1182,7 +1434,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "bouffalolab/bouffalo_sdk",
@@ -1216,7 +1475,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "brian-smith-github/ch32v003_stt",
@@ -1277,7 +1543,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "Liwuyuee/xiaozhi-esp32-local",
@@ -1312,7 +1585,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "jelin-sh/VOFA-Protocol-Driver",
@@ -1360,7 +1640,14 @@
    "added_at": "2026-09-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "pyrite-project/pyrite-ide",
@@ -1588,7 +1875,7 @@
    "url": "https://github.com/earthtojake/text-to-cad",
    "description": "A library of agent skills for CAD, CAE and CAM",
    "language": "Python",
-   "stars": 15635,
+   "stars": 15636,
    "topics": [
     "agents",
     "ai-agents",
@@ -1665,7 +1952,7 @@
    "url": "https://github.com/HakanSeven12/OpenCADStudio",
    "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
    "language": "Rust",
-   "stars": 1828,
+   "stars": 1830,
    "topics": [
     "cad",
     "dwg",
@@ -1923,7 +2210,14 @@
    "added_at": "2026-09-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "tomojitakasu/RTKLIB",
@@ -1990,7 +2284,14 @@
    "added_at": "2026-09-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "wuzhiguocarter/Awesome-WiFi-CSI-Research",
@@ -2004,7 +2305,14 @@
    "added_at": "2026-09-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "radar-lab/ti_mmwave_rospkg",
@@ -2018,7 +2326,14 @@
    "added_at": "2026-09-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "Gi-z/CSIKit",
@@ -2032,7 +2347,14 @@
    "added_at": "2026-09-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "euaziel/WiFi-CSI-Human-Pose-Detection",
@@ -2115,7 +2437,7 @@
    "url": "https://github.com/obra/superpowers",
    "description": "An agentic skills framework & software development methodology that works.",
    "language": "Shell",
-   "stars": 286281,
+   "stars": 286282,
    "topics": [
     "ai",
     "brainstorming",
@@ -2137,7 +2459,7 @@
    "url": "https://github.com/mattpocock/skills",
    "description": "Skills for Real Engineers. Straight from my .agents directory.",
    "language": "Shell",
-   "stars": 261430,
+   "stars": 261432,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -2150,7 +2472,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 257847,
+   "stars": 257849,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -2172,7 +2494,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 212817,
+   "stars": 212820,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -2185,7 +2507,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 207183,
+   "stars": 207184,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -2211,7 +2533,7 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "language": "JavaScript",
-   "stars": 137519,
+   "stars": 137524,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -2235,7 +2557,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
    "language": "Python",
-   "stars": 136489,
+   "stars": 136493,
    "topics": [
     "ai",
     "copilot",
@@ -2256,7 +2578,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 127424,
+   "stars": 127425,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -2289,7 +2611,7 @@
    "url": "https://github.com/earendil-works/pi",
    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
    "language": "TypeScript",
-   "stars": 104781,
+   "stars": 104782,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -2336,7 +2658,7 @@
    "url": "https://github.com/Panniantong/Agent-Reach",
    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "language": "Python",
-   "stars": 80546,
+   "stars": 80550,
    "topics": [
     "agent-infrastructure",
     "ai-agent",
@@ -2396,7 +2718,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 67971,
+   "stars": 67975,
    "topics": [
     "ade",
     "agent-ide",
@@ -2428,7 +2750,7 @@
    "url": "https://github.com/cline/cline",
    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
    "language": "TypeScript",
-   "stars": 67955,
+   "stars": 67956,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -2467,7 +2789,7 @@
    "url": "https://github.com/langchain-ai/langgraph",
    "description": "Build resilient agents.",
    "language": "Python",
-   "stars": 41593,
+   "stars": 41594,
    "topics": [
     "agents",
     "ai",
@@ -2529,7 +2851,7 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "language": "PowerShell",
-   "stars": 35805,
+   "stars": 35806,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -2706,7 +3028,7 @@
    "url": "https://github.com/yc-software/qm",
    "description": "Multiplayer agent harness for work.",
    "language": "TypeScript",
-   "stars": 14903,
+   "stars": 14904,
    "topics": [
     "ai",
     "assistant",
@@ -3233,7 +3555,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 54484,
+   "stars": 54485,
    "topics": [
     "agents",
     "ai",
@@ -3267,7 +3589,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 46440,
+   "stars": 46446,
    "topics": [
     "agent",
     "agent-memory",
@@ -3362,7 +3684,14 @@
    "added_at": "2026-09-14",
    "category": "知识管理与笔记",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "buchidonggua/dg-ai-notes",
@@ -3553,7 +3882,7 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "language": "Python",
-   "stars": 6358,
+   "stars": 6359,
    "topics": [
     "cli",
     "consumer-gpu",
@@ -3721,7 +4050,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 479812,
+   "stars": 479814,
    "topics": [
     "api",
     "apis",
@@ -3748,7 +4077,7 @@
    "url": "https://github.com/521xueweihan/HelloGitHub",
    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
-   "stars": 176418,
+   "stars": 176419,
    "topics": [
     "awesome",
     "github",
@@ -3766,7 +4095,7 @@
    "url": "https://github.com/apple/container",
    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
    "language": "Swift",
-   "stars": 49888,
+   "stars": 49889,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -4028,7 +4357,7 @@
    "url": "https://github.com/vbskycn/iptv",
    "description": "iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。",
    "language": "HTML",
-   "stars": 7740,
+   "stars": 7741,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -4315,7 +4644,14 @@
    "added_at": "2026-09-14",
    "category": "待归类",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "mavlink/MAVSDK",
@@ -4329,7 +4665,14 @@
    "added_at": "2026-09-14",
    "category": "待归类",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "m6c7l/pymmw",
@@ -4343,7 +4686,14 @@
    "added_at": "2026-09-14",
    "category": "待归类",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "RedBlight/RaytrAMP",
@@ -4357,7 +4707,14 @@
    "added_at": "2026-09-14",
    "category": "待归类",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "simonp0420/PSSFSS.jl",
@@ -4371,7 +4728,14 @@
    "added_at": "2026-09-14",
    "category": "待归类",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   },
   {
    "full_name": "gems-uff/pypofacets",
@@ -4385,7 +4749,14 @@
    "added_at": "2026-09-14",
    "category": "待归类",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
   }
  ]
 }

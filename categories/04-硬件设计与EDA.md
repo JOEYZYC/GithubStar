@@ -5,7 +5,7 @@
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★15,635 · Python · ⭐ 已 star`
+`★15,636 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -33,7 +33,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★1,828 · Rust · ⭐ 已 star`
+`★1,830 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 

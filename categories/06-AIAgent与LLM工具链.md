@@ -12,35 +12,35 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [obra/superpowers](https://github.com/obra/superpowers)
-`★286,281 · Shell · ⭐ 已 star`
+`★286,282 · Shell · ⭐ 已 star`
 An agentic skills framework & software development methodology that works.
 > 收录日期：2026-09-13
 
 ---
 
 #### [mattpocock/skills](https://github.com/mattpocock/skills)
-`★261,430 · Shell · ⭐ 已 star`
+`★261,432 · Shell · ⭐ 已 star`
 Skills for Real Engineers. Straight from my .agents directory.
 > 收录日期：2026-09-13
 
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★257,847 · JavaScript · ⭐ 已 star`
+`★257,849 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★212,817 · ⭐ 已 star`
+`★212,820 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★207,183 · TypeScript · ⭐ 已 star`
+`★207,184 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
@@ -54,28 +54,28 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 ---
 
 #### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-`★137,519 · JavaScript · ⭐ 已 star`
+`★137,524 · JavaScript · ⭐ 已 star`
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 > 收录日期：2026-09-13
 
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★136,489 · Python · ⭐ 已 star`
+`★136,493 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with Spec-Driven Development
 > 收录日期：2026-09-13
 
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★127,424 · Python · ⭐ 已 star`
+`★127,425 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
 ---
 
 #### [earendil-works/pi](https://github.com/earendil-works/pi)
-`★104,781 · TypeScript · ⭐ 已 star`
+`★104,782 · TypeScript · ⭐ 已 star`
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 > 收录日期：2026-09-13
 
@@ -89,7 +89,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-`★80,546 · Python · ⭐ 已 star`
+`★80,550 · Python · ⭐ 已 star`
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 > 收录日期：2026-09-13
 
@@ -103,14 +103,14 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★67,971 · TypeScript · ⭐ 已 star`
+`★67,975 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
 ---
 
 #### [cline/cline](https://github.com/cline/cline)
-`★67,955 · TypeScript · ⭐ 已 star`
+`★67,956 · TypeScript · ⭐ 已 star`
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ The design language that makes your AI harness better at design.
 ---
 
 #### [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
-`★41,593 · Python · ⭐ 已 star`
+`★41,594 · Python · ⭐ 已 star`
 Build resilient agents.
 > 收录日期：2026-09-13
 
@@ -152,7 +152,7 @@ Skills for Designers and Engineers.
 ---
 
 #### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-`★35,805 · PowerShell · ⭐ 已 star`
+`★35,806 · PowerShell · ⭐ 已 star`
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 > 收录日期：2026-09-13
 
@@ -208,7 +208,7 @@ What are the principles we can use to build LLM-powered software that is actuall
 ---
 
 #### [yc-software/qm](https://github.com/yc-software/qm)
-`★14,903 · TypeScript · ⭐ 已 star`
+`★14,904 · TypeScript · ⭐ 已 star`
 Multiplayer agent harness for work.
 > 收录日期：2026-09-13
 
