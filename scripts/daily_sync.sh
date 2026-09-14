@@ -22,7 +22,7 @@ else
 fi
 
 echo "== 2/5 合并归类 =="
-python3 scripts/sync.py || exit 1
+python3 scripts/sync.py "${2:-}" || exit 1
 
 echo "== 3/5 生成页面 =="
 python3 scripts/build_index.py || exit 1

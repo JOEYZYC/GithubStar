@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [obra/superpowers](https://github.com/obra/superpowers)
-`★286,282 · Shell · ⭐ 已 star`
+`★286,283 · Shell · ⭐ 已 star`
 An agentic skills framework & software development methodology that works.
 > 收录日期：2026-09-13
 
@@ -26,7 +26,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★257,849 · JavaScript · ⭐ 已 star`
+`★257,850 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -61,14 +61,14 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★136,493 · Python · ⭐ 已 star`
+`★136,494 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with Spec-Driven Development
 > 收录日期：2026-09-13
 
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★127,425 · Python · ⭐ 已 star`
+`★127,426 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -103,7 +103,7 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★67,975 · TypeScript · ⭐ 已 star`
+`★67,976 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -201,14 +201,14 @@ The headless browser for AI agents and web scraping
 ---
 
 #### [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
-`★25,838 · TypeScript · ⭐ 已 star`
+`★25,839 · TypeScript · ⭐ 已 star`
 What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 > 收录日期：2026-09-13
 
 ---
 
 #### [yc-software/qm](https://github.com/yc-software/qm)
-`★14,904 · TypeScript · ⭐ 已 star`
+`★14,905 · TypeScript · ⭐ 已 star`
 Multiplayer agent harness for work.
 > 收录日期：2026-09-13
 

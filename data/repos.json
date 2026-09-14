@@ -207,6 +207,27 @@
    ]
   },
   {
+   "full_name": "mavlink/MAVSDK",
+   "url": "https://github.com/mavlink/MAVSDK",
+   "description": "C++20 编写的 MAVLink 系统 API 与上层库，便于地面站与机载程序开发",
+   "language": "",
+   "stars": 934,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-14",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
+  },
+  {
    "full_name": "PegasusSimulator/PegasusSimulator",
    "url": "https://github.com/PegasusSimulator/PegasusSimulator",
    "description": "基于 NVIDIA Isaac Sim 的无人机仿真框架，原生支持 PX4",
@@ -557,6 +578,27 @@
    ]
   },
   {
+   "full_name": "RedBlight/RaytrAMP",
+   "url": "https://github.com/RedBlight/RaytrAMP",
+   "description": "弹跳射线法加 BVH 加速的雷达散射截面计算，GPU 实现",
+   "language": "",
+   "stars": 151,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-14",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
+  },
+  {
    "full_name": "hzzg0727/Metasurface-Design",
    "url": "https://github.com/hzzg0727/Metasurface-Design",
    "description": "基于 Lumerical FDTD 的超表面设计工作流（Python notebook 实现）",
@@ -596,6 +638,27 @@
    ],
    "hot_dates": [
     "2026-09-13"
+   ]
+  },
+  {
+   "full_name": "simonp0420/PSSFSS.jl",
+   "url": "https://github.com/simonp0420/PSSFSS.jl",
+   "description": "Julia 实现的极化选择面与频率选择面分析工具，另提供 Python 绑定",
+   "language": "",
+   "stars": 63,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-14",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
    ]
   },
   {
@@ -701,6 +764,27 @@
    ],
    "hot_dates": [
     "2026-09-13"
+   ]
+  },
+  {
+   "full_name": "gems-uff/pypofacets",
+   "url": "https://github.com/gems-uff/pypofacets",
+   "description": "POFacets 的 Python 实现，用物理光学法计算目标散射",
+   "language": "",
+   "stars": 39,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-14",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
    ]
   },
   {
@@ -1254,6 +1338,27 @@
    "description": "MicroPython 库、框架与资源精选清单",
    "language": "",
    "stars": 1806,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-14",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
+  },
+  {
+   "full_name": "pikasTech/PikaPython",
+   "url": "https://github.com/pikasTech/PikaPython",
+   "description": "超轻量 Python 解释器，仅需 4KB RAM 且零依赖，可用 C 扩展",
+   "language": "",
+   "stars": 1755,
    "topics": [],
    "archived": false,
    "source": "hot",
@@ -2294,6 +2399,27 @@
    ]
   },
   {
+   "full_name": "m6c7l/pymmw",
+   "url": "https://github.com/m6c7l/pymmw",
+   "description": "TI IWR 系列毫米波雷达的 Python 化工具箱",
+   "language": "",
+   "stars": 348,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-14",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-14"
+   ]
+  },
+  {
    "full_name": "wuzhiguocarter/Awesome-WiFi-CSI-Research",
    "url": "https://github.com/wuzhiguocarter/Awesome-WiFi-CSI-Research",
    "description": "WiFi CSI 研究资源合集，覆盖数据集、论文与开源实现",
@@ -2437,7 +2563,7 @@
    "url": "https://github.com/obra/superpowers",
    "description": "An agentic skills framework & software development methodology that works.",
    "language": "Shell",
-   "stars": 286282,
+   "stars": 286283,
    "topics": [
     "ai",
     "brainstorming",
@@ -2472,7 +2598,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 257849,
+   "stars": 257850,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -2557,7 +2683,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
    "language": "Python",
-   "stars": 136493,
+   "stars": 136494,
    "topics": [
     "ai",
     "copilot",
@@ -2578,7 +2704,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 127425,
+   "stars": 127426,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -2718,7 +2844,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 67975,
+   "stars": 67976,
    "topics": [
     "ade",
     "agent-ide",
@@ -3003,7 +3129,7 @@
    "url": "https://github.com/humanlayer/12-factor-agents",
    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
    "language": "TypeScript",
-   "stars": 25838,
+   "stars": 25839,
    "topics": [
     "12-factor",
     "12-factor-agents",
@@ -3028,7 +3154,7 @@
    "url": "https://github.com/yc-software/qm",
    "description": "Multiplayer agent harness for work.",
    "language": "TypeScript",
-   "stars": 14904,
+   "stars": 14905,
    "topics": [
     "ai",
     "assistant",
@@ -3477,7 +3603,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 82588,
+   "stars": 82589,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -3589,7 +3715,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 46446,
+   "stars": 46447,
    "topics": [
     "agent",
     "agent-memory",
@@ -4631,132 +4757,6 @@
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
    "note": ""
-  },
-  {
-   "full_name": "pikasTech/PikaPython",
-   "url": "https://github.com/pikasTech/PikaPython",
-   "description": "超轻量 Python 解释器，仅需 4KB RAM 且零依赖，可用 C 扩展",
-   "language": "",
-   "stars": 1755,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-14"
-   ]
-  },
-  {
-   "full_name": "mavlink/MAVSDK",
-   "url": "https://github.com/mavlink/MAVSDK",
-   "description": "C++20 编写的 MAVLink 系统 API 与上层库，便于地面站与机载程序开发",
-   "language": "",
-   "stars": 934,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-14"
-   ]
-  },
-  {
-   "full_name": "m6c7l/pymmw",
-   "url": "https://github.com/m6c7l/pymmw",
-   "description": "TI IWR 系列毫米波雷达的 Python 化工具箱",
-   "language": "",
-   "stars": 348,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-14"
-   ]
-  },
-  {
-   "full_name": "RedBlight/RaytrAMP",
-   "url": "https://github.com/RedBlight/RaytrAMP",
-   "description": "弹跳射线法加 BVH 加速的雷达散射截面计算，GPU 实现",
-   "language": "",
-   "stars": 151,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-14"
-   ]
-  },
-  {
-   "full_name": "simonp0420/PSSFSS.jl",
-   "url": "https://github.com/simonp0420/PSSFSS.jl",
-   "description": "Julia 实现的极化选择面与频率选择面分析工具，另提供 Python 绑定",
-   "language": "",
-   "stars": 63,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-14"
-   ]
-  },
-  {
-   "full_name": "gems-uff/pypofacets",
-   "url": "https://github.com/gems-uff/pypofacets",
-   "description": "POFacets 的 Python 实现，用物理光学法计算目标散射",
-   "language": "",
-   "stars": 39,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-14"
-   ]
   }
  ]
 }
