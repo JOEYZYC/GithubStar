@@ -276,6 +276,27 @@ OVERRIDES: dict[str, str] = {
     "tenstorrent/rv_tester": "嵌入式与单片机",
     "stlink-org/stlink": "嵌入式与单片机",
     "lvgl/lv_esp_idf": "嵌入式与单片机",
+    # 2026-09-16 热点推荐项目校正（规则未命中，逐个指定）
+    "HKUST-Aerial-Robotics/Fast-Planner": "飞控与无人机",
+    "amaranth-lang/amaranth": "硬件设计与 EDA",
+    "SystemRDL/PeakRDL": "硬件设计与 EDA",
+    "pico-coder/sigrok-pico": "嵌入式与单片机",
+    "lxydiy/LiThermal": "硬件设计与 EDA",
+    "OpenThermal/libseek-thermal": "硬件设计与 EDA",
+    "leswright1977/PyThermalCamera": "硬件设计与 EDA",
+    "LeoDJ/P2Pro-Viewer": "硬件设计与 EDA",
+    "LJMUAstroecology/flirpy": "硬件设计与 EDA",
+    "Clothooo/lvt2calib": "硬件设计与 EDA",
+    "SalahAssana/5G-SCG": "无线通信与感知",
+    "KylinC/mmVital-Signs": "无线通信与感知",
+    "edwin-pan/uDoppler-Classification": "无线通信与感知",
+    "FanJunqiao/M4Human": "无线通信与感知",
+    "cliansang/positioning-algorithms-for-uwb-matlab": "无线通信与感知",
+    "matthuszagh/pyems": "电磁仿真与超表面",
+    "Shallot-2009/Ketupa": "电磁仿真与超表面",
+    "profdc9/ModularTuner": "电磁仿真与超表面",
+    "Beate-Suy-Zhang/EvoFuse": "AI 模型与视觉",
+    "Scientist888-star/GDAFusion": "AI 模型与视觉",
 }
 
 UNCLASSIFIED = "待归类"
