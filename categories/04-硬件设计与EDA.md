@@ -1,46 +1,68 @@
 # 硬件设计与 EDA
 
-> 共 24 个项目 · 数据更新时间 2026-09-15 · [返回总览](../README.md)
+> 共 30 个项目 · 数据更新时间 2026-09-16 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★15,801 · Python · ⭐ 已 star`
+`★15,894 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
 ---
 
+#### [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+`★4,564 · 🔥 热点推荐`
+KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
+> 收录日期：2026-09-16
+
+---
+
 #### [atopile/atopile](https://github.com/atopile/atopile)
-`★3,901 · Python · ⭐ 已 star`
+`★3,912 · Python · ⭐ 已 star`
 Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 > 收录日期：2026-09-13
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,877 · C++ · ⭐ 已 star`
+`★2,879 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
 
 #### [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
-`★2,248 · Python · ⭐ 已 star`
+`★2,277 · Python · ⭐🔥 已 star + 热点推荐`
 KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
+> 热点推荐于 2026-09-16
 > 收录日期：2026-09-13
 
 ---
 
+#### [Bouni/kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tools)
+`★2,066 · 🔥 热点推荐`
+KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
+> 收录日期：2026-09-16
+
+---
+
+#### [yaqwsx/KiKit](https://github.com/yaqwsx/KiKit)
+`★2,026 · 🔥 热点推荐`
+KiCad 自动化工具集：拼板面板化、BOM 与装配图
+> 收录日期：2026-09-16
+
+---
+
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★1,946 · Rust · ⭐ 已 star`
+`★1,997 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
 ---
 
 #### [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)
-`★1,209 · Python · ⭐ 已 star`
+`★1,216 · Python · ⭐ 已 star`
 AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.
 > 收录日期：2026-09-13
 
@@ -55,7 +77,7 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★547 · C · ⭐ 已 star`
+`★548 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -77,6 +99,13 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 
 ---
 
+#### [FPGA-Research/FABulous](https://github.com/FPGA-Research/FABulous)
+`★300 · 🔥 热点推荐`
+eFPGA 生成器与配套 CAD 工具链
+> 收录日期：2026-09-16
+
+---
+
 #### [Eriemon/verilog-generator](https://github.com/Eriemon/verilog-generator)
 `★278 · ⭐🔥 已 star + 热点推荐`
 面向 Verilog-2001 RTL 生成与 FPGA 设计流程的 Agent Skill
@@ -86,8 +115,22 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★249 · C++ · ⭐ 已 star`
+`★250 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
+
+---
+
+#### [openlab-x/OpenCircuitX](https://github.com/openlab-x/OpenCircuitX)
+`★169 · 🔥 热点推荐`
+开源 EDA 平台：VHDL/Verilog 编辑器、原理图画布、RTL 查看器
+> 收录日期：2026-09-16
+
+---
+
+#### [jcyrax/pcbmodelgen](https://github.com/jcyrax/pcbmodelgen)
+`★123 · 🔥 热点推荐`
+把 KiCad PCB 文件转成可导入 openEMS 的模型
+> 收录日期：2026-09-16
 
 ---
 
@@ -154,7 +197,7 @@ X-Laser，一款小型的矢量激光投影仪
 ---
 
 #### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★26 · C++ · ⭐ 已 star`
+`★28 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
 

@@ -145,3 +145,68 @@
 {"url": "https://github.com/lvgl/lvgl_safe", "stars": 10, "desc": "LVGL 官方面向安全关键产品的认证版（ISO 26262 / IEC 62304 / IEC 61508 / DO-178C），2026 Q4 正式发布", "date": "2026-09-15"}
 {"url": "https://github.com/lightorigins/LightNav-0", "stars": 580, "desc": "通用具身导航视觉语言模型（Qwen3-VL-4B）：双通道 pointing + RVQ 动作 token 输出 10 步路点，零样本迁移人形/四足/轮式/无人机", "date": "2026-09-15"}
 {"url": "https://github.com/modm-io/modm", "stars": 976, "desc": "德国 Roboterclub Aachen 维护的 C++23 HAL 代码生成器：按芯片型号渲染 HAL，一套接口覆盖 STM32/SAM/AVR/nRF/RP2040，编译期断言引脚与波特率", "date": "2026-09-15"}
+{"url": "https://github.com/openscopeproject/InteractiveHtmlBom", "stars": 4564, "desc": "KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置", "date": "2026-09-16"}
+{"url": "https://github.com/WebODM/WebODM", "stars": 4169, "desc": "无人机航拍影像处理平台，正射影像、点云与三维重建，Docker 部署", "date": "2026-09-16"}
+{"url": "https://github.com/microsoft/devicescript", "stars": 3445, "desc": "用 TypeScript 编写 ESP32/RP2040 等小型 IoT 设备固件", "date": "2026-09-16"}
+{"url": "https://github.com/HKUST-Aerial-Robotics/Fast-Planner", "stars": 3402, "desc": "四旋翼鲁棒实时轨迹规划器，B 样条轨迹 + ESDF 避障", "date": "2026-09-16"}
+{"url": "https://github.com/ArduPilot/MissionPlanner", "stars": 2375, "desc": "ArduPilot 官方地面站：航点规划、参数整定与飞行日志分析", "date": "2026-09-16"}
+{"url": "https://github.com/mixelpixx/KiCAD-MCP-Server", "stars": 2277, "desc": "让 LLM 通过 MCP 直接操作 KiCad 原理图与 PCB", "date": "2026-09-16"}
+{"url": "https://github.com/utiasDSL/gym-pybullet-drones", "stars": 2135, "desc": "PyBullet/Gymnasium 四旋翼强化学习环境，支持多机协同控制", "date": "2026-09-16"}
+{"url": "https://github.com/generalized-intelligence/GAAS", "stars": 2086, "desc": "面向全自主 VTOL 与无人机的开源自动驾驶框架", "date": "2026-09-16"}
+{"url": "https://github.com/amaranth-lang/amaranth", "stars": 2085, "desc": "基于 Python 的现代 HDL 与 FPGA 工具链", "date": "2026-09-16"}
+{"url": "https://github.com/Bouni/kicad-jlcpcb-tools", "stars": 2066, "desc": "KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号", "date": "2026-09-16"}
+{"url": "https://github.com/yaqwsx/KiKit", "stars": 2026, "desc": "KiCad 自动化工具集：拼板面板化、BOM 与装配图", "date": "2026-09-16"}
+{"url": "https://github.com/SmingHub/Sming", "stars": 1569, "desc": "简化 ESP8266/ESP32 嵌入式 C++ 应用开发的框架", "date": "2026-09-16"}
+{"url": "https://github.com/WeebLabs/DSPi", "stars": 1213, "desc": "RP2040/RP2350 上的完整音频 DSP 固件", "date": "2026-09-16"}
+{"url": "https://github.com/pico-coder/sigrok-pico", "stars": 1099, "desc": "把 RP2040/RP2350 变成 sigrok 逻辑分析仪与示波器", "date": "2026-09-16"}
+{"url": "https://github.com/lyusupov/SoftRF", "stars": 1022, "desc": "DIY 航空接近告警系统，ADS-B/FLARM 收发", "date": "2026-09-16"}
+{"url": "https://github.com/scikit-rf/scikit-rf", "stars": 939, "desc": "RF/微波工程 Python 库：S 参数、网络分析、校准与 Smith 图", "date": "2026-09-16"}
+{"url": "https://github.com/lxydiy/LiThermal", "stars": 547, "desc": "基于海康 4117 机芯的开源热成像相机", "date": "2026-09-16"}
+{"url": "https://github.com/cwlroda/falldetection_openpifpaf", "stars": 434, "desc": "基于 OpenPifPaf 人体姿态的摔倒检测，视觉路线基线", "date": "2026-09-16"}
+{"url": "https://github.com/lijx10/uwb-localization", "stars": 423, "desc": "UWB 与 IMU 融合的无人机集群三维高精度定位", "date": "2026-09-16"}
+{"url": "https://github.com/nyuwireless-unipd/ns3-mmwave", "stars": 346, "desc": "ns-3 的毫米波信道与蜂窝系统仿真模块", "date": "2026-09-16"}
+{"url": "https://github.com/OpenThermal/libseek-thermal", "stars": 343, "desc": "SEEK 紧凑型热像模块的 Linux 驱动与采集库", "date": "2026-09-16"}
+{"url": "https://github.com/leswright1977/PyThermalCamera", "stars": 318, "desc": "Topdon TC001 热像仪在 Linux 与树莓派上的采集软件", "date": "2026-09-16"}
+{"url": "https://github.com/SalahAssana/5G-SCG", "stars": 304, "desc": "用毫米波雷达做心冲击图（SCG）与心跳监测", "date": "2026-09-16"}
+{"url": "https://github.com/FPGA-Research/FABulous", "stars": 300, "desc": "eFPGA 生成器与配套 CAD 工具链", "date": "2026-09-16"}
+{"url": "https://github.com/Excitablecell/GEARdrones", "stars": 271, "desc": "轻量无人机控制与多智能体定位系统", "date": "2026-09-16"}
+{"url": "https://github.com/jremington/UWB-Indoor-Localization_Arduino", "stars": 257, "desc": "Arduino/ESP32 的 UWB 标签与基站室内定位实现", "date": "2026-09-16"}
+{"url": "https://github.com/LeoDJ/P2Pro-Viewer", "stars": 253, "desc": "InfiRay P2 Pro 热像模块的查看器与 API", "date": "2026-09-16"}
+{"url": "https://github.com/KylinC/mmVital-Signs", "stars": 246, "desc": "毫米波雷达生命体征检测的标准化 Python API", "date": "2026-09-16"}
+{"url": "https://github.com/LJMUAstroecology/flirpy", "stars": 240, "desc": "与 FLIR 机芯/相机交互的 Python 库，含出厂标定解析", "date": "2026-09-16"}
+{"url": "https://github.com/svd-ai-lab/sim-cli", "stars": 222, "desc": "把 COMSOL/Abaqus/Fluent/HFSS 工程文件转成 agent 可读文本", "date": "2026-09-16"}
+{"url": "https://github.com/SystemRDL/PeakRDL", "stars": 211, "desc": "控制/状态寄存器（CSR）代码生成工具链", "date": "2026-09-16"}
+{"url": "https://github.com/pylayers/pylayers", "stars": 206, "desc": "站点特定无线电传播仿真，室内信道与射线追踪", "date": "2026-09-16"}
+{"url": "https://github.com/loxodes/vna", "stars": 205, "desc": "开源硬件微波矢量网络分析仪，处于开发中", "date": "2026-09-16"}
+{"url": "https://github.com/Clothooo/lvt2calib", "stars": 200, "desc": "激光雷达、可见光与热像相机的统一标定", "date": "2026-09-16"}
+{"url": "https://github.com/simonw/micropython-wasm", "stars": 174, "desc": "在 WebAssembly 沙箱中运行 MicroPython 的 Python 库", "date": "2026-09-16"}
+{"url": "https://github.com/openlab-x/OpenCircuitX", "stars": 169, "desc": "开源 EDA 平台：VHDL/Verilog 编辑器、原理图画布、RTL 查看器", "date": "2026-09-16"}
+{"url": "https://github.com/thomaslepoix/Qucs-RFlayout", "stars": 168, "desc": "Qucs RF 原理图导出 KiCad 版图并生成 openEMS 仿真脚本", "date": "2026-09-16"}
+{"url": "https://github.com/radar-lab/mmfall", "stars": 155, "desc": "4D 毫米波雷达与变分循环自编码器的摔倒检测", "date": "2026-09-16"}
+{"url": "https://github.com/cliansang/positioning-algorithms-for-uwb-matlab", "stars": 134, "desc": "UWB 定位五种算法的 MATLAB 实现", "date": "2026-09-16"}
+{"url": "https://github.com/yizzfz/MiliPoint", "stars": 129, "desc": "毫米波雷达点云的人体活动识别数据集", "date": "2026-09-16"}
+{"url": "https://github.com/jcyrax/pcbmodelgen", "stars": 123, "desc": "把 KiCad PCB 文件转成可导入 openEMS 的模型", "date": "2026-09-16"}
+{"url": "https://github.com/WoodyBuendia/HFSS-MATLAB-API", "stars": 116, "desc": "通过 HFSS Scripting 从 MATLAB 控制 HFSS 的脚本库", "date": "2026-09-16"}
+{"url": "https://github.com/edwin-pan/uDoppler-Classification", "stars": 111, "desc": "毫米波 FMCW 雷达微多普勒人体动作分类", "date": "2026-09-16"}
+{"url": "https://github.com/LubomirJagos/FreeCAD-OpenEMS-Export", "stars": 110, "desc": "FreeCAD 插件：把三维模型导出给 openEMS 电磁仿真", "date": "2026-09-16"}
+{"url": "https://github.com/wisensehub/wisensehub.github.io", "stars": 108, "desc": "面向任务的 WiFi 感知数据集目录与工具包", "date": "2026-09-16"}
+{"url": "https://github.com/mradway/hycohanz", "stars": 107, "desc": "Python 经 Windows COM API 操作 ANSYS HFSS", "date": "2026-09-16"}
+{"url": "https://github.com/matthuszagh/pyems", "stars": 106, "desc": "openEMS 的高层 Python 接口，含自动网格生成", "date": "2026-09-16"}
+{"url": "https://github.com/TIERS/uwb-drone-dataset", "stars": 106, "desc": "GNSS 拒止环境下无人机 UWB 定位数据集", "date": "2026-09-16"}
+{"url": "https://github.com/Shallot-2009/Ketupa", "stars": 86, "desc": "深度学习用于信号完整性与射频分析的自动建模", "date": "2026-09-16"}
+{"url": "https://github.com/PulkitRustagi/UWB-Localization", "stars": 86, "desc": "无人机与无人车协同的高精度多智能体 UWB 定位", "date": "2026-09-16"}
+{"url": "https://github.com/WayV5/RK3588-STM32-ROS2-SLAM-Robot", "stars": 70, "desc": "RK3588 与 STM32 分工的 ROS2 SLAM 机器人", "date": "2026-09-16"}
+{"url": "https://github.com/FanJunqiao/M4Human", "stars": 59, "desc": "CVPR 2026 多模态毫米波雷达人体基准数据集", "date": "2026-09-16"}
+{"url": "https://github.com/profdc9/ModularTuner", "stars": 59, "desc": "相控阵天线系统的模块化天线调谐器，开源硬件", "date": "2026-09-16"}
+{"url": "https://github.com/NTU-AIoT-Lab/EfficientFi", "stars": 43, "desc": "大规模轻量 WiFi 感知的 CSI 压缩，论文源码", "date": "2026-09-16"}
+{"url": "https://github.com/ruvnet/rufield", "stars": 37, "desc": "无摄像头的多模态场感知开放规范，覆盖 WiFi/雷达/超声", "date": "2026-09-16"}
+{"url": "https://github.com/milanofthe/rapidfem", "stars": 33, "desc": "Rust 实现的电磁有限元（FEM）求解器", "date": "2026-09-16"}
+{"url": "https://github.com/Beate-Suy-Zhang/EvoFuse", "stars": 32, "desc": "TPAMI 2026 红外与可见光融合的共生进化学习", "date": "2026-09-16"}
+{"url": "https://github.com/MarkSlusar/DEALORA", "stars": 30, "desc": "用进化算法自动设计 LoRa/Meshtastic 天线", "date": "2026-09-16"}
+{"url": "https://github.com/Scientist888-star/GDAFusion", "stars": 29, "desc": "Pattern Recognition 2026 信息解耦的生成式红外可见光融合", "date": "2026-09-16"}
+{"url": "https://github.com/ruvnet/wifi-veil", "stars": 26, "desc": "反 WiFi 感知的隐私防火墙，通过合规波形控制", "date": "2026-09-16"}
+{"url": "https://github.com/tinsever/m5-adv-emf-meter", "stars": 26, "desc": "M5 CardPuter 上的电磁场扫描仪", "date": "2026-09-16"}
+{"url": "https://github.com/Lex669/LumericalFDTD-skill", "stars": 25, "desc": "Lumerical FDTD 自动化仿真 skill", "date": "2026-09-16"}
+{"url": "https://github.com/ruvnet/rvcsi", "stars": 24, "desc": "边缘 RF 感知运行时，统一 Nexmon/ESP32/Intel/Atheros 的 CSI 格式", "date": "2026-09-16"}
+{"url": "https://github.com/leisymqaz/lumerical-fdtd-mcp", "stars": 24, "desc": "通过 MCP 让 AI 客户端控制 Ansys Lumerical FDTD", "date": "2026-09-16"}
+{"url": "https://github.com/brtkrtz/magnelio", "stars": 15, "desc": "Python 全波三维电磁场仿真", "date": "2026-09-16"}
