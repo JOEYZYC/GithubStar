@@ -5,42 +5,42 @@
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★15,765 · Python · ⭐ 已 star`
+`★15,801 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
 ---
 
 #### [atopile/atopile](https://github.com/atopile/atopile)
-`★3,898 · Python · ⭐ 已 star`
+`★3,901 · Python · ⭐ 已 star`
 Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 > 收录日期：2026-09-13
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,876 · C++ · ⭐ 已 star`
+`★2,877 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
 
 #### [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
-`★2,247 · Python · ⭐ 已 star`
+`★2,248 · Python · ⭐ 已 star`
 KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
 > 收录日期：2026-09-13
 
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★1,914 · Rust · ⭐ 已 star`
+`★1,946 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
 ---
 
 #### [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)
-`★1,207 · Python · ⭐ 已 star`
+`★1,209 · Python · ⭐ 已 star`
 AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.
 > 收录日期：2026-09-13
 

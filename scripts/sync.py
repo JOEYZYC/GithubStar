@@ -252,6 +252,8 @@ OVERRIDES: dict[str, str] = {
     "zephyrproject-rtos/zephyr ": "嵌入式与单片机",
     "american-embedded/kistack": "硬件设计与 EDA",
     # 热点推荐项目的校正
+    "lightorigins/LightNav-0": "飞控与无人机",
+    "modm-io/modm": "嵌入式与单片机",
     "zer011b/fdtd3d": "电磁仿真与超表面",
     "korvin011/CSTMWS-Matlab-Interface": "电磁仿真与超表面",
     "kaankvrck/Cst-Py-Api": "电磁仿真与超表面",

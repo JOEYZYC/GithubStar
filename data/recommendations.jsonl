@@ -143,3 +143,5 @@
 {"url": "https://github.com/sixblade325/WaterHand-Processor-Development-Skills", "stars": 13, "desc": "Chisel/RISC-V 处理器开发技能集：微架构、RTL 验证、Vivado 时序分析与 FPGA 优化", "date": "2026-09-15"}
 {"url": "https://github.com/prasetyarobert205-jpg/codex-fpga-engineering-workflow", "stars": 12, "desc": "面向 Codex 的多智能体 FPGA/SoC 工作流：RTL、CDC/RDC、STA、验证与独立签核", "date": "2026-09-15"}
 {"url": "https://github.com/lvgl/lvgl_safe", "stars": 10, "desc": "LVGL 官方面向安全关键产品的认证版（ISO 26262 / IEC 62304 / IEC 61508 / DO-178C），2026 Q4 正式发布", "date": "2026-09-15"}
+{"url": "https://github.com/lightorigins/LightNav-0", "stars": 580, "desc": "通用具身导航视觉语言模型（Qwen3-VL-4B）：双通道 pointing + RVQ 动作 token 输出 10 步路点，零样本迁移人形/四足/轮式/无人机", "date": "2026-09-15"}
+{"url": "https://github.com/modm-io/modm", "stars": 976, "desc": "德国 Roboterclub Aachen 维护的 C++23 HAL 代码生成器：按芯片型号渲染 HAL，一套接口覆盖 STM32/SAM/AVR/nRF/RP2040，编译期断言引脚与波特率", "date": "2026-09-15"}
