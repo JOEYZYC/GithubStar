@@ -293,7 +293,7 @@
 {"url": "https://github.com/tomshaffner/PiThermalCam", "stars": 162, "desc": "把 MLX90640 红外热像模块接树莓派做取流与网页推流", "date": "2026-09-17"}
 {"url": "https://github.com/Eximius-Labs/fusion-embedding", "stars": 10, "desc": "文本/图像/视频/音频/热成像/动作统一嵌入空间（开放权重）", "date": "2026-09-17"}
 {"url": "https://github.com/ExpressLRS/ExpressLRS", "stars": 5326, "desc": "高性能开源无线电遥控链路（ELRS）主仓：固件、协议与配置器", "date": "2026-09-17"}
-{"url": "https://github.com/iNavFlight/inav", "stars": 4221, "desc": "INAF：面向导航的飞行控制软件（固定翼与多旋翼）", "date": "2026-09-17"}
+{"url": "https://github.com/iNavFlight/inav", "stars": 4221, "desc": "INAV：面向导航的飞行控制软件（固定翼与多旋翼）", "date": "2026-09-17"}
 {"url": "https://github.com/OpenHD/OpenHD", "stars": 2660, "desc": "OpenHD 开源数字图传系统（基于 WFB 的无人机高清视频链路）", "date": "2026-09-17"}
 {"url": "https://github.com/mavlink/mavlink", "stars": 2430, "desc": "MAVLink 消息编解码库与协议定义（无人机通信事实标准）", "date": "2026-09-17"}
 {"url": "https://github.com/svpcom/wfb-ng", "stars": 1534, "desc": "基于原始 WiFi 网卡的长距离数据链 WFB-NG（图传/遥控一体化）", "date": "2026-09-17"}

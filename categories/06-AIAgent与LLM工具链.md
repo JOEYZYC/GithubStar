@@ -19,7 +19,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [mattpocock/skills](https://github.com/mattpocock/skills)
-`★263,584 · Shell · ⭐ 已 star`
+`★263,585 · Shell · ⭐ 已 star`
 Skills for Real Engineers. Straight from my .agents directory.
 > 收录日期：2026-09-13
 
@@ -33,7 +33,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★213,431 · ⭐ 已 star`
+`★213,432 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -145,7 +145,7 @@ Build resilient agents.
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★38,307 · Markdown · ⭐ 已 star`
+`★38,308 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -284,7 +284,7 @@ J-Space Cognition Suite — a model-agnostic inference-time control suite for de
 ---
 
 #### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-`★2,974 · TypeScript · ⭐ 已 star`
+`★2,975 · TypeScript · ⭐ 已 star`
 Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 > 收录日期：2026-09-17
 
