@@ -57,6 +57,48 @@
    ]
   },
   {
+   "full_name": "ExpressLRS/ExpressLRS",
+   "url": "https://github.com/ExpressLRS/ExpressLRS",
+   "description": "高性能开源无线电遥控链路（ELRS）主仓：固件、协议与配置器",
+   "language": "",
+   "stars": 5326,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "iNavFlight/inav",
+   "url": "https://github.com/iNavFlight/inav",
+   "description": "INAF：面向导航的飞行控制软件（固定翼与多旋翼）",
+   "language": "",
+   "stars": 4221,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "WebODM/WebODM",
    "url": "https://github.com/WebODM/WebODM",
    "description": "无人机航拍影像处理平台，正射影像、点云与三维重建，Docker 部署",
@@ -152,7 +194,14 @@
    "added_at": "2026-09-17",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "mavlink/mavlink",
@@ -166,7 +215,14 @@
    "added_at": "2026-09-17",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "ArduPilot/MissionPlanner",
@@ -424,6 +480,27 @@
    ]
   },
   {
+   "full_name": "makeecat/Peng",
+   "url": "https://github.com/makeecat/Peng",
+   "description": "Rust 实现的最小四旋翼自主飞行框架（跨平台）",
+   "language": "",
+   "stars": 695,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "JacopoPan/aerial-autonomy-stack",
    "url": "https://github.com/JacopoPan/aerial-autonomy-stack",
    "description": "PX4/ArduPilot 无人机集群的感知自主仿真与部署框架（ROS2/YOLO/LiDAR）",
@@ -435,7 +512,14 @@
    "added_at": "2026-09-17",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "lightorigins/LightNav-0",
@@ -571,7 +655,14 @@
    "added_at": "2026-09-17",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "Excitablecell/GEARdrones",
@@ -592,6 +683,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "dgatf/msrc",
+   "url": "https://github.com/dgatf/msrc",
+   "description": "RP2040 多协议遥控传感器：FrSky/ELRS/SBUS 等全支持",
+   "language": "",
+   "stars": 258,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
    ]
   },
   {
@@ -637,6 +749,27 @@
    ]
   },
   {
+   "full_name": "ExpressLRS/ElrsTelemWidget",
+   "url": "https://github.com/ExpressLRS/ElrsTelemWidget",
+   "description": "EdgeTX 遥控器上的 ELRS 遥测显示控件",
+   "language": "",
+   "stars": 101,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "alebal123bal/khadas_yolov8n_multithread",
    "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
    "description": "RK3588S NPU 上多线程实时跑 YOLOv8n 做无人机检测（46FPS）",
@@ -648,7 +781,14 @@
    "added_at": "2026-09-17",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "PulkitRustagi/UWB-Localization",
@@ -793,7 +933,14 @@
    "added_at": "2026-09-17",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "raylanlin/smarttune-cli",
@@ -988,7 +1135,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "flexcompute/tidy3d",
@@ -1138,6 +1292,27 @@
    ]
   },
   {
+   "full_name": "guohuayan/WSR_maximization_for_RIS_system",
+   "url": "https://github.com/guohuayan/WSR_maximization_for_RIS_system",
+   "description": "RIS 辅助系统加权和速率最大化论文配套 MATLAB 代码",
+   "language": "",
+   "stars": 207,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "pylayers/pylayers",
    "url": "https://github.com/pylayers/pylayers",
    "description": "站点特定无线电传播仿真，室内信道与射线追踪",
@@ -1191,7 +1366,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "thomaslepoix/Qucs-RFlayout",
@@ -1226,7 +1408,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "zer011b/fdtd3d",
@@ -1345,7 +1534,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "WoodyBuendia/HFSS-MATLAB-API",
@@ -1443,7 +1639,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "youxch/Inverse-design-of-metasurfaces",
@@ -1478,7 +1681,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "NBalciunas/kicad-rfsim",
@@ -1534,7 +1744,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "emsig/emg3d",
@@ -1548,7 +1765,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "liuhang1994/RIS-FL",
@@ -1562,7 +1786,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "bgin/RF-EMT",
@@ -1576,7 +1807,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "emilbjornson/RIS-fading",
@@ -1590,7 +1828,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "simonp0420/PSSFSS.jl",
@@ -1698,6 +1943,48 @@
    ]
   },
   {
+   "full_name": "toammann/Multilayer_SMA2Microstrip",
+   "url": "https://github.com/toammann/Multilayer_SMA2Microstrip",
+   "description": "用开源 openEMS 设计多层 SMA 同轴到微带线的过渡结构",
+   "language": "",
+   "stars": 53,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "jimrains/OpenRIS",
+   "url": "https://github.com/jimrains/OpenRIS",
+   "description": "开源可重构智能表面（RIS）硬件项目",
+   "language": "",
+   "stars": 52,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "xevozen/HFSS-Design-Files",
    "url": "https://github.com/xevozen/HFSS-Design-Files",
    "description": "HFSS 传输线、波导与天线模型与仿真工程集",
@@ -1709,7 +1996,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "renanmav/pycst",
@@ -1744,7 +2038,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "kaankvrck/Cst-Py-Api",
@@ -1779,7 +2080,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "gems-uff/pypofacets",
@@ -1814,7 +2122,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "ra3xdh/qucsator_rf",
@@ -1828,7 +2143,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "milanofthe/rapidfem",
@@ -1926,7 +2248,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "tinsever/m5-adv-emf-meter",
@@ -2108,7 +2437,14 @@
    "added_at": "2026-09-17",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "ckflight/CST-ADS-Simulations",
@@ -2795,7 +3131,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "WeebLabs/DSPi",
@@ -2830,7 +3173,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "pico-coder/sigrok-pico",
@@ -2886,7 +3236,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "github0null/eide",
@@ -2934,7 +3291,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "HASwitchPlate/openHASP",
@@ -3032,7 +3396,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "lvgl/lv_micropython",
@@ -3127,7 +3498,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "parezj/EMBO",
@@ -3141,7 +3519,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "kkbin505/Arduino-Transmitter-for-ELRS",
@@ -3155,7 +3540,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "jremington/UWB-Indoor-Localization_Arduino",
@@ -3203,7 +3595,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "Adancurusul/embedded-debugger-mcp",
@@ -3261,6 +3660,27 @@
    ]
   },
   {
+   "full_name": "tomshaffner/PiThermalCam",
+   "url": "https://github.com/tomshaffner/PiThermalCam",
+   "description": "把 MLX90640 红外热像模块接树莓派做取流与网页推流",
+   "language": "",
+   "stars": 162,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "citysu/csiread",
    "url": "https://github.com/citysu/csiread",
    "description": "高速 CSI 解析库，支持 Intel、Atheros、Nexmon、ESP32 与 PicoScenes",
@@ -3293,7 +3713,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "Stevee87/Arduino-ESP32-Radarproject",
@@ -3391,7 +3818,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "The-Masked-Bear/wifisense-pi",
@@ -3481,7 +3915,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "aimdb-dev/aimdb",
@@ -3495,7 +3936,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "crichars/embedded-project-governance",
@@ -3530,7 +3978,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "pit711/v2x2map",
@@ -3544,7 +3999,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "WayV5/RK3588-STM32-ROS2-SLAM-Robot",
@@ -3646,7 +4108,14 @@
    "added_at": "2026-09-17",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "lalitshankarch/rvcore",
@@ -3994,6 +4463,27 @@
    "note": ""
   },
   {
+   "full_name": "gusmanb/logicanalyzer",
+   "url": "https://github.com/gusmanb/logicanalyzer",
+   "description": "24 通道 100Msps 开源逻辑分析仪（硬件 + 上位机）",
+   "language": "",
+   "stars": 4973,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "openscopeproject/InteractiveHtmlBom",
    "url": "https://github.com/openscopeproject/InteractiveHtmlBom",
    "description": "KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置",
@@ -4045,7 +4535,14 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "Open-Cascade-SAS/OCCT",
@@ -4081,7 +4578,14 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "mixelpixx/KiCAD-MCP-Server",
@@ -4201,6 +4705,27 @@
    ]
   },
   {
+   "full_name": "fhdm-dev/scoppy",
+   "url": "https://github.com/fhdm-dev/scoppy",
+   "description": "把树莓派 Pico 与安卓手机变成示波器和逻辑分析仪",
+   "language": "",
+   "stars": 1465,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "ttrftech/NanoVNA",
    "url": "https://github.com/ttrftech/NanoVNA",
    "description": "掌上矢量网络分析仪开源硬件（含原理图与固件），低成本实测入口",
@@ -4212,7 +4737,14 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "aklofas/kicad-happy",
@@ -4260,7 +4792,98 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "OpenHantek/OpenHantek6022",
+   "url": "https://github.com/OpenHantek/OpenHantek6022",
+   "description": "Hantek 6022BE/BL USB 示波器的开源上位机软件",
+   "language": "",
+   "stars": 1120,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "dotcypress/ula",
+   "url": "https://github.com/dotcypress/ula",
+   "description": "RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）",
+   "language": "",
+   "stars": 941,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "wuxx/nanoDLA",
+   "url": "https://github.com/wuxx/nanoDLA",
+   "description": "基于 fx2lafw 的 24MHz 采样率逻辑分析仪开源硬件",
+   "language": "",
+   "stars": 805,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "nominal-io/instro",
+   "url": "https://github.com/nominal-io/instro",
+   "description": "面向硬件测试仪器的开源 Python 仪器控制库",
+   "language": "",
+   "stars": 704,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "mixelpixx/Konnect",
@@ -4295,7 +4918,14 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "mercedes-benz/ardep",
@@ -4512,6 +5142,27 @@
    ]
   },
   {
+   "full_name": "upnalab/SonicSurface",
+   "url": "https://github.com/upnalab/SonicSurface",
+   "description": "开源相控阵硬件（VHDL）生成空气超声振幅图案",
+   "language": "",
+   "stars": 214,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "SystemRDL/PeakRDL",
    "url": "https://github.com/SystemRDL/PeakRDL",
    "description": "控制/状态寄存器（CSR）代码生成工具链",
@@ -4554,6 +5205,27 @@
    ]
   },
   {
+   "full_name": "MagnusThome/RejsaRubberTrac",
+   "url": "https://github.com/MagnusThome/RejsaRubberTrac",
+   "description": "用开源硬件做的无线热像仪，用于监测轮胎温度分布",
+   "language": "",
+   "stars": 196,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "jonkraft/PhasedArray",
    "url": "https://github.com/jonkraft/PhasedArray",
    "description": "10GHz 相控阵波束成形实验配套教程与代码",
@@ -4565,7 +5237,14 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "openlab-x/OpenCircuitX",
@@ -4589,6 +5268,48 @@
    ]
   },
   {
+   "full_name": "xaxaxa-dev/vna",
+   "url": "https://github.com/xaxaxa-dev/vna",
+   "description": "简单廉价的开源矢量网络分析仪硬件与配套软件",
+   "language": "",
+   "stars": 164,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "jankae/VNA",
+   "url": "https://github.com/jankae/VNA",
+   "description": "1MHz 至 6GHz 的 USB 矢量网络分析仪开源硬件设计",
+   "language": "",
+   "stars": 160,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "RTimothyEdwards/XCircuit",
    "url": "https://github.com/RTimothyEdwards/XCircuit",
    "description": "XCircuit 电路绘制与原理图捕捉工具",
@@ -4600,7 +5321,14 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "jcyrax/pcbmodelgen",
@@ -4810,6 +5538,27 @@
    "note": ""
   },
   {
+   "full_name": "balmerdx/BalmerDX_VNA",
+   "url": "https://github.com/balmerdx/BalmerDX_VNA",
+   "description": "10kHz 至 180MHz 矢量网络分析仪硬件项目",
+   "language": "",
+   "stars": 26,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "Cimos/kicad-druid",
    "url": "https://github.com/Cimos/kicad-druid",
    "description": "对齐嘉立创（JLCPCB）与 PCBWay 工艺能力的 KiCad 自定义设计规则（.kicad_dru）",
@@ -4831,6 +5580,48 @@
    ]
   },
   {
+   "full_name": "scott-guthridge/libvna",
+   "url": "https://github.com/scott-guthridge/libvna",
+   "description": "矢量网络分析仪 8/10/12/16 项误差校准与参数换算库",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "qrp73/NanoVNA-MATLAB",
+   "url": "https://github.com/qrp73/NanoVNA-MATLAB",
+   "description": "NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "piyushbag/awesome-pcb-workflow",
    "url": "https://github.com/piyushbag/awesome-pcb-workflow",
    "description": "覆盖完整 PCB 设计流程的开源工具清单（含 AI 辅助 EDA）",
@@ -4842,7 +5633,14 @@
    "added_at": "2026-09-17",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "AskStr/kicad_CoilForge_plugin",
@@ -4974,7 +5772,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "SlimeVR/SlimeVR-Server",
@@ -5049,7 +5854,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "seemoo-lab/nexmon_csi",
@@ -5063,7 +5875,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "m6c7l/pymmw",
@@ -5192,6 +6011,27 @@
    ]
   },
   {
+   "full_name": "petotamas/pyArgus",
+   "url": "https://github.com/petotamas/pyArgus",
+   "description": "天线阵列信号处理算法库（Python 实现）",
+   "language": "",
+   "stars": 210,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "dividebysandwich/sdroxide",
    "url": "https://github.com/dividebysandwich/sdroxide",
    "description": "Rust 原生 SDR 客户端，支持 CAT/TCI/HPSDR/RTLSDR/SoapySDR/SDRPlay 与远程 Web UI",
@@ -5213,6 +6053,27 @@
    ]
   },
   {
+   "full_name": "rookiepeng/beamscope",
+   "url": "https://github.com/rookiepeng/beamscope",
+   "description": "天线阵列分析与波束合成可视化 GUI 工具",
+   "language": "",
+   "stars": 179,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "lubingxian/Realtime-processing-for-csitool",
    "url": "https://github.com/lubingxian/Realtime-processing-for-csitool",
    "description": "Linux 802.11n CSI Tool 的实时处理与可视化插件",
@@ -5224,7 +6085,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "AllenXu-weihao/PLFM_RADAR-CN",
@@ -5238,7 +6106,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "radar-lab/mmfall",
@@ -5273,7 +6148,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "hardcoreerik/OrcSDR",
@@ -5434,7 +6316,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "DarkSZChao/MMWave-radar-human-tracking-and-fall-detection",
@@ -5448,7 +6337,35 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "DingdongD/TDMA-MIMO",
+   "url": "https://github.com/DingdongD/TDMA-MIMO",
+   "description": "TDMA-MIMO 毫米波雷达原始数据生成与信号处理实现",
+   "language": "",
+   "stars": 82,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "libc0607/rtl88x2eu-20230815",
@@ -5475,7 +6392,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "pdselvam/ris-aided-fual-functional-radar-and-communications-beamforming-design",
@@ -5489,7 +6413,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "jonathanmuller/esp-ppb",
@@ -5513,6 +6444,27 @@
    ]
   },
   {
+   "full_name": "advoard/advoard_localization",
+   "url": "https://github.com/advoard/advoard_localization",
+   "description": "用卡尔曼滤波融合 UWB、里程计与 LiDAR 的 ROS 定位",
+   "language": "",
+   "stars": 65,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "mghojal/Localization-Algorithm",
    "url": "https://github.com/mghojal/Localization-Algorithm",
    "description": "UWB+IMU+超声传感器融合定位（3 种多边定位算法对比）",
@@ -5524,7 +6476,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "FanJunqiao/M4Human",
@@ -5559,7 +6518,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "Toytiny/milliFlow",
@@ -5573,7 +6539,35 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "rookiepeng/arraybeam",
+   "url": "https://github.com/rookiepeng/arraybeam",
+   "description": "Python 天线阵列分析工具（beamscope 同作者的轻量版）",
+   "language": "",
+   "stars": 44,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "NTU-AIoT-Lab/EfficientFi",
@@ -5713,7 +6707,14 @@
    "added_at": "2026-09-17",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "Robot-Nav/lidar_imu_camera_ws",
@@ -5839,7 +6840,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 260225,
+   "stars": 260226,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -6627,7 +7628,7 @@
    "url": "https://github.com/Tencent/BrowserSkill",
    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
    "language": "TypeScript",
-   "stars": 2973,
+   "stars": 2974,
    "topics": [
     "agent",
     "browser-use",
@@ -7147,6 +8148,19 @@
    "note": ""
   },
   {
+   "full_name": "eternity4719/HowToLiveBetter",
+   "url": "https://github.com/eternity4719/HowToLiveBetter",
+   "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+   "language": "HTML",
+   "stars": 2105,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-17",
+   "category": "知识管理与笔记",
+   "note": ""
+  },
+  {
    "full_name": "hahhforest/pi-textbook",
    "url": "https://github.com/hahhforest/pi-textbook",
    "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
@@ -7510,7 +8524,14 @@
    "added_at": "2026-09-17",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "ethz-asl/BIEVR-LIO",
@@ -7534,6 +8555,27 @@
    ]
   },
   {
+   "full_name": "groupgets/GetThermal",
+   "url": "https://github.com/groupgets/GetThermal",
+   "description": "跨平台 USB 热像仪取流与显示软件（FLIR Boson/Lepton）",
+   "language": "",
+   "stars": 249,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System",
    "url": "https://github.com/AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System",
    "description": "面向独居老人的实时摔倒检测系统",
@@ -7545,7 +8587,14 @@
    "added_at": "2026-09-17",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "AdrianNunez/Fall-Detection-with-CNNs-and-Optical-Flow",
@@ -7559,7 +8608,35 @@
    "added_at": "2026-09-17",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "JJN123/Fall-Detection",
+   "url": "https://github.com/JJN123/Fall-Detection",
+   "description": "非侵入式摔倒检测，Keras + TensorFlow 实现",
+   "language": "",
+   "stars": 147,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "yizzfz/MiliPoint",
@@ -7689,6 +8766,27 @@
    ]
   },
   {
+   "full_name": "senguptaa/mmpose",
+   "url": "https://github.com/senguptaa/mmpose",
+   "description": "mmPose：用毫米波雷达做人体骨架姿态估计",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
    "full_name": "KJ-Falloutlast/FIRE-LIVWO",
    "url": "https://github.com/KJ-Falloutlast/FIRE-LIVWO",
    "description": "mmWave 雷达增强的 LiDAR-惯性-视觉-轮式里程计（IROS 2026）",
@@ -7763,14 +8861,42 @@
    "added_at": "2026-09-17",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "Eximius-Labs/fusion-embedding",
+   "url": "https://github.com/Eximius-Labs/fusion-embedding",
+   "description": "文本/图像/视频/音频/热成像/动作统一嵌入空间（开放权重）",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
+   ]
   },
   {
    "full_name": "public-apis/public-apis",
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 480932,
+   "stars": 480933,
    "topics": [
     "api",
     "apis",
@@ -8350,453 +9476,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "ExpressLRS/ExpressLRS",
-   "url": "https://github.com/ExpressLRS/ExpressLRS",
-   "description": "高性能开源无线电遥控链路（ELRS）主仓：固件、协议与配置器",
-   "language": "",
-   "stars": 5326,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "gusmanb/logicanalyzer",
-   "url": "https://github.com/gusmanb/logicanalyzer",
-   "description": "24 通道 100Msps 开源逻辑分析仪（硬件 + 上位机）",
-   "language": "",
-   "stars": 4973,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "iNavFlight/inav",
-   "url": "https://github.com/iNavFlight/inav",
-   "description": "INAF：面向导航的飞行控制软件（固定翼与多旋翼）",
-   "language": "",
-   "stars": 4221,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "eternity4719/HowToLiveBetter",
-   "url": "https://github.com/eternity4719/HowToLiveBetter",
-   "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
-   "language": "HTML",
-   "stars": 2104,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "fhdm-dev/scoppy",
-   "url": "https://github.com/fhdm-dev/scoppy",
-   "description": "把树莓派 Pico 与安卓手机变成示波器和逻辑分析仪",
-   "language": "",
-   "stars": 1465,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "OpenHantek/OpenHantek6022",
-   "url": "https://github.com/OpenHantek/OpenHantek6022",
-   "description": "Hantek 6022BE/BL USB 示波器的开源上位机软件",
-   "language": "",
-   "stars": 1120,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "dotcypress/ula",
-   "url": "https://github.com/dotcypress/ula",
-   "description": "RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）",
-   "language": "",
-   "stars": 941,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "wuxx/nanoDLA",
-   "url": "https://github.com/wuxx/nanoDLA",
-   "description": "基于 fx2lafw 的 24MHz 采样率逻辑分析仪开源硬件",
-   "language": "",
-   "stars": 805,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "nominal-io/instro",
-   "url": "https://github.com/nominal-io/instro",
-   "description": "面向硬件测试仪器的开源 Python 仪器控制库",
-   "language": "",
-   "stars": 704,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "makeecat/Peng",
-   "url": "https://github.com/makeecat/Peng",
-   "description": "Rust 实现的最小四旋翼自主飞行框架（跨平台）",
-   "language": "",
-   "stars": 695,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "dgatf/msrc",
-   "url": "https://github.com/dgatf/msrc",
-   "description": "RP2040 多协议遥控传感器：FrSky/ELRS/SBUS 等全支持",
-   "language": "",
-   "stars": 258,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "groupgets/GetThermal",
-   "url": "https://github.com/groupgets/GetThermal",
-   "description": "跨平台 USB 热像仪取流与显示软件（FLIR Boson/Lepton）",
-   "language": "",
-   "stars": 249,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "upnalab/SonicSurface",
-   "url": "https://github.com/upnalab/SonicSurface",
-   "description": "开源相控阵硬件（VHDL）生成空气超声振幅图案",
-   "language": "",
-   "stars": 214,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "petotamas/pyArgus",
-   "url": "https://github.com/petotamas/pyArgus",
-   "description": "天线阵列信号处理算法库（Python 实现）",
-   "language": "",
-   "stars": 210,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "guohuayan/WSR_maximization_for_RIS_system",
-   "url": "https://github.com/guohuayan/WSR_maximization_for_RIS_system",
-   "description": "RIS 辅助系统加权和速率最大化论文配套 MATLAB 代码",
-   "language": "",
-   "stars": 207,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "MagnusThome/RejsaRubberTrac",
-   "url": "https://github.com/MagnusThome/RejsaRubberTrac",
-   "description": "用开源硬件做的无线热像仪，用于监测轮胎温度分布",
-   "language": "",
-   "stars": 196,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "rookiepeng/beamscope",
-   "url": "https://github.com/rookiepeng/beamscope",
-   "description": "天线阵列分析与波束合成可视化 GUI 工具",
-   "language": "",
-   "stars": 179,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "xaxaxa-dev/vna",
-   "url": "https://github.com/xaxaxa-dev/vna",
-   "description": "简单廉价的开源矢量网络分析仪硬件与配套软件",
-   "language": "",
-   "stars": 164,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "tomshaffner/PiThermalCam",
-   "url": "https://github.com/tomshaffner/PiThermalCam",
-   "description": "把 MLX90640 红外热像模块接树莓派做取流与网页推流",
-   "language": "",
-   "stars": 162,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jankae/VNA",
-   "url": "https://github.com/jankae/VNA",
-   "description": "1MHz 至 6GHz 的 USB 矢量网络分析仪开源硬件设计",
-   "language": "",
-   "stars": 160,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "JJN123/Fall-Detection",
-   "url": "https://github.com/JJN123/Fall-Detection",
-   "description": "非侵入式摔倒检测，Keras + TensorFlow 实现",
-   "language": "",
-   "stars": 147,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ExpressLRS/ElrsTelemWidget",
-   "url": "https://github.com/ExpressLRS/ElrsTelemWidget",
-   "description": "EdgeTX 遥控器上的 ELRS 遥测显示控件",
-   "language": "",
-   "stars": 101,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "DingdongD/TDMA-MIMO",
-   "url": "https://github.com/DingdongD/TDMA-MIMO",
-   "description": "TDMA-MIMO 毫米波雷达原始数据生成与信号处理实现",
-   "language": "",
-   "stars": 82,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "advoard/advoard_localization",
-   "url": "https://github.com/advoard/advoard_localization",
-   "description": "用卡尔曼滤波融合 UWB、里程计与 LiDAR 的 ROS 定位",
-   "language": "",
-   "stars": 65,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "toammann/Multilayer_SMA2Microstrip",
-   "url": "https://github.com/toammann/Multilayer_SMA2Microstrip",
-   "description": "用开源 openEMS 设计多层 SMA 同轴到微带线的过渡结构",
-   "language": "",
-   "stars": 53,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jimrains/OpenRIS",
-   "url": "https://github.com/jimrains/OpenRIS",
-   "description": "开源可重构智能表面（RIS）硬件项目",
-   "language": "",
-   "stars": 52,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "rookiepeng/arraybeam",
-   "url": "https://github.com/rookiepeng/arraybeam",
-   "description": "Python 天线阵列分析工具（beamscope 同作者的轻量版）",
-   "language": "",
-   "stars": 44,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "balmerdx/BalmerDX_VNA",
-   "url": "https://github.com/balmerdx/BalmerDX_VNA",
-   "description": "10kHz 至 180MHz 矢量网络分析仪硬件项目",
-   "language": "",
-   "stars": 26,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "senguptaa/mmpose",
-   "url": "https://github.com/senguptaa/mmpose",
-   "description": "mmPose：用毫米波雷达做人体骨架姿态估计",
-   "language": "",
-   "stars": 25,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "scott-guthridge/libvna",
-   "url": "https://github.com/scott-guthridge/libvna",
-   "description": "矢量网络分析仪 8/10/12/16 项误差校准与参数换算库",
-   "language": "",
-   "stars": 22,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "qrp73/NanoVNA-MATLAB",
-   "url": "https://github.com/qrp73/NanoVNA-MATLAB",
-   "description": "NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图",
-   "language": "",
-   "stars": 22,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Eximius-Labs/fusion-embedding",
-   "url": "https://github.com/Eximius-Labs/fusion-embedding",
-   "description": "文本/图像/视频/音频/热成像/动作统一嵌入空间（开放权重）",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

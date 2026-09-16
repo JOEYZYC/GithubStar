@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 46 个项目 · 数据更新时间 2026-09-17 · [返回总览](../README.md)
+> 共 59 个项目 · 数据更新时间 2026-09-17 · [返回总览](../README.md)
 
 ---
 
@@ -8,6 +8,14 @@
 `★15,974 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
+
+---
+
+#### [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer)
+`★4,973 · ⭐🔥 已 star + 热点推荐`
+24 通道 100Msps 开源逻辑分析仪（硬件 + 上位机）
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
 
 ---
 
@@ -27,8 +35,9 @@ Design circuit boards with code! ✨ Get software-like design reuse 🚀, valida
 ---
 
 #### [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)
-`★2,970 · 🔥 热点推荐`
+`★2,970 · ⭐🔥 已 star + 热点推荐`
 KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---
@@ -41,8 +50,9 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
-`★2,679 · 🔥 热点推荐`
+`★2,679 · ⭐🔥 已 star + 热点推荐`
 用 TypeScript/React 定义并生成真实电子产品（电路即代码）
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---
@@ -86,9 +96,18 @@ KiCad 自动化工具集：拼板面板化、BOM 与装配图
 
 ---
 
+#### [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy)
+`★1,465 · ⭐🔥 已 star + 热点推荐`
+把树莓派 Pico 与安卓手机变成示波器和逻辑分析仪
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
 #### [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA)
-`★1,415 · 🔥 热点推荐`
+`★1,415 · ⭐🔥 已 star + 热点推荐`
 掌上矢量网络分析仪开源硬件（含原理图与固件），低成本实测入口
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---
@@ -101,8 +120,41 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory)
-`★1,186 · 🔥 热点推荐`
+`★1,186 · ⭐🔥 已 star + 热点推荐`
 参数化 CNC 铣床设计，用于自制 PCB（电路克隆机）
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
+#### [OpenHantek/OpenHantek6022](https://github.com/OpenHantek/OpenHantek6022)
+`★1,120 · ⭐🔥 已 star + 热点推荐`
+Hantek 6022BE/BL USB 示波器的开源上位机软件
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
+#### [dotcypress/ula](https://github.com/dotcypress/ula)
+`★941 · ⭐🔥 已 star + 热点推荐`
+RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
+#### [wuxx/nanoDLA](https://github.com/wuxx/nanoDLA)
+`★805 · ⭐🔥 已 star + 热点推荐`
+基于 fx2lafw 的 24MHz 采样率逻辑分析仪开源硬件
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
+#### [nominal-io/instro](https://github.com/nominal-io/instro)
+`★704 · ⭐🔥 已 star + 热点推荐`
+面向硬件测试仪器的开源 Python 仪器控制库
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---
@@ -116,8 +168,9 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 ---
 
 #### [CircuitProApp/CircuitPro](https://github.com/CircuitProApp/CircuitPro)
-`★557 · 🔥 热点推荐`
+`★557 · ⭐🔥 已 star + 热点推荐`
 Mac 原生 PCB 设计工具，个人与商业使用均免费
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---
@@ -207,6 +260,14 @@ InfiRay P2 Pro 热像模块的查看器与 API
 
 ---
 
+#### [upnalab/SonicSurface](https://github.com/upnalab/SonicSurface)
+`★214 · ⭐🔥 已 star + 热点推荐`
+开源相控阵硬件（VHDL）生成空气超声振幅图案
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
 #### [SystemRDL/PeakRDL](https://github.com/SystemRDL/PeakRDL)
 `★211 · ⭐🔥 已 star + 热点推荐`
 控制/状态寄存器（CSR）代码生成工具链
@@ -223,9 +284,18 @@ InfiRay P2 Pro 热像模块的查看器与 API
 
 ---
 
+#### [MagnusThome/RejsaRubberTrac](https://github.com/MagnusThome/RejsaRubberTrac)
+`★196 · ⭐🔥 已 star + 热点推荐`
+用开源硬件做的无线热像仪，用于监测轮胎温度分布
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
 #### [jonkraft/PhasedArray](https://github.com/jonkraft/PhasedArray)
-`★170 · 🔥 热点推荐`
+`★170 · ⭐🔥 已 star + 热点推荐`
 10GHz 相控阵波束成形实验配套教程与代码
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---
@@ -238,9 +308,26 @@ InfiRay P2 Pro 热像模块的查看器与 API
 
 ---
 
+#### [xaxaxa-dev/vna](https://github.com/xaxaxa-dev/vna)
+`★164 · ⭐🔥 已 star + 热点推荐`
+简单廉价的开源矢量网络分析仪硬件与配套软件
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
+#### [jankae/VNA](https://github.com/jankae/VNA)
+`★160 · ⭐🔥 已 star + 热点推荐`
+1MHz 至 6GHz 的 USB 矢量网络分析仪开源硬件设计
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
 #### [RTimothyEdwards/XCircuit](https://github.com/RTimothyEdwards/XCircuit)
-`★145 · 🔥 热点推荐`
+`★145 · ⭐🔥 已 star + 热点推荐`
 XCircuit 电路绘制与原理图捕捉工具
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---
@@ -322,6 +409,14 @@ X-Laser，一款小型的矢量激光投影仪
 
 ---
 
+#### [balmerdx/BalmerDX_VNA](https://github.com/balmerdx/BalmerDX_VNA)
+`★26 · ⭐🔥 已 star + 热点推荐`
+10kHz 至 180MHz 矢量网络分析仪硬件项目
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
 #### [Cimos/kicad-druid](https://github.com/Cimos/kicad-druid)
 `★25 · ⭐🔥 已 star + 热点推荐`
 对齐嘉立创（JLCPCB）与 PCBWay 工艺能力的 KiCad 自定义设计规则（.kicad_dru）
@@ -330,9 +425,26 @@ X-Laser，一款小型的矢量激光投影仪
 
 ---
 
+#### [scott-guthridge/libvna](https://github.com/scott-guthridge/libvna)
+`★22 · ⭐🔥 已 star + 热点推荐`
+矢量网络分析仪 8/10/12/16 项误差校准与参数换算库
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
+#### [qrp73/NanoVNA-MATLAB](https://github.com/qrp73/NanoVNA-MATLAB)
+`★22 · ⭐🔥 已 star + 热点推荐`
+NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
+
+---
+
 #### [piyushbag/awesome-pcb-workflow](https://github.com/piyushbag/awesome-pcb-workflow)
-`★15 · 🔥 热点推荐`
+`★15 · ⭐🔥 已 star + 热点推荐`
 覆盖完整 PCB 设计流程的开源工具清单（含 AI 辅助 EDA）
+> 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
 
 ---

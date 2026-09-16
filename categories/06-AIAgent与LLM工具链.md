@@ -26,7 +26,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★260,225 · JavaScript · ⭐ 已 star`
+`★260,226 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -284,7 +284,7 @@ J-Space Cognition Suite — a model-agnostic inference-time control suite for de
 ---
 
 #### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-`★2,973 · TypeScript · ⭐ 已 star`
+`★2,974 · TypeScript · ⭐ 已 star`
 Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 > 收录日期：2026-09-17
 
