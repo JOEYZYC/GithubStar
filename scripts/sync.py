@@ -87,6 +87,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-17：GitHub description 为空/无信息量，必须先映射再收录 ----
+    "mit-han-lab/tinyml": "嵌入式与单片机",
+    "AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System": "AI 模型与视觉",
+    "ewine-project/UWB-localization": "无线通信与感知",
+    "OpenHD/OpenHD": "飞控与无人机",
     "ArduPilot/ardupilot": "飞控与无人机",
     "bitcraze/crazyflie-firmware": "飞控与无人机",
     "ZJU-FAST-Lab/ego-planner-swarm": "飞控与无人机",
