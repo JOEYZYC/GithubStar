@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 71 个项目 · 数据更新时间 2026-09-18 · [返回总览](../README.md)
+> 共 73 个项目 · 数据更新时间 2026-09-18 · [返回总览](../README.md)
 
 ---
 
@@ -35,9 +35,26 @@ Design circuit boards with code! ✨ Get software-like design reuse 🚀, valida
 
 ---
 
+#### [google/skywater-pdk](https://github.com/google/skywater-pdk)
+`★3,713 · ⭐🔥 已 star + 热点推荐`
+SkyWater 130nm 开源工艺库，开源芯片设计底座
+> 热点推荐于 2026-09-18
+> 收录日期：2026-09-18
+
+---
+
+#### [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
+`★3,107 · ⭐🔥 已 star + 热点推荐`
+RTL-to-GDS 开源数字芯片实现流程
+> 热点推荐于 2026-09-18
+> 收录日期：2026-09-18
+
+---
+
 #### [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB)
-`★2,988 · 🔥 热点推荐`
+`★2,988 · ⭐🔥 已 star + 热点推荐`
 独立开源 EDA 套件，自研原理图与版图工具链
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -161,8 +178,9 @@ RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 ---
 
 #### [sparkfun/SparkFun-KiCad-Libraries](https://github.com/sparkfun/SparkFun-KiCad-Libraries)
-`★720 · 🔥 热点推荐`
+`★720 · ⭐🔥 已 star + 热点推荐`
 SparkFun 官方 KiCad 符号与封装库
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -184,8 +202,9 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 ---
 
 #### [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad)
-`★613 · 🔥 热点推荐`
+`★613 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件与资源精选清单
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -214,15 +233,17 @@ Software and Hardware Production Files of the Automotive Rapid DEvelopment Platf
 ---
 
 #### [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer)
-`★536 · 🔥 热点推荐`
+`★536 · ⭐🔥 已 star + 热点推荐`
 KiCad 键盘按键自动布局工具
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
 
 #### [drandyhaas/KiCadRoutingTools](https://github.com/drandyhaas/KiCadRoutingTools)
-`★460 · 🔥 热点推荐`
+`★460 · ⭐🔥 已 star + 热点推荐`
 KiCad 自动布线工具集，Python + Rust 实现
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -276,8 +297,9 @@ eFPGA 生成器与配套 CAD 工具链
 ---
 
 #### [krishna-swaroop/KiCAD-Prism](https://github.com/krishna-swaroop/KiCAD-Prism)
-`★277 · 🔥 热点推荐`
+`★277 · ⭐🔥 已 star + 热点推荐`
 自托管的 KiCad 工程浏览与可视化应用
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -305,8 +327,9 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [crides/kleeb](https://github.com/crides/kleeb)
-`★235 · 🔥 热点推荐`
+`★235 · ⭐🔥 已 star + 热点推荐`
 键盘设计用 KiCad 符号/封装/3D 模型库
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -336,8 +359,9 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [hlord2000/nordic-lib-kicad](https://github.com/hlord2000/nordic-lib-kicad)
-`★199 · 🔥 热点推荐`
+`★199 · ⭐🔥 已 star + 热点推荐`
 Nordic 全系列芯片 KiCad 元件库
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -399,8 +423,9 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [4ms/4ms-kicad-lib](https://github.com/4ms/4ms-kicad-lib)
-`★115 · 🔥 热点推荐`
+`★115 · ⭐🔥 已 star + 热点推荐`
 音频模块厂商的 KiCad 元件库
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -437,8 +462,9 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 ---
 
 #### [Zane456/PCB-Agent-Teams](https://github.com/Zane456/PCB-Agent-Teams)
-`★66 · 🔥 热点推荐`
+`★66 · ⭐🔥 已 star + 热点推荐`
 多智能体 PCB 设计流水线技能包（Phase 0-5）
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -514,8 +540,9 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 ---
 
 #### [10-X-eng/KiChad](https://github.com/10-X-eng/KiChad)
-`★19 · 🔥 热点推荐`
+`★19 · ⭐🔥 已 star + 热点推荐`
 集成 Codex 的 KiCad 下游工具
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---
@@ -537,8 +564,9 @@ KiCad 平面线圈 / 平面电机绕组生成插件，支持 KiCad 6–10
 ---
 
 #### [biosshot/kicad-copilot](https://github.com/biosshot/kicad-copilot)
-`★13 · 🔥 热点推荐`
+`★13 · ⭐🔥 已 star + 热点推荐`
 面向 KiCad 的 MCP 服务器，支持原理图生成与布局
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---

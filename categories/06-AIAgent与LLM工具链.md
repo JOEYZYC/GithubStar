@@ -54,7 +54,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 ---
 
 #### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-`★141,290 · JavaScript · ⭐ 已 star`
+`★141,291 · JavaScript · ⭐ 已 star`
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 > 收录日期：2026-09-13
 
@@ -82,7 +82,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-`★82,794 · Python · ⭐ 已 star`
+`★82,795 · Python · ⭐ 已 star`
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 > 收录日期：2026-09-13
 
@@ -96,7 +96,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★71,099 · TypeScript · ⭐ 已 star`
+`★71,100 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -208,8 +208,9 @@ What are the principles we can use to build LLM-powered software that is actuall
 ---
 
 #### [YishenTu/claudian](https://github.com/YishenTu/claudian)
-`★15,364 · 🔥 热点推荐`
+`★15,364 · ⭐🔥 已 star + 热点推荐`
 Obsidian 内的 AI 助手集成，把 LLM 直接放进笔记工作流
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
 
 ---

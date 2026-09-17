@@ -87,6 +87,20 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-18：规则未命中，人工归入 ----
+    "google/skywater-pdk": "硬件设计与 EDA",
+    "The-OpenROAD-Project/OpenROAD": "硬件设计与 EDA",
+    "fguzman82/gateGPT": "嵌入式与单片机",
+    "chenyuliu577-cyber/jyd-rv32i-fpga-core": "嵌入式与单片机",
+    "OpenXiangShan/XiangShanLab": "嵌入式与单片机",
+    "sakilxo/riscv32i-core": "嵌入式与单片机",
+    "InfTape/tang-nano-20k-snn": "嵌入式与单片机",
+    "kazunori279/xls32-fpga-synth": "嵌入式与单片机",
+    "pavlov-net/hub75-studio": "嵌入式与单片机",
+    "therealdreg/umsakazo": "电磁仿真与超表面",
+    "DABIAN-afk/microstrip-studio": "电磁仿真与超表面",
+    "AkitaEngineering/MeshSwarm": "无线通信与感知",
+    "Galaxywalk/Wave2Body": "无线通信与感知",
     # ---- 2026-09-17：GitHub description 为空/无信息量，必须先映射再收录 ----
     "mit-han-lab/tinyml": "嵌入式与单片机",
     "AwaisShah75/Real-Time-Person-Elderly-Fall-Detection-System": "AI 模型与视觉",
