@@ -75,15 +75,16 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 ---
 
 #### [earendil-works/pi](https://github.com/earendil-works/pi)
-`★107,022 · TypeScript · ⭐ 已 star`
+`★107,023 · TypeScript · ⭐ 已 star`
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 > 收录日期：2026-09-13
 
 ---
 
 #### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-`★96,376 · 🔥 热点推荐`
+`★96,376 · ⭐🔥 已 star + 热点推荐`
 面向 AI 编码 agent 的生产级工程技能集
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -103,7 +104,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★71,915 · TypeScript · ⭐ 已 star`
+`★71,916 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -166,8 +167,9 @@ Skills for Designers and Engineers.
 ---
 
 #### [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-`★36,612 · 🔥 热点推荐`
+`★36,612 · ⭐🔥 已 star + 热点推荐`
 阿里开源代码审查工具：确定性流水线 + LLM Agent 混合架构，精确到行的评论
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -229,8 +231,9 @@ What are the principles we can use to build LLM-powered software that is actuall
 ---
 
 #### [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-`★17,762 · 🔥 热点推荐`
+`★17,762 · ⭐🔥 已 star + 热点推荐`
 AI agent skill 安全扫描器，检测提示注入、数据外泄与供应链风险
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -251,8 +254,9 @@ Multiplayer agent harness for work.
 ---
 
 #### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-`★13,534 · 🔥 热点推荐`
+`★13,534 · ⭐🔥 已 star + 热点推荐`
 Cloudflare 出品的多阶段代码/系统安全审计 agent skill，输出机器可读的验证结论
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---

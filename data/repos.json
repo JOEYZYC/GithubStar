@@ -257,7 +257,14 @@
    "added_at": "2026-09-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "mavlink/mavlink",
@@ -347,7 +354,14 @@
    "added_at": "2026-09-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "utiasDSL/gym-pybullet-drones",
@@ -403,7 +417,14 @@
    "added_at": "2026-09-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "bitcraze/crazyflie-firmware",
@@ -585,6 +606,27 @@
    ]
   },
   {
+   "full_name": "DroidPlanner/Tower",
+   "url": "https://github.com/DroidPlanner/Tower",
+   "description": "Android 地面站应用，经典 3DR Tower 地面站源码",
+   "language": "",
+   "stars": 633,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "JacopoPan/aerial-autonomy-stack",
    "url": "https://github.com/JacopoPan/aerial-autonomy-stack",
    "description": "PX4/ArduPilot 无人机集群的感知自主仿真与部署框架（ROS2/YOLO/LiDAR）",
@@ -627,6 +669,27 @@
    ]
   },
   {
+   "full_name": "mathiasvr/bluejay",
+   "url": "https://github.com/mathiasvr/bluejay",
+   "description": "多旋翼数字电调固件，可刷入常见 ESC，支持 PWM/DShot 与双向遥测",
+   "language": "",
+   "stars": 561,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "ArduPilot/apm_planner",
    "url": "https://github.com/ArduPilot/apm_planner",
    "description": "ArduPilot 官方 Qt 地面站 APM Planner，飞控参数配置与任务规划",
@@ -638,7 +701,14 @@
    "added_at": "2026-09-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "emuflight/EmuFlight",
@@ -727,6 +797,27 @@
    "added_at": "2026-09-13",
    "category": "飞控与无人机",
    "note": ""
+  },
+  {
+   "full_name": "OpenATS/OpenATS",
+   "url": "https://github.com/OpenATS/OpenATS",
+   "description": "开源自动跟踪系统，用于卫星跟踪与目标跟踪，含机械与电控方案",
+   "language": "",
+   "stars": 470,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "golaced/Oldx_fly_controller",
@@ -826,6 +917,27 @@
    ]
   },
   {
+   "full_name": "neoxic/ESCape32",
+   "url": "https://github.com/neoxic/ESCape32",
+   "description": "面向 32 位电调的开源 BLDC 固件，轻量、可直接替换原厂固件",
+   "language": "",
+   "stars": 306,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "Excitablecell/GEARdrones",
    "url": "https://github.com/Excitablecell/GEARdrones",
    "description": "轻量无人机控制与多智能体定位系统",
@@ -879,7 +991,14 @@
    "added_at": "2026-09-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "BossHobby/QUICKSILVER",
@@ -914,21 +1033,35 @@
    "added_at": "2026-09-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
-   "full_name": "yjwong1999/Twin-TD3",
-   "url": "https://github.com/yjwong1999/Twin-TD3",
-   "description": "IEEE WCNC 论文代码：RIS 辅助无人机通信的深度强化学习保密能效优化",
+   "full_name": "doesthings/FreeFCC",
+   "url": "https://github.com/doesthings/FreeFCC",
+   "description": "DJI 智能遥控器的 FCC 解锁工具，无需服务器与授权",
    "language": "",
-   "stars": 181,
+   "stars": 217,
    "topics": [],
    "archived": false,
    "source": "hot",
    "added_at": "2026-09-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "KyThuatUAV/ESP32_FC",
@@ -970,6 +1103,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "MohammadAdib/ELRS-433",
+   "url": "https://github.com/MohammadAdib/ELRS-433",
+   "description": "ELRS 433MHz 链路的端到端搭建记录，补齐低频段远程遥控方案",
+   "language": "",
+   "stars": 138,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -1516,34 +1670,6 @@
    ]
   },
   {
-   "full_name": "verilator/verilator",
-   "url": "https://github.com/verilator/verilator",
-   "description": "最快的开源 Verilog/SystemVerilog 仿真器与 lint 工具，RTL 验证的主力",
-   "language": "",
-   "stars": 3936,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "steveicarus/iverilog",
-   "url": "https://github.com/steveicarus/iverilog",
-   "description": "Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 RTL 验证",
-   "language": "",
-   "stars": 3645,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "1ove9/antenna-forge",
    "url": "https://github.com/1ove9/antenna-forge",
    "description": "AI 驱动的逆向天线设计，把 NEC2 与 openEMS 放进优化回路",
@@ -1597,7 +1723,14 @@
    "added_at": "2026-09-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "thliebig/openEMS-Project",
@@ -1821,7 +1954,14 @@
    "added_at": "2026-09-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "guohuayan/WSR_maximization_for_RIS_system",
@@ -1905,6 +2045,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "yjwong1999/Twin-TD3",
+   "url": "https://github.com/yjwong1999/Twin-TD3",
+   "description": "IEEE WCNC 论文代码：RIS 辅助无人机通信的深度强化学习保密能效优化",
+   "language": "",
+   "stars": 181,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -2927,7 +3088,14 @@
    "added_at": "2026-09-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "tinsever/m5-adv-emf-meter",
@@ -3276,7 +3444,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "tinygo-org/tinygo",
@@ -3365,7 +3540,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "RT-Thread/rt-thread",
@@ -3389,6 +3571,48 @@
    ]
   },
   {
+   "full_name": "cactus-compute/needle",
+   "url": "https://github.com/cactus-compute/needle",
+   "description": "面向微型设备的自动化基础模型，2-bit 量化仅 8-29MB，可跑工具调用与结构化抽取",
+   "language": "",
+   "stars": 11330,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "makerspet/oomwoo",
+   "url": "https://github.com/makerspet/oomwoo",
+   "description": "开源扫地机器人整机项目，含硬件、固件与导航栈",
+   "language": "",
+   "stars": 10996,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "embassy-rs/embassy",
    "url": "https://github.com/embassy-rs/embassy",
    "description": "现代 Rust 异步嵌入式框架，用 async/await 写 MCU 固件",
@@ -3400,7 +3624,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "platformio/platformio-core",
@@ -3435,7 +3666,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "idea4good/GuiLite",
@@ -3449,7 +3687,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "OpenXiangShan/XiangShan",
@@ -3631,7 +3876,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "xiaowenxia/embedded-notes",
@@ -3715,6 +3967,27 @@
    ],
    "hot_dates": [
     "2026-09-14"
+   ]
+  },
+  {
+   "full_name": "vedderb/bldc",
+   "url": "https://github.com/vedderb/bldc",
+   "description": "VESC 开源无刷电机控制器固件，BLDC/FOC 全功能实现，电动滑板/机器人驱动的事实标准",
+   "language": "",
+   "stars": 3446,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -3834,7 +4107,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "RavenSystem/esp-homekit-devices",
@@ -3848,7 +4128,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "renode/renode",
@@ -3938,7 +4225,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "martin-ger/esp32_nat_router",
@@ -3952,7 +4246,35 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "Neroued/ninfer",
+   "url": "https://github.com/Neroued/ninfer",
+   "description": "高性能单 GPU 推理引擎，针对特定模型与显卡做深度优化",
+   "language": "",
+   "stars": 2086,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "uTensor/uTensor",
@@ -4018,7 +4340,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "mcauser/awesome-micropython",
@@ -4053,7 +4382,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "pikasTech/PikaPython",
@@ -4172,7 +4508,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "toitlang/toit",
@@ -4202,7 +4545,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "lvgl/lv_esp_idf",
@@ -4331,6 +4681,27 @@
    ]
   },
   {
+   "full_name": "HarryR/z80ai",
+   "url": "https://github.com/HarryR/z80ai",
+   "description": "把 2-bit 量化语言模型塞进 8 位 Z80 处理器，导出为 CP/M 可执行文件",
+   "language": "",
+   "stars": 1121,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "pico-coder/sigrok-pico",
    "url": "https://github.com/pico-coder/sigrok-pico",
    "description": "把 RP2040/RP2350 变成 sigrok 逻辑分析仪与示波器",
@@ -4349,6 +4720,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "ZhuYanzhen1/miniFOC",
+   "url": "https://github.com/ZhuYanzhen1/miniFOC",
+   "description": "约 20 元成本的 FOC 无刷电机驱动方案，含原理图与固件，适合自制云台/驱动板",
+   "language": "",
+   "stars": 1094,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -4512,6 +4904,27 @@
    ]
   },
   {
+   "full_name": "WangXuan95/FPGA-FOC",
+   "url": "https://github.com/WangXuan95/FPGA-FOC",
+   "description": "基于 FPGA 的 FOC 控制器，Verilog 实现，驱动 BLDC/PMSM 电机",
+   "language": "",
+   "stars": 966,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "mit-han-lab/tinyengine",
    "url": "https://github.com/mit-han-lab/tinyengine",
    "description": "MCUNet 系列的轻量推理引擎（NeurIPS 2020/2021/2022 三部曲配套）",
@@ -4544,7 +4957,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "lvgl/lv_port_pc_visual_studio",
@@ -4884,6 +5304,27 @@
    ]
   },
   {
+   "full_name": "EFeru/bldc-motor-control-FOC",
+   "url": "https://github.com/EFeru/bldc-motor-control-FOC",
+   "description": "BLDC 电机 FOC 控制的独立实现，常与 SimpleFOC 对照使用",
+   "language": "",
+   "stars": 378,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "lvgl/lv_port_pc_eclipse",
    "url": "https://github.com/lvgl/lv_port_pc_eclipse",
    "description": "LVGL 的 Eclipse PC 模拟器端口",
@@ -5194,7 +5635,14 @@
    "added_at": "2026-09-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "MoveCall/onepage-reader",
@@ -6798,6 +7246,27 @@
    "note": ""
   },
   {
+   "full_name": "adam-maj/tiny-gpu",
+   "url": "https://github.com/adam-maj/tiny-gpu",
+   "description": "用 Verilog 从零实现的极简 GPU，学习 GPU 架构与 RTL 设计的完整教程项目",
+   "language": "",
+   "stars": 12988,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "gusmanb/logicanalyzer",
    "url": "https://github.com/gusmanb/logicanalyzer",
    "description": "24 通道 100Msps 开源逻辑分析仪（硬件 + 上位机）",
@@ -6830,7 +7299,35 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "chipsalliance/chisel",
+   "url": "https://github.com/chipsalliance/chisel",
+   "description": "Chisel：用 Scala 写硬件描述语言的现代 HDL 框架，生成 Verilog 做参数化设计",
+   "language": "",
+   "stars": 4786,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "openscopeproject/InteractiveHtmlBom",
@@ -6851,6 +7348,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "verilator/verilator",
+   "url": "https://github.com/verilator/verilator",
+   "description": "最快的开源 Verilog/SystemVerilog 仿真器与 lint 工具，RTL 验证的主力",
+   "language": "",
+   "stars": 3936,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -6898,6 +7416,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "steveicarus/iverilog",
+   "url": "https://github.com/steveicarus/iverilog",
+   "description": "Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 RTL 验证",
+   "language": "",
+   "stars": 3645,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -7177,7 +7716,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "aklofas/kicad-happy",
@@ -7263,20 +7809,6 @@
    ]
   },
   {
-   "full_name": "ZhuYanzhen1/miniFOC",
-   "url": "https://github.com/ZhuYanzhen1/miniFOC",
-   "description": "约 20 元成本的 FOC 无刷电机驱动方案，含原理图与固件，适合自制云台/驱动板",
-   "language": "",
-   "stars": 1094,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "gdsfactory/gdsfactory",
    "url": "https://github.com/gdsfactory/gdsfactory",
    "description": "Python 芯片与 PCB 版图生成库，支持光子/模拟/量子/MEMS 与三维打印件设计",
@@ -7288,7 +7820,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "dotcypress/ula",
@@ -7323,7 +7862,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "wuxx/nanoDLA",
@@ -7400,7 +7946,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "mixelpixx/Konnect",
@@ -7490,7 +8043,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "lxydiy/LiThermal",
@@ -7546,7 +8106,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "drandyhaas/KiCadRoutingTools",
@@ -7581,7 +8148,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "Kevincoooool/OpenMV_PCB",
@@ -7699,7 +8273,14 @@
    "added_at": "2026-09-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "Eriemon/verilog-generator",
@@ -8510,6 +9091,48 @@
    ]
   },
   {
+   "full_name": "MichaelGrupp/evo",
+   "url": "https://github.com/MichaelGrupp/evo",
+   "description": "里程计与 SLAM 结果评估的 Python 工具，轨迹对齐与误差指标一步到位",
+   "language": "",
+   "stars": 4316,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "introlab/rtabmap",
+   "url": "https://github.com/introlab/rtabmap",
+   "description": "RTAB-Map：基于外观回环的 RGB-D/LiDAR 建图与定位库",
+   "language": "",
+   "stars": 4001,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "tomojitakasu/RTKLIB",
    "url": "https://github.com/tomojitakasu/RTKLIB",
    "description": "",
@@ -8555,7 +9178,14 @@
    "added_at": "2026-09-19",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "svpcom/wfb-ng",
@@ -8679,6 +9309,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "magicbug/Cloudlog",
+   "url": "https://github.com/magicbug/Cloudlog",
+   "description": "基于 PHP/MySQL 的业余无线电通联日志系统，支持多站台与在线同步",
+   "language": "",
+   "stars": 575,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -9220,6 +9871,27 @@
    "note": ""
   },
   {
+   "full_name": "Open-X-Humanoid/BICMap",
+   "url": "https://github.com/Open-X-Humanoid/BICMap",
+   "description": "基于 WebGL 的机器人地图可视化 SDK，支持 SLAM 地图、点云与三维模型",
+   "language": "",
+   "stars": 78,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "ewine-project/UWB-localization",
    "url": "https://github.com/ewine-project/UWB-localization",
    "description": "UWB 室内定位开源工程（EWINE 项目）",
@@ -9609,7 +10281,14 @@
    "added_at": "2026-09-19",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "purplxhazee/Purplx-",
@@ -9630,6 +10309,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "Panasonic-Advanced-Technology/q3dweb",
+   "url": "https://github.com/Panasonic-Advanced-Technology/q3dweb",
+   "description": "轻量浏览器/VS Code 三维点云查看器，快速检查点云结果",
+   "language": "",
+   "stars": 18,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
    ]
   },
   {
@@ -9937,7 +10637,7 @@
    "url": "https://github.com/earendil-works/pi",
    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
    "language": "TypeScript",
-   "stars": 107022,
+   "stars": 107023,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -9957,7 +10657,14 @@
    "added_at": "2026-09-19",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "Panniantong/Agent-Reach",
@@ -10029,7 +10736,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 71915,
+   "stars": 71916,
    "topics": [
     "ade",
     "agent-ide",
@@ -10224,7 +10931,14 @@
    "added_at": "2026-09-19",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "zhaoxuya520/reverse-skill",
@@ -10415,7 +11129,14 @@
    "added_at": "2026-09-19",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "YishenTu/claudian",
@@ -10468,7 +11189,14 @@
    "added_at": "2026-09-19",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "langchain-ai/open_deep_research",
@@ -11156,20 +11884,6 @@
    "note": ""
   },
   {
-   "full_name": "adam-maj/tiny-gpu",
-   "url": "https://github.com/adam-maj/tiny-gpu",
-   "description": "用 Verilog 从零实现的极简 GPU，学习 GPU 架构与 RTL 设计的完整教程项目",
-   "language": "",
-   "stars": 12988,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "知识管理与笔记",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "joeseesun/qiaomu-anything-to-notebooklm",
    "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
@@ -11335,6 +12049,48 @@
    "note": ""
   },
   {
+   "full_name": "ggml-org/llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp",
+   "description": "C/C++ 实现的大模型推理引擎，端侧与 CPU 推理的通用底座",
+   "language": "",
+   "stars": 128730,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "PaddlePaddle/PaddleOCR",
+   "url": "https://github.com/PaddlePaddle/PaddleOCR",
+   "description": "轻量 OCR 工具包，图片/PDF 转结构化数据，支持 100+ 语言",
+   "language": "",
+   "stars": 89792,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-19",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
+  },
+  {
    "full_name": "jingyaogong/minimind",
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
@@ -11362,7 +12118,14 @@
    "added_at": "2026-09-19",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "IDEA-Research/Grounded-Segment-Anything",
@@ -11549,7 +12312,14 @@
    "added_at": "2026-09-19",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-19"
+   ]
   },
   {
    "full_name": "vitoplantamura/OnnxStream",
@@ -12670,300 +13440,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "ggml-org/llama.cpp",
-   "url": "https://github.com/ggml-org/llama.cpp",
-   "description": "C/C++ 实现的大模型推理引擎，端侧与 CPU 推理的通用底座",
-   "language": "",
-   "stars": 128730,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "PaddlePaddle/PaddleOCR",
-   "url": "https://github.com/PaddlePaddle/PaddleOCR",
-   "description": "轻量 OCR 工具包，图片/PDF 转结构化数据，支持 100+ 语言",
-   "language": "",
-   "stars": 89792,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "cactus-compute/needle",
-   "url": "https://github.com/cactus-compute/needle",
-   "description": "面向微型设备的自动化基础模型，2-bit 量化仅 8-29MB，可跑工具调用与结构化抽取",
-   "language": "",
-   "stars": 11330,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "makerspet/oomwoo",
-   "url": "https://github.com/makerspet/oomwoo",
-   "description": "开源扫地机器人整机项目，含硬件、固件与导航栈",
-   "language": "",
-   "stars": 10996,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "chipsalliance/chisel",
-   "url": "https://github.com/chipsalliance/chisel",
-   "description": "Chisel：用 Scala 写硬件描述语言的现代 HDL 框架，生成 Verilog 做参数化设计",
-   "language": "",
-   "stars": 4786,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "MichaelGrupp/evo",
-   "url": "https://github.com/MichaelGrupp/evo",
-   "description": "里程计与 SLAM 结果评估的 Python 工具，轨迹对齐与误差指标一步到位",
-   "language": "",
-   "stars": 4316,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "introlab/rtabmap",
-   "url": "https://github.com/introlab/rtabmap",
-   "description": "RTAB-Map：基于外观回环的 RGB-D/LiDAR 建图与定位库",
-   "language": "",
-   "stars": 4001,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "vedderb/bldc",
-   "url": "https://github.com/vedderb/bldc",
-   "description": "VESC 开源无刷电机控制器固件，BLDC/FOC 全功能实现，电动滑板/机器人驱动的事实标准",
-   "language": "",
-   "stars": 3446,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Neroued/ninfer",
-   "url": "https://github.com/Neroued/ninfer",
-   "description": "高性能单 GPU 推理引擎，针对特定模型与显卡做深度优化",
-   "language": "",
-   "stars": 2086,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "HarryR/z80ai",
-   "url": "https://github.com/HarryR/z80ai",
-   "description": "把 2-bit 量化语言模型塞进 8 位 Z80 处理器，导出为 CP/M 可执行文件",
-   "language": "",
-   "stars": 1121,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "WangXuan95/FPGA-FOC",
-   "url": "https://github.com/WangXuan95/FPGA-FOC",
-   "description": "基于 FPGA 的 FOC 控制器，Verilog 实现，驱动 BLDC/PMSM 电机",
-   "language": "",
-   "stars": 966,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "DroidPlanner/Tower",
-   "url": "https://github.com/DroidPlanner/Tower",
-   "description": "Android 地面站应用，经典 3DR Tower 地面站源码",
-   "language": "",
-   "stars": 633,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "magicbug/Cloudlog",
-   "url": "https://github.com/magicbug/Cloudlog",
-   "description": "基于 PHP/MySQL 的业余无线电通联日志系统，支持多站台与在线同步",
-   "language": "",
-   "stars": 575,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "mathiasvr/bluejay",
-   "url": "https://github.com/mathiasvr/bluejay",
-   "description": "多旋翼数字电调固件，可刷入常见 ESC，支持 PWM/DShot 与双向遥测",
-   "language": "",
-   "stars": 561,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "OpenATS/OpenATS",
-   "url": "https://github.com/OpenATS/OpenATS",
-   "description": "开源自动跟踪系统，用于卫星跟踪与目标跟踪，含机械与电控方案",
-   "language": "",
-   "stars": 470,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "EFeru/bldc-motor-control-FOC",
-   "url": "https://github.com/EFeru/bldc-motor-control-FOC",
-   "description": "BLDC 电机 FOC 控制的独立实现，常与 SimpleFOC 对照使用",
-   "language": "",
-   "stars": 378,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "neoxic/ESCape32",
-   "url": "https://github.com/neoxic/ESCape32",
-   "description": "面向 32 位电调的开源 BLDC 固件，轻量、可直接替换原厂固件",
-   "language": "",
-   "stars": 306,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "doesthings/FreeFCC",
-   "url": "https://github.com/doesthings/FreeFCC",
-   "description": "DJI 智能遥控器的 FCC 解锁工具，无需服务器与授权",
-   "language": "",
-   "stars": 217,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "MohammadAdib/ELRS-433",
-   "url": "https://github.com/MohammadAdib/ELRS-433",
-   "description": "ELRS 433MHz 链路的端到端搭建记录，补齐低频段远程遥控方案",
-   "language": "",
-   "stars": 138,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Open-X-Humanoid/BICMap",
-   "url": "https://github.com/Open-X-Humanoid/BICMap",
-   "description": "基于 WebGL 的机器人地图可视化 SDK，支持 SLAM 地图、点云与三维模型",
-   "language": "",
-   "stars": 78,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Panasonic-Advanced-Technology/q3dweb",
-   "url": "https://github.com/Panasonic-Advanced-Technology/q3dweb",
-   "description": "轻量浏览器/VS Code 三维点云查看器，快速检查点云结果",
-   "language": "",
-   "stars": 18,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-19",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 83 个项目 · 数据更新时间 2026-09-19 · [返回总览](../README.md)
+> 共 86 个项目 · 数据更新时间 2026-09-19 · [返回总览](../README.md)
 
 ---
 
@@ -8,6 +8,14 @@
 `★16,079 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
+
+---
+
+#### [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)
+`★12,988 · ⭐🔥 已 star + 热点推荐`
+用 Verilog 从零实现的极简 GPU，学习 GPU 架构与 RTL 设计的完整教程项目
+> 热点推荐于 2026-09-19
+> 收录日期：2026-09-19
 
 ---
 
@@ -20,8 +28,17 @@ A library of agent skills for CAD, CAE and CAM
 ---
 
 #### [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide)
-`★4,962 · 🔥 热点推荐`
+`★4,962 · ⭐🔥 已 star + 热点推荐`
 用 KiCad 从零设计机械键盘 PCB 的完整指南，PCB 入门的高质量教材
+> 热点推荐于 2026-09-19
+> 收录日期：2026-09-19
+
+---
+
+#### [chipsalliance/chisel](https://github.com/chipsalliance/chisel)
+`★4,786 · ⭐🔥 已 star + 热点推荐`
+Chisel：用 Scala 写硬件描述语言的现代 HDL 框架，生成 Verilog 做参数化设计
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -31,6 +48,14 @@ A library of agent skills for CAD, CAE and CAM
 KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [verilator/verilator](https://github.com/verilator/verilator)
+`★3,936 · ⭐🔥 已 star + 热点推荐`
+最快的开源 Verilog/SystemVerilog 仿真器与 lint 工具，RTL 验证的主力
+> 热点推荐于 2026-09-19
+> 收录日期：2026-09-19
 
 ---
 
@@ -47,6 +72,14 @@ Design circuit boards with code! ✨ Get software-like design reuse 🚀, valida
 SkyWater 130nm 开源工艺库，开源芯片设计底座
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
+
+---
+
+#### [steveicarus/iverilog](https://github.com/steveicarus/iverilog)
+`★3,645 · ⭐🔥 已 star + 热点推荐`
+Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 RTL 验证
+> 热点推荐于 2026-09-19
+> 收录日期：2026-09-19
 
 ---
 
@@ -145,8 +178,9 @@ KiCad 自动化工具集：拼板面板化、BOM 与装配图
 ---
 
 #### [verilog-to-routing/vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
-`★1,267 · 🔥 热点推荐`
+`★1,267 · ⭐🔥 已 star + 热点推荐`
 VTR：Verilog 到布线的开源 FPGA CAD 全流程（综合/布局/布线/时序分析）
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -175,16 +209,10 @@ Hantek 6022BE/BL USB 示波器的开源上位机软件
 
 ---
 
-#### [ZhuYanzhen1/miniFOC](https://github.com/ZhuYanzhen1/miniFOC)
-`★1,094 · 🔥 热点推荐`
-约 20 元成本的 FOC 无刷电机驱动方案，含原理图与固件，适合自制云台/驱动板
-> 收录日期：2026-09-19
-
----
-
 #### [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory)
-`★1,042 · 🔥 热点推荐`
+`★1,042 · ⭐🔥 已 star + 热点推荐`
 Python 芯片与 PCB 版图生成库，支持光子/模拟/量子/MEMS 与三维打印件设计
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -198,8 +226,9 @@ RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 ---
 
 #### [komar007/gh60](https://github.com/komar007/gh60)
-`★872 · 🔥 热点推荐`
+`★872 · ⭐🔥 已 star + 热点推荐`
 GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -229,8 +258,9 @@ SparkFun 官方 KiCad 符号与封装库
 ---
 
 #### [bennymeg/Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit)
-`★680 · 🔥 热点推荐`
+`★680 · ⭐🔥 已 star + 热点推荐`
 KiCad 嘉立创（JLCPCB）制造插件，一键导出 BOM/坐标文件并匹配 LCSC 料号
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -267,8 +297,9 @@ Software and Hardware Production Files of the Automotive Rapid DEvelopment Platf
 ---
 
 #### [OSCC-Project/iEDA](https://github.com/OSCC-Project/iEDA)
-`★548 · 🔥 热点推荐`
+`★548 · ⭐🔥 已 star + 热点推荐`
 国产开源 EDA 基础设施与工具链，覆盖网表到 GDS 全流程
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -290,8 +321,9 @@ KiCad 键盘按键自动布局工具
 ---
 
 #### [circuitnet/CircuitNet](https://github.com/circuitnet/CircuitNet)
-`★508 · 🔥 热点推荐`
+`★508 · ⭐🔥 已 star + 热点推荐`
 面向 EDA 机器学习应用的开源数据集，含布局布线与工艺参数
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -305,8 +337,9 @@ KiCad 自动布线工具集，Python + Rust 实现
 ---
 
 #### [fossi-foundation/open-pdks](https://github.com/fossi-foundation/open-pdks)
-`★453 · 🔥 热点推荐`
+`★453 · ⭐🔥 已 star + 热点推荐`
 开源 PDK 安装器，一条命令部署 SkyWater 130nm / GF 180nm 与配套 EDA 工具链
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---
@@ -352,8 +385,9 @@ eFPGA 生成器与配套 CAD 工具链
 ---
 
 #### [jsreynaud/kicad-action-scripts](https://github.com/jsreynaud/kicad-action-scripts)
-`★294 · 🔥 热点推荐`
+`★294 · ⭐🔥 已 star + 热点推荐`
 一批 KiCad Python 动作脚本，自动完成常见 PCB 处理任务
+> 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
 
 ---

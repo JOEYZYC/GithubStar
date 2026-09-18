@@ -87,6 +87,33 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-19：规则未命中（description 信息量不足 / 命中顺序错位），人工归入 ----
+    "DroidPlanner/Tower": "飞控与无人机",
+    "OpenATS/OpenATS": "飞控与无人机",
+    "mathiasvr/bluejay": "飞控与无人机",
+    "neoxic/ESCape32": "飞控与无人机",
+    "doesthings/FreeFCC": "飞控与无人机",
+    "MohammadAdib/ELRS-433": "飞控与无人机",
+    "yjwong1999/Twin-TD3": "电磁仿真与超表面",
+    "cactus-compute/needle": "嵌入式与单片机",
+    "makerspet/oomwoo": "嵌入式与单片机",
+    "vedderb/bldc": "嵌入式与单片机",
+    "Neroued/ninfer": "嵌入式与单片机",
+    "HarryR/z80ai": "嵌入式与单片机",
+    "WangXuan95/FPGA-FOC": "嵌入式与单片机",
+    "EFeru/bldc-motor-control-FOC": "嵌入式与单片机",
+    "ZhuYanzhen1/miniFOC": "嵌入式与单片机",
+    "verilator/verilator": "硬件设计与 EDA",
+    "steveicarus/iverilog": "硬件设计与 EDA",
+    "chipsalliance/chisel": "硬件设计与 EDA",
+    "adam-maj/tiny-gpu": "硬件设计与 EDA",
+    "MichaelGrupp/evo": "无线通信与感知",
+    "introlab/rtabmap": "无线通信与感知",
+    "Open-X-Humanoid/BICMap": "无线通信与感知",
+    "Panasonic-Advanced-Technology/q3dweb": "无线通信与感知",
+    "magicbug/Cloudlog": "无线通信与感知",
+    "ggml-org/llama.cpp": "AI 模型与视觉",
+    "PaddlePaddle/PaddleOCR": "AI 模型与视觉",
     # ---- 2026-09-18：规则未命中，人工归入 ----
     "google/skywater-pdk": "硬件设计与 EDA",
     "The-OpenROAD-Project/OpenROAD": "硬件设计与 EDA",
