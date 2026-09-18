@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 73 个项目 · 数据更新时间 2026-09-18 · [返回总览](../README.md)
+> 共 83 个项目 · 数据更新时间 2026-09-19 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,019 · Python · ⭐ 已 star`
+`★16,079 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -16,6 +16,13 @@ A library of agent skills for CAD, CAE and CAM
 24 通道 100Msps 开源逻辑分析仪（硬件 + 上位机）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide)
+`★4,962 · 🔥 热点推荐`
+用 KiCad 从零设计机械键盘 PCB 的完整指南，PCB 入门的高质量教材
+> 收录日期：2026-09-19
 
 ---
 
@@ -68,7 +75,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,885 · C++ · ⭐ 已 star`
+`★2,887 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -107,7 +114,7 @@ KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,034 · Rust · ⭐ 已 star`
+`★2,061 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -137,6 +144,13 @@ KiCad 自动化工具集：拼板面板化、BOM 与装配图
 
 ---
 
+#### [verilog-to-routing/vtr-verilog-to-routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing)
+`★1,267 · 🔥 热点推荐`
+VTR：Verilog 到布线的开源 FPGA CAD 全流程（综合/布局/布线/时序分析）
+> 收录日期：2026-09-19
+
+---
+
 #### [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)
 `★1,247 · Python · ⭐🔥 已 star + 热点推荐`
 AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.
@@ -161,11 +175,32 @@ Hantek 6022BE/BL USB 示波器的开源上位机软件
 
 ---
 
+#### [ZhuYanzhen1/miniFOC](https://github.com/ZhuYanzhen1/miniFOC)
+`★1,094 · 🔥 热点推荐`
+约 20 元成本的 FOC 无刷电机驱动方案，含原理图与固件，适合自制云台/驱动板
+> 收录日期：2026-09-19
+
+---
+
+#### [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory)
+`★1,042 · 🔥 热点推荐`
+Python 芯片与 PCB 版图生成库，支持光子/模拟/量子/MEMS 与三维打印件设计
+> 收录日期：2026-09-19
+
+---
+
 #### [dotcypress/ula](https://github.com/dotcypress/ula)
 `★941 · ⭐🔥 已 star + 热点推荐`
 RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [komar007/gh60](https://github.com/komar007/gh60)
+`★872 · 🔥 热点推荐`
+GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
+> 收录日期：2026-09-19
 
 ---
 
@@ -190,6 +225,13 @@ SparkFun 官方 KiCad 符号与封装库
 面向硬件测试仪器的开源 Python 仪器控制库
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [bennymeg/Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit)
+`★680 · 🔥 热点推荐`
+KiCad 嘉立创（JLCPCB）制造插件，一键导出 BOM/坐标文件并匹配 LCSC 料号
+> 收录日期：2026-09-19
 
 ---
 
@@ -218,9 +260,16 @@ Mac 原生 PCB 设计工具，个人与商业使用均免费
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★552 · C · ⭐ 已 star`
+`★554 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
+
+---
+
+#### [OSCC-Project/iEDA](https://github.com/OSCC-Project/iEDA)
+`★548 · 🔥 热点推荐`
+国产开源 EDA 基础设施与工具链，覆盖网表到 GDS 全流程
+> 收录日期：2026-09-19
 
 ---
 
@@ -240,11 +289,25 @@ KiCad 键盘按键自动布局工具
 
 ---
 
+#### [circuitnet/CircuitNet](https://github.com/circuitnet/CircuitNet)
+`★508 · 🔥 热点推荐`
+面向 EDA 机器学习应用的开源数据集，含布局布线与工艺参数
+> 收录日期：2026-09-19
+
+---
+
 #### [drandyhaas/KiCadRoutingTools](https://github.com/drandyhaas/KiCadRoutingTools)
 `★460 · ⭐🔥 已 star + 热点推荐`
 KiCad 自动布线工具集，Python + Rust 实现
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
+
+---
+
+#### [fossi-foundation/open-pdks](https://github.com/fossi-foundation/open-pdks)
+`★453 · 🔥 热点推荐`
+开源 PDK 安装器，一条命令部署 SkyWater 130nm / GF 180nm 与配套 EDA 工具链
+> 收录日期：2026-09-19
 
 ---
 
@@ -288,6 +351,13 @@ eFPGA 生成器与配套 CAD 工具链
 
 ---
 
+#### [jsreynaud/kicad-action-scripts](https://github.com/jsreynaud/kicad-action-scripts)
+`★294 · 🔥 热点推荐`
+一批 KiCad Python 动作脚本，自动完成常见 PCB 处理任务
+> 收录日期：2026-09-19
+
+---
+
 #### [Eriemon/verilog-generator](https://github.com/Eriemon/verilog-generator)
 `★278 · ⭐🔥 已 star + 热点推荐`
 面向 Verilog-2001 RTL 生成与 FPGA 设计流程的 Agent Skill
@@ -313,7 +383,7 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★250 · C++ · ⭐ 已 star`
+`★249 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -439,7 +509,7 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
-`★94 · Python · ⭐ 已 star`
+`★95 · Python · ⭐ 已 star`
 AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
 > 收录日期：2026-09-13
 
