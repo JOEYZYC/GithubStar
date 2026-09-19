@@ -87,6 +87,19 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-20：规则未命中 / 命中顺序错位，人工归入 ----
+    "opencv/opencv": "AI 模型与视觉",
+    "opendatalab/MinerU": "AI Agent 与 LLM 工具链",
+    "colbymchenry/codegraph": "AI Agent 与 LLM 工具链",
+    "lyogavin/airllm": "AI 模型与视觉",
+    "maxritter/diy-thermocam": "嵌入式与单片机",
+    "Tencent/wave-mcp": "硬件设计与 EDA",
+    "amoslee2026/Babel": "硬件设计与 EDA",
+    "gokeshenzhen/awesome-formal-verification-skill": "硬件设计与 EDA",
+    "RuihongY/axi-compliance-skill": "硬件设计与 EDA",
+    "estlit/SemiconductorSchool-Labs": "硬件设计与 EDA",
+    "lucaong/nerves_thermal_camera": "嵌入式与单片机",
+    "mlxljz/TWMM": "AI 模型与视觉",
     # ---- 2026-09-19：规则未命中（description 信息量不足 / 命中顺序错位），人工归入 ----
     "DroidPlanner/Tower": "飞控与无人机",
     "OpenATS/OpenATS": "飞控与无人机",

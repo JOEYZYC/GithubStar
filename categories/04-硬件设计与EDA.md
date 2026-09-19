@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 86 个项目 · 数据更新时间 2026-09-19 · [返回总览](../README.md)
+> 共 91 个项目 · 数据更新时间 2026-09-20 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,106 · Python · ⭐ 已 star`
+`★16,147 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,887 · C++ · ⭐ 已 star`
+`★2,890 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -130,18 +130,18 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★2,091 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth)
 `★2,085 · ⭐🔥 已 star + 热点推荐`
 基于 Python 的现代 HDL 与 FPGA 工具链
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,068 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 
@@ -290,7 +290,7 @@ Mac 原生 PCB 设计工具，个人与商业使用均免费
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★555 · C · ⭐ 已 star`
+`★556 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -454,6 +454,13 @@ InfiRay P2 Pro 热像模块的查看器与 API
 
 ---
 
+#### [Tencent/wave-mcp](https://github.com/Tencent/wave-mcp)
+`★210 · 🔥 热点推荐`
+MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具做 RTL 调试
+> 收录日期：2026-09-20
+
+---
+
 #### [Clothooo/lvt2calib](https://github.com/Clothooo/lvt2calib)
 `★200 · ⭐🔥 已 star + 热点推荐`
 激光雷达、可见光与热像相机的统一标定
@@ -588,6 +595,13 @@ X-Laser，一款小型的矢量激光投影仪
 
 ---
 
+#### [amoslee2026/Babel](https://github.com/amoslee2026/Babel)
+`★45 · 🔥 热点推荐`
+AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
+> 收录日期：2026-09-20
+
+---
+
 #### [haruto89610/rtl-nic](https://github.com/haruto89610/rtl-nic)
 `★39 · ⭐🔥 已 star + 热点推荐`
 自研 FPGA 以太网数据通路的 SystemVerilog RTL（ARP / IPv4 / UDP / TCP 传输控制）
@@ -604,10 +618,24 @@ X-Laser，一款小型的矢量激光投影仪
 
 ---
 
+#### [gokeshenzhen/awesome-formal-verification-skill](https://github.com/gokeshenzhen/awesome-formal-verification-skill)
+`★34 · 🔥 热点推荐`
+RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
+> 收录日期：2026-09-20
+
+---
+
 #### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
 `★29 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
+
+---
+
+#### [RuihongY/axi-compliance-skill](https://github.com/RuihongY/axi-compliance-skill)
+`★27 · 🔥 热点推荐`
+AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
+> 收录日期：2026-09-20
 
 ---
 
@@ -640,6 +668,13 @@ X-Laser，一款小型的矢量激光投影仪
 NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [estlit/SemiconductorSchool-Labs](https://github.com/estlit/SemiconductorSchool-Labs)
+`★20 · 🔥 热点推荐`
+FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
+> 收录日期：2026-09-20
 
 ---
 

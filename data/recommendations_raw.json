@@ -1,7 +1,20 @@
 [
-  {
-    "url": "https://github.com/jofrfu/tinyTPU",
-    "stars": 577,
-    "desc": "面向嵌入式与 IoT 的定点 TPU 协处理器：VHDL 实现，可配置 NxN 矩阵乘加单元，AXI 总线挂到 Zynq 7020 上实测，MNIST 单输入向量 11us"
-  }
+  {"url": "https://github.com/anthropics/claude-code", "stars": 146689, "desc": "终端内的 agentic 编码工具，Claude 官方 CLI，当日热度全站第一"},
+  {"url": "https://github.com/opencv/opencv", "stars": 90895, "desc": "开源计算机视觉基础库，C++/Python，嵌入式视觉与双光配准的公共依赖"},
+  {"url": "https://github.com/opendatalab/MinerU", "stars": 80261, "desc": "把 PDF/Office 文档转成 LLM 就绪的 markdown/JSON，agent 工作流的文档摄取入口"},
+  {"url": "https://github.com/colbymchenry/codegraph", "stars": 71494, "desc": "预索引的代码知识图谱，代码变更自动增量同步，自述支持 Hermes Agent"},
+  {"url": "https://github.com/mem0ai/mem0", "stars": 65651, "desc": "Universal memory layer，为 AI Agent 提供持久记忆基础设施"},
+  {"url": "https://github.com/lyogavin/airllm", "stars": 34557, "desc": "分层加载推理，单张 4GB 显存跑 70B 大模型，压显存的成本路线"},
+  {"url": "https://github.com/BruceDevices/firmware", "stars": 6777, "desc": "Bruce：ESP32 多工具固件（注入/渗透/IR/RF/NFC），topics 含 esp32-c5"},
+  {"url": "https://github.com/OMOTE-Community/OMOTE-Firmware", "stars": 1780, "desc": "ESP32 通用遥控器固件，LVGL 触摸界面 + 红外/BLE/WiFi 三链路"},
+  {"url": "https://github.com/maxritter/diy-thermocam", "stars": 1223, "desc": "DIY 热像仪整机：FLIR Lepton 2.5/3.1R/3.5 + Arduino/Teensy 4.1 固件"},
+  {"url": "https://github.com/Tencent/wave-mcp", "stars": 210, "desc": "MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具做 RTL 调试"},
+  {"url": "https://github.com/sparkfun/SparkFun_MLX90640_Arduino_Example", "stars": 147, "desc": "MLX90640 32x24 红外阵列驱动与可视化例程，低分辨率温度场入门"},
+  {"url": "https://github.com/mlxljz/TWMM", "stars": 68, "desc": "无人机热红外与可见光图像配准方法实现，双光融合的算法对照基线"},
+  {"url": "https://github.com/amoslee2026/Babel", "stars": 45, "desc": "AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链"},
+  {"url": "https://github.com/lucaong/nerves_thermal_camera", "stars": 36, "desc": "Elixir/Nerves 驱动 MLX90640 热像相机，跑在树莓派上"},
+  {"url": "https://github.com/gokeshenzhen/awesome-formal-verification-skill", "stars": 34, "desc": "RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流"},
+  {"url": "https://github.com/RuihongY/axi-compliance-skill", "stars": 27, "desc": "AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代"},
+  {"url": "https://github.com/estlit/SemiconductorSchool-Labs", "stars": 20, "desc": "FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板"},
+  {"url": "https://github.com/initdc/mpy-xueersi-coding-esp32", "stars": 17, "desc": "MicroPython 教育掌机固件，ESP32 上的学而思编程设备"}
 ]
