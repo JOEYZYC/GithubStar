@@ -455,8 +455,9 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [Tencent/wave-mcp](https://github.com/Tencent/wave-mcp)
-`★210 · 🔥 热点推荐`
+`★210 · ⭐🔥 已 star + 热点推荐`
 MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具做 RTL 调试
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
@@ -596,8 +597,9 @@ X-Laser，一款小型的矢量激光投影仪
 ---
 
 #### [amoslee2026/Babel](https://github.com/amoslee2026/Babel)
-`★45 · 🔥 热点推荐`
+`★45 · ⭐🔥 已 star + 热点推荐`
 AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
@@ -619,8 +621,9 @@ AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
 ---
 
 #### [gokeshenzhen/awesome-formal-verification-skill](https://github.com/gokeshenzhen/awesome-formal-verification-skill)
-`★34 · 🔥 热点推荐`
+`★34 · ⭐🔥 已 star + 热点推荐`
 RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
@@ -633,8 +636,9 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [RuihongY/axi-compliance-skill](https://github.com/RuihongY/axi-compliance-skill)
-`★27 · 🔥 热点推荐`
+`★27 · ⭐🔥 已 star + 热点推荐`
 AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
@@ -672,8 +676,9 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 ---
 
 #### [estlit/SemiconductorSchool-Labs](https://github.com/estlit/SemiconductorSchool-Labs)
-`★20 · 🔥 热点推荐`
+`★20 · ⭐🔥 已 star + 热点推荐`
 FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---

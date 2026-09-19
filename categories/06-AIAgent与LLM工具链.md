@@ -1,6 +1,6 @@
 # AI Agent 与 LLM 工具链
 
-> 共 61 个项目 · 数据更新时间 2026-09-20 · [返回总览](../README.md)
+> 共 62 个项目 · 数据更新时间 2026-09-20 · [返回总览](../README.md)
 
 ---
 
@@ -19,14 +19,14 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [mattpocock/skills](https://github.com/mattpocock/skills)
-`★265,801 · Shell · ⭐ 已 star`
+`★265,804 · Shell · ⭐ 已 star`
 Skills for Real Engineers. Straight from my .agents directory.
 > 收录日期：2026-09-13
 
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★262,926 · JavaScript · ⭐ 已 star`
+`★262,932 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -47,21 +47,22 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★153,542 · Shell · ⭐ 已 star`
+`★153,544 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
 ---
 
 #### [anthropics/claude-code](https://github.com/anthropics/claude-code)
-`★146,689 · 🔥 热点推荐`
+`★146,689 · ⭐🔥 已 star + 热点推荐`
 终端内的 agentic 编码工具，Claude 官方 CLI，当日热度全站第一
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
 
 #### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-`★142,507 · JavaScript · ⭐ 已 star`
+`★142,510 · JavaScript · ⭐ 已 star`
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 > 收录日期：2026-09-13
 
@@ -75,14 +76,14 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★129,056 · Python · ⭐ 已 star`
+`★129,058 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
 ---
 
 #### [earendil-works/pi](https://github.com/earendil-works/pi)
-`★107,305 · TypeScript · ⭐ 已 star`
+`★107,306 · TypeScript · ⭐ 已 star`
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 > 收录日期：2026-09-13
 
@@ -97,7 +98,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-`★83,447 · Python · ⭐ 已 star`
+`★83,449 · Python · ⭐ 已 star`
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 > 收录日期：2026-09-13
 
@@ -111,50 +112,53 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
-`★80,261 · 🔥 热点推荐`
+`★80,261 · ⭐🔥 已 star + 热点推荐`
 把 PDF/Office 文档转成 LLM 就绪的 markdown/JSON，agent 工作流的文档摄取入口
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★72,590 · TypeScript · ⭐ 已 star`
+`★72,592 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
 ---
 
 #### [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
-`★71,494 · 🔥 热点推荐`
+`★71,494 · ⭐🔥 已 star + 热点推荐`
 预索引的代码知识图谱，代码变更自动增量同步，自述支持 Hermes Agent
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
 
 #### [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-`★69,201 · TypeScript · ⭐ 已 star`
+`★69,200 · TypeScript · ⭐ 已 star`
 OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 > 收录日期：2026-09-13
 
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★69,158 · JavaScript · ⭐ 已 star`
+`★69,161 · JavaScript · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
 ---
 
 #### [cline/cline](https://github.com/cline/cline)
-`★68,782 · TypeScript · ⭐ 已 star`
+`★68,783 · TypeScript · ⭐ 已 star`
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 > 收录日期：2026-09-13
 
 ---
 
 #### [mem0ai/mem0](https://github.com/mem0ai/mem0)
-`★65,651 · 🔥 热点推荐`
+`★65,651 · ⭐🔥 已 star + 热点推荐`
 Universal memory layer，为 AI Agent 提供持久记忆基础设施
+> 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
 
 ---
@@ -181,14 +185,14 @@ Build infinite canvas apps in React with the tldraw SDK. World's best, top-most 
 ---
 
 #### [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
-`★41,954 · Python · ⭐ 已 star`
+`★41,955 · Python · ⭐ 已 star`
 Build resilient agents.
 > 收录日期：2026-09-13
 
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★38,864 · Markdown · ⭐ 已 star`
+`★38,865 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -203,7 +207,7 @@ Skills for Designers and Engineers.
 ---
 
 #### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-`★36,547 · PowerShell · ⭐ 已 star`
+`★36,548 · PowerShell · ⭐ 已 star`
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 > 收录日期：2026-09-13
 
@@ -296,7 +300,7 @@ Cloudflare 出品的多阶段代码/系统安全审计 agent skill，输出机�
 ---
 
 #### [openchamber/openchamber](https://github.com/openchamber/openchamber)
-`★10,094 · TypeScript · ⭐ 已 star`
+`★10,093 · TypeScript · ⭐ 已 star`
 Agentic Development Environment based on OpenCode AI agent
 > 收录日期：2026-09-13
 
@@ -313,6 +317,13 @@ Review-first terminal diff viewer for agentic coders
 `★9,221 · TypeScript · ⭐ 已 star`
 Give your agent a computer 👾
 > 收录日期：2026-09-13
+
+---
+
+#### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+`★8,292 · Python · ⭐ 已 star`
+i. am. speed.
+> 收录日期：2026-09-20
 
 ---
 

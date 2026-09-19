@@ -100,6 +100,7 @@ OVERRIDES: dict[str, str] = {
     "estlit/SemiconductorSchool-Labs": "硬件设计与 EDA",
     "lucaong/nerves_thermal_camera": "嵌入式与单片机",
     "mlxljz/TWMM": "AI 模型与视觉",
+    "browser-use/jev-ultrafast": "AI Agent 与 LLM 工具链",
     # ---- 2026-09-19：规则未命中（description 信息量不足 / 命中顺序错位），人工归入 ----
     "DroidPlanner/Tower": "飞控与无人机",
     "OpenATS/OpenATS": "飞控与无人机",
