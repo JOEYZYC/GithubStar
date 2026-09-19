@@ -5,7 +5,7 @@
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,079 · Python · ⭐ 已 star`
+`★16,106 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -138,18 +138,18 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★2,068 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [Bouni/kicad-jlcpcb-tools](https://github.com/Bouni/kicad-jlcpcb-tools)
 `★2,066 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,061 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 
@@ -290,7 +290,7 @@ Mac 原生 PCB 设计工具，个人与商业使用均免费
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★554 · C · ⭐ 已 star`
+`★555 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 

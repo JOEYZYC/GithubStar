@@ -496,3 +496,4 @@
 {"url": "https://github.com/striderZA/Tiny-RF-Simulator", "stars": 27, "desc": "模块化射频链路仿真器，可级联放大器/滤波器/混频器/ADC 并实时显示频谱", "date": "2026-09-19"}
 {"url": "https://github.com/muhammadghiffari/weview", "stars": 19, "desc": "基于 WiFi CSI 的空间智能平台：实时人体姿态估计与三维观测可视化", "date": "2026-09-19"}
 {"url": "https://github.com/Panasonic-Advanced-Technology/q3dweb", "stars": 18, "desc": "轻量浏览器/VS Code 三维点云查看器，快速检查点云结果", "date": "2026-09-19"}
+{"url": "https://github.com/jofrfu/tinyTPU", "stars": 577, "desc": "面向嵌入式与 IoT 的定点 TPU 协处理器：VHDL 实现，可配置 NxN 矩阵乘加单元，AXI 总线挂到 Zynq 7020 上实测，MNIST 单输入向量 11us", "date": "2026-09-19"}
