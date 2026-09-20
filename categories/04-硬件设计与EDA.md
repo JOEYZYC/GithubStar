@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 91 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
+> 共 92 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
 
 ---
 
@@ -459,6 +459,14 @@ InfiRay P2 Pro 热像模块的查看器与 API
 MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具做 RTL 调试
 > 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
+
+---
+
+#### [enjoy-digital/litescope](https://github.com/enjoy-digital/litescope)
+`★207 · ⭐🔥 已 star + 热点推荐`
+小体积可配置的 FPGA 片内逻辑分析仪，直接在 RTL 内插观测点
+> 热点推荐于 2026-09-21
+> 收录日期：2026-09-21
 
 ---
 

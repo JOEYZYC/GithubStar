@@ -1,6 +1,6 @@
 # AI Agent 与 LLM 工具链
 
-> 共 75 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
+> 共 76 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
 
 ---
 
@@ -40,7 +40,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★208,873 · TypeScript · ⭐ 已 star`
+`★208,874 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
@@ -76,7 +76,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★129,327 · Python · ⭐ 已 star`
+`★129,326 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -98,7 +98,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-`★83,825 · Python · ⭐ 已 star`
+`★83,826 · Python · ⭐ 已 star`
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 > 收录日期：2026-09-13
 
@@ -199,8 +199,9 @@ Skills for Designers and Engineers.
 ---
 
 #### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
-`★38,206 · 🔥 热点推荐`
+`★38,206 · ⭐🔥 已 star + 热点推荐`
 自进化上下文数据库，把 agent 记忆、知识 RAG 与技能统一为一条数据面
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -242,22 +243,25 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 ---
 
 #### [topoteretes/cognee](https://github.com/topoteretes/cognee)
-`★30,864 · 🔥 热点推荐`
+`★30,864 · ⭐🔥 已 star + 热点推荐`
 面向 agent 的开源 AI 记忆平台，跨会话持久长期记忆与自托管知识图谱
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
 
 #### [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
-`★28,646 · 🔥 热点推荐`
+`★28,646 · ⭐🔥 已 star + 热点推荐`
 面向编码 agent 的持久记忆层，宣称基于真实场景基准取得领先
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
 
 #### [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)
-`★28,381 · 🔥 热点推荐`
+`★28,381 · ⭐🔥 已 star + 热点推荐`
 哈佛 CS249r 机器学习系统教材开源书，覆盖扩展、agentic AI 与 Physical AI
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -284,15 +288,17 @@ The headless browser for AI agents and web scraping
 ---
 
 #### [gastownhall/beads](https://github.com/gastownhall/beads)
-`★27,327 · 🔥 热点推荐`
+`★27,327 · ⭐🔥 已 star + 热点推荐`
 给编码 agent 的记忆升级方案，把会话、决策与上下文结构化留存
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
 
 #### [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
-`★27,042 · 🔥 热点推荐`
+`★27,042 · ⭐🔥 已 star + 热点推荐`
 腾讯云团队级 agent 记忆中枢，把对话、文档与代码沉淀为四类可复用记忆资产
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -342,22 +348,24 @@ Cloudflare 出品的多阶段代码/系统安全审计 agent skill，输出机�
 ---
 
 #### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
-`★11,734 · Python · ⭐ 已 star`
+`★11,735 · Python · ⭐ 已 star`
 i. am. speed.
 > 收录日期：2026-09-20
 
 ---
 
 #### [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
-`★10,786 · 🔥 热点推荐`
+`★10,786 · ⭐🔥 已 star + 热点推荐`
 面向 AI agent 与编辑器的极快文件搜索 SDK，同时支持 Rust/C/Python/Node（Trending 当日 +21）
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
 
 #### [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)
-`★10,330 · 🔥 热点推荐`
+`★10,330 · ⭐🔥 已 star + 热点推荐`
 从下载数据到生成文本，一条龙讲清如何从零训练语言模型（Trending 当日 +196）
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -366,6 +374,14 @@ i. am. speed.
 `★10,160 · TypeScript · ⭐ 已 star`
 Agentic Development Environment based on OpenCode AI agent
 > 收录日期：2026-09-13
+
+---
+
+#### [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch)
+`★9,352 · ⭐🔥 已 star + 热点推荐`
+LangChain 官方 RAG 从零实现系列，检索增强生成的原理到代码
+> 热点推荐于 2026-09-21
+> 收录日期：2026-09-21
 
 ---
 
@@ -384,8 +400,9 @@ Give your agent a computer 👾
 ---
 
 #### [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
-`★7,334 · 🔥 热点推荐`
+`★7,334 · ⭐🔥 已 star + 热点推荐`
 为 agent 编码 CLI 提供长期记忆与跨厂商会话交接（Trending 当日 +96）
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -406,8 +423,9 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 ---
 
 #### [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)
-`★5,172 · 🔥 热点推荐`
+`★5,172 · ⭐🔥 已 star + 热点推荐`
 构建 agentic 应用的全栈框架，把 agent 能力当作应用的原生能力（Trending 当日 +89）
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -455,8 +473,9 @@ J-Space Cognition Suite — a model-agnostic inference-time control suite for de
 ---
 
 #### [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch)
-`★2,301 · 🔥 热点推荐`
+`★2,301 · ⭐🔥 已 star + 热点推荐`
 从零构建带人工确认环与记忆的邮件助手，agent 工程教学系列
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -517,8 +536,9 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 ---
 
 #### [lichuang/semquery](https://github.com/lichuang/semquery)
-`★63 · 🔥 热点推荐`
+`★63 · ⭐🔥 已 star + 热点推荐`
 终端里的本地文档问答工具，完全在设备端 LLM 上运行
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
