@@ -515,3 +515,119 @@
 {"url": "https://github.com/RuihongY/axi-compliance-skill", "stars": 27, "desc": "AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代", "date": "2026-09-20"}
 {"url": "https://github.com/estlit/SemiconductorSchool-Labs", "stars": 20, "desc": "FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板", "date": "2026-09-20"}
 {"url": "https://github.com/initdc/mpy-xueersi-coding-esp32", "stars": 17, "desc": "MicroPython 教育掌机固件，ESP32 上的学而思编程设备", "date": "2026-09-20"}
+{"url": "https://github.com/volcengine/OpenViking", "stars": 38206, "desc": "自进化上下文数据库，把 agent 记忆、知识 RAG 与技能统一为一条数据面", "date": "2026-09-21"}
+{"url": "https://github.com/topoteretes/cognee", "stars": 30864, "desc": "面向 agent 的开源 AI 记忆平台，跨会话持久长期记忆与自托管知识图谱", "date": "2026-09-21"}
+{"url": "https://github.com/rohitg00/agentmemory", "stars": 28646, "desc": "面向编码 agent 的持久记忆层，宣称基于真实场景基准取得领先", "date": "2026-09-21"}
+{"url": "https://github.com/harvard-edge/cs249r_book", "stars": 28381, "desc": "哈佛 CS249r 机器学习系统教材开源书，覆盖扩展、agentic AI 与 Physical AI", "date": "2026-09-21"}
+{"url": "https://github.com/gastownhall/beads", "stars": 27327, "desc": "给编码 agent 的记忆升级方案，把会话、决策与上下文结构化留存", "date": "2026-09-21"}
+{"url": "https://github.com/TencentCloud/TencentDB-Agent-Memory", "stars": 27042, "desc": "腾讯云团队级 agent 记忆中枢，把对话、文档与代码沉淀为四类可复用记忆资产", "date": "2026-09-21"}
+{"url": "https://github.com/dmtrKovalenko/fff", "stars": 10786, "desc": "面向 AI agent 与编辑器的极快文件搜索 SDK，同时支持 Rust/C/Python/Node（Trending 当日 +21）", "date": "2026-09-21"}
+{"url": "https://github.com/FareedKhan-dev/train-llm-from-scratch", "stars": 10330, "desc": "从下载数据到生成文本，一条龙讲清如何从零训练语言模型（Trending 当日 +196）", "date": "2026-09-21"}
+{"url": "https://github.com/langchain-ai/rag-from-scratch", "stars": 9352, "desc": "LangChain 官方 RAG 从零实现系列，检索增强生成的原理到代码", "date": "2026-09-21"}
+{"url": "https://github.com/akitaonrails/ai-memory", "stars": 7334, "desc": "为 agent 编码 CLI 提供长期记忆与跨厂商会话交接（Trending 当日 +96）", "date": "2026-09-21"}
+{"url": "https://github.com/Serial-Studio/Serial-Studio", "stars": 7203, "desc": "开源遥测仪表盘，串口/BLE/MQTT/Modbus/CAN 数据实时绘图与记录", "date": "2026-09-21"}
+{"url": "https://github.com/BuilderIO/agent-native", "stars": 5172, "desc": "构建 agentic 应用的全栈框架，把 agent 能力当作应用的原生能力（Trending 当日 +89）", "date": "2026-09-21"}
+{"url": "https://github.com/iDoka/awesome-canbus", "stars": 3473, "desc": "CAN 总线工具、硬件与资源精选清单，覆盖逆向、仿真与汽车电子入门", "date": "2026-09-21"}
+{"url": "https://github.com/betaflight/betaflight-configurator", "stars": 3321, "desc": "Betaflight 飞控的跨平台配置与调参客户端，飞控参数、模式与黑盒设置的图形入口", "date": "2026-09-21"}
+{"url": "https://github.com/langchain-ai/agents-from-scratch", "stars": 2301, "desc": "从零构建带人工确认环与记忆的邮件助手，agent 工程教学系列", "date": "2026-09-21"}
+{"url": "https://github.com/cantools/cantools", "stars": 2288, "desc": "CAN 总线数据库（DBC/KCD/SYM）解析与报文编解码的 Python 工具箱", "date": "2026-09-21"}
+{"url": "https://github.com/GENIVI/CANdevStudio", "stars": 1141, "desc": "CAN 总线仿真与开发工具，图形化搭报文收发与信号解析", "date": "2026-09-21"}
+{"url": "https://github.com/rbei-etas/busmaster", "stars": 1077, "desc": "开源 CAN 总线仿真、分析与测试软件，老牌汽车总线工具", "date": "2026-09-21"}
+{"url": "https://github.com/MatthewKuKanich/CAN_Commander", "stars": 1063, "desc": "面向 CAN 总线逆向工程的综合工具，报文捕获、解析与回放", "date": "2026-09-21"}
+{"url": "https://github.com/rl-tools/rl-tools", "stars": 1035, "desc": "用 Rust/C++ 写的高性能深度强化学习库，主打训练吞吐", "date": "2026-09-21"}
+{"url": "https://github.com/CaringCaribou/caringcaribou", "stars": 950, "desc": "汽车 CAN 总线安全探索工具，做 UDS 与模糊测试的友好入口", "date": "2026-09-21"}
+{"url": "https://github.com/Seeed-Studio/Seeed_Arduino_CAN", "stars": 930, "desc": "Seeed Arduino CAN 库，支持 MCP2518FD / MCP2515 / MCP2551 收发器", "date": "2026-09-21"}
+{"url": "https://github.com/ecubus/EcuBus-Pro", "stars": 871, "desc": "汽车 ECU 开发工具，覆盖 UDS、CAN-TP、DoIP、LIN、类 CAPL 脚本与 HIL 测试", "date": "2026-09-21"}
+{"url": "https://github.com/KevinOConnor/can2040", "stars": 865, "desc": "RP2040 上用 PIO 实现的软件 CAN 总线，无需专用控制器芯片", "date": "2026-09-21"}
+{"url": "https://github.com/sandeepmistry/arduino-CAN", "stars": 828, "desc": "Arduino 平台收发 CAN 报文的轻量库，入门原型常用", "date": "2026-09-21"}
+{"url": "https://github.com/nicholasaleks/Damn-Vulnerable-Drone", "stars": 823, "desc": "基于 ArduPilot/MAVLink 架构的故意脆弱无人机靶场，用于无人机安全教学与演练", "date": "2026-09-21"}
+{"url": "https://github.com/skiars/SerialTool", "stars": 777, "desc": "跨平台串口 / TCP / UDP 调试工具，带脚本与协议解析", "date": "2026-09-21"}
+{"url": "https://github.com/betaflight/betaflight-tx-lua-scripts", "stars": 727, "desc": "直接从 OpenTX/EdgeTX 遥控器配置 Betaflight 的 Lua 脚本集", "date": "2026-09-21"}
+{"url": "https://github.com/zhinkgit/embeddedskills", "stars": 696, "desc": "面向 AI 编程助手的嵌入式开发与调试技能集，可直接接入 Claude Code 等工具", "date": "2026-09-21"}
+{"url": "https://github.com/CreativeLau/Mini-DSO", "stars": 676, "desc": "用 STC 单片机做的简易数字存储示波器，低成本的仪器自研参考", "date": "2026-09-21"}
+{"url": "https://github.com/ai-techsystems/deepC", "stars": 606, "desc": "厂商无关的 TinyML 深度学习库、编译器与推理框架，面向微控制器", "date": "2026-09-21"}
+{"url": "https://github.com/Helldez/BigMoeOnEdge", "stars": 586, "desc": "在 12GB 内存手机上无损跑超过内存规模的 MoE 大模型，纯 CPU 推理", "date": "2026-09-21"}
+{"url": "https://github.com/betaflight/blackbox-log-viewer", "stars": 507, "desc": "Betaflight 黑盒飞行日志的交互式查看器，飞控调试的标准工具", "date": "2026-09-21"}
+{"url": "https://github.com/analogdevicesinc/scopy", "stars": 499, "desc": "ADI 出品的软件示波器与信号分析工具集，配合 PlutoSDR 等硬件使用", "date": "2026-09-21"}
+{"url": "https://github.com/ShikOfTheRa/scarab-osd", "stars": 475, "desc": "MWOSD 无人机 HUD 固件，老一代模拟图传 OSD 的成熟实现", "date": "2026-09-21"}
+{"url": "https://github.com/drandyhaas/HaasoscopePro", "stars": 470, "desc": "2GHz / 3.2GS/s / 12bit 的开源开源硬件 USB 实时示波器，可扩展", "date": "2026-09-21"}
+{"url": "https://github.com/Plasmatree/PID-Analyzer", "stars": 431, "desc": "用黑盒日志做频域分析来评估 PID 调参质量，替代纯手感试飞", "date": "2026-09-21"}
+{"url": "https://github.com/qiskit-community/qiskit-metal", "stars": 426, "desc": "超导量子芯片设计与分析的 Python 框架，可做平面电磁仿真，EDA 级且支持无头运行", "date": "2026-09-21"}
+{"url": "https://github.com/mangye16/Cross-Modal-Re-ID-baseline", "stars": 401, "desc": "可见光与热红外跨模态行人重识别的 PyTorch 基线，跨模态特征对齐的标准参照", "date": "2026-09-21"}
+{"url": "https://github.com/Extelligence-ai/bagel", "stars": 397, "desc": "MCP 服务器，用自然语言查询机器人/无人机/IoT 数据，并在边缘侧做数据缩减", "date": "2026-09-21"}
+{"url": "https://github.com/EUA/ESP32_LogicAnalyzer", "stars": 317, "desc": "ESP32 逻辑分析仪，用普通 MCU 实现低成本数字信号抓取", "date": "2026-09-21"}
+{"url": "https://github.com/teckel12/LuaTelemetry", "stars": 307, "desc": "FrSky SmartPort/F.Port 与 TBS Crossfire 遥测的 Lua 脚本套件，Taranis/Horus 遥控器可用", "date": "2026-09-21"}
+{"url": "https://github.com/AdrianEddy/telemetry-parser", "stars": 305, "desc": "Rust 实现的遥测解析工具，抽视频内嵌元数据与 Betaflight blackbox 等来源的飞行数据", "date": "2026-09-21"}
+{"url": "https://github.com/alainiamburg/sniffROM", "stars": 304, "desc": "被动抓取串行 Flash 总线并用逻辑分析仪重建固件，硬件取证入门", "date": "2026-09-21"}
+{"url": "https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset", "stars": 267, "desc": "无人机高空视角红外热成像目标检测数据集，适配航拍小目标场景", "date": "2026-09-21"}
+{"url": "https://github.com/nmatt0/moria", "stars": 264, "desc": "IoT 固件识别与提取工具，自动判定文件系统与压缩格式", "date": "2026-09-21"}
+{"url": "https://github.com/fpv-wtf/msp-osd", "stars": 260, "desc": "MSP DisplayPort 数字图传 OSD 实现，把飞控遥测叠进 DJI/Walksnail 数字图传画面", "date": "2026-09-21"}
+{"url": "https://github.com/Hamspiced/piglet", "stars": 244, "desc": "开源 ESP32 wardriving 平台，扫 WiFi 网络并配 GPS 定位存成 WiGLE 可直接用的 CSV 到 SD 卡", "date": "2026-09-21"}
+{"url": "https://github.com/skizzophrenic/Cardputer-CSI-Human-Detector", "stars": 222, "desc": "M5Stack Cardputer 上的 CSI 人体检测实现，用 CSI 幅度变化判定人体存在", "date": "2026-09-21"}
+{"url": "https://github.com/enjoy-digital/litescope", "stars": 207, "desc": "小体积可配置的 FPGA 片内逻辑分析仪，直接在 RTL 内插观测点", "date": "2026-09-21"}
+{"url": "https://github.com/OnderT/XoFTR", "stars": 197, "desc": "热红外与可见光之间的跨模态跨视角局部特征匹配方法，可用于双光图像配准", "date": "2026-09-21"}
+{"url": "https://github.com/GeneralDussDuss/poseidon", "stars": 186, "desc": "M5Stack Cardputer-Adv 多功能渗透固件，覆盖 WiFi/BLE、sub-GHz(CC1101)、2.4G(nRF24)、LoRa(SX1262) 与 BadUSB", "date": "2026-09-21"}
+{"url": "https://github.com/ultraembedded/openlogicbit", "stars": 177, "desc": "开源 FPGA 逻辑分析仪 gateware，可替换商用逻辑分析仪固件", "date": "2026-09-21"}
+{"url": "https://github.com/cnlohr/fx3fun", "stars": 171, "desc": "把 Cypress FX3 当逻辑分析仪与软件定义总线用，USB3 高速抓取参考", "date": "2026-09-21"}
+{"url": "https://github.com/QiaoLiuHit/LSOTB-TIR", "stars": 150, "desc": "大规模高多样性热红外目标跟踪基准（ACM MM2020），含评测协议", "date": "2026-09-21"}
+{"url": "https://github.com/RPM-Robotics-Lab/sRGB-TIR", "stars": 145, "desc": "边缘引导的多域 RGB 到热红外图像翻译模块，合成 TIR 数据扩充手段", "date": "2026-09-21"}
+{"url": "https://github.com/steevo87/thermalvis", "stars": 142, "desc": "基于 OpenCV 的跨平台热红外图像处理与视觉功能库", "date": "2026-09-21"}
+{"url": "https://github.com/burakcan/MeshCore-mishmesh", "stars": 109, "desc": "MeshCore 无线电的独立伴机固件", "date": "2026-09-21"}
+{"url": "https://github.com/kpobrien/JosephsonCircuits.jl", "stars": 96, "desc": "约瑟夫森结电路的频域多音谐波平衡仿真，直接算散射参数与噪声", "date": "2026-09-21"}
+{"url": "https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2", "stars": 88, "desc": "插在 PCIe 槽、由 ESP32-H2 通过 Zigbee/Home Assistant 远程开关机的控制卡", "date": "2026-09-21"}
+{"url": "https://github.com/Twotoz/C5VRX", "stars": 80, "desc": "零 CPU 占用的 5.8GHz 模拟 FPV 图传接收机，直接调用 ESP32-C5 WiFi6 PHY 的 MODEM_DIAG 与 BitScrambler 做 WBFM 解调", "date": "2026-09-21"}
+{"url": "https://github.com/QiaoLiuHit/PTB-TIR_Evaluation_toolkit", "stars": 73, "desc": "热红外行人跟踪基准的评测工具箱，含标注与指标脚本", "date": "2026-09-21"}
+{"url": "https://github.com/RockBase-iot/NM-CYD-C5", "stars": 72, "desc": "ESP32-C5 版 Cheap Yellow Display 开发板，带屏并支持双频 WiFi6 / BLE5 / Thread / Zigbee", "date": "2026-09-21"}
+{"url": "https://github.com/RoboticWorx/OpenTemp", "stars": 72, "desc": "STM32 + MLX90640 开源高精度热像仪与红外测温方案，含完整硬件与固件", "date": "2026-09-21"}
+{"url": "https://github.com/ocfh/mecanum-wheel-car-ble-voice-stm32", "stars": 71, "desc": "基于 STM32 的麦克纳姆轮小车，支持 BLE 控制与语音交互", "date": "2026-09-21"}
+{"url": "https://github.com/HyeonJaeGil/fieldscale", "stars": 69, "desc": "基于局部性自适应场的热红外图像重缩放方法（RA-L 2024 / ICRA 2025）", "date": "2026-09-21"}
+{"url": "https://github.com/Evil-Project-Team/ESP32-C5-J4CK3D", "stars": 65, "desc": "ESP32-C5 的 WiFi 扫描与抓包工具包，带赛博朋克风格的 Web 界面", "date": "2026-09-21"}
+{"url": "https://github.com/lichuang/semquery", "stars": 63, "desc": "终端里的本地文档问答工具，完全在设备端 LLM 上运行", "date": "2026-09-21"}
+{"url": "https://github.com/zhaolin820/STAR-RIS-for-terahertz-communications", "stars": 61, "desc": "同时透射反射超表面（STAR-RIS）用于太赫兹通信的论文代码", "date": "2026-09-21"}
+{"url": "https://github.com/ocfh/monocular-ranging-maixcam-stm32-tjc-screen", "stars": 61, "desc": "MaixCAM/OpenCV 视觉识别 + STM32 串口解析 + 串口屏显示的单目测距完整链路", "date": "2026-09-21"}
+{"url": "https://github.com/s-du/Thermogram", "stars": 60, "desc": "DJI 红外相机的热图处理软件，支持热分析、格式转换与可视化", "date": "2026-09-21"}
+{"url": "https://github.com/FuyaLuo/PearlGAN", "stars": 57, "desc": "夜间热红外图像到白天彩色图像的 GAN 翻译，提升夜间视觉可读性", "date": "2026-09-21"}
+{"url": "https://github.com/hasarieddeen/TeraMIMO", "stars": 55, "desc": "太赫兹超大规模 MIMO 宽带信道模拟器，含分子吸收与阵列建模", "date": "2026-09-21"}
+{"url": "https://github.com/john30/ebusd-esp32", "stars": 53, "desc": "ESP32-C5/C6/C3 上的 eBUS 通信固件，含 micro-ebusd 精简实现", "date": "2026-09-21"}
+{"url": "https://github.com/tuzengji/pyaedt-hfss-antenna", "stars": 50, "desc": "让 AI agent 直接驱动 Ansys HFSS 做天线仿真的接口工程", "date": "2026-09-21"}
+{"url": "https://github.com/emilbjornson/nearfield-primer", "stars": 50, "desc": "阵列与可重构智能表面近场波束成形的仿真代码，近场-远场边界判据清晰", "date": "2026-09-21"}
+{"url": "https://github.com/felixriese/thermal-image-processing", "stars": 49, "desc": "FLIR Tau 2 等热像机芯的图像处理脚本集，原始热数据到温度图的换算参考", "date": "2026-09-21"}
+{"url": "https://github.com/cn0xroot/IFDA", "stars": 49, "desc": "IoT 固件深度分析，自动化逆向与漏洞发现", "date": "2026-09-21"}
+{"url": "https://github.com/LaplaceYoung/ansys-aedt-mcp", "stars": 45, "desc": "Ansys Electronics Desktop 的 MCP 服务器，把 HFSS/Maxwell/Q3D/Icepak 的仿真流程变成 agent 可调用工具", "date": "2026-09-21"}
+{"url": "https://github.com/emilbjornson/RIS-myths", "stars": 39, "desc": "RIS 三大迷思与两个关键问题的仿真代码，用于核对 RIS 增益宣称", "date": "2026-09-21"}
+{"url": "https://github.com/trinhudo/Aerial-RIS", "stars": 39, "desc": "空中可重构智能表面辅助无线通信系统的仿真代码（IEEE PIMRC）", "date": "2026-09-21"}
+{"url": "https://github.com/LiZhuoRan0/RIS-AidedChannelEstandLocalization_THzHybridFieldBeamSquint", "stars": 37, "desc": "太赫兹超大规模 RIS 在混合场波束斜视下的信道与定位联合估计仿真", "date": "2026-09-21"}
+{"url": "https://github.com/MrLiuWinter/Reconfigurable-Intelligent-Surface-aided-secure-wireless-communication", "stars": 37, "desc": "RIS 辅助保密无线通信的 DDPG 深度强化学习代码", "date": "2026-09-21"}
+{"url": "https://github.com/78/micropixel", "stars": 37, "desc": "面向 ESP32 一类小芯片的轻量游戏框架", "date": "2026-09-21"}
+{"url": "https://github.com/DevMajed/RF-Microwave-Engineering", "stars": 35, "desc": "使用 ADS、HFSS 的射频微波设计项目集，含滤波器和耦合器等实例", "date": "2026-09-21"}
+{"url": "https://github.com/PhilReinhold/pyHFSS", "stars": 34, "desc": "HFSS 的 Python 脚本接口，用代码建模与批量扫参", "date": "2026-09-21"}
+{"url": "https://github.com/huidt/HFSS_simulation", "stars": 34, "desc": "微波技术方向的 HFSS 仿真设计资料与工程文件", "date": "2026-09-21"}
+{"url": "https://github.com/Spectrewolf777/Stm32l4-Watch", "stars": 34, "desc": "基于 STM32L4P5 与 tinyusb 的开源智能手表（开发中）", "date": "2026-09-21"}
+{"url": "https://github.com/danielflanigan/resonator", "stars": 33, "desc": "谐振器散射参数数据的拟合与分析工具，从 S 参数反推 Q 值与耦合", "date": "2026-09-21"}
+{"url": "https://github.com/YaleTHz/nelly", "stars": 33, "desc": "从太赫兹时域光谱数据提取折射率与电导率的软件包", "date": "2026-09-21"}
+{"url": "https://github.com/wdhwg001/csift", "stars": 31, "desc": "Claude Code 会话检索与恢复工具，可跨全部记录类型做正则搜索并还原文件", "date": "2026-09-21"}
+{"url": "https://github.com/dodge-research-group/thztools", "stars": 30, "desc": "太赫兹时域光谱（THz-TDS）数据处理工具集", "date": "2026-09-21"}
+{"url": "https://github.com/RDJLM/Link-Level-Simulator-for-THz-MIMO-ISAC", "stars": 29, "desc": "太赫兹 MIMO 通感一体化链路级仿真器", "date": "2026-09-21"}
+{"url": "https://github.com/mychele/toward-e2e-6g-terahertz-networks", "stars": 25, "desc": "面向端到端全栈 6G 太赫兹网络的论文配套代码", "date": "2026-09-21"}
+{"url": "https://github.com/Jiahuan-Long/MSDrone-dataset", "stars": 22, "desc": "无人机视角可见光-红外车辆检测数据集，含鲁棒性评测设置", "date": "2026-09-21"}
+{"url": "https://github.com/XmanAZC/gd32c103_ab", "stars": 22, "desc": "GD32C10x 的 BootLoader + A/B 分区升级模板", "date": "2026-09-21"}
+{"url": "https://github.com/GREAT-ISAC/CSI-CLIP", "stars": 21, "desc": "把 CSI 与视觉/文本对齐的多模态基础模型研究代码，面向通感一体化场景", "date": "2026-09-21"}
+{"url": "https://github.com/THzBiophotonicsRomain/Fit-TDS", "stars": 21, "desc": "fit@TDS 软件，从太赫兹时域波形反演材料参数", "date": "2026-09-21"}
+{"url": "https://github.com/GREAT-ISAC/CSI-MAE", "stars": 20, "desc": "CSI 掩码自编码器预训练代码，用自监督方式学习无线信道表征", "date": "2026-09-21"}
+{"url": "https://github.com/Ly041021/TIO-Former", "stars": 20, "desc": "面向纳米无人机的超轻量六向 ToF-惯性里程计，极低算力下做位姿估计", "date": "2026-09-21"}
+{"url": "https://github.com/OpenResearchInstitute/Arcanum", "stars": 20, "desc": "开源矩量法（MoM）天线设计与分析求解器，Rust 实现", "date": "2026-09-21"}
+{"url": "https://github.com/udaykdk/pixelant", "stars": 16, "desc": "用神经网络对像素化天线做逆向设计，AI 驱动的天线结构生成", "date": "2026-09-21"}
+{"url": "https://github.com/Yuhang-Chen-TWC/DSE-SSE-demo", "stars": 16, "desc": "球面波与平面波混合的太赫兹 UM-MIMO 与 IRS 信道建模估计演示", "date": "2026-09-21"}
+{"url": "https://github.com/DangLamTung/ESP32_OSM_NAV", "stars": 16, "desc": "ESP32 上的离线 OpenStreetMap 导航实现", "date": "2026-09-21"}
+{"url": "https://github.com/trey-copeland/uavsim", "stars": 15, "desc": "四旋翼软件在环 GNC 仿真：飞行动力学、控制器、蒙特卡洛与交互式三维展示", "date": "2026-09-21"}
+{"url": "https://github.com/ZSN2024/AGC-VLN", "stars": 13, "desc": "无人机与地面车协同的视觉语言导航系统，强调协同增益", "date": "2026-09-21"}
+{"url": "https://github.com/puls-lab/phoeniks", "stars": 13, "desc": "从 THz-TDS 时域轨迹提取折射率与吸收系数的开源 Python 类", "date": "2026-09-21"}
+{"url": "https://github.com/tak-wong/THz-AutoEncoder", "stars": 13, "desc": "用自编码器优化器做太赫兹图像重建的训练代码", "date": "2026-09-21"}
+{"url": "https://github.com/makerspet/oomwoo-firmware", "stars": 13, "desc": "OOMWOO I/O 板的 STM32G473VCT6 Arduino 固件，与开源扫地机项目配套", "date": "2026-09-21"}
+{"url": "https://github.com/rustsbi/lssbi", "stars": 13, "desc": "查看 Linux 下 RISC-V SBI 环境信息的工具，RISC-V 平台调试小工具", "date": "2026-09-21"}
+{"url": "https://github.com/witwin-ai/witwin-maxwell", "stars": 12, "desc": "基于 PyTorch 的可微全波电磁求解器，在 GPU 上做端到端反向设计", "date": "2026-09-21"}
+{"url": "https://github.com/interfas24/RAAnalysis-py", "stars": 12, "desc": "谐振器/天线分析工具的 Python 版本", "date": "2026-09-21"}
+{"url": "https://github.com/dodge-research-group/thz-tds-mle", "stars": 12, "desc": "THz-TDS 的最大似然参数估计方法实现", "date": "2026-09-21"}
+{"url": "https://github.com/kalesha681/ARES-Autonomous-Surveyor", "stars": 11, "desc": "GPS 拒止地形测绘的分体计算无人机系统，含往复式覆盖路径与边缘 AI 推理", "date": "2026-09-21"}
+{"url": "https://github.com/ganghui0/dcs-thz-mimo-ce", "stars": 10, "desc": "太赫兹超大规模 MIMO 信道估计的深度压缩感知代码", "date": "2026-09-21"}
+{"url": "https://github.com/githublzb/CNN-for-Terahertz-CT-image-Reconstruction", "stars": 10, "desc": "用 CNN 做太赫兹 CT 图像重建的示例代码", "date": "2026-09-21"}

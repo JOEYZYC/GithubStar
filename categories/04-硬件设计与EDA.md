@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 91 个项目 · 数据更新时间 2026-09-20 · [返回总览](../README.md)
+> 共 91 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,147 · Python · ⭐ 已 star`
+`★16,187 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,890 · C++ · ⭐ 已 star`
+`★2,891 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,091 · Rust · ⭐ 已 star`
+`★2,133 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -281,18 +281,18 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
+`★560 · C · ⭐ 已 star`
+Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
+> 收录日期：2026-09-13
+
+---
+
 #### [CircuitProApp/CircuitPro](https://github.com/CircuitProApp/CircuitPro)
 `★557 · ⭐🔥 已 star + 热点推荐`
 Mac 原生 PCB 设计工具，个人与商业使用均免费
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
-
----
-
-#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★556 · C · ⭐ 已 star`
-Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
-> 收录日期：2026-09-13
 
 ---
 
@@ -551,7 +551,7 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
-`★95 · Python · ⭐ 已 star`
+`★96 · Python · ⭐ 已 star`
 AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
 > 收录日期：2026-09-13
 
@@ -629,7 +629,7 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★29 · C++ · ⭐ 已 star`
+`★30 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
 
