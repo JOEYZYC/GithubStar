@@ -12861,7 +12861,7 @@
   {
    "full_name": "kyleyct/wifi-densepose-elderly",
    "url": "https://github.com/kyleyct/wifi-densepose-elderly",
-   "description": "WiFi DensePose 長者防跌倒系統：基于 CSI 信号的非侵入式跌倒侦测，无需摄像机",
+   "description": "WiFi DensePose 长者防跌倒系统：基于 WiFi CSI 信号的非侵入式跌倒侦测，无需摄像机",
    "language": "",
    "stars": 67,
    "topics": [],
