@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 93 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
+> 共 99 个项目 · 数据更新时间 2026-09-22 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,199 · Python · ⭐ 已 star`
+`★16,230 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,894 · C++ · ⭐ 已 star`
+`★2,900 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,144 · Rust · ⭐ 已 star`
+`★2,172 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -352,6 +352,20 @@ OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 
 ---
 
+#### [MitjaNemec/Kicad_action_plugins](https://github.com/MitjaNemec/Kicad_action_plugins)
+`★419 · 🔥 热点推荐`
+一批实用的 KiCad 动作插件，覆盖常见 PCB 处理与制造准备任务
+> 收录日期：2026-09-22
+
+---
+
+#### [ExpressLRS/ExpressLRS-Hardware](https://github.com/ExpressLRS/ExpressLRS-Hardware)
+`★415 · 🔥 热点推荐`
+ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3D 打印外壳
+> 收录日期：2026-09-22
+
+---
+
 #### [American-Embedded/kistack](https://github.com/American-Embedded/kistack)
 `★383 · Python · ⭐🔥 已 star + 热点推荐`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
@@ -495,8 +509,9 @@ Nordic 全系列芯片 KiCad 元件库
 ---
 
 #### [ElectronicCats/faultycat](https://github.com/ElectronicCats/faultycat)
-`★178 · 🔥 热点推荐`
+`★178 · ⭐🔥 已 star + 热点推荐`
 低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix
+> 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
 
 ---
@@ -541,6 +556,13 @@ XCircuit 电路绘制与原理图捕捉工具
 
 ---
 
+#### [daishuge/pcb-skill](https://github.com/daishuge/pcb-skill)
+`★136 · 🔥 热点推荐`
+从硬件想法到可制造 PCB 的 agent skill：概念、原理图、选料、布局、布线、验证与下单
+> 收录日期：2026-09-22
+
+---
+
 #### [jcyrax/pcbmodelgen](https://github.com/jcyrax/pcbmodelgen)
 `★123 · ⭐🔥 已 star + 热点推荐`
 把 KiCad PCB 文件转成可导入 openEMS 的模型
@@ -562,6 +584,13 @@ XCircuit 电路绘制与原理图捕捉工具
 用 KiCad 完成的项目精选清单
 > 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
+
+---
+
+#### [WiHarper/nfc_card](https://github.com/WiHarper/nfc_card)
+`★98 · 🔥 热点推荐`
+开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件
+> 收录日期：2026-09-22
 
 ---
 
@@ -600,6 +629,13 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 `★63 · C · ⭐ 已 star`
 X-Laser，一款小型的矢量激光投影仪
 > 收录日期：2026-09-13
+
+---
+
+#### [commaai/PCBGolf](https://github.com/commaai/PCBGolf)
+`★55 · 🔥 热点推荐`
+comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
+> 收录日期：2026-09-22
 
 ---
 
@@ -644,7 +680,7 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★31 · C++ · ⭐ 已 star`
+`★32 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
 
@@ -687,6 +723,13 @@ AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
 NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [Keitark/pcba-design-skills](https://github.com/Keitark/pcba-design-skills)
+`★21 · 🔥 热点推荐`
+面向 Codex 与 Claude Code 的电子设计技能集：产品规划、电路评审、原理图整理与 PCBA 发布
+> 收录日期：2026-09-22
 
 ---
 

@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-09-21",
+ "updated_at": "2026-09-22",
  "repos": [
   {
    "full_name": "ArduPilot/ardupilot",
    "url": "https://github.com/ArduPilot/ardupilot",
    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
    "language": "C++",
-   "stars": 15906,
+   "stars": 15911,
    "topics": [
     "arducopter",
     "ardupilot",
@@ -160,6 +160,20 @@
    "hot_dates": [
     "2026-09-16"
    ]
+  },
+  {
+   "full_name": "f4exb/sdrangel",
+   "url": "https://github.com/f4exb/sdrangel",
+   "description": "SDRangel：覆盖 Airspy/HackRF/PlutoSDR/LimeSDR 等硬件的软件无线电收发平台，含频谱与解调链",
+   "language": "",
+   "stars": 4050,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "HKUST-Aerial-Robotics/Fast-Planner",
@@ -334,7 +348,7 @@
    "url": "https://github.com/ZJU-FAST-Lab/ego-planner-swarm",
    "description": "An efficient single/multi-agent trajectory planner for multicopters.",
    "language": "C++",
-   "stars": 2183,
+   "stars": 2182,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -1085,6 +1099,20 @@
    ]
   },
   {
+   "full_name": "d-ronin/dRonin",
+   "url": "https://github.com/d-ronin/dRonin",
+   "description": "dRonin 开源飞控软件，面向固定翼与多旋翼的完整自驾仪固件",
+   "language": "",
+   "stars": 302,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "Excitablecell/GEARdrones",
    "url": "https://github.com/Excitablecell/GEARdrones",
    "description": "轻量无人机控制与多智能体定位系统",
@@ -1379,6 +1407,20 @@
    ]
   },
   {
+   "full_name": "hku-mars/LiDAR-UAV-Autonomy",
+   "url": "https://github.com/hku-mars/LiDAR-UAV-Autonomy",
+   "description": "港大 MARS 实验室的 LiDAR 无人机自主导航方案，含建图、定位与规划",
+   "language": "",
+   "stars": 121,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "skybrush-io/live",
    "url": "https://github.com/skybrush-io/live",
    "description": "无人机灯光秀实时控制与可视化前端",
@@ -1665,6 +1707,20 @@
    ]
   },
   {
+   "full_name": "kuieless/AerialMetric",
+   "url": "https://github.com/kuieless/AerialMetric",
+   "description": "ECCV 2026：无人机单目度量深度估计的基准与自适应方法",
+   "language": "",
+   "stars": 44,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "machmind-dev/drone-swarm-challenge-2026",
    "url": "https://github.com/machmind-dev/drone-swarm-challenge-2026",
    "description": "Swarm Drone Challenge 2026 参赛全套源码：ESP32-P4 机载视觉 + ESP32-S3 MAVLink/micro-ROS 通信，ROS2 地面站与 Manhattan 航点导航，决赛第 4 名",
@@ -1676,7 +1732,14 @@
    "added_at": "2026-09-21",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-21"
+   ]
   },
   {
    "full_name": "LGQWakkk/Quadrotor-F405",
@@ -1732,6 +1795,20 @@
    "hot_dates": [
     "2026-09-17"
    ]
+  },
+  {
+   "full_name": "IntelliSensing/Self-in-Space",
+   "url": "https://github.com/IntelliSensing/Self-in-Space",
+   "description": "ACM MM 2026：无人机具身智能的自我意识与空间认知能力基准",
+   "language": "",
+   "stars": 31,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "raylanlin/smarttune-cli",
@@ -1795,6 +1872,48 @@
    "hot_dates": [
     "2026-09-15"
    ]
+  },
+  {
+   "full_name": "Caped-Crussader/VENDETTAFC",
+   "url": "https://github.com/Caped-Crussader/VENDETTAFC",
+   "description": "完全开源的 4 合 1 电调加 F7 飞控栈，KiCad 从零设计，含原理图与 PCB",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "ARYA-mgc/NavCore-Pixhawk",
+   "url": "https://github.com/ARYA-mgc/NavCore-Pixhawk",
+   "description": "估算导航解经 MAVLink VISION_POSITION_ESTIMATE 外部导航接口喂给 ArduPilot 的工程实现",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "JT-Sun/UAVReason",
+   "url": "https://github.com/JT-Sun/UAVReason",
+   "description": "视觉语言模型能否从天上看？面向航拍推理与生成任务的 UAVReason 基准",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "pingyun001/LimeRC",
@@ -1873,6 +1992,20 @@
    ]
   },
   {
+   "full_name": "goldarte/mavlink-joystick",
+   "url": "https://github.com/goldarte/mavlink-joystick",
+   "description": "把遥控输入通过 MAVLink 摇杆通道下发的安卓小工具，飞控手动控制调试用",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "ZSN2024/AGC-VLN",
    "url": "https://github.com/ZSN2024/AGC-VLN",
    "description": "无人机与地面车协同的视觉语言导航系统，强调协同增益",
@@ -1934,6 +2067,20 @@
    "hot_dates": [
     "2026-09-21"
    ]
+  },
+  {
+   "full_name": "vivichiciudean/uavidplusplus-code",
+   "url": "https://github.com/vivichiciudean/uavidplusplus-code",
+   "description": "UAVid++ 论文官方代码，无人机城市场景语义分割与数据集扩展",
+   "language": "",
+   "stars": 11,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "RustedBytes/mavsim",
@@ -2144,6 +2291,20 @@
    "hot_dates": [
     "2026-09-15"
    ]
+  },
+  {
+   "full_name": "NGSolve/ngsolve",
+   "url": "https://github.com/NGSolve/ngsolve",
+   "description": "高性能多物理场有限元软件，可做电磁与材料级全波仿真",
+   "language": "",
+   "stars": 578,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "awslabs/palace",
@@ -3784,6 +3945,20 @@
    ]
   },
   {
+   "full_name": "enizimus/FEMLab",
+   "url": "https://github.com/enizimus/FEMLab",
+   "description": "MATLAB 有限元电磁场计算工具，小巧的 FEM 入门实现",
+   "language": "",
+   "stars": 28,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "striderZA/Tiny-RF-Simulator",
    "url": "https://github.com/striderZA/Tiny-RF-Simulator",
    "description": "模块化射频链路仿真器，可级联放大器/滤波器/混频器/ADC 并实时显示频谱",
@@ -3910,6 +4085,20 @@
    ]
   },
   {
+   "full_name": "mavrikak/Helios",
+   "url": "https://github.com/mavrikak/Helios",
+   "description": "自由表面积分方程法（SIE）散射求解器，面向均匀/周期/分层介质的光与电磁散射建模",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "DABIAN-afk/microstrip-studio",
    "url": "https://github.com/DABIAN-afk/microstrip-studio",
    "description": "微带线综合与分析工具（TypeScript）",
@@ -3950,6 +4139,20 @@
    "hot_dates": [
     "2026-09-21"
    ]
+  },
+  {
+   "full_name": "QuentinWach/awesome-inverse-design",
+   "url": "https://github.com/QuentinWach/awesome-inverse-design",
+   "description": "光子学逆向设计资源清单，含 FDTD/FDFD 求解器、教程与论文索引",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "OpenResearchInstitute/Arcanum",
@@ -5038,7 +5241,7 @@
    "url": "https://github.com/renode/renode",
    "description": "Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems",
    "language": "RobotFramework",
-   "stars": 2914,
+   "stars": 2919,
    "topics": [
     "arm",
     "embedded-systems",
@@ -5080,7 +5283,7 @@
    "url": "https://github.com/openmv/openmv",
    "description": "OpenMV Camera Module",
    "language": "C",
-   "stars": 2867,
+   "stars": 2869,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -5460,7 +5663,7 @@
    "url": "https://github.com/toitlang/toit",
    "description": "Program your microcontrollers in a fast and robust high-level language.",
    "language": "Toit",
-   "stars": 1387,
+   "stars": 1386,
    "topics": [
     "esp32",
     "toit"
@@ -5770,7 +5973,7 @@
    "url": "https://github.com/github0null/eide",
    "description": "An embedded development environment for mcs51/stm8/avr/cortex-m/riscv on VsCode.",
    "language": "TypeScript",
-   "stars": 1045,
+   "stars": 1046,
    "topics": [
     "8051",
     "arm",
@@ -6306,7 +6509,7 @@
    "url": "https://github.com/Gissio/radpro",
    "description": "Custom firmware for Geiger counters/radiation meters (FS2011, Bosean FS-600, FS-1000, FS-5000, FNIRSI GC-01, FNIRSI GC-03, GQ GMC-800)",
    "language": "C",
-   "stars": 563,
+   "stars": 565,
    "topics": [
     "cfw",
     "custom-firmware",
@@ -6738,11 +6941,25 @@
    ]
   },
   {
+   "full_name": "niclasvestlund-YT/vibepulse",
+   "url": "https://github.com/niclasvestlund-YT/vibepulse",
+   "description": "ESP32-S3 AMOLED 桌面小屏：实时显示 Claude Code / Codex 用量、agent 活动与待办告警",
+   "language": "",
+   "stars": 201,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "Adancurusul/embedded-debugger-mcp",
    "url": "https://github.com/Adancurusul/embedded-debugger-mcp",
    "description": "MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis",
    "language": "Rust",
-   "stars": 192,
+   "stars": 193,
    "topics": [
     "ai-skill",
     "arm-cortex-m",
@@ -6980,6 +7197,20 @@
    "hot_dates": [
     "2026-09-18"
    ]
+  },
+  {
+   "full_name": "TilelliLab/atome-lm",
+   "url": "https://github.com/TilelliLab/atome-lm",
+   "description": "三值量化零堆分配微型语言模型，跑在 2 美元单片机上，Python 与 C99 与 Cortex-M3 逐位对齐",
+   "language": "",
+   "stars": 152,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "embassy-rs/stm32-data",
@@ -7457,6 +7688,20 @@
    ]
   },
   {
+   "full_name": "cpldcpu/pico-faces",
+   "url": "https://github.com/cpldcpu/pico-faces",
+   "description": "把生成式人脸图像模型塞进 RP2350 单片机（Pico 2），端侧生成推理的极限尝试",
+   "language": "",
+   "stars": 76,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "bekencorp/lvgl_ui_designer",
    "url": "https://github.com/bekencorp/lvgl_ui_designer",
    "description": "第三方 LVGL 界面设计器",
@@ -7604,6 +7849,20 @@
    ]
   },
   {
+   "full_name": "Gypsy-Server/RadioMCU",
+   "url": "https://github.com/Gypsy-Server/RadioMCU",
+   "description": "不用任何外部器件、直接用微控制器引脚做 FM 发射的实验项目",
+   "language": "",
+   "stars": 62,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "espressif/esp-emulator",
    "url": "https://github.com/espressif/esp-emulator",
    "description": "ESP RISC-V 系列 SoC 的模拟器",
@@ -7644,6 +7903,20 @@
    "hot_dates": [
     "2026-09-21"
    ]
+  },
+  {
+   "full_name": "yunxiao11xie/ai-to-edge-deployment",
+   "url": "https://github.com/yunxiao11xie/ai-to-edge-deployment",
+   "description": "面向嵌入式工程师的中文学习路线：从 AI 基础到端侧部署优化全流程",
+   "language": "",
+   "stars": 61,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "kevinmcaleer/Snakie",
@@ -7774,6 +8047,20 @@
    "hot_dates": [
     "2026-09-21"
    ]
+  },
+  {
+   "full_name": "php-baremetal/php-esp32",
+   "url": "https://github.com/php-baremetal/php-esp32",
+   "description": "在 ESP32-P4/S3 上原生运行 PHP 8.3-8.5 引擎，从 microSD 读 PHP 文件执行，不做模拟",
+   "language": "",
+   "stars": 45,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "cwu766485-ctrl/LumenRV32",
@@ -8005,6 +8292,20 @@
    "hot_dates": [
     "2026-09-18"
    ]
+  },
+  {
+   "full_name": "DK27ss/ColdCard-38M-PoC",
+   "url": "https://github.com/DK27ss/ColdCard-38M-PoC",
+   "description": "冷钱包固件漏洞分析：rng_get() 误连 MicroPython 软件 PRNG 而非硬件 TRNG，种子熵降到约 2 的 40 次方",
+   "language": "",
+   "stars": 33,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "artfulbytes/i_kept_coding_until_an_rtos_was_inevitable",
@@ -8281,6 +8582,20 @@
    ]
   },
   {
+   "full_name": "mohosy/baby-monitor-wifi-csi",
+   "url": "https://github.com/mohosy/baby-monitor-wifi-csi",
+   "description": "ESP32 加普通路由器的无接触婴儿呼吸监测，用 WiFi CSI 相位变化做实时呼吸暂停预警",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "Stevee87/Tactical-Radar-System-ESP32-P4",
    "url": "https://github.com/Stevee87/Tactical-Radar-System-ESP32-P4",
    "description": "ESP32-P4 上 LiDAR + 24GHz 雷达融合与 HUD 显示",
@@ -8300,6 +8615,20 @@
    "hot_dates": [
     "2026-09-15"
    ]
+  },
+  {
+   "full_name": "rustsbi/embedded-hal-skills",
+   "url": "https://github.com/rustsbi/embedded-hal-skills",
+   "description": "Rust 嵌入式 embedded-hal 设计模式的 AI 技能集，把最佳实践喂给编码 agent",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -8342,6 +8671,20 @@
    "hot_dates": [
     "2026-09-18"
    ]
+  },
+  {
+   "full_name": "Abinand2631/Wifi-Vision",
+   "url": "https://github.com/Abinand2631/Wifi-Vision",
+   "description": "ESP32 CSI 加机器学习的无设备人体姿态估计与活动识别",
+   "language": "",
+   "stars": 19,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "johannesboernsen/ScopeBuddy",
@@ -8546,6 +8889,20 @@
    ]
   },
   {
+   "full_name": "MermaidFAR/H7_BSP",
+   "url": "https://github.com/MermaidFAR/H7_BSP",
+   "description": "基于达妙 MC-02 硬件的 STM32H7 板级支持包，含 RTOS 改版工程",
+   "language": "",
+   "stars": 15,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "RTechAI/ForgeUI-P4",
    "url": "https://github.com/RTechAI/ForgeUI-P4",
    "description": "ESP32-P4 嵌入式 LVGL UI 框架与硬件基线",
@@ -8571,7 +8928,7 @@
    "url": "https://github.com/agentic-hil/agentic-hil",
    "description": "Let your coding agent develop firmware on the real board, with the hardware as the gate.",
    "language": "Python",
-   "stars": 13,
+   "stars": 14,
    "topics": [
     "agent-tools",
     "ai-agents",
@@ -8658,6 +9015,48 @@
    "hot_dates": [
     "2026-09-21"
    ]
+  },
+  {
+   "full_name": "MicroAIInc/MicroAI-Atom-ESP32",
+   "url": "https://github.com/MicroAIInc/MicroAI-Atom-ESP32",
+   "description": "可跑在 ESP32 低功耗端点上的轻量 AI 引擎，对时序数据做在线模式学习",
+   "language": "",
+   "stars": 13,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "my-short-circuits/multicamera_thermal",
+   "url": "https://github.com/my-short-circuits/multicamera_thermal",
+   "description": "ESP32-S3 可见光加 MLX90640 热成像双光相机，带触摸 UI、叠加渲染与 WiFi 冻帧导出",
+   "language": "",
+   "stars": 13,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "createskyblue/flashstore-ab-partition",
+   "url": "https://github.com/createskyblue/flashstore-ab-partition",
+   "description": "面向小型 MCU 的 A/B 双页 Flash 存储库，零依赖、无状态，用于固件双备份升级",
+   "language": "",
+   "stars": 13,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -8862,6 +9261,20 @@
    ]
   },
   {
+   "full_name": "scholzri/rainy75-zmk",
+   "url": "https://github.com/scholzri/rainy75-zmk",
+   "description": "Wobkey Rainy 75 Pro 键盘（Telink TLSR9511 / RISC-V）的 ZMK 固件与逆向工程记录",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "karagure/rvkit",
    "url": "https://github.com/karagure/rvkit",
    "description": "Rust + Zig 写的 RISC-V MCU 开发 CLI/TUI 工具链（脚手架/编译/烧录/监视）",
@@ -8921,7 +9334,7 @@
    "url": "https://github.com/earthtojake/text-to-cad",
    "description": "A library of agent skills for CAD, CAE and CAM",
    "language": "Python",
-   "stars": 16199,
+   "stars": 16230,
    "topics": [
     "agents",
     "ai-agents",
@@ -9201,7 +9614,7 @@
    "url": "https://github.com/Open-Cascade-SAS/OCCT",
    "description": "Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.",
    "language": "C++",
-   "stars": 2894,
+   "stars": 2900,
    "topics": [
     "3d",
     "3d-cad",
@@ -9264,7 +9677,7 @@
    "url": "https://github.com/HakanSeven12/OpenCADStudio",
    "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
    "language": "Rust",
-   "stars": 2144,
+   "stars": 2172,
    "topics": [
     "cad",
     "dwg",
@@ -9873,6 +10286,34 @@
    ]
   },
   {
+   "full_name": "MitjaNemec/Kicad_action_plugins",
+   "url": "https://github.com/MitjaNemec/Kicad_action_plugins",
+   "description": "一批实用的 KiCad 动作插件，覆盖常见 PCB 处理与制造准备任务",
+   "language": "",
+   "stars": 419,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "ExpressLRS/ExpressLRS-Hardware",
+   "url": "https://github.com/ExpressLRS/ExpressLRS-Hardware",
+   "description": "ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3D 打印外壳",
+   "language": "",
+   "stars": 415,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "American-Embedded/kistack",
    "url": "https://github.com/American-Embedded/kistack",
    "description": "KiStack is a HUMAN WRITTEN bunch of skills for KiCad",
@@ -10253,7 +10694,14 @@
    "added_at": "2026-09-21",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-21"
+   ]
   },
   {
    "full_name": "jonkraft/PhasedArray",
@@ -10361,6 +10809,20 @@
    ]
   },
   {
+   "full_name": "daishuge/pcb-skill",
+   "url": "https://github.com/daishuge/pcb-skill",
+   "description": "从硬件想法到可制造 PCB 的 agent skill：概念、原理图、选料、布局、布线、验证与下单",
+   "language": "",
+   "stars": 136,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "jcyrax/pcbmodelgen",
    "url": "https://github.com/jcyrax/pcbmodelgen",
    "description": "把 KiCad PCB 文件转成可导入 openEMS 的模型",
@@ -10422,6 +10884,20 @@
    "hot_dates": [
     "2026-09-15"
    ]
+  },
+  {
+   "full_name": "WiHarper/nfc_card",
+   "url": "https://github.com/WiHarper/nfc_card",
+   "description": "开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件",
+   "language": "",
+   "stars": 98,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "oaslananka/kicad-mcp-pro",
@@ -10534,6 +11010,20 @@
    "note": ""
   },
   {
+   "full_name": "commaai/PCBGolf",
+   "url": "https://github.com/commaai/PCBGolf",
+   "description": "comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗",
+   "language": "",
+   "stars": 55,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "YutongChenVictor/NPU-E2E",
    "url": "https://github.com/YutongChenVictor/NPU-E2E",
    "description": "端到端 NPU 工程：RTL 脉动阵列 → AXI4 SoC → TVM 编译器 → FPGA 推理",
@@ -10643,7 +11133,7 @@
    "url": "https://github.com/easyeda/easyeda-simulation-engine",
    "description": "嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE",
    "language": "C++",
-   "stars": 31,
+   "stars": 32,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -10755,6 +11245,20 @@
    "hot_dates": [
     "2026-09-17"
    ]
+  },
+  {
+   "full_name": "Keitark/pcba-design-skills",
+   "url": "https://github.com/Keitark/pcba-design-skills",
+   "description": "面向 Codex 与 Claude Code 的电子设计技能集：产品规划、电路评审、原理图整理与 PCBA 发布",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "estlit/SemiconductorSchool-Labs",
@@ -10902,6 +11406,33 @@
    "hot_dates": [
     "2026-09-14"
    ]
+  },
+  {
+   "full_name": "AprilNEA/OpenLogi",
+   "url": "https://github.com/AprilNEA/OpenLogi",
+   "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+   "language": "Rust",
+   "stars": 21866,
+   "topics": [
+    "dpi",
+    "gpui",
+    "hid",
+    "hidpp",
+    "local-first",
+    "logitech",
+    "logitech-mouse",
+    "logitech-options",
+    "mouse-remapping",
+    "mx-master",
+    "privacy",
+    "rust",
+    "smartshift"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-22",
+   "category": "无线通信与感知",
+   "note": ""
   },
   {
    "full_name": "sgoudelis/ground-station",
@@ -11629,6 +12160,20 @@
    ]
   },
   {
+   "full_name": "euaziel/-WiFi-CSI-Human-Pose-Detection-V2",
+   "url": "https://github.com/euaziel/-WiFi-CSI-Human-Pose-Detection-V2",
+   "description": "用 WiFi CSI 与深度学习做人体姿态估计，无需摄像机的穿墙感知（原仓库更名后新版）",
+   "language": "",
+   "stars": 129,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "euaziel/WiFi-CSI-Human-Pose-Detection",
    "url": "https://github.com/euaziel/WiFi-CSI-Human-Pose-Detection",
    "description": "WiFi CSI + 深度学习做人体姿态估计与生命体征监测，无摄像头、可穿墙",
@@ -11936,6 +12481,20 @@
    ]
   },
   {
+   "full_name": "kyleyct/wifi-densepose-elderly",
+   "url": "https://github.com/kyleyct/wifi-densepose-elderly",
+   "description": "WiFi DensePose 長者防跌倒系統：基于 CSI 信号的非侵入式跌倒侦测，无需摄像机",
+   "language": "",
+   "stars": 67,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "advoard/advoard_localization",
    "url": "https://github.com/advoard/advoard_localization",
    "description": "用卡尔曼滤波融合 UWB、里程计与 LiDAR 的 ROS 定位",
@@ -12165,6 +12724,20 @@
    "hot_dates": [
     "2026-09-21"
    ]
+  },
+  {
+   "full_name": "vincenzo-afk/WIFI-based-human-presence-detection-system",
+   "url": "https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system",
+   "description": "基于 CSI 的人体存在、占用区域与活动识别仪表盘，面向室内感知部署",
+   "language": "",
+   "stars": 35,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "wdhwg001/csift",
@@ -12587,11 +13160,25 @@
    ]
   },
   {
+   "full_name": "mizhab-as/WiTrace",
+   "url": "https://github.com/mizhab-as/WiTrace",
+   "description": "WiFi CSI 人体存在与占用检测的最小实现，适合作为 CSI 感知入门基线",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "openclaw/openclaw",
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 390163,
+   "stars": 390219,
    "topics": [
     "ai",
     "assistant",
@@ -12612,7 +13199,7 @@
    "url": "https://github.com/obra/superpowers",
    "description": "An agentic skills framework & software development methodology that works.",
    "language": "Shell",
-   "stars": 289367,
+   "stars": 289711,
    "topics": [
     "ai",
     "brainstorming",
@@ -12634,7 +13221,7 @@
    "url": "https://github.com/mattpocock/skills",
    "description": "Skills for Real Engineers. Straight from my .agents directory.",
    "language": "Shell",
-   "stars": 266588,
+   "stars": 267134,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -12647,7 +13234,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 263950,
+   "stars": 264729,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -12669,7 +13256,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 214375,
+   "stars": 214511,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -12682,7 +13269,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 208942,
+   "stars": 209148,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -12695,7 +13282,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 153804,
+   "stars": 153978,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -12729,7 +13316,7 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "language": "JavaScript",
-   "stars": 143218,
+   "stars": 143713,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -12753,7 +13340,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
    "language": "Python",
-   "stars": 138106,
+   "stars": 138227,
    "topics": [
     "ai",
     "copilot",
@@ -12774,7 +13361,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 129385,
+   "stars": 129590,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -12807,7 +13394,7 @@
    "url": "https://github.com/earendil-works/pi",
    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
    "language": "TypeScript",
-   "stars": 107854,
+   "stars": 108107,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -12841,7 +13428,7 @@
    "url": "https://github.com/Panniantong/Agent-Reach",
    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "language": "Python",
-   "stars": 83951,
+   "stars": 84353,
    "topics": [
     "agent-infrastructure",
     "ai-agent",
@@ -12872,7 +13459,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ",
    "language": "Python",
-   "stars": 82672,
+   "stars": 82823,
    "topics": [
     "ai",
     "ai-scraping",
@@ -12927,7 +13514,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 73829,
+   "stars": 74642,
    "topics": [
     "ade",
     "agent-ide",
@@ -12980,7 +13567,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "JavaScript",
-   "stars": 69440,
+   "stars": 69616,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -12993,7 +13580,7 @@
    "url": "https://github.com/code-yeongyu/oh-my-openagent",
    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
    "language": "TypeScript",
-   "stars": 69235,
+   "stars": 69262,
    "topics": [
     "ai",
     "ai-agents",
@@ -13022,7 +13609,7 @@
    "url": "https://github.com/cline/cline",
    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
    "language": "TypeScript",
-   "stars": 68906,
+   "stars": 68972,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -13056,7 +13643,7 @@
    "url": "https://github.com/tldraw/tldraw",
    "description": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
    "language": "TypeScript",
-   "stars": 50488,
+   "stars": 50504,
    "topics": [
     "canvas",
     "collaboration",
@@ -13082,7 +13669,7 @@
    "url": "https://github.com/HKUDS/CLI-Anything",
    "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
    "language": "Python",
-   "stars": 49636,
+   "stars": 49662,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -13095,7 +13682,7 @@
    "url": "https://github.com/Yuan1z0825/nature-skills",
    "description": "符合nature论文学术表达和科研绘图的Skill",
    "language": "Python",
-   "stars": 43558,
+   "stars": 43752,
    "topics": [
     "codex-skills",
     "nature",
@@ -13112,7 +13699,7 @@
    "url": "https://github.com/langchain-ai/langgraph",
    "description": "Build resilient agents.",
    "language": "Python",
-   "stars": 42043,
+   "stars": 42098,
    "topics": [
     "agents",
     "ai",
@@ -13140,11 +13727,39 @@
    "note": ""
   },
   {
+   "full_name": "microsoft/BitNet",
+   "url": "https://github.com/microsoft/BitNet",
+   "description": "微软官方 1-bit LLM 推理框架，C++ 实现，把三值量化大模型跑在 CPU 与端侧设备上",
+   "language": "",
+   "stars": 40332,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "tinyhumansai/openhuman",
+   "url": "https://github.com/tinyhumansai/openhuman",
+   "description": "开源 agent harness：本地优先记忆、agent 编排与工作流一体",
+   "language": "",
+   "stars": 40016,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "emilkowalski/skills",
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 39643,
+   "stars": 39935,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -13178,7 +13793,7 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "language": "PowerShell",
-   "stars": 36726,
+   "stars": 36803,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -13212,7 +13827,7 @@
    "url": "https://github.com/lightpanda-io/browser",
    "description": "Lightpanda: the headless browser designed for AI and automation",
    "language": "Zig",
-   "stars": 35473,
+   "stars": 35497,
    "topics": [
     "browser",
     "browser-automation",
@@ -13234,7 +13849,7 @@
    "url": "https://github.com/VoltAgent/awesome-agent-skills",
    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
    "language": "",
-   "stars": 34661,
+   "stars": 34694,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -13260,7 +13875,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in",
    "language": "TypeScript",
-   "stars": 32181,
+   "stars": 32304,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -13352,7 +13967,7 @@
    "url": "https://github.com/QwenLM/qwen-code",
    "description": "An open-source AI coding agent that lives in your terminal.",
    "language": "TypeScript",
-   "stars": 28033,
+   "stars": 28047,
    "topics": [
     "agentic",
     "ai",
@@ -13374,24 +13989,11 @@
    "note": ""
   },
   {
-   "full_name": "virattt/dexter",
-   "url": "https://github.com/virattt/dexter",
-   "description": "An autonomous agent for deep financial research",
-   "language": "TypeScript",
-   "stars": 27613,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-13",
-   "category": "AI Agent 与 LLM 工具链",
-   "note": ""
-  },
-  {
    "full_name": "h4ckf0r0day/obscura",
    "url": "https://github.com/h4ckf0r0day/obscura",
    "description": "The headless browser for AI agents and web scraping",
    "language": "Rust",
-   "stars": 27535,
+   "stars": 27698,
    "topics": [
     "antidetect",
     "antidetect-browser",
@@ -13403,6 +14005,19 @@
     "puppeteer",
     "rust"
    ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-13",
+   "category": "AI Agent 与 LLM 工具链",
+   "note": ""
+  },
+  {
+   "full_name": "virattt/dexter",
+   "url": "https://github.com/virattt/dexter",
+   "description": "An autonomous agent for deep financial research",
+   "language": "TypeScript",
+   "stars": 27614,
+   "topics": [],
    "archived": false,
    "source": "star",
    "added_at": "2026-09-13",
@@ -13456,7 +14071,7 @@
    "url": "https://github.com/humanlayer/12-factor-agents",
    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
    "language": "TypeScript",
-   "stars": 26319,
+   "stars": 26337,
    "topics": [
     "12-factor",
     "12-factor-agents",
@@ -13498,6 +14113,19 @@
    ]
   },
   {
+   "full_name": "browser-use/jev-ultrafast",
+   "url": "https://github.com/browser-use/jev-ultrafast",
+   "description": "Fastest and cheapest web agent",
+   "language": "Python",
+   "stars": 15568,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-20",
+   "category": "AI Agent 与 LLM 工具链",
+   "note": ""
+  },
+  {
    "full_name": "YishenTu/claudian",
    "url": "https://github.com/YishenTu/claudian",
    "description": "Obsidian 内的 AI 助手集成，把 LLM 直接放进笔记工作流",
@@ -13523,7 +14151,7 @@
    "url": "https://github.com/yc-software/qm",
    "description": "Multiplayer agent harness for work.",
    "language": "TypeScript",
-   "stars": 15185,
+   "stars": 15191,
    "topics": [
     "ai",
     "assistant",
@@ -13558,24 +14186,11 @@
    ]
   },
   {
-   "full_name": "browser-use/jev-ultrafast",
-   "url": "https://github.com/browser-use/jev-ultrafast",
-   "description": "i. am. speed.",
-   "language": "Python",
-   "stars": 12762,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-20",
-   "category": "AI Agent 与 LLM 工具链",
-   "note": ""
-  },
-  {
    "full_name": "langchain-ai/open_deep_research",
    "url": "https://github.com/langchain-ai/open_deep_research",
    "description": "",
    "language": "Python",
-   "stars": 12685,
+   "stars": 12683,
    "topics": [],
    "archived": true,
    "source": "star",
@@ -13630,13 +14245,37 @@
    "url": "https://github.com/openchamber/openchamber",
    "description": "Agentic Development Environment based on OpenCode AI agent",
    "language": "TypeScript",
-   "stars": 10188,
+   "stars": 10230,
    "topics": [
     "agentic-engineering",
     "agents",
     "ai",
     "enginering",
     "opencode"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-13",
+   "category": "AI Agent 与 LLM 工具链",
+   "note": ""
+  },
+  {
+   "full_name": "modem-dev/hunk",
+   "url": "https://github.com/modem-dev/hunk",
+   "description": "Review-first terminal diff viewer for agentic coders",
+   "language": "TypeScript",
+   "stars": 9353,
+   "topics": [
+    "agents",
+    "cli",
+    "code-review",
+    "diff",
+    "git",
+    "jj",
+    "jujutsu",
+    "sapling",
+    "terminal",
+    "tui"
    ],
    "archived": false,
    "source": "star",
@@ -13666,23 +14305,12 @@
    ]
   },
   {
-   "full_name": "modem-dev/hunk",
-   "url": "https://github.com/modem-dev/hunk",
-   "description": "Review-first terminal diff viewer for agentic coders",
+   "full_name": "cloudflare/computer",
+   "url": "https://github.com/cloudflare/computer",
+   "description": "Give your agent a computer 👾",
    "language": "TypeScript",
-   "stars": 9349,
-   "topics": [
-    "agents",
-    "cli",
-    "code-review",
-    "diff",
-    "git",
-    "jj",
-    "jujutsu",
-    "sapling",
-    "terminal",
-    "tui"
-   ],
+   "stars": 9240,
+   "topics": [],
    "archived": false,
    "source": "star",
    "added_at": "2026-09-13",
@@ -13690,15 +14318,22 @@
    "note": ""
   },
   {
-   "full_name": "cloudflare/computer",
-   "url": "https://github.com/cloudflare/computer",
-   "description": "Give your agent a computer 👾",
-   "language": "TypeScript",
-   "stars": 9229,
-   "topics": [],
+   "full_name": "SWE-agent/mini-swe-agent",
+   "url": "https://github.com/SWE-agent/mini-swe-agent",
+   "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+   "language": "Python",
+   "stars": 7844,
+   "topics": [
+    "agent",
+    "agentic-ai",
+    "agentic-ai-cli",
+    "ai",
+    "ai-agent",
+    "textual"
+   ],
    "archived": false,
    "source": "star",
-   "added_at": "2026-09-13",
+   "added_at": "2026-09-22",
    "category": "AI Agent 与 LLM 工具链",
    "note": ""
   },
@@ -13728,7 +14363,7 @@
    "url": "https://github.com/apurvsinghgautam/robin",
    "description": "AI-Powered Dark Web OSINT Tool",
    "language": "Python",
-   "stars": 7210,
+   "stars": 7242,
    "topics": [
     "ai-tool",
     "darkweb",
@@ -13742,6 +14377,20 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "AI Agent 与 LLM 工具链",
+   "note": ""
+  },
+  {
+   "full_name": "Dicklesworthstone/destructive_command_guard",
+   "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+   "description": "阻断 agent 执行危险 git 与 shell 命令的守卫工具",
+   "language": "",
+   "stars": 6032,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
    "note": ""
   },
   {
@@ -13794,7 +14443,7 @@
    "url": "https://github.com/bojieli/ai-infra-book",
    "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
    "language": "Python",
-   "stars": 4747,
+   "stars": 4878,
    "topics": [
     "accelerator",
     "ai-infra",
@@ -13823,7 +14472,7 @@
    "url": "https://github.com/xianyu110/awesome-openclaw-tutorial",
    "description": "从零开始玩转OpenClaw：最全面的中文教程，涵盖安装、配置、实战案例和避坑指南（github版）",
    "language": "Shell",
-   "stars": 4568,
+   "stars": 4569,
    "topics": [
     "openclaw",
     "openclaw-skills"
@@ -13839,7 +14488,7 @@
    "url": "https://github.com/Tarquinen/opencode-dynamic-context-pruning",
    "description": "Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage",
    "language": "TypeScript",
-   "stars": 4240,
+   "stars": 4244,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -13898,7 +14547,7 @@
    "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite",
    "description": "J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research.",
    "language": "Python",
-   "stars": 3007,
+   "stars": 3008,
    "topics": [
     "agent-skills",
     "ai",
@@ -13952,7 +14601,7 @@
    "url": "https://github.com/duty1g/x64dbg-mcp-server",
    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
    "language": "Zig",
-   "stars": 2026,
+   "stars": 2029,
    "topics": [
     "ai-agents",
     "ai-debugging",
@@ -13985,7 +14634,7 @@
    "url": "https://github.com/mediar-ai/terminator",
    "description": "playwright for windows computer use",
    "language": "Rust",
-   "stars": 1640,
+   "stars": 1639,
    "topics": [
     "agent",
     "agents",
@@ -14006,11 +14655,25 @@
    "note": ""
   },
   {
+   "full_name": "tianma-if/edgeever",
+   "url": "https://github.com/tianma-if/edgeever",
+   "description": "AI 原生知识库（Evernote 替代），原生支持 MCP，可零成本跑在 Cloudflare 或 Docker",
+   "language": "",
+   "stars": 1471,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "skillsgate/skillsgate",
    "url": "https://github.com/skillsgate/skillsgate",
    "description": "",
    "language": "TypeScript",
-   "stars": 1299,
+   "stars": 1301,
    "topics": [
     "ai",
     "ai-tools",
@@ -14028,7 +14691,7 @@
    "url": "https://github.com/zjunlp/SkillNet",
    "description": "Create, Evaluate, and Connect AI Skills",
    "language": "Python",
-   "stars": 1266,
+   "stars": 1265,
    "topics": [
     "ai-agents",
     "ai-skills",
@@ -14207,7 +14870,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 119961,
+   "stars": 120189,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -14240,7 +14903,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 83487,
+   "stars": 83567,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -14271,7 +14934,7 @@
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
    "language": "JavaScript",
-   "stars": 66275,
+   "stars": 66307,
    "topics": [
     "agent-computer",
     "agent-harness",
@@ -14300,7 +14963,7 @@
    "url": "https://github.com/byoungd/up",
    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
    "language": "JavaScript",
-   "stars": 63388,
+   "stars": 63428,
    "topics": [
     "chinese",
     "english-learning",
@@ -14317,7 +14980,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 55108,
+   "stars": 55164,
    "topics": [
     "agents",
     "ai",
@@ -14351,7 +15014,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 49286,
+   "stars": 49691,
    "topics": [
     "agent",
     "agent-memory",
@@ -14378,7 +15041,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 40086,
+   "stars": 40129,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -14401,7 +15064,7 @@
    "url": "https://github.com/rossant/awesome-math",
    "description": "A curated list of awesome mathematics resources",
    "language": "Python",
-   "stars": 16462,
+   "stars": 16465,
    "topics": [
     "awesome",
     "awesome-list",
@@ -14420,7 +15083,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 9413,
+   "stars": 11097,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -14433,7 +15096,7 @@
    "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
    "description": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
    "language": "Python",
-   "stars": 6117,
+   "stars": 6124,
    "topics": [
     "automation",
     "claude",
@@ -14473,7 +15136,7 @@
    "url": "https://github.com/buchidonggua/dg-ai-notes",
    "description": "",
    "language": "MDX",
-   "stars": 2946,
+   "stars": 2962,
    "topics": [
     "ai-agent",
     "learning-notes",
@@ -14493,7 +15156,7 @@
    "url": "https://github.com/hahhforest/pi-textbook",
    "description": "《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent",
    "language": "TypeScript",
-   "stars": 1358,
+   "stars": 1362,
    "topics": [
     "agent-engineering",
     "ai-agent",
@@ -14648,7 +15311,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
    "language": "Python",
-   "stars": 61891,
+   "stars": 62029,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -14706,7 +15369,7 @@
    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
    "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
    "language": "Jupyter Notebook",
-   "stars": 17731,
+   "stars": 17732,
    "topics": [
     "3d-whole-body-pose-estimation",
     "automatic-labeling-system",
@@ -14749,7 +15412,7 @@
    "url": "https://github.com/apple-aiml-research/ml-sharp",
    "description": "Sharp Monocular View Synthesis in Less Than a Second",
    "language": "Python",
-   "stars": 8906,
+   "stars": 8909,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -14762,7 +15425,7 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "language": "Python",
-   "stars": 6925,
+   "stars": 6968,
    "topics": [
     "cli",
     "consumer-gpu",
@@ -14796,7 +15459,7 @@
    "url": "https://github.com/PufferAI/PufferLib",
    "description": "Puffing up reinforcement learning",
    "language": "C",
-   "stars": 6463,
+   "stars": 6468,
    "topics": [
     "reinforcement-learning"
    ],
@@ -14811,7 +15474,7 @@
    "url": "https://github.com/Michael-A-Kuykendall/shimmy",
    "description": "⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.",
    "language": "Rust",
-   "stars": 5900,
+   "stars": 5903,
    "topics": [
     "api-server",
     "command-line-tool",
@@ -14845,7 +15508,7 @@
    "url": "https://github.com/superlinked/sie",
    "description": "Open-source inference server and production cluster for all the models your agent needs.",
    "language": "Python",
-   "stars": 3297,
+   "stars": 3299,
    "topics": [
     "bge",
     "colbert",
@@ -14921,7 +15584,7 @@
    "url": "https://github.com/PaddlePaddle/PaddleSlim",
    "description": "PaddleSlim is an open-source library for deep model compression and architecture search.",
    "language": "Python",
-   "stars": 1613,
+   "stars": 1612,
    "topics": [
     "bert",
     "compression",
@@ -14943,6 +15606,20 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "AI 模型与视觉",
+   "note": ""
+  },
+  {
+   "full_name": "cosmo-wander-ai/cosmo-edge",
+   "url": "https://github.com/cosmo-wander-ai/cosmo-edge",
+   "description": "生产级 C++ 端侧 AI 推理引擎，支持 RKNN（瑞芯微）/Sophon/x86，含视觉编排与设备端 VLM",
+   "language": "",
+   "stars": 1220,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI 模型与视觉",
+   "applicable": "",
    "note": ""
   },
   {
@@ -15429,6 +16106,20 @@
    ]
   },
   {
+   "full_name": "AydinAdnan/PulseVAD",
+   "url": "https://github.com/AydinAdnan/PulseVAD",
+   "description": "2.1KB INT8 流式语音活动检测器，200ms 窗口，面向微控制器与 DSP 的极小体积方案",
+   "language": "",
+   "stars": 61,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "s-du/Thermogram",
    "url": "https://github.com/s-du/Thermogram",
    "description": "DJI 红外相机的热图处理软件，支持热分析、格式转换与可视化",
@@ -15749,7 +16440,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 481921,
+   "stars": 482083,
    "topics": [
     "api",
     "apis",
@@ -15776,7 +16467,7 @@
    "url": "https://github.com/521xueweihan/HelloGitHub",
    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
-   "stars": 177822,
+   "stars": 177967,
    "topics": [
     "awesome",
     "github",
@@ -15794,7 +16485,7 @@
    "url": "https://github.com/apple/container",
    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
    "language": "Swift",
-   "stars": 50084,
+   "stars": 50100,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -15807,7 +16498,7 @@
    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
    "language": "Java",
-   "stars": 29326,
+   "stars": 29337,
    "topics": [
     "a11y",
     "accessibility",
@@ -15841,7 +16532,7 @@
    "url": "https://github.com/subframe7536/maple-font",
    "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
    "language": "Python",
-   "stars": 28958,
+   "stars": 28962,
    "topics": [
     "coding-font",
     "font",
@@ -15866,7 +16557,7 @@
    "url": "https://github.com/Free-TV/IPTV",
    "description": "M3U Playlist for free TV channels",
    "language": "Python",
-   "stars": 20688,
+   "stars": 20702,
    "topics": [
     "help-wanted",
     "looking-for-contributors"
@@ -15882,7 +16573,7 @@
    "url": "https://github.com/hmjz100/LinkSwift",
    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
    "language": "JavaScript",
-   "stars": 20661,
+   "stars": 20690,
    "topics": [
     "123pan",
     "aliyun-drive",
@@ -15916,7 +16607,7 @@
    "url": "https://github.com/iDvel/rime-ice",
    "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
    "language": "Lua",
-   "stars": 19444,
+   "stars": 19458,
    "topics": [
     "rime",
     "rime-config",
@@ -15936,7 +16627,7 @@
    "url": "https://github.com/firecrawl/pdf-inspector",
    "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
    "language": "Rust",
-   "stars": 19259,
+   "stars": 19283,
    "topics": [
     "markdown",
     "nodejs",
@@ -15960,7 +16651,7 @@
    "url": "https://github.com/playcanvas/engine",
    "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
    "language": "JavaScript",
-   "stars": 16832,
+   "stars": 16847,
    "topics": [
     "3d-gaussian-splatting",
     "3dgs",
@@ -15991,7 +16682,7 @@
    "url": "https://github.com/DustinBrett/daedalOS",
    "description": "Desktop environment in the browser",
    "language": "JavaScript",
-   "stars": 13036,
+   "stars": 13037,
    "topics": [
     "desktop-environment",
     "javascript",
@@ -16009,7 +16700,7 @@
    "url": "https://github.com/MoonTechLab/LunaTV",
    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
    "language": "TypeScript",
-   "stars": 10502,
+   "stars": 10507,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16043,7 +16734,7 @@
    "url": "https://github.com/Nutlope/logocreator",
    "description": "A free + OSS logo generator powered by Flux on Together AI",
    "language": "TypeScript",
-   "stars": 8766,
+   "stars": 8768,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16056,7 +16747,7 @@
    "url": "https://github.com/vbskycn/iptv",
    "description": "iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。",
    "language": "HTML",
-   "stars": 8196,
+   "stars": 8215,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16069,7 +16760,7 @@
    "url": "https://github.com/scriptscat/scriptcat",
    "description": "ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展",
    "language": "TypeScript",
-   "stars": 5382,
+   "stars": 5387,
    "topics": [
     "chrome-extension",
     "greasemonkey-userscript",
@@ -16088,7 +16779,7 @@
    "url": "https://github.com/garinasset/leak-check",
    "description": "个人信息 “泄漏” 检测接口",
    "language": "Python",
-   "stars": 5163,
+   "stars": 5273,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16101,7 +16792,7 @@
    "url": "https://github.com/TakWolf/ark-pixel-font",
    "description": "开源的泛拉丁与泛中日韩像素字体，黑体风格",
    "language": "HTML",
-   "stars": 4738,
+   "stars": 4740,
    "topics": [
     "bitmap",
     "bitmap-font",
@@ -16144,7 +16835,7 @@
    "url": "https://github.com/hafrey1/LunaTV-config",
    "description": "MoonTV/LunaTV源配置，每日自动检测API状态，可在CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！",
    "language": "JavaScript",
-   "stars": 4212,
+   "stars": 4219,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16157,7 +16848,7 @@
    "url": "https://github.com/Kyant0/AndroidLiquidGlass",
    "description": "Compose Multiplatform Liquid Glass effect",
    "language": "Kotlin",
-   "stars": 3876,
+   "stars": 3884,
    "topics": [
     "compose-multiplatform",
     "jetpack-compose",
@@ -16174,7 +16865,7 @@
    "url": "https://github.com/Taiizor/Sucrose",
    "description": "Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.",
    "language": "C#",
-   "stars": 1535,
+   "stars": 1536,
    "topics": [
     "desktop",
     "desktop-wallpaper",
@@ -16208,7 +16899,7 @@
    "url": "https://github.com/Water-Melon/Melon",
    "description": "A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP).",
    "language": "C",
-   "stars": 1457,
+   "stars": 1458,
    "topics": [
     "algorithms",
     "aop",
@@ -16329,6 +17020,132 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
+   "full_name": "gepa-ai/gepa",
+   "url": "https://github.com/gepa-ai/gepa",
+   "description": "用反射式优化自动调优提示词与代码的框架",
+   "language": "",
+   "stars": 6692,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "twelvesec/PwnPad",
+   "url": "https://github.com/twelvesec/PwnPad",
+   "description": "低价硬件攻防学习平台，内置一系列循序渐进的硬件实验与挑战",
+   "language": "",
+   "stars": 1192,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "optiland/optiland",
+   "url": "https://github.com/optiland/optiland",
+   "description": "Python 光学系统设计、优化与分析库，含 GPU 加速与可微光线追迹",
+   "language": "",
+   "stars": 978,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "tbs-trappy/source_one",
+   "url": "https://github.com/tbs-trappy/source_one",
+   "description": "开源 FPV 穿越机机架设计，含结构件与装配资料",
+   "language": "",
+   "stars": 644,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "SweiryDev/MicroCNN-TangNano20k",
+   "url": "https://github.com/SweiryDev/MicroCNN-TangNano20k",
+   "description": "端到端 SystemVerilog SoC：在 Tang Nano 20K FPGA 上实现量化 MicroCNN 加速器做 BloodMNIST 分类",
+   "language": "",
+   "stars": 52,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "CardputerZero/Template",
+   "url": "https://github.com/CardputerZero/Template",
+   "description": "Cardputer Zero 开发板模板工程，面向 M5Stack Cardputer 系列的起步工程",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "skywalker1905/thermal-camera-viewer",
+   "url": "https://github.com/skywalker1905/thermal-camera-viewer",
+   "description": "Thermal Master P3/P1 热像仪的桌面查看器与虚拟摄像头驱动，跨三大平台",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "fbreitwieser/thermal-camera-android",
+   "url": "https://github.com/fbreitwieser/thermal-camera-android",
+   "description": "安卓端热像仪取图与显示实现",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
+   "note": ""
+  },
+  {
+   "full_name": "sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera",
+   "url": "https://github.com/sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera",
+   "description": "树莓派加 FLIR Lepton 模组自制热像仪的软硬件方案",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "待归类",
+   "applicable": "",
    "note": ""
   }
  ]

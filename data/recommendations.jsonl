@@ -633,3 +633,57 @@
 {"url": "https://github.com/githublzb/CNN-for-Terahertz-CT-image-Reconstruction", "stars": 10, "desc": "用 CNN 做太赫兹 CT 图像重建的示例代码", "date": "2026-09-21"}
 {"url": "https://github.com/ElectronicCats/faultycat", "stars": 178, "desc": "低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix", "date": "2026-09-21"}
 {"url": "https://github.com/machmind-dev/drone-swarm-challenge-2026", "stars": 42, "desc": "Swarm Drone Challenge 2026 参赛全套源码：ESP32-P4 机载视觉 + ESP32-S3 MAVLink/micro-ROS 通信，ROS2 地面站与 Manhattan 航点导航，决赛第 4 名", "date": "2026-09-21"}
+{"url": "https://github.com/microsoft/BitNet", "stars": 40332, "desc": "微软官方 1-bit LLM 推理框架，C++ 实现，把三值量化大模型跑在 CPU 与端侧设备上", "date": "2026-09-22"}
+{"url": "https://github.com/tinyhumansai/openhuman", "stars": 40016, "desc": "开源 agent harness：本地优先记忆、agent 编排与工作流一体", "date": "2026-09-22"}
+{"url": "https://github.com/gepa-ai/gepa", "stars": 6692, "desc": "用反射式优化自动调优提示词与代码的框架", "date": "2026-09-22"}
+{"url": "https://github.com/Dicklesworthstone/destructive_command_guard", "stars": 6032, "desc": "阻断 agent 执行危险 git 与 shell 命令的守卫工具", "date": "2026-09-22"}
+{"url": "https://github.com/f4exb/sdrangel", "stars": 4050, "desc": "SDRangel：覆盖 Airspy/HackRF/PlutoSDR/LimeSDR 等硬件的软件无线电收发平台，含频谱与解调链", "date": "2026-09-22"}
+{"url": "https://github.com/tianma-if/edgeever", "stars": 1471, "desc": "AI 原生知识库（Evernote 替代），原生支持 MCP，可零成本跑在 Cloudflare 或 Docker", "date": "2026-09-22"}
+{"url": "https://github.com/cosmo-wander-ai/cosmo-edge", "stars": 1220, "desc": "生产级 C++ 端侧 AI 推理引擎，支持 RKNN（瑞芯微）/Sophon/x86，含视觉编排与设备端 VLM", "date": "2026-09-22"}
+{"url": "https://github.com/twelvesec/PwnPad", "stars": 1192, "desc": "低价硬件攻防学习平台，内置一系列循序渐进的硬件实验与挑战", "date": "2026-09-22"}
+{"url": "https://github.com/optiland/optiland", "stars": 978, "desc": "Python 光学系统设计、优化与分析库，含 GPU 加速与可微光线追迹", "date": "2026-09-22"}
+{"url": "https://github.com/tbs-trappy/source_one", "stars": 644, "desc": "开源 FPV 穿越机机架设计，含结构件与装配资料", "date": "2026-09-22"}
+{"url": "https://github.com/NGSolve/ngsolve", "stars": 578, "desc": "高性能多物理场有限元软件，可做电磁与材料级全波仿真", "date": "2026-09-22"}
+{"url": "https://github.com/MitjaNemec/Kicad_action_plugins", "stars": 419, "desc": "一批实用的 KiCad 动作插件，覆盖常见 PCB 处理与制造准备任务", "date": "2026-09-22"}
+{"url": "https://github.com/ExpressLRS/ExpressLRS-Hardware", "stars": 415, "desc": "ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3D 打印外壳", "date": "2026-09-22"}
+{"url": "https://github.com/d-ronin/dRonin", "stars": 302, "desc": "dRonin 开源飞控软件，面向固定翼与多旋翼的完整自驾仪固件", "date": "2026-09-22"}
+{"url": "https://github.com/niclasvestlund-YT/vibepulse", "stars": 201, "desc": "ESP32-S3 AMOLED 桌面小屏：实时显示 Claude Code / Codex 用量、agent 活动与待办告警", "date": "2026-09-22"}
+{"url": "https://github.com/TilelliLab/atome-lm", "stars": 152, "desc": "三值量化零堆分配微型语言模型，跑在 2 美元单片机上，Python 与 C99 与 Cortex-M3 逐位对齐", "date": "2026-09-22"}
+{"url": "https://github.com/daishuge/pcb-skill", "stars": 136, "desc": "从硬件想法到可制造 PCB 的 agent skill：概念、原理图、选料、布局、布线、验证与下单", "date": "2026-09-22"}
+{"url": "https://github.com/euaziel/-WiFi-CSI-Human-Pose-Detection-V2", "stars": 129, "desc": "用 WiFi CSI 与深度学习做人体姿态估计，无需摄像机的穿墙感知（原仓库更名后新版）", "date": "2026-09-22"}
+{"url": "https://github.com/hku-mars/LiDAR-UAV-Autonomy", "stars": 121, "desc": "港大 MARS 实验室的 LiDAR 无人机自主导航方案，含建图、定位与规划", "date": "2026-09-22"}
+{"url": "https://github.com/WiHarper/nfc_card", "stars": 98, "desc": "开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件", "date": "2026-09-22"}
+{"url": "https://github.com/cpldcpu/pico-faces", "stars": 76, "desc": "把生成式人脸图像模型塞进 RP2350 单片机（Pico 2），端侧生成推理的极限尝试", "date": "2026-09-22"}
+{"url": "https://github.com/kyleyct/wifi-densepose-elderly", "stars": 67, "desc": "WiFi DensePose 長者防跌倒系統：基于 CSI 信号的非侵入式跌倒侦测，无需摄像机", "date": "2026-09-22"}
+{"url": "https://github.com/Gypsy-Server/RadioMCU", "stars": 62, "desc": "不用任何外部器件、直接用微控制器引脚做 FM 发射的实验项目", "date": "2026-09-22"}
+{"url": "https://github.com/AydinAdnan/PulseVAD", "stars": 61, "desc": "2.1KB INT8 流式语音活动检测器，200ms 窗口，面向微控制器与 DSP 的极小体积方案", "date": "2026-09-22"}
+{"url": "https://github.com/yunxiao11xie/ai-to-edge-deployment", "stars": 61, "desc": "面向嵌入式工程师的中文学习路线：从 AI 基础到端侧部署优化全流程", "date": "2026-09-22"}
+{"url": "https://github.com/commaai/PCBGolf", "stars": 55, "desc": "comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗", "date": "2026-09-22"}
+{"url": "https://github.com/SweiryDev/MicroCNN-TangNano20k", "stars": 52, "desc": "端到端 SystemVerilog SoC：在 Tang Nano 20K FPGA 上实现量化 MicroCNN 加速器做 BloodMNIST 分类", "date": "2026-09-22"}
+{"url": "https://github.com/php-baremetal/php-esp32", "stars": 45, "desc": "在 ESP32-P4/S3 上原生运行 PHP 8.3-8.5 引擎，从 microSD 读 PHP 文件执行，不做模拟", "date": "2026-09-22"}
+{"url": "https://github.com/kuieless/AerialMetric", "stars": 44, "desc": "ECCV 2026：无人机单目度量深度估计的基准与自适应方法", "date": "2026-09-22"}
+{"url": "https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system", "stars": 35, "desc": "基于 CSI 的人体存在、占用区域与活动识别仪表盘，面向室内感知部署", "date": "2026-09-22"}
+{"url": "https://github.com/DK27ss/ColdCard-38M-PoC", "stars": 33, "desc": "冷钱包固件漏洞分析：rng_get() 误连 MicroPython 软件 PRNG 而非硬件 TRNG，种子熵降到约 2 的 40 次方", "date": "2026-09-22"}
+{"url": "https://github.com/IntelliSensing/Self-in-Space", "stars": 31, "desc": "ACM MM 2026：无人机具身智能的自我意识与空间认知能力基准", "date": "2026-09-22"}
+{"url": "https://github.com/enizimus/FEMLab", "stars": 28, "desc": "MATLAB 有限元电磁场计算工具，小巧的 FEM 入门实现", "date": "2026-09-22"}
+{"url": "https://github.com/Caped-Crussader/VENDETTAFC", "stars": 25, "desc": "完全开源的 4 合 1 电调加 F7 飞控栈，KiCad 从零设计，含原理图与 PCB", "date": "2026-09-22"}
+{"url": "https://github.com/ARYA-mgc/NavCore-Pixhawk", "stars": 25, "desc": "估算导航解经 MAVLink VISION_POSITION_ESTIMATE 外部导航接口喂给 ArduPilot 的工程实现", "date": "2026-09-22"}
+{"url": "https://github.com/JT-Sun/UAVReason", "stars": 25, "desc": "视觉语言模型能否从天上看？面向航拍推理与生成任务的 UAVReason 基准", "date": "2026-09-22"}
+{"url": "https://github.com/CardputerZero/Template", "stars": 23, "desc": "Cardputer Zero 开发板模板工程，面向 M5Stack Cardputer 系列的起步工程", "date": "2026-09-22"}
+{"url": "https://github.com/mohosy/baby-monitor-wifi-csi", "stars": 22, "desc": "ESP32 加普通路由器的无接触婴儿呼吸监测，用 WiFi CSI 相位变化做实时呼吸暂停预警", "date": "2026-09-22"}
+{"url": "https://github.com/mavrikak/Helios", "stars": 22, "desc": "自由表面积分方程法（SIE）散射求解器，面向均匀/周期/分层介质的光与电磁散射建模", "date": "2026-09-22"}
+{"url": "https://github.com/QuentinWach/awesome-inverse-design", "stars": 21, "desc": "光子学逆向设计资源清单，含 FDTD/FDFD 求解器、教程与论文索引", "date": "2026-09-22"}
+{"url": "https://github.com/Keitark/pcba-design-skills", "stars": 21, "desc": "面向 Codex 与 Claude Code 的电子设计技能集：产品规划、电路评审、原理图整理与 PCBA 发布", "date": "2026-09-22"}
+{"url": "https://github.com/rustsbi/embedded-hal-skills", "stars": 21, "desc": "Rust 嵌入式 embedded-hal 设计模式的 AI 技能集，把最佳实践喂给编码 agent", "date": "2026-09-22"}
+{"url": "https://github.com/Abinand2631/Wifi-Vision", "stars": 19, "desc": "ESP32 CSI 加机器学习的无设备人体姿态估计与活动识别", "date": "2026-09-22"}
+{"url": "https://github.com/skywalker1905/thermal-camera-viewer", "stars": 16, "desc": "Thermal Master P3/P1 热像仪的桌面查看器与虚拟摄像头驱动，跨三大平台", "date": "2026-09-22"}
+{"url": "https://github.com/MermaidFAR/H7_BSP", "stars": 15, "desc": "基于达妙 MC-02 硬件的 STM32H7 板级支持包，含 RTOS 改版工程", "date": "2026-09-22"}
+{"url": "https://github.com/goldarte/mavlink-joystick", "stars": 14, "desc": "把遥控输入通过 MAVLink 摇杆通道下发的安卓小工具，飞控手动控制调试用", "date": "2026-09-22"}
+{"url": "https://github.com/fbreitwieser/thermal-camera-android", "stars": 14, "desc": "安卓端热像仪取图与显示实现", "date": "2026-09-22"}
+{"url": "https://github.com/sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera", "stars": 14, "desc": "树莓派加 FLIR Lepton 模组自制热像仪的软硬件方案", "date": "2026-09-22"}
+{"url": "https://github.com/MicroAIInc/MicroAI-Atom-ESP32", "stars": 13, "desc": "可跑在 ESP32 低功耗端点上的轻量 AI 引擎，对时序数据做在线模式学习", "date": "2026-09-22"}
+{"url": "https://github.com/my-short-circuits/multicamera_thermal", "stars": 13, "desc": "ESP32-S3 可见光加 MLX90640 热成像双光相机，带触摸 UI、叠加渲染与 WiFi 冻帧导出", "date": "2026-09-22"}
+{"url": "https://github.com/createskyblue/flashstore-ab-partition", "stars": 13, "desc": "面向小型 MCU 的 A/B 双页 Flash 存储库，零依赖、无状态，用于固件双备份升级", "date": "2026-09-22"}
+{"url": "https://github.com/vivichiciudean/uavidplusplus-code", "stars": 11, "desc": "UAVid++ 论文官方代码，无人机城市场景语义分割与数据集扩展", "date": "2026-09-22"}
+{"url": "https://github.com/mizhab-as/WiTrace", "stars": 10, "desc": "WiFi CSI 人体存在与占用检测的最小实现，适合作为 CSI 感知入门基线", "date": "2026-09-22"}
+{"url": "https://github.com/scholzri/rainy75-zmk", "stars": 10, "desc": "Wobkey Rainy 75 Pro 键盘（Telink TLSR9511 / RISC-V）的 ZMK 固件与逆向工程记录", "date": "2026-09-22"}
