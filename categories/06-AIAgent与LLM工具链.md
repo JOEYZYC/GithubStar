@@ -5,49 +5,49 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★390,159 · TypeScript · ⭐ 已 star`
+`★390,163 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
 ---
 
 #### [obra/superpowers](https://github.com/obra/superpowers)
-`★289,247 · Shell · ⭐ 已 star`
+`★289,367 · Shell · ⭐ 已 star`
 An agentic skills framework & software development methodology that works.
 > 收录日期：2026-09-13
 
 ---
 
 #### [mattpocock/skills](https://github.com/mattpocock/skills)
-`★266,440 · Shell · ⭐ 已 star`
+`★266,588 · Shell · ⭐ 已 star`
 Skills for Real Engineers. Straight from my .agents directory.
 > 收录日期：2026-09-13
 
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★263,691 · JavaScript · ⭐ 已 star`
+`★263,950 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★214,344 · ⭐ 已 star`
+`★214,375 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★208,874 · TypeScript · ⭐ 已 star`
+`★208,942 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★153,761 · Shell · ⭐ 已 star`
+`★153,804 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -62,28 +62,28 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-`★143,036 · JavaScript · ⭐ 已 star`
+`★143,218 · JavaScript · ⭐ 已 star`
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 > 收录日期：2026-09-13
 
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★138,080 · Python · ⭐ 已 star`
+`★138,106 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with Spec-Driven Development
 > 收录日期：2026-09-13
 
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★129,326 · Python · ⭐ 已 star`
+`★129,385 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
 ---
 
 #### [earendil-works/pi](https://github.com/earendil-works/pi)
-`★107,724 · TypeScript · ⭐ 已 star`
+`★107,854 · TypeScript · ⭐ 已 star`
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 > 收录日期：2026-09-13
 
@@ -98,14 +98,14 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-`★83,826 · Python · ⭐ 已 star`
+`★83,951 · Python · ⭐ 已 star`
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 > 收录日期：2026-09-13
 
 ---
 
 #### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-`★82,626 · Python · ⭐ 已 star`
+`★82,672 · Python · ⭐ 已 star`
 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ
 > 收录日期：2026-09-13
 
@@ -120,7 +120,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★73,542 · TypeScript · ⭐ 已 star`
+`★73,829 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -135,21 +135,21 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★69,386 · JavaScript · ⭐ 已 star`
+`★69,440 · JavaScript · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
 ---
 
 #### [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-`★69,228 · TypeScript · ⭐ 已 star`
+`★69,235 · TypeScript · ⭐ 已 star`
 OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 > 收录日期：2026-09-13
 
 ---
 
 #### [cline/cline](https://github.com/cline/cline)
-`★68,887 · TypeScript · ⭐ 已 star`
+`★68,906 · TypeScript · ⭐ 已 star`
 Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 > 收录日期：2026-09-13
 
@@ -164,35 +164,35 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [tldraw/tldraw](https://github.com/tldraw/tldraw)
-`★50,480 · TypeScript · ⭐ 已 star`
+`★50,488 · TypeScript · ⭐ 已 star`
 Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 > 收录日期：2026-09-19
 
 ---
 
 #### [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-`★49,627 · Python · ⭐ 已 star`
+`★49,636 · Python · ⭐ 已 star`
 "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 > 收录日期：2026-09-13
 
 ---
 
 #### [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills)
-`★43,489 · Python · ⭐ 已 star`
+`★43,558 · Python · ⭐ 已 star`
 符合nature论文学术表达和科研绘图的Skill
 > 收录日期：2026-09-13
 
 ---
 
 #### [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
-`★42,027 · Python · ⭐ 已 star`
+`★42,043 · Python · ⭐ 已 star`
 Build resilient agents.
 > 收录日期：2026-09-13
 
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★39,495 · Markdown · ⭐ 已 star`
+`★39,643 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -207,7 +207,7 @@ Skills for Designers and Engineers.
 ---
 
 #### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-`★36,692 · PowerShell · ⭐ 已 star`
+`★36,726 · PowerShell · ⭐ 已 star`
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 > 收录日期：2026-09-13
 
@@ -222,21 +222,21 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 ---
 
 #### [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-`★35,462 · Zig · ⭐ 已 star`
+`★35,473 · Zig · ⭐ 已 star`
 Lightpanda: the headless browser designed for AI and automation
 > 收录日期：2026-09-13
 
 ---
 
 #### [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
-`★34,652 · ⭐ 已 star`
+`★34,661 · ⭐ 已 star`
 A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 > 收录日期：2026-09-13
 
 ---
 
 #### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-`★32,126 · TypeScript · ⭐ 已 star`
+`★32,181 · TypeScript · ⭐ 已 star`
 ⌥ Coding agent with the IDE wired in
 > 收录日期：2026-09-13
 
@@ -267,21 +267,21 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 ---
 
 #### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-`★28,024 · TypeScript · ⭐ 已 star`
+`★28,033 · TypeScript · ⭐ 已 star`
 An open-source AI coding agent that lives in your terminal.
 > 收录日期：2026-09-13
 
 ---
 
 #### [virattt/dexter](https://github.com/virattt/dexter)
-`★27,612 · TypeScript · ⭐ 已 star`
+`★27,613 · TypeScript · ⭐ 已 star`
 An autonomous agent for deep financial research
 > 收录日期：2026-09-13
 
 ---
 
 #### [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-`★27,455 · Rust · ⭐ 已 star`
+`★27,535 · Rust · ⭐ 已 star`
 The headless browser for AI agents and web scraping
 > 收录日期：2026-09-13
 
@@ -304,7 +304,7 @@ The headless browser for AI agents and web scraping
 ---
 
 #### [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
-`★26,312 · TypeScript · ⭐ 已 star`
+`★26,319 · TypeScript · ⭐ 已 star`
 What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 > 收录日期：2026-09-13
 
@@ -327,7 +327,7 @@ Obsidian 内的 AI 助手集成，把 LLM 直接放进笔记工作流
 ---
 
 #### [yc-software/qm](https://github.com/yc-software/qm)
-`★15,182 · TypeScript · ⭐ 已 star`
+`★15,185 · TypeScript · ⭐ 已 star`
 Multiplayer agent harness for work.
 > 收录日期：2026-09-13
 
@@ -341,16 +341,16 @@ Cloudflare 出品的多阶段代码/系统安全审计 agent skill，输出机�
 
 ---
 
-#### [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
-`★12,685 · Python · ⭐ 已 star`
-> 收录日期：2026-09-13
+#### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
+`★12,762 · Python · ⭐ 已 star`
+i. am. speed.
+> 收录日期：2026-09-20
 
 ---
 
-#### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
-`★11,735 · Python · ⭐ 已 star`
-i. am. speed.
-> 收录日期：2026-09-20
+#### [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research)
+`★12,685 · Python · ⭐ 已 star`
+> 收录日期：2026-09-13
 
 ---
 
@@ -371,7 +371,7 @@ i. am. speed.
 ---
 
 #### [openchamber/openchamber](https://github.com/openchamber/openchamber)
-`★10,160 · TypeScript · ⭐ 已 star`
+`★10,188 · TypeScript · ⭐ 已 star`
 Agentic Development Environment based on OpenCode AI agent
 > 收录日期：2026-09-13
 
@@ -386,14 +386,14 @@ LangChain 官方 RAG 从零实现系列，检索增强生成的原理到代码
 ---
 
 #### [modem-dev/hunk](https://github.com/modem-dev/hunk)
-`★9,345 · TypeScript · ⭐ 已 star`
+`★9,349 · TypeScript · ⭐ 已 star`
 Review-first terminal diff viewer for agentic coders
 > 收录日期：2026-09-13
 
 ---
 
 #### [cloudflare/computer](https://github.com/cloudflare/computer)
-`★9,228 · TypeScript · ⭐ 已 star`
+`★9,229 · TypeScript · ⭐ 已 star`
 Give your agent a computer 👾
 > 收录日期：2026-09-13
 
@@ -408,7 +408,7 @@ Give your agent a computer 👾
 ---
 
 #### [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
-`★7,208 · Python · ⭐ 已 star`
+`★7,210 · Python · ⭐ 已 star`
 AI-Powered Dark Web OSINT Tool
 > 收录日期：2026-09-13
 
@@ -431,14 +431,14 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 ---
 
 #### [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book)
-`★4,696 · Python · ⭐ 已 star`
+`★4,747 · Python · ⭐ 已 star`
 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 > 收录日期：2026-09-15
 
 ---
 
 #### [xianyu110/awesome-openclaw-tutorial](https://github.com/xianyu110/awesome-openclaw-tutorial)
-`★4,570 · Shell · ⭐ 已 star`
+`★4,568 · Shell · ⭐ 已 star`
 从零开始玩转OpenClaw：最全面的中文教程，涵盖安装、配置、实战案例和避坑指南（github版）
 > 收录日期：2026-09-13
 
@@ -466,7 +466,7 @@ J-Space Cognition Suite V3.7 - AI cognitive-enhancement Skills based on Anthropi
 ---
 
 #### [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite)
-`★3,008 · Python · ⭐ 已 star`
+`★3,007 · Python · ⭐ 已 star`
 J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research.
 > 收录日期：2026-09-14
 
@@ -481,7 +481,7 @@ J-Space Cognition Suite — a model-agnostic inference-time control suite for de
 ---
 
 #### [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
-`★2,022 · Zig · ⭐ 已 star`
+`★2,026 · Zig · ⭐ 已 star`
 x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros
 > 收录日期：2026-09-13
 
@@ -501,7 +501,7 @@ playwright for windows computer use
 ---
 
 #### [zjunlp/SkillNet](https://github.com/zjunlp/SkillNet)
-`★1,265 · Python · ⭐ 已 star`
+`★1,266 · Python · ⭐ 已 star`
 Create, Evaluate, and Connect AI Skills
 > 收录日期：2026-09-13
 

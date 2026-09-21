@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 92 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
+> 共 93 个项目 · 数据更新时间 2026-09-21 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,187 · Python · ⭐ 已 star`
+`★16,199 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,891 · C++ · ⭐ 已 star`
+`★2,894 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,133 · Rust · ⭐ 已 star`
+`★2,144 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -494,6 +494,13 @@ Nordic 全系列芯片 KiCad 元件库
 
 ---
 
+#### [ElectronicCats/faultycat](https://github.com/ElectronicCats/faultycat)
+`★178 · 🔥 热点推荐`
+低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix
+> 收录日期：2026-09-21
+
+---
+
 #### [jonkraft/PhasedArray](https://github.com/jonkraft/PhasedArray)
 `★170 · ⭐🔥 已 star + 热点推荐`
 10GHz 相控阵波束成形实验配套教程与代码
@@ -559,7 +566,7 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
-`★96 · Python · ⭐ 已 star`
+`★97 · Python · ⭐ 已 star`
 AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
 > 收录日期：2026-09-13
 
@@ -637,7 +644,7 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★30 · C++ · ⭐ 已 star`
+`★31 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
 

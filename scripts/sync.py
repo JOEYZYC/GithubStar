@@ -88,6 +88,8 @@ RULES: dict[str, list[str]] = {
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
     # ---- 2026-09-21：规则未命中（description 缺关键词），人工归入 ----
+    "ElectronicCats/faultycat": "硬件设计与 EDA",  # 手动收录：全名与 desc 无硬件设计关键词
+    "machmind-dev/drone-swarm-challenge-2026": "飞控与无人机",  # 手动收录：规则本命中 drone，显式固定
     "langchain-ai/rag-from-scratch": "AI Agent 与 LLM 工具链",
     "Serial-Studio/Serial-Studio": "嵌入式与单片机",
     "skiars/SerialTool": "嵌入式与单片机",

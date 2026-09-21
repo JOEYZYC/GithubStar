@@ -631,3 +631,5 @@
 {"url": "https://github.com/kalesha681/ARES-Autonomous-Surveyor", "stars": 11, "desc": "GPS 拒止地形测绘的分体计算无人机系统，含往复式覆盖路径与边缘 AI 推理", "date": "2026-09-21"}
 {"url": "https://github.com/ganghui0/dcs-thz-mimo-ce", "stars": 10, "desc": "太赫兹超大规模 MIMO 信道估计的深度压缩感知代码", "date": "2026-09-21"}
 {"url": "https://github.com/githublzb/CNN-for-Terahertz-CT-image-Reconstruction", "stars": 10, "desc": "用 CNN 做太赫兹 CT 图像重建的示例代码", "date": "2026-09-21"}
+{"url": "https://github.com/ElectronicCats/faultycat", "stars": 178, "desc": "低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix", "date": "2026-09-21"}
+{"url": "https://github.com/machmind-dev/drone-swarm-challenge-2026", "stars": 42, "desc": "Swarm Drone Challenge 2026 参赛全套源码：ESP32-P4 机载视觉 + ESP32-S3 MAVLink/micro-ROS 通信，ROS2 地面站与 Manhattan 航点导航，决赛第 4 名", "date": "2026-09-21"}

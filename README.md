@@ -3,7 +3,7 @@
 个人 GitHub 项目雷达 —— 把「已 star 的项目」和「每日热点检索推荐的项目」分类归档，便于检索与回顾。
 
 - 数据更新时间：**2026-09-21**
-- 收录总数：**772** 个仓库（⭐ 已 star 148 个、🔥 热点推荐 624 个）
+- 收录总数：**774** 个仓库（⭐ 已 star 148 个、🔥 热点推荐 626 个）
 - 数据源：[`data/repos.json`](data/repos.json)（单一事实源）；每日热点推荐记录在 [`data/recommendations.jsonl`](data/recommendations.jsonl)
 - 维护方式：Hermes Agent 每日热点任务自动同步（GitHub search → 分类归档 → 提交推送）
 
@@ -11,10 +11,10 @@
 
 | 分类 | 数量 | 说明 |
 | --- | ---: | --- |
-| [飞控与无人机](categories/01-飞控与无人机.md) | 94 | PX4 / ArduPilot / 飞控板卡 / 无人机导航与仿真 |
+| [飞控与无人机](categories/01-飞控与无人机.md) | 95 | PX4 / ArduPilot / 飞控板卡 / 无人机导航与仿真 |
 | [电磁仿真与超表面](categories/02-电磁仿真与超表面.md) | 107 | FDTD / CST / 超表面与电磁材料设计 |
 | [嵌入式与单片机](categories/03-嵌入式与单片机.md) | 222 | RTOS、MCU 生态、LVGL、MicroPython、调试与仿真工具 |
-| [硬件设计与 EDA](categories/04-硬件设计与EDA.md) | 92 | KiCad / EDA / CAD / PCB / FPGA 设计流程 |
+| [硬件设计与 EDA](categories/04-硬件设计与EDA.md) | 93 | KiCad / EDA / CAD / PCB / FPGA 设计流程 |
 | [无线通信与感知](categories/05-无线通信与感知.md) | 82 | WiFi CSI、无线链路、IMU、GNSS 等感知与通信 |
 | [AI Agent 与 LLM 工具链](categories/06-AIAgent与LLM工具链.md) | 76 | 编码 Agent、Skills、MCP、浏览器与自动化 |
 | [知识管理与笔记](categories/07-知识管理与笔记.md) | 17 | Obsidian、知识图谱、RAG、教程与书籍 |

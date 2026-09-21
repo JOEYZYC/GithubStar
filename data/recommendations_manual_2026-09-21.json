@@ -1,0 +1,12 @@
+[
+ {
+  "url": "https://github.com/ElectronicCats/faultycat",
+  "stars": 178,
+  "desc": "低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix"
+ },
+ {
+  "url": "https://github.com/machmind-dev/drone-swarm-challenge-2026",
+  "stars": 42,
+  "desc": "Swarm Drone Challenge 2026 参赛全套源码：ESP32-P4 机载视觉 + ESP32-S3 MAVLink/micro-ROS 通信，ROS2 地面站与 Manhattan 航点导航，决赛第 4 名"
+ }
+]
