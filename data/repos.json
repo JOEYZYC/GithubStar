@@ -173,7 +173,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "HKUST-Aerial-Robotics/Fast-Planner",
@@ -683,6 +690,27 @@
    ]
   },
   {
+   "full_name": "tbs-trappy/source_one",
+   "url": "https://github.com/tbs-trappy/source_one",
+   "description": "开源 FPV 穿越机机架设计，含结构件与装配资料",
+   "language": "",
+   "stars": 644,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
+  },
+  {
    "full_name": "DroidPlanner/Tower",
    "url": "https://github.com/DroidPlanner/Tower",
    "description": "Android 地面站应用，经典 3DR Tower 地面站源码",
@@ -1110,7 +1138,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "Excitablecell/GEARdrones",
@@ -1418,7 +1453,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "skybrush-io/live",
@@ -1718,7 +1760,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "machmind-dev/drone-swarm-challenge-2026",
@@ -1808,7 +1857,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "raylanlin/smarttune-cli",
@@ -1885,7 +1941,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "ARYA-mgc/NavCore-Pixhawk",
@@ -1899,7 +1962,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "JT-Sun/UAVReason",
@@ -1913,7 +1983,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "pingyun001/LimeRC",
@@ -2003,7 +2080,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "ZSN2024/AGC-VLN",
@@ -2080,7 +2164,14 @@
    "added_at": "2026-09-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "RustedBytes/mavsim",
@@ -2209,6 +2300,27 @@
    ]
   },
   {
+   "full_name": "optiland/optiland",
+   "url": "https://github.com/optiland/optiland",
+   "description": "Python 光学系统设计、优化与分析库，含 GPU 加速与可微光线追迹",
+   "language": "",
+   "stars": 978,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
+  },
+  {
    "full_name": "scikit-rf/scikit-rf",
    "url": "https://github.com/scikit-rf/scikit-rf",
    "description": "RF/微波工程 Python 库：S 参数、网络分析、校准与 Smith 图",
@@ -2304,7 +2416,14 @@
    "added_at": "2026-09-22",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "awslabs/palace",
@@ -3956,7 +4075,14 @@
    "added_at": "2026-09-22",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "striderZA/Tiny-RF-Simulator",
@@ -4096,7 +4222,14 @@
    "added_at": "2026-09-22",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "DABIAN-afk/microstrip-studio",
@@ -4152,7 +4285,14 @@
    "added_at": "2026-09-22",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "OpenResearchInstitute/Arcanum",
@@ -6952,7 +7092,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "Adancurusul/embedded-debugger-mcp",
@@ -7210,7 +7357,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "embassy-rs/stm32-data",
@@ -7699,7 +7853,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "bekencorp/lvgl_ui_designer",
@@ -7860,7 +8021,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "espressif/esp-emulator",
@@ -7916,7 +8084,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "kevinmcaleer/Snakie",
@@ -8060,7 +8235,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "cwu766485-ctrl/LumenRV32",
@@ -8305,7 +8487,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "artfulbytes/i_kept_coding_until_an_rtos_was_inevitable",
@@ -8540,6 +8729,27 @@
    ]
   },
   {
+   "full_name": "CardputerZero/Template",
+   "url": "https://github.com/CardputerZero/Template",
+   "description": "Cardputer Zero 开发板模板工程，面向 M5Stack Cardputer 系列的起步工程",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
+  },
+  {
    "full_name": "MikeWuPing/UEFI_LVGL",
    "url": "https://github.com/MikeWuPing/UEFI_LVGL",
    "description": "把 LVGL v9 移植进 UEFI 固件环境（EDK2 包 + 完整 UEFI 移植层）",
@@ -8593,7 +8803,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "Stevee87/Tactical-Radar-System-ESP32-P4",
@@ -8628,7 +8845,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -8684,7 +8908,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "johannesboernsen/ScopeBuddy",
@@ -8900,7 +9131,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "RTechAI/ForgeUI-P4",
@@ -8952,6 +9190,27 @@
    "added_at": "2026-09-13",
    "category": "嵌入式与单片机",
    "note": ""
+  },
+  {
+   "full_name": "sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera",
+   "url": "https://github.com/sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera",
+   "description": "树莓派加 FLIR Lepton 模组自制热像仪的软硬件方案",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -9028,7 +9287,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "my-short-circuits/multicamera_thermal",
@@ -9042,7 +9308,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "createskyblue/flashstore-ab-partition",
@@ -9056,7 +9329,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -9272,7 +9552,14 @@
    "added_at": "2026-09-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "karagure/rvkit",
@@ -9874,6 +10161,27 @@
    ]
   },
   {
+   "full_name": "twelvesec/PwnPad",
+   "url": "https://github.com/twelvesec/PwnPad",
+   "description": "低价硬件攻防学习平台，内置一系列循序渐进的硬件实验与挑战",
+   "language": "",
+   "stars": 1192,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
+  },
+  {
    "full_name": "CarlosGS/Cyclone-PCB-Factory",
    "url": "https://github.com/CarlosGS/Cyclone-PCB-Factory",
    "description": "参数化 CNC 铣床设计，用于自制 PCB（电路克隆机）",
@@ -10297,7 +10605,14 @@
    "added_at": "2026-09-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "ExpressLRS/ExpressLRS-Hardware",
@@ -10311,7 +10626,14 @@
    "added_at": "2026-09-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "American-Embedded/kistack",
@@ -10820,7 +11142,14 @@
    "added_at": "2026-09-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "jcyrax/pcbmodelgen",
@@ -10897,7 +11226,14 @@
    "added_at": "2026-09-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "oaslananka/kicad-mcp-pro",
@@ -11021,7 +11357,14 @@
    "added_at": "2026-09-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "YutongChenVictor/NPU-E2E",
@@ -11042,6 +11385,27 @@
    ],
    "hot_dates": [
     "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "SweiryDev/MicroCNN-TangNano20k",
+   "url": "https://github.com/SweiryDev/MicroCNN-TangNano20k",
+   "description": "端到端 SystemVerilog SoC：在 Tang Nano 20K FPGA 上实现量化 MicroCNN 加速器做 BloodMNIST 分类",
+   "language": "",
+   "stars": 52,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
    ]
   },
   {
@@ -11258,7 +11622,14 @@
    "added_at": "2026-09-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "estlit/SemiconductorSchool-Labs",
@@ -12171,7 +12542,14 @@
    "added_at": "2026-09-22",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "euaziel/WiFi-CSI-Human-Pose-Detection",
@@ -12492,7 +12870,14 @@
    "added_at": "2026-09-22",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "advoard/advoard_localization",
@@ -12737,7 +13122,14 @@
    "added_at": "2026-09-22",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "wdhwg001/csift",
@@ -13171,7 +13563,14 @@
    "added_at": "2026-09-22",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "openclaw/openclaw",
@@ -13199,7 +13598,7 @@
    "url": "https://github.com/obra/superpowers",
    "description": "An agentic skills framework & software development methodology that works.",
    "language": "Shell",
-   "stars": 289711,
+   "stars": 289712,
    "topics": [
     "ai",
     "brainstorming",
@@ -13234,7 +13633,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 264729,
+   "stars": 264730,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -13282,7 +13681,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 153978,
+   "stars": 153980,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -13361,7 +13760,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 129590,
+   "stars": 129591,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -13394,7 +13793,7 @@
    "url": "https://github.com/earendil-works/pi",
    "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
    "language": "TypeScript",
-   "stars": 108107,
+   "stars": 108109,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -13428,7 +13827,7 @@
    "url": "https://github.com/Panniantong/Agent-Reach",
    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "language": "Python",
-   "stars": 84353,
+   "stars": 84354,
    "topics": [
     "agent-infrastructure",
     "ai-agent",
@@ -13514,7 +13913,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 74642,
+   "stars": 74645,
    "topics": [
     "ade",
     "agent-ide",
@@ -13738,7 +14137,14 @@
    "added_at": "2026-09-22",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "tinyhumansai/openhuman",
@@ -13752,7 +14158,14 @@
    "added_at": "2026-09-22",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "emilkowalski/skills",
@@ -13875,7 +14288,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in",
    "language": "TypeScript",
-   "stars": 32304,
+   "stars": 32305,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -14117,7 +14530,7 @@
    "url": "https://github.com/browser-use/jev-ultrafast",
    "description": "Fastest and cheapest web agent",
    "language": "Python",
-   "stars": 15568,
+   "stars": 15571,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -14380,6 +14793,27 @@
    "note": ""
   },
   {
+   "full_name": "gepa-ai/gepa",
+   "url": "https://github.com/gepa-ai/gepa",
+   "description": "用反射式优化自动调优提示词与代码的框架",
+   "language": "",
+   "stars": 6692,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
+  },
+  {
    "full_name": "Dicklesworthstone/destructive_command_guard",
    "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
    "description": "阻断 agent 执行危险 git 与 shell 命令的守卫工具",
@@ -14391,7 +14825,14 @@
    "added_at": "2026-09-22",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "Tencent/BrowserSkill",
@@ -14666,7 +15107,14 @@
    "added_at": "2026-09-22",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "skillsgate/skillsgate",
@@ -15083,7 +15531,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 11097,
+   "stars": 11098,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -15620,7 +16068,14 @@
    "added_at": "2026-09-22",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "rl-tools/rl-tools",
@@ -16117,7 +16572,14 @@
    "added_at": "2026-09-22",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
   },
   {
    "full_name": "s-du/Thermogram",
@@ -16370,6 +16832,48 @@
    ],
    "hot_dates": [
     "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "skywalker1905/thermal-camera-viewer",
+   "url": "https://github.com/skywalker1905/thermal-camera-viewer",
+   "description": "Thermal Master P3/P1 热像仪的桌面查看器与虚拟摄像头驱动，跨三大平台",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
+  },
+  {
+   "full_name": "fbreitwieser/thermal-camera-android",
+   "url": "https://github.com/fbreitwieser/thermal-camera-android",
+   "description": "安卓端热像仪取图与显示实现",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
    ]
   },
   {
@@ -16779,7 +17283,7 @@
    "url": "https://github.com/garinasset/leak-check",
    "description": "个人信息 “泄漏” 检测接口",
    "language": "Python",
-   "stars": 5273,
+   "stars": 5274,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -17020,132 +17524,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "gepa-ai/gepa",
-   "url": "https://github.com/gepa-ai/gepa",
-   "description": "用反射式优化自动调优提示词与代码的框架",
-   "language": "",
-   "stars": 6692,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "twelvesec/PwnPad",
-   "url": "https://github.com/twelvesec/PwnPad",
-   "description": "低价硬件攻防学习平台，内置一系列循序渐进的硬件实验与挑战",
-   "language": "",
-   "stars": 1192,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "optiland/optiland",
-   "url": "https://github.com/optiland/optiland",
-   "description": "Python 光学系统设计、优化与分析库，含 GPU 加速与可微光线追迹",
-   "language": "",
-   "stars": 978,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "tbs-trappy/source_one",
-   "url": "https://github.com/tbs-trappy/source_one",
-   "description": "开源 FPV 穿越机机架设计，含结构件与装配资料",
-   "language": "",
-   "stars": 644,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "SweiryDev/MicroCNN-TangNano20k",
-   "url": "https://github.com/SweiryDev/MicroCNN-TangNano20k",
-   "description": "端到端 SystemVerilog SoC：在 Tang Nano 20K FPGA 上实现量化 MicroCNN 加速器做 BloodMNIST 分类",
-   "language": "",
-   "stars": 52,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "CardputerZero/Template",
-   "url": "https://github.com/CardputerZero/Template",
-   "description": "Cardputer Zero 开发板模板工程，面向 M5Stack Cardputer 系列的起步工程",
-   "language": "",
-   "stars": 23,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "skywalker1905/thermal-camera-viewer",
-   "url": "https://github.com/skywalker1905/thermal-camera-viewer",
-   "description": "Thermal Master P3/P1 热像仪的桌面查看器与虚拟摄像头驱动，跨三大平台",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "fbreitwieser/thermal-camera-android",
-   "url": "https://github.com/fbreitwieser/thermal-camera-android",
-   "description": "安卓端热像仪取图与显示实现",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera",
-   "url": "https://github.com/sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera",
-   "description": "树莓派加 FLIR Lepton 模组自制热像仪的软硬件方案",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

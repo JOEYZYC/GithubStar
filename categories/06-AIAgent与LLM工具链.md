@@ -1,6 +1,6 @@
 # AI Agent 与 LLM 工具链
 
-> 共 81 个项目 · 数据更新时间 2026-09-22 · [返回总览](../README.md)
+> 共 82 个项目 · 数据更新时间 2026-09-22 · [返回总览](../README.md)
 
 ---
 
@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [obra/superpowers](https://github.com/obra/superpowers)
-`★289,711 · Shell · ⭐ 已 star`
+`★289,712 · Shell · ⭐ 已 star`
 An agentic skills framework & software development methodology that works.
 > 收录日期：2026-09-13
 
@@ -26,7 +26,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★264,729 · JavaScript · ⭐ 已 star`
+`★264,730 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -47,7 +47,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★153,978 · Shell · ⭐ 已 star`
+`★153,980 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -76,14 +76,14 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★129,590 · Python · ⭐ 已 star`
+`★129,591 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
 ---
 
 #### [earendil-works/pi](https://github.com/earendil-works/pi)
-`★108,107 · TypeScript · ⭐ 已 star`
+`★108,109 · TypeScript · ⭐ 已 star`
 AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 > 收录日期：2026-09-13
 
@@ -98,7 +98,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
-`★84,353 · Python · ⭐ 已 star`
+`★84,354 · Python · ⭐ 已 star`
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 > 收录日期：2026-09-13
 
@@ -120,7 +120,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★74,642 · TypeScript · ⭐ 已 star`
+`★74,645 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -192,15 +192,17 @@ Build resilient agents.
 ---
 
 #### [microsoft/BitNet](https://github.com/microsoft/BitNet)
-`★40,332 · 🔥 热点推荐`
+`★40,332 · ⭐🔥 已 star + 热点推荐`
 微软官方 1-bit LLM 推理框架，C++ 实现，把三值量化大模型跑在 CPU 与端侧设备上
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
 
 #### [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)
-`★40,016 · 🔥 热点推荐`
+`★40,016 · ⭐🔥 已 star + 热点推荐`
 开源 agent harness：本地优先记忆、agent 编排与工作流一体
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
@@ -250,7 +252,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 ---
 
 #### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-`★32,304 · TypeScript · ⭐ 已 star`
+`★32,305 · TypeScript · ⭐ 已 star`
 ⌥ Coding agent with the IDE wired in
 > 收录日期：2026-09-13
 
@@ -333,7 +335,7 @@ AI agent skill 安全扫描器，检测提示注入、数据外泄与供应链�
 ---
 
 #### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
-`★15,568 · Python · ⭐ 已 star`
+`★15,571 · Python · ⭐ 已 star`
 Fastest and cheapest web agent
 > 收录日期：2026-09-20
 
@@ -435,9 +437,18 @@ AI-Powered Dark Web OSINT Tool
 
 ---
 
+#### [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
+`★6,692 · ⭐🔥 已 star + 热点推荐`
+用反射式优化自动调优提示词与代码的框架
+> 热点推荐于 2026-09-22
+> 收录日期：2026-09-22
+
+---
+
 #### [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)
-`★6,032 · 🔥 热点推荐`
+`★6,032 · ⭐🔥 已 star + 热点推荐`
 阻断 agent 执行危险 git 与 shell 命令的守卫工具
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
@@ -523,8 +534,9 @@ playwright for windows computer use
 ---
 
 #### [tianma-if/edgeever](https://github.com/tianma-if/edgeever)
-`★1,471 · 🔥 热点推荐`
+`★1,471 · ⭐🔥 已 star + 热点推荐`
 AI 原生知识库（Evernote 替代），原生支持 MCP，可零成本跑在 Cloudflare 或 Docker
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---

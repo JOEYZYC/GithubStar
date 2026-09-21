@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 99 个项目 · 数据更新时间 2026-09-22 · [返回总览](../README.md)
+> 共 101 个项目 · 数据更新时间 2026-09-22 · [返回总览](../README.md)
 
 ---
 
@@ -193,6 +193,14 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 
 ---
 
+#### [twelvesec/PwnPad](https://github.com/twelvesec/PwnPad)
+`★1,192 · ⭐🔥 已 star + 热点推荐`
+低价硬件攻防学习平台，内置一系列循序渐进的硬件实验与挑战
+> 热点推荐于 2026-09-22
+> 收录日期：2026-09-22
+
+---
+
 #### [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory)
 `★1,186 · ⭐🔥 已 star + 热点推荐`
 参数化 CNC 铣床设计，用于自制 PCB（电路克隆机）
@@ -353,15 +361,17 @@ OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 ---
 
 #### [MitjaNemec/Kicad_action_plugins](https://github.com/MitjaNemec/Kicad_action_plugins)
-`★419 · 🔥 热点推荐`
+`★419 · ⭐🔥 已 star + 热点推荐`
 一批实用的 KiCad 动作插件，覆盖常见 PCB 处理与制造准备任务
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
 
 #### [ExpressLRS/ExpressLRS-Hardware](https://github.com/ExpressLRS/ExpressLRS-Hardware)
-`★415 · 🔥 热点推荐`
+`★415 · ⭐🔥 已 star + 热点推荐`
 ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3D 打印外壳
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
@@ -557,8 +567,9 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [daishuge/pcb-skill](https://github.com/daishuge/pcb-skill)
-`★136 · 🔥 热点推荐`
+`★136 · ⭐🔥 已 star + 热点推荐`
 从硬件想法到可制造 PCB 的 agent skill：概念、原理图、选料、布局、布线、验证与下单
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
@@ -588,8 +599,9 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [WiHarper/nfc_card](https://github.com/WiHarper/nfc_card)
-`★98 · 🔥 热点推荐`
+`★98 · ⭐🔥 已 star + 热点推荐`
 开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
@@ -633,8 +645,9 @@ X-Laser，一款小型的矢量激光投影仪
 ---
 
 #### [commaai/PCBGolf](https://github.com/commaai/PCBGolf)
-`★55 · 🔥 热点推荐`
+`★55 · ⭐🔥 已 star + 热点推荐`
 comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---
@@ -644,6 +657,14 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 端到端 NPU 工程：RTL 脉动阵列 → AXI4 SoC → TVM 编译器 → FPGA 推理
 > 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
+
+---
+
+#### [SweiryDev/MicroCNN-TangNano20k](https://github.com/SweiryDev/MicroCNN-TangNano20k)
+`★52 · ⭐🔥 已 star + 热点推荐`
+端到端 SystemVerilog SoC：在 Tang Nano 20K FPGA 上实现量化 MicroCNN 加速器做 BloodMNIST 分类
+> 热点推荐于 2026-09-22
+> 收录日期：2026-09-22
 
 ---
 
@@ -727,8 +748,9 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 ---
 
 #### [Keitark/pcba-design-skills](https://github.com/Keitark/pcba-design-skills)
-`★21 · 🔥 热点推荐`
+`★21 · ⭐🔥 已 star + 热点推荐`
 面向 Codex 与 Claude Code 的电子设计技能集：产品规划、电路评审、原理图整理与 PCBA 发布
+> 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
 
 ---

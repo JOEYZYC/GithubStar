@@ -87,6 +87,17 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-22：规则未命中（description 信息量不足），人工归入 ----
+    "gepa-ai/gepa": "AI Agent 与 LLM 工具链",          # 提示词/代码反射式优化框架
+    "twelvesec/PwnPad": "硬件设计与 EDA",                # 硬件攻防实验平台（自制 PCB）
+    "optiland/optiland": "电磁仿真与超表面",              # 光学设计/可微光线追迹仿真库
+    "tbs-trappy/source_one": "飞控与无人机",              # 开源 FPV 机架（结构件）
+    "SweiryDev/MicroCNN-TangNano20k": "硬件设计与 EDA",   # Tang Nano 20K 上的 FPGA CNN 加速器
+    "CardputerZero/Template": "嵌入式与单片机",           # Cardputer 模板工程（ESP32-S3）
+    "sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera": "嵌入式与单片机",  # 树莓派 + FLIR Lepton 自制热像仪
+    "skywalker1905/thermal-camera-viewer": "AI 模型与视觉",      # 热像仪桌面查看器 + 虚拟摄像头驱动
+    "fbreitwieser/thermal-camera-android": "AI 模型与视觉",      # 安卓端热像取图与显示
+
     # ---- 2026-09-21：规则未命中（description 缺关键词），人工归入 ----
     "ElectronicCats/faultycat": "硬件设计与 EDA",  # 手动收录：全名与 desc 无硬件设计关键词
     "machmind-dev/drone-swarm-challenge-2026": "飞控与无人机",  # 手动收录：规则本命中 drone，显式固定
