@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 101 个项目 · 数据更新时间 2026-09-22 · [返回总览](../README.md)
+> 共 103 个项目 · 数据更新时间 2026-09-23 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,230 · Python · ⭐ 已 star`
+`★16,277 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,900 · C++ · ⭐ 已 star`
+`★2,904 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,172 · Rust · ⭐ 已 star`
+`★2,213 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -217,6 +217,13 @@ Hantek 6022BE/BL USB 示波器的开源上位机软件
 
 ---
 
+#### [wagiminator/ATmega-Soldering-Station](https://github.com/wagiminator/ATmega-Soldering-Station)
+`★1,083 · 🔥 热点推荐`
+ATmega 驱动的 T12 快速加热焊接台，电路极简，低成本入门方案
+> 收录日期：2026-09-23
+
+---
+
 #### [gdsfactory/gdsfactory](https://github.com/gdsfactory/gdsfactory)
 `★1,042 · ⭐🔥 已 star + 热点推荐`
 Python 芯片与 PCB 版图生成库，支持光子/模拟/量子/MEMS 与三维打印件设计
@@ -290,7 +297,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★560 · C · ⭐ 已 star`
+`★561 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -441,7 +448,7 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★249 · C++ · ⭐ 已 star`
+`★250 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -598,18 +605,18 @@ XCircuit 电路绘制与原理图捕捉工具
 
 ---
 
+#### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
+`★99 · Python · ⭐ 已 star`
+AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
+> 收录日期：2026-09-13
+
+---
+
 #### [WiHarper/nfc_card](https://github.com/WiHarper/nfc_card)
 `★98 · ⭐🔥 已 star + 热点推荐`
 开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
-
----
-
-#### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
-`★97 · Python · ⭐ 已 star`
-AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
-> 收录日期：2026-09-13
 
 ---
 
@@ -649,6 +656,13 @@ X-Laser，一款小型的矢量激光投影仪
 comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
+
+---
+
+#### [solderable/storm-tracker-hardware](https://github.com/solderable/storm-tracker-hardware)
+`★54 · 🔥 热点推荐`
+可直接投产的风暴追踪器开源硬件，设计文件、BOM 与制造包齐全
+> 收录日期：2026-09-23
 
 ---
 

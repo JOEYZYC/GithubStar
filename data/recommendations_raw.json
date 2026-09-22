@@ -1,277 +1,282 @@
 [
  {
-  "url": "https://github.com/microsoft/BitNet",
-  "stars": 40332,
-  "desc": "微软官方 1-bit LLM 推理框架，C++ 实现，把三值量化大模型跑在 CPU 与端侧设备上"
+  "url": "https://github.com/DeusData/codebase-memory-mcp",
+  "stars": 44196,
+  "desc": "高性能代码智能 MCP 服务器，把代码库索引成可检索的记忆，C 实现"
  },
  {
-  "url": "https://github.com/tinyhumansai/openhuman",
-  "stars": 40016,
-  "desc": "开源 agent harness：本地优先记忆、agent 编排与工作流一体"
+  "url": "https://github.com/mozilla-ai/llamafile",
+  "stars": 26029,
+  "desc": "把大模型打包成单个可执行文件，分发与运行一步到位"
  },
  {
-  "url": "https://github.com/gepa-ai/gepa",
-  "stars": 6692,
-  "desc": "用反射式优化自动调优提示词与代码的框架"
+  "url": "https://github.com/antirez/ds4",
+  "stars": 22646,
+  "desc": "antirez 实现的 DeepSeek 4 Flash/PRO 本地推理引擎，C 编写，支持 Metal/CUDA/ROCm"
  },
  {
-  "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-  "stars": 6032,
-  "desc": "阻断 agent 执行危险 git 与 shell 命令的守卫工具"
+  "url": "https://github.com/Nasiko-Labs/nasiko",
+  "stars": 7619,
+  "desc": "面向 AI agent 的开发者控制平面，Rust 实现"
  },
  {
-  "url": "https://github.com/f4exb/sdrangel",
-  "stars": 4050,
-  "desc": "SDRangel：覆盖 Airspy/HackRF/PlutoSDR/LimeSDR 等硬件的软件无线电收发平台，含频谱与解调链"
+  "url": "https://github.com/google/ax",
+  "stars": 7527,
+  "desc": "Google 开源的 agent 编排运行时，Go 实现"
  },
  {
-  "url": "https://github.com/tianma-if/edgeever",
-  "stars": 1471,
-  "desc": "AI 原生知识库（Evernote 替代），原生支持 MCP，可零成本跑在 Cloudflare 或 Docker"
+  "url": "https://github.com/leejet/stable-diffusion.cpp",
+  "stars": 7104,
+  "desc": "纯 C/C++ 的扩散模型推理实现，覆盖 SD、Flux、Wan、Qwen Image 等模型"
  },
  {
-  "url": "https://github.com/cosmo-wander-ai/cosmo-edge",
-  "stars": 1220,
-  "desc": "生产级 C++ 端侧 AI 推理引擎，支持 RKNN（瑞芯微）/Sophon/x86，含视觉编排与设备端 VLM"
+  "url": "https://github.com/smol-machines/smolvm",
+  "stars": 6275,
+  "desc": "可嵌入、可移植、可分支的轻量虚拟机，用于安全运行 agent 产出的代码"
  },
  {
-  "url": "https://github.com/twelvesec/PwnPad",
-  "stars": 1192,
-  "desc": "低价硬件攻防学习平台，内置一系列循序渐进的硬件实验与挑战"
+  "url": "https://github.com/agentgateway/agentgateway",
+  "stars": 4988,
+  "desc": "面向 AI agent 与 MCP 服务器的下一代代理网关"
  },
  {
-  "url": "https://github.com/optiland/optiland",
-  "stars": 978,
-  "desc": "Python 光学系统设计、优化与分析库，含 GPU 加速与可微光线追迹"
+  "url": "https://github.com/dorianborian/sesame-robot",
+  "stars": 4483,
+  "desc": "基于 ESP32 的低成本开源迷你四足机器人，含结构件与固件"
  },
  {
-  "url": "https://github.com/tbs-trappy/source_one",
-  "stars": 644,
-  "desc": "开源 FPV 穿越机机架设计，含结构件与装配资料"
+  "url": "https://github.com/agent-substrate/substrate",
+  "stars": 2943,
+  "desc": "Agent Substrate 核心运行时，agent 的基础设施层"
  },
  {
-  "url": "https://github.com/NGSolve/ngsolve",
-  "stars": 578,
-  "desc": "高性能多物理场有限元软件，可做电磁与材料级全波仿真"
+  "url": "https://github.com/superdesigndev/treg",
+  "stars": 2192,
+  "desc": "agent 工具的统一路由层，被称为 agent 工具界的 OpenRouter"
  },
  {
-  "url": "https://github.com/MitjaNemec/Kicad_action_plugins",
-  "stars": 419,
-  "desc": "一批实用的 KiCad 动作插件，覆盖常见 PCB 处理与制造准备任务"
+  "url": "https://github.com/sekigon-gonnoc/Pico-PIO-USB",
+  "stars": 1756,
+  "desc": "用 RP2040/RP2350 的 PIO 实现 USB 主机与设备，不依赖专用 USB 控制器"
  },
  {
-  "url": "https://github.com/ExpressLRS/ExpressLRS-Hardware",
-  "stars": 415,
-  "desc": "ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3D 打印外壳"
+  "url": "https://github.com/AxxAxx/AxxSolder",
+  "stars": 1683,
+  "desc": "基于 STM32 的开源焊接台：支持 JBC 刀头、9-24V 与 USB-PD 供电，固件与硬件设计齐全"
  },
  {
-  "url": "https://github.com/d-ronin/dRonin",
+  "url": "https://github.com/ayushsharma82/ESP-DASH",
+  "stars": 1409,
+  "desc": "给 ESP32/RP2040/RP2350 快速搭建设备端实时仪表盘的库，自带 Web 前端"
+ },
+ {
+  "url": "https://github.com/wiredopposite/OGX-Mini",
+  "stars": 1308,
+  "desc": "RP2040 与 RP2350 上的 USB 手柄模拟固件，兼容多平台主机"
+ },
+ {
+  "url": "https://github.com/wagiminator/ATmega-Soldering-Station",
+  "stars": 1083,
+  "desc": "ATmega 驱动的 T12 快速加热焊接台，电路极简，低成本入门方案"
+ },
+ {
+  "url": "https://github.com/deividAlfa/stm32_soldering_iron_controller",
+  "stars": 586,
+  "desc": "Quicko 与 KSGER T12 焊接台的自定义 STM32 固件，含 OLED 界面与手柄休眠唤醒"
+ },
+ {
+  "url": "https://github.com/Jana-Marie/Otter-Iron-PRO",
+  "stars": 316,
+  "desc": "面向 JBC C245 手柄的 USB-PD 便携焊接台，开源硬件加固件"
+ },
+ {
+  "url": "https://github.com/cyber-defence-campus/RemoteIDReceiver",
+  "stars": 310,
+  "desc": "通过 WiFi 与蓝牙监控无人机 Remote ID 广播的 Web 应用，含实时地图"
+ },
+ {
+  "url": "https://github.com/MaxGramser/homeassistant_espscreen",
   "stars": 302,
-  "desc": "dRonin 开源飞控软件，面向固定翼与多旋翼的完整自驾仪固件"
+  "desc": "把 2.8 到 10.1 英寸的廉价 ESP32 触屏做成 Home Assistant 面板，带拖拽编辑器"
  },
  {
-  "url": "https://github.com/niclasvestlund-YT/vibepulse",
-  "stars": 201,
-  "desc": "ESP32-S3 AMOLED 桌面小屏：实时显示 Claude Code / Codex 用量、agent 活动与待办告警"
+  "url": "https://github.com/DJISDKUser/ESP8266_DJI_DroneID_Throwie",
+  "stars": 241,
+  "desc": "ESP8266 实现 DJI DroneID 广播伪造的抛掷式装置示例"
  },
  {
-  "url": "https://github.com/TilelliLab/atome-lm",
-  "stars": 152,
-  "desc": "三值量化零堆分配微型语言模型，跑在 2 美元单片机上，Python 与 C99 与 Cortex-M3 逐位对齐"
+  "url": "https://github.com/elerac/polanalyser",
+  "stars": 220,
+  "desc": "偏振图像分析工具：去马赛克、Stokes 矢量与 Mueller 矩阵计算"
  },
  {
-  "url": "https://github.com/daishuge/pcb-skill",
-  "stars": 136,
-  "desc": "从硬件想法到可制造 PCB 的 agent skill：概念、原理图、选料、布局、布线、验证与下单"
+  "url": "https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills",
+  "stars": 174,
+  "desc": "把 CAN 信号逆向成 DBC 文件的 Claude Code 技能集，配合 CANsub 接口使用"
  },
  {
-  "url": "https://github.com/euaziel/-WiFi-CSI-Human-Pose-Detection-V2",
-  "stars": 129,
-  "desc": "用 WiFi CSI 与深度学习做人体姿态估计，无需摄像机的穿墙感知（原仓库更名后新版）"
+  "url": "https://github.com/tkuri/Awesome-Polarization",
+  "stars": 161,
+  "desc": "偏振成像方向的论文与资源精选清单"
  },
  {
-  "url": "https://github.com/hku-mars/LiDAR-UAV-Autonomy",
-  "stars": 121,
-  "desc": "港大 MARS 实验室的 LiDAR 无人机自主导航方案，含建图、定位与规划"
+  "url": "https://github.com/cyber-defence-campus/droneRemoteIDSpoofer",
+  "stars": 150,
+  "desc": "蓝牙与 WiFi 的无人机 Remote ID 伪造器，演示未认证广播的安全缺陷"
  },
  {
-  "url": "https://github.com/RomanSlack/jev-drone",
-  "stars": 111,
-  "desc": "纯视觉自主无人机：MuJoCo 仿真中用小判断模型闭环，2.5Hz 决策频率的相机-only 方案"
+  "url": "https://github.com/Egoist-Machines/LodeDB",
+  "stars": 99,
+  "desc": "嵌入式向量数据库，精确检索优先、多模态、本地优先且支持 GPU 加速"
  },
  {
-  "url": "https://github.com/WiHarper/nfc_card",
-  "stars": 98,
-  "desc": "开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件"
+  "url": "https://github.com/ReconGrunt/FlipDeFlock",
+  "stars": 88,
+  "desc": "Flipper Zero 被动监控探测器，配合 ESP32 发现车牌识别摄像头等监控设备"
  },
  {
-  "url": "https://github.com/cpldcpu/pico-faces",
-  "stars": 76,
-  "desc": "把生成式人脸图像模型塞进 RP2350 单片机（Pico 2），端侧生成推理的极限尝试"
+  "url": "https://github.com/Mr-Mika/M-Gauge",
+  "stars": 82,
+  "desc": "可定制的 CAN 总线数字仪表盘，读取并展示车辆发动机与整车状态数据"
  },
  {
-  "url": "https://github.com/kyleyct/wifi-densepose-elderly",
-  "stars": 67,
-  "desc": "WiFi DensePose 長者防跌倒系統：基于 CSI 信号的非侵入式跌倒侦测，无需摄像机"
+  "url": "https://github.com/cifertech/Fennec",
+  "stars": 72,
+  "desc": "ESP32-S3 加 SI4732 的手持中波/调频/短波接收机，含 SSTV、摩斯与 RSSI 寻向"
  },
  {
-  "url": "https://github.com/Gypsy-Server/RadioMCU",
-  "stars": 62,
-  "desc": "不用任何外部器件、直接用微控制器引脚做 FM 发射的实验项目"
+  "url": "https://github.com/xiaoqi371317/SCAN-Planner-Ros2",
+  "stars": 68,
+  "desc": "SCAN-Planner 的 ROS2 Humble 适配版本"
  },
  {
-  "url": "https://github.com/AydinAdnan/PulseVAD",
-  "stars": 61,
-  "desc": "2.1KB INT8 流式语音活动检测器，200ms 窗口，面向微控制器与 DSP 的极小体积方案"
+  "url": "https://github.com/smfworks/hermes-ai-team",
+  "stars": 65,
+  "desc": "用 Hermes agent 组建 AI 团队：记忆、知识库、技能与夜间研究任务编排"
  },
  {
-  "url": "https://github.com/yunxiao11xie/ai-to-edge-deployment",
-  "stars": 61,
-  "desc": "面向嵌入式工程师的中文学习路线：从 AI 基础到端侧部署优化全流程"
+  "url": "https://github.com/eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme",
+  "stars": 64,
+  "desc": "用 CNN 加反向传播方案求解全波非线性逆散射问题（Matlab 实现）"
  },
  {
-  "url": "https://github.com/commaai/PCBGolf",
-  "stars": 55,
-  "desc": "comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗"
+  "url": "https://github.com/alexsprojects0/Pen-plotter",
+  "stars": 59,
+  "desc": "四路 28BYJ-48 步进电机驱动的 180×106.5mm 绘图仪，任意具备 12 个 IO 的单片机即可运行"
  },
  {
-  "url": "https://github.com/SweiryDev/MicroCNN-TangNano20k",
-  "stars": 52,
-  "desc": "端到端 SystemVerilog SoC：在 Tang Nano 20K FPGA 上实现量化 MicroCNN 加速器做 BloodMNIST 分类"
+  "url": "https://github.com/solderable/storm-tracker-hardware",
+  "stars": 54,
+  "desc": "可直接投产的风暴追踪器开源硬件，设计文件、BOM 与制造包齐全"
  },
  {
-  "url": "https://github.com/php-baremetal/php-esp32",
+  "url": "https://github.com/puddingstudio/MiSTerFin",
+  "stars": 53,
+  "desc": "跑在 MiSTer FPGA 平台上的 Jellyfin 客户端，FPGA 平台应用侧的新尝试"
+ },
+ {
+  "url": "https://github.com/JackJu-HIT/SCAN-Planner-Pure-ROS2",
+  "stars": 53,
+  "desc": "SCAN-Planner 轨迹优化器的精简版，便于集成进不同 ROS2 系统"
+ },
+ {
+  "url": "https://github.com/affirmitv/ghosthands",
+  "stars": 50,
+  "desc": "4 美元 USB-HID 单片机当手、视觉接地模型当眼的 agent 界面自动化方案"
+ },
+ {
+  "url": "https://github.com/Pouya-Mansournia/ros2-zero-to-robot",
+  "stars": 47,
+  "desc": "项目驱动的 ROS 2 实战教程：从第一个节点到建图、导航与实机部署"
+ },
+ {
+  "url": "https://github.com/Mazin-O3/cpm-neo",
+  "stars": 46,
+  "desc": "纯 C 实现的 CP/M 风格操作系统，复古系统移植与教学参考"
+ },
+ {
+  "url": "https://github.com/kathoc/brickboy-dmg-fpgacore",
   "stars": 45,
-  "desc": "在 ESP32-P4/S3 上原生运行 PHP 8.3-8.5 引擎，从 microSD 读 PHP 文件执行，不做模拟"
+  "desc": "Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余晖与反射层"
  },
  {
-  "url": "https://github.com/kuieless/AerialMetric",
-  "stars": 44,
-  "desc": "ECCV 2026：无人机单目度量深度估计的基准与自适应方法"
+  "url": "https://github.com/isaacbentley/fpv-viewer-rs",
+  "stars": 43,
+  "desc": "跨 SDR 的模拟 FPV 图传实时桌面查看器，Rust 实现"
  },
  {
-  "url": "https://github.com/vincenzo-afk/WIFI-based-human-presence-detection-system",
-  "stars": 35,
-  "desc": "基于 CSI 的人体存在、占用区域与活动识别仪表盘，面向室内感知部署"
+  "url": "https://github.com/Novotarskyi/ivan-bohun",
+  "stars": 40,
+  "desc": "用六块 ESP32-S3 承载个人网站的整机实验：主控选举、虚拟 MAC 故障转移与可回滚 OTA"
  },
  {
-  "url": "https://github.com/DK27ss/ColdCard-38M-PoC",
-  "stars": 33,
-  "desc": "冷钱包固件漏洞分析：rng_get() 误连 MicroPython 软件 PRNG 而非硬件 TRNG，种子熵降到约 2 的 40 次方"
+  "url": "https://github.com/snstac/dronecot",
+  "stars": 39,
+  "desc": "监测与分析无人机直接远程识别 DRI/RID/ODID 广播的软件"
  },
  {
-  "url": "https://github.com/IntelliSensing/Self-in-Space",
+  "url": "https://github.com/luyii-code-1/Light_RID_Scanner",
+  "stars": 39,
+  "desc": "树莓派上的开源 Remote ID 与 OpenDroneID WiFi 扫描器，支持 DJI 机型监控与地图看板"
+ },
+ {
+  "url": "https://github.com/SAM0-0/ATHER-OBD-READER",
   "stars": 31,
-  "desc": "ACM MM 2026：无人机具身智能的自我意识与空间认知能力基准"
+  "desc": "直接从 Ather 电动踏板车 BMS 读取 CAN 数据的开源 OBD 读取器"
  },
  {
-  "url": "https://github.com/enizimus/FEMLab",
-  "stars": 28,
-  "desc": "MATLAB 有限元电磁场计算工具，小巧的 FEM 入门实现"
+  "url": "https://github.com/baidu-baige/sglang-kunlun",
+  "stars": 29,
+  "desc": "社区维护的 SGLang 硬件插件，让 SGLang 跑在昆仑 XPU 上"
  },
  {
-  "url": "https://github.com/Caped-Crussader/VENDETTAFC",
-  "stars": 25,
-  "desc": "完全开源的 4 合 1 电调加 F7 飞控栈，KiCad 从零设计，含原理图与 PCB"
+  "url": "https://github.com/HomerReid/buff-em",
+  "stars": 24,
+  "desc": "体积分方程法的电磁散射求解器，覆盖周期结构与涨落电动力学"
  },
  {
-  "url": "https://github.com/ARYA-mgc/NavCore-Pixhawk",
-  "stars": 25,
-  "desc": "估算导航解经 MAVLink VISION_POSITION_ESTIMATE 外部导航接口喂给 ArduPilot 的工程实现"
- },
- {
-  "url": "https://github.com/JT-Sun/UAVReason",
-  "stars": 25,
-  "desc": "视觉语言模型能否从天上看？面向航拍推理与生成任务的 UAVReason 基准"
- },
- {
-  "url": "https://github.com/CardputerZero/Template",
-  "stars": 23,
-  "desc": "Cardputer Zero 开发板模板工程，面向 M5Stack Cardputer 系列的起步工程"
- },
- {
-  "url": "https://github.com/mohosy/baby-monitor-wifi-csi",
-  "stars": 22,
-  "desc": "ESP32 加普通路由器的无接触婴儿呼吸监测，用 WiFi CSI 相位变化做实时呼吸暂停预警"
- },
- {
-  "url": "https://github.com/mavrikak/Helios",
-  "stars": 22,
-  "desc": "自由表面积分方程法（SIE）散射求解器，面向均匀/周期/分层介质的光与电磁散射建模"
- },
- {
-  "url": "https://github.com/QuentinWach/awesome-inverse-design",
+  "url": "https://github.com/Rouf0x/splatfpv",
   "stars": 21,
-  "desc": "光子学逆向设计资源清单，含 FDTD/FDFD 求解器、教程与论文索引"
+  "desc": "浏览器里的 FPV 穿越机模拟器，在 3D 高斯泼溅重建场景中飞行"
  },
  {
-  "url": "https://github.com/Keitark/pcba-design-skills",
+  "url": "https://github.com/ecrc/bemfmm",
   "stars": 21,
-  "desc": "面向 Codex 与 Claude Code 的电子设计技能集：产品规划、电路评审、原理图整理与 PCBA 发布"
+  "desc": "FMM 加速的边界积分方程求解器，面向超大尺度波散射问题"
  },
  {
-  "url": "https://github.com/rustsbi/embedded-hal-skills",
+  "url": "https://github.com/derekmcauley7/ESP32-S3-BOX-3-Voice",
   "stars": 21,
-  "desc": "Rust 嵌入式 embedded-hal 设计模式的 AI 技能集，把最佳实践喂给编码 agent"
+  "desc": "ESP32-S3-BOX-3 搭建 Home Assistant 语音助手的整套配置"
  },
  {
-  "url": "https://github.com/Abinand2631/Wifi-Vision",
+  "url": "https://github.com/mmm1712/edge-ai-object-tracking-camera",
   "stars": 19,
-  "desc": "ESP32 CSI 加机器学习的无设备人体姿态估计与活动识别"
+  "desc": "不依赖电脑的本地边缘 AI 云台相机，可检测并跟随目标"
  },
  {
-  "url": "https://github.com/skywalker1905/thermal-camera-viewer",
+  "url": "https://github.com/bitnsolder/eStation_Solder",
+  "stars": 17,
+  "desc": "STM32 驱动的 JBC C245 开源焊接台（eStation），含自定义固件与硬件设计"
+ },
+ {
+  "url": "https://github.com/SyrNitram/recon-ground-drone",
+  "stars": 17,
+  "desc": "3D 打印的 ESP32-CAM 地面遥控侦察车，WiFi 与 FPV 双路控制"
+ },
+ {
+  "url": "https://github.com/elwaseif/FEMIC-Code",
+  "stars": 17,
+  "desc": "Matlab 频域电磁反演代码（含图形界面），配套论文的完整实现"
+ },
+ {
+  "url": "https://github.com/JordanzhaoD/waveshare-single-can-firmware",
   "stars": 16,
-  "desc": "Thermal Master P3/P1 热像仪的桌面查看器与虚拟摄像头驱动，跨三大平台"
+  "desc": "Waveshare ESP32-S3 单路 CAN 独立固件，Atlas 单 CAN 工具链（特斯拉 CAN 逆向用）"
  },
  {
-  "url": "https://github.com/MermaidFAR/H7_BSP",
+  "url": "https://github.com/Pouya-Mansournia/warehouse-amr-ros2",
   "stars": 15,
-  "desc": "基于达妙 MC-02 硬件的 STM32H7 板级支持包，含 RTOS 改版工程"
- },
- {
-  "url": "https://github.com/goldarte/mavlink-joystick",
-  "stars": 14,
-  "desc": "把遥控输入通过 MAVLink 摇杆通道下发的安卓小工具，飞控手动控制调试用"
- },
- {
-  "url": "https://github.com/fbreitwieser/thermal-camera-android",
-  "stars": 14,
-  "desc": "安卓端热像仪取图与显示实现"
- },
- {
-  "url": "https://github.com/sorinbotirla/Raspberry-Pi-FLIR-Lepton-Thermal-Imaging-Camera",
-  "stars": 14,
-  "desc": "树莓派加 FLIR Lepton 模组自制热像仪的软硬件方案"
- },
- {
-  "url": "https://github.com/MicroAIInc/MicroAI-Atom-ESP32",
-  "stars": 13,
-  "desc": "可跑在 ESP32 低功耗端点上的轻量 AI 引擎，对时序数据做在线模式学习"
- },
- {
-  "url": "https://github.com/my-short-circuits/multicamera_thermal",
-  "stars": 13,
-  "desc": "ESP32-S3 可见光加 MLX90640 热成像双光相机，带触摸 UI、叠加渲染与 WiFi 冻帧导出"
- },
- {
-  "url": "https://github.com/createskyblue/flashstore-ab-partition",
-  "stars": 13,
-  "desc": "面向小型 MCU 的 A/B 双页 Flash 存储库，零依赖、无状态，用于固件双备份升级"
- },
- {
-  "url": "https://github.com/vivichiciudean/uavidplusplus-code",
-  "stars": 11,
-  "desc": "UAVid++ 论文官方代码，无人机城市场景语义分割与数据集扩展"
- },
- {
-  "url": "https://github.com/mizhab-as/WiTrace",
-  "stars": 10,
-  "desc": "WiFi CSI 人体存在与占用检测的最小实现，适合作为 CSI 感知入门基线"
- },
- {
-  "url": "https://github.com/scholzri/rainy75-zmk",
-  "stars": 10,
-  "desc": "Wobkey Rainy 75 Pro 键盘（Telink TLSR9511 / RISC-V）的 ZMK 固件与逆向工程记录"
+  "desc": "ROS 2 Jazzy 加 Gazebo 的多机器人仓库 AMR 集群仿真，含 SLAM Toolbox 与 Nav2"
  }
 ]
