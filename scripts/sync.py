@@ -87,7 +87,30 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
-    # ---- 2026-09-22：规则未命中（description 信息量不足），人工归入 ----
+    # ---- 2026-09-23：规则未命中或误判（description 信息量不足 / 关键词串味） ----
+    "zed-industries/zed": "开发工具与系统资源",            # 代码编辑器（star 列表新增）
+    "mozilla-ai/llamafile": "AI 模型与视觉",              # 单文件分发的大模型推理（LLM in one file）
+    "antirez/ds4": "AI 模型与视觉",                       # DeepSeek 4 Flash/PRO 本地推理引擎（C，Metal/CUDA/ROCm）
+    "baidu-baige/sglang-kunlun": "AI 模型与视觉",          # SGLang 的昆仑 XPU 硬件插件
+    "mmm1712/edge-ai-object-tracking-camera": "AI 模型与视觉",  # 本地边缘 AI 云台跟踪相机
+    "sekigon-gonnoc/Pico-PIO-USB": "嵌入式与单片机",        # RP2040/RP2350 PIO 实现 USB 主机/设备
+    "wiredopposite/OGX-Mini": "嵌入式与单片机",            # RP2040 USB 手柄模拟固件
+    "Jana-Marie/Otter-Iron-PRO": "嵌入式与单片机",         # USB-PD 焊接台（与 AxxSolder 同类）
+    "Mazin-O3/cpm-neo": "嵌入式与单片机",                  # C 实现的 CP/M 风格 OS
+    "puddingstudio/MiSTerFin": "嵌入式与单片机",           # MiSTer FPGA 平台上的 Jellyfin 客户端
+    "Mr-Mika/M-Gauge": "嵌入式与单片机",                   # CAN 总线数字仪表盘
+    "SAM0-0/ATHER-OBD-READER": "嵌入式与单片机",           # 电动两轮 BMS CAN 读取器
+    "CSS-Electronics/can-bus-reverse-engineering-skills": "嵌入式与单片机",  # CAN 逆向技能集（按领域归类，同 pcb-skill 先例）
+    "kathoc/brickboy-dmg-fpgacore": "硬件设计与 EDA",      # Analogue Pocket openFPGA 核心（Verilog）
+    "elerac/polanalyser": "电磁仿真与超表面",              # 偏振图像分析（Stokes/Mueller）
+    "ecrc/bemfmm": "电磁仿真与超表面",                     # FMM 加速边界积分波散射求解器
+    "eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme": "电磁仿真与超表面",  # 全波非线性逆散射
+    "Rouf0x/splatfpv": "飞控与无人机",                     # 浏览器内 FPV 穿越机模拟器
+    "ReconGrunt/FlipDeFlock": "无线通信与感知",            # Flipper Zero + ESP32 监控设备探测
+    "Pouya-Mansournia/ros2-zero-to-robot": "飞控与无人机",  # ROS 2 机器人实战（误命中 book → 知识管理）
+    "Pouya-Mansournia/warehouse-amr-ros2": "飞控与无人机",  # 多机器人 AMR 集群仿真（误命中 simulation → 电磁）
+    "JackJu-HIT/SCAN-Planner-Pure-ROS2": "飞控与无人机",    # 轨迹优化器（ROS 2 精简版）
+    "xiaoqi371317/SCAN-Planner-Ros2": "飞控与无人机",       # 轨迹优化器（Humble 适配版）
     "gepa-ai/gepa": "AI Agent 与 LLM 工具链",          # 提示词/代码反射式优化框架
     "twelvesec/PwnPad": "硬件设计与 EDA",                # 硬件攻防实验平台（自制 PCB）
     "optiland/optiland": "电磁仿真与超表面",              # 光学设计/可微光线追迹仿真库

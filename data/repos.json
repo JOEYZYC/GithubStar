@@ -1117,7 +1117,14 @@
    "added_at": "2026-09-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "neoxic/ESCape32",
@@ -1257,7 +1264,14 @@
    "added_at": "2026-09-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "altnautica/ADOSMissionControl",
@@ -1397,7 +1411,14 @@
    "added_at": "2026-09-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "MohammadAdib/ELRS-433",
@@ -1715,6 +1736,27 @@
    ]
   },
   {
+   "full_name": "xiaoqi371317/SCAN-Planner-Ros2",
+   "url": "https://github.com/xiaoqi371317/SCAN-Planner-Ros2",
+   "description": "SCAN-Planner 的 ROS2 Humble 适配版本",
+   "language": "",
+   "stars": 68,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "SwiftWing001/swiftwing-simulation",
    "url": "https://github.com/SwiftWing001/swiftwing-simulation",
    "description": "",
@@ -1726,6 +1768,27 @@
    "added_at": "2026-09-13",
    "category": "飞控与无人机",
    "note": ""
+  },
+  {
+   "full_name": "JackJu-HIT/SCAN-Planner-Pure-ROS2",
+   "url": "https://github.com/JackJu-HIT/SCAN-Planner-Pure-ROS2",
+   "description": "SCAN-Planner 轨迹优化器的精简版，便于集成进不同 ROS2 系统",
+   "language": "",
+   "stars": 53,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "RomanSlack/jev-drone",
@@ -1791,6 +1854,27 @@
    ]
   },
   {
+   "full_name": "Pouya-Mansournia/ros2-zero-to-robot",
+   "url": "https://github.com/Pouya-Mansournia/ros2-zero-to-robot",
+   "description": "项目驱动的 ROS 2 实战教程：从第一个节点到建图、导航与实机部署",
+   "language": "",
+   "stars": 47,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "kuieless/AerialMetric",
    "url": "https://github.com/kuieless/AerialMetric",
    "description": "ECCV 2026：无人机单目度量深度估计的基准与自适应方法",
@@ -1844,7 +1928,14 @@
    "added_at": "2026-09-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "luyii-code-1/Light_RID_Scanner",
@@ -1858,7 +1949,14 @@
    "added_at": "2026-09-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "LGQWakkk/Quadrotor-F405",
@@ -2097,6 +2195,27 @@
    ]
   },
   {
+   "full_name": "Rouf0x/splatfpv",
+   "url": "https://github.com/Rouf0x/splatfpv",
+   "description": "浏览器里的 FPV 穿越机模拟器，在 3D 高斯泼溅重建场景中飞行",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "Ly041021/TIO-Former",
    "url": "https://github.com/Ly041021/TIO-Former",
    "description": "面向纳米无人机的超轻量六向 ToF-惯性里程计，极低算力下做位姿估计",
@@ -2129,7 +2248,14 @@
    "added_at": "2026-09-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "trey-copeland/uavsim",
@@ -2150,6 +2276,27 @@
    ],
    "hot_dates": [
     "2026-09-21"
+   ]
+  },
+  {
+   "full_name": "Pouya-Mansournia/warehouse-amr-ros2",
+   "url": "https://github.com/Pouya-Mansournia/warehouse-amr-ros2",
+   "description": "ROS 2 Jazzy 加 Gazebo 的多机器人仓库 AMR 集群仿真，含 SLAM Toolbox 与 Nav2",
+   "language": "",
+   "stars": 15,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -2699,6 +2846,27 @@
    ]
   },
   {
+   "full_name": "elerac/polanalyser",
+   "url": "https://github.com/elerac/polanalyser",
+   "description": "偏振图像分析工具：去马赛克、Stokes 矢量与 Mueller 矩阵计算",
+   "language": "",
+   "stars": 220,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "zlatko-minev/pyEPR",
    "url": "https://github.com/zlatko-minev/pyEPR",
    "description": "量子微波芯片与器件的自动化分析与设计工具（能量参与比等方法）",
@@ -2920,7 +3088,14 @@
    "added_at": "2026-09-23",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "RedBlight/RaytrAMP",
@@ -3382,6 +3557,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme",
+   "url": "https://github.com/eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme",
+   "description": "用 CNN 加反向传播方案求解全波非线性逆散射问题（Matlab 实现）",
+   "language": "",
+   "stars": 64,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -4320,7 +4516,14 @@
    "added_at": "2026-09-23",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "mavrikak/Helios",
@@ -4407,6 +4610,27 @@
    ]
   },
   {
+   "full_name": "ecrc/bemfmm",
+   "url": "https://github.com/ecrc/bemfmm",
+   "description": "FMM 加速的边界积分方程求解器，面向超大尺度波散射问题",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "OpenResearchInstitute/Arcanum",
    "url": "https://github.com/OpenResearchInstitute/Arcanum",
    "description": "开源矩量法（MoM）天线设计与分析求解器，Rust 实现",
@@ -4460,7 +4684,14 @@
    "added_at": "2026-09-23",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "NedaEmami123/hfss-mcp",
@@ -4545,20 +4776,6 @@
    "hot_dates": [
     "2026-09-16"
    ]
-  },
-  {
-   "full_name": "Pouya-Mansournia/warehouse-amr-ros2",
-   "url": "https://github.com/Pouya-Mansournia/warehouse-amr-ros2",
-   "description": "ROS 2 Jazzy 加 Gazebo 的多机器人仓库 AMR 集群仿真，含 SLAM Toolbox 与 Nav2",
-   "language": "",
-   "stars": 15,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "Yellowbooker/Microwave-Filter-Synthesis",
@@ -5234,7 +5451,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "slvDev/esp32-ai",
@@ -5827,6 +6051,27 @@
    ]
   },
   {
+   "full_name": "sekigon-gonnoc/Pico-PIO-USB",
+   "url": "https://github.com/sekigon-gonnoc/Pico-PIO-USB",
+   "description": "用 RP2040/RP2350 的 PIO 实现 USB 主机与设备，不依赖专用 USB 控制器",
+   "language": "",
+   "stars": 1756,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "pikasTech/PikaPython",
    "url": "https://github.com/pikasTech/PikaPython",
    "description": "超轻量 Python 解释器，仅需 4KB RAM 且零依赖，可用 C 扩展",
@@ -5859,7 +6104,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "stm32-rs/stm32-rs",
@@ -5957,7 +6209,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "achimdoebler/UGUI",
@@ -6015,6 +6274,27 @@
    ],
    "hot_dates": [
     "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "wiredopposite/OGX-Mini",
+   "url": "https://github.com/wiredopposite/OGX-Mini",
+   "description": "RP2040 与 RP2350 上的 USB 手柄模拟固件，兼容多平台主机",
+   "language": "",
+   "stars": 1308,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -6798,7 +7078,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "lvgl/lv_micropython",
@@ -7117,6 +7404,27 @@
    ]
   },
   {
+   "full_name": "Jana-Marie/Otter-Iron-PRO",
+   "url": "https://github.com/Jana-Marie/Otter-Iron-PRO",
+   "description": "面向 JBC C245 手柄的 USB-PD 便携焊接台，开源硬件加固件",
+   "language": "",
+   "stars": 316,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "alainiamburg/sniffROM",
    "url": "https://github.com/alainiamburg/sniffROM",
    "description": "被动抓取串行 Flash 总线并用逻辑分析仪重建固件，硬件取证入门",
@@ -7170,7 +7478,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "Rompass/openc6-bios",
@@ -7427,6 +7742,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "CSS-Electronics/can-bus-reverse-engineering-skills",
+   "url": "https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills",
+   "description": "把 CAN 信号逆向成 DBC 文件的 Claude Code 技能集，配合 CANsub 接口使用",
+   "language": "",
+   "stars": 174,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -7916,7 +8252,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "wladimiravila/esp32s3-distributed-ai",
@@ -8024,20 +8367,6 @@
    ]
   },
   {
-   "full_name": "ReconGrunt/FlipDeFlock",
-   "url": "https://github.com/ReconGrunt/FlipDeFlock",
-   "description": "Flipper Zero 被动监控探测器，配合 ESP32 发现车牌识别摄像头等监控设备",
-   "language": "",
-   "stars": 88,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "pit711/v2x2map",
    "url": "https://github.com/pit711/v2x2map",
    "description": "ESP32-C5 做 5.9GHz ITS-G5/V2X 嗅探器并实时地图化的开源方案",
@@ -8056,6 +8385,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "Mr-Mika/M-Gauge",
+   "url": "https://github.com/Mr-Mika/M-Gauge",
+   "description": "可定制的 CAN 总线数字仪表盘，读取并展示车辆发动机与整车状态数据",
+   "language": "",
+   "stars": 82,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -8175,7 +8525,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "ocfh/mecanum-wheel-car-ble-voice-stm32",
@@ -8378,7 +8735,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "john30/ebusd-esp32",
@@ -8399,6 +8763,27 @@
    ],
    "hot_dates": [
     "2026-09-21"
+   ]
+  },
+  {
+   "full_name": "puddingstudio/MiSTerFin",
+   "url": "https://github.com/puddingstudio/MiSTerFin",
+   "description": "跑在 MiSTer FPGA 平台上的 Jellyfin 客户端，FPGA 平台应用侧的新尝试",
+   "language": "",
+   "stars": 53,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -8480,7 +8865,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "cn0xroot/IFDA",
@@ -8501,6 +8893,27 @@
    ],
    "hot_dates": [
     "2026-09-21"
+   ]
+  },
+  {
+   "full_name": "Mazin-O3/cpm-neo",
+   "url": "https://github.com/Mazin-O3/cpm-neo",
+   "description": "纯 C 实现的 CP/M 风格操作系统，复古系统移植与教学参考",
+   "language": "",
+   "stars": 46,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -8557,7 +8970,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "pavlov-net/hub75-studio",
@@ -8809,6 +9229,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "SAM0-0/ATHER-OBD-READER",
+   "url": "https://github.com/SAM0-0/ATHER-OBD-READER",
+   "description": "直接从 Ather 电动踏板车 BMS 读取 CAN 数据的开源 OBD 读取器",
+   "language": "",
+   "stars": 31,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -9160,7 +9601,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -9355,7 +9803,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -9390,7 +9845,14 @@
    "added_at": "2026-09-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "chibios-upstream/chibios",
@@ -10571,7 +11033,14 @@
    "added_at": "2026-09-23",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "gdsfactory/gdsfactory",
@@ -11728,7 +12197,14 @@
    "added_at": "2026-09-23",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "YutongChenVictor/NPU-E2E",
@@ -11791,6 +12267,27 @@
    ],
    "hot_dates": [
     "2026-09-20"
+   ]
+  },
+  {
+   "full_name": "kathoc/brickboy-dmg-fpgacore",
+   "url": "https://github.com/kathoc/brickboy-dmg-fpgacore",
+   "description": "Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余晖与反射层",
+   "language": "",
+   "stars": 45,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -13063,6 +13560,27 @@
    ]
   },
   {
+   "full_name": "ReconGrunt/FlipDeFlock",
+   "url": "https://github.com/ReconGrunt/FlipDeFlock",
+   "description": "Flipper Zero 被动监控探测器，配合 ESP32 发现车牌识别摄像头等监控设备",
+   "language": "",
+   "stars": 88,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "DarkSZChao/MMWave-radar-human-tracking-and-fall-detection",
    "url": "https://github.com/DarkSZChao/MMWave-radar-human-tracking-and-fall-detection",
    "description": "毫米波雷达多人跟踪与摔倒检测系统",
@@ -13423,7 +13941,14 @@
    "added_at": "2026-09-23",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "ChiyunNoh/TRaIL-Odom",
@@ -13976,7 +14501,7 @@
    "url": "https://github.com/obra/superpowers",
    "description": "An agentic skills framework & software development methodology that works.",
    "language": "Shell",
-   "stars": 290201,
+   "stars": 290202,
    "topics": [
     "ai",
     "brainstorming",
@@ -14011,7 +14536,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 265408,
+   "stars": 265411,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -14291,7 +14816,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 75575,
+   "stars": 75577,
    "topics": [
     "ade",
     "agent-ide",
@@ -14466,7 +14991,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "Yuan1z0825/nature-skills",
@@ -14522,7 +15054,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 40390,
+   "stars": 40391,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -14680,7 +15212,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in",
    "language": "TypeScript",
-   "stars": 32772,
+   "stars": 32771,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -15154,7 +15686,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "google/ax",
@@ -15168,7 +15707,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "akitaonrails/ai-memory",
@@ -15245,7 +15791,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "Dicklesworthstone/destructive_command_guard",
@@ -15325,7 +15878,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "bojieli/ai-infra-book",
@@ -15476,7 +16036,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "langchain-ai/agents-from-scratch",
@@ -15511,7 +16078,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "duty1g/x64dbg-mcp-server",
@@ -15684,20 +16258,6 @@
    "note": ""
   },
   {
-   "full_name": "CSS-Electronics/can-bus-reverse-engineering-skills",
-   "url": "https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills",
-   "description": "把 CAN 信号逆向成 DBC 文件的 Claude Code 技能集，配合 CANsub 接口使用",
-   "language": "",
-   "stars": 174,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "AI Agent 与 LLM 工具链",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "shinpr/mcp-image",
    "url": "https://github.com/shinpr/mcp-image",
    "description": "MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Supports Nano Banana (Gemini), OpenAI GPT Image, and BytePlus Seedream.",
@@ -15739,7 +16299,14 @@
    "added_at": "2026-09-23",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "lichuang/semquery",
@@ -16035,7 +16602,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 12302,
+   "stars": 12305,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16174,20 +16741,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "知识管理与笔记",
-   "note": ""
-  },
-  {
-   "full_name": "Pouya-Mansournia/ros2-zero-to-robot",
-   "url": "https://github.com/Pouya-Mansournia/ros2-zero-to-robot",
-   "description": "项目驱动的 ROS 2 实战教程：从第一个节点到建图、导航与实机部署",
-   "language": "",
-   "stars": 47,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "知识管理与笔记",
-   "applicable": "",
    "note": ""
   },
   {
@@ -16331,6 +16884,48 @@
    ]
   },
   {
+   "full_name": "mozilla-ai/llamafile",
+   "url": "https://github.com/mozilla-ai/llamafile",
+   "description": "把大模型打包成单个可执行文件，分发与运行一步到位",
+   "language": "",
+   "stars": 26029,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
+   "full_name": "antirez/ds4",
+   "url": "https://github.com/antirez/ds4",
+   "description": "antirez 实现的 DeepSeek 4 Flash/PRO 本地推理引擎，C 编写，支持 Metal/CUDA/ROCm",
+   "language": "",
+   "stars": 22646,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "IDEA-Research/Grounded-Segment-Anything",
    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
    "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
@@ -16398,7 +16993,14 @@
    "added_at": "2026-09-23",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
   },
   {
    "full_name": "MakazhanAlpamys/Soup",
@@ -17262,6 +17864,27 @@
    ]
   },
   {
+   "full_name": "baidu-baige/sglang-kunlun",
+   "url": "https://github.com/baidu-baige/sglang-kunlun",
+   "description": "社区维护的 SGLang 硬件插件，让 SGLang 跑在昆仑 XPU 上",
+   "language": "",
+   "stars": 29,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
    "full_name": "senguptaa/mmpose",
    "url": "https://github.com/senguptaa/mmpose",
    "description": "mmPose：用毫米波雷达做人体骨架姿态估计",
@@ -17343,6 +17966,27 @@
    ],
    "hot_dates": [
     "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "mmm1712/edge-ai-object-tracking-camera",
+   "url": "https://github.com/mmm1712/edge-ai-object-tracking-camera",
+   "description": "不依赖电脑的本地边缘 AI 云台相机，可检测并跟随目标",
+   "language": "",
+   "stars": 19,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
    ]
   },
   {
@@ -17513,6 +18157,24 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-09-13",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
+   "full_name": "zed-industries/zed",
+   "url": "https://github.com/zed-industries/zed",
+   "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+   "language": "Rust",
+   "stars": 90729,
+   "topics": [
+    "gpui",
+    "rust-lang",
+    "text-editor",
+    "zed"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-23",
    "category": "开发工具与系统资源",
    "note": ""
   },
@@ -18056,276 +18718,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "zed-industries/zed",
-   "url": "https://github.com/zed-industries/zed",
-   "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-   "language": "Rust",
-   "stars": 90729,
-   "topics": [
-    "gpui",
-    "rust-lang",
-    "text-editor",
-    "zed"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "mozilla-ai/llamafile",
-   "url": "https://github.com/mozilla-ai/llamafile",
-   "description": "把大模型打包成单个可执行文件，分发与运行一步到位",
-   "language": "",
-   "stars": 26029,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "antirez/ds4",
-   "url": "https://github.com/antirez/ds4",
-   "description": "antirez 实现的 DeepSeek 4 Flash/PRO 本地推理引擎，C 编写，支持 Metal/CUDA/ROCm",
-   "language": "",
-   "stars": 22646,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "sekigon-gonnoc/Pico-PIO-USB",
-   "url": "https://github.com/sekigon-gonnoc/Pico-PIO-USB",
-   "description": "用 RP2040/RP2350 的 PIO 实现 USB 主机与设备，不依赖专用 USB 控制器",
-   "language": "",
-   "stars": 1756,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "wiredopposite/OGX-Mini",
-   "url": "https://github.com/wiredopposite/OGX-Mini",
-   "description": "RP2040 与 RP2350 上的 USB 手柄模拟固件，兼容多平台主机",
-   "language": "",
-   "stars": 1308,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Jana-Marie/Otter-Iron-PRO",
-   "url": "https://github.com/Jana-Marie/Otter-Iron-PRO",
-   "description": "面向 JBC C245 手柄的 USB-PD 便携焊接台，开源硬件加固件",
-   "language": "",
-   "stars": 316,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "elerac/polanalyser",
-   "url": "https://github.com/elerac/polanalyser",
-   "description": "偏振图像分析工具：去马赛克、Stokes 矢量与 Mueller 矩阵计算",
-   "language": "",
-   "stars": 220,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Mr-Mika/M-Gauge",
-   "url": "https://github.com/Mr-Mika/M-Gauge",
-   "description": "可定制的 CAN 总线数字仪表盘，读取并展示车辆发动机与整车状态数据",
-   "language": "",
-   "stars": 82,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "xiaoqi371317/SCAN-Planner-Ros2",
-   "url": "https://github.com/xiaoqi371317/SCAN-Planner-Ros2",
-   "description": "SCAN-Planner 的 ROS2 Humble 适配版本",
-   "language": "",
-   "stars": 68,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme",
-   "url": "https://github.com/eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme",
-   "description": "用 CNN 加反向传播方案求解全波非线性逆散射问题（Matlab 实现）",
-   "language": "",
-   "stars": 64,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "puddingstudio/MiSTerFin",
-   "url": "https://github.com/puddingstudio/MiSTerFin",
-   "description": "跑在 MiSTer FPGA 平台上的 Jellyfin 客户端，FPGA 平台应用侧的新尝试",
-   "language": "",
-   "stars": 53,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "JackJu-HIT/SCAN-Planner-Pure-ROS2",
-   "url": "https://github.com/JackJu-HIT/SCAN-Planner-Pure-ROS2",
-   "description": "SCAN-Planner 轨迹优化器的精简版，便于集成进不同 ROS2 系统",
-   "language": "",
-   "stars": 53,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Mazin-O3/cpm-neo",
-   "url": "https://github.com/Mazin-O3/cpm-neo",
-   "description": "纯 C 实现的 CP/M 风格操作系统，复古系统移植与教学参考",
-   "language": "",
-   "stars": 46,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "kathoc/brickboy-dmg-fpgacore",
-   "url": "https://github.com/kathoc/brickboy-dmg-fpgacore",
-   "description": "Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余晖与反射层",
-   "language": "",
-   "stars": 45,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "SAM0-0/ATHER-OBD-READER",
-   "url": "https://github.com/SAM0-0/ATHER-OBD-READER",
-   "description": "直接从 Ather 电动踏板车 BMS 读取 CAN 数据的开源 OBD 读取器",
-   "language": "",
-   "stars": 31,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "baidu-baige/sglang-kunlun",
-   "url": "https://github.com/baidu-baige/sglang-kunlun",
-   "description": "社区维护的 SGLang 硬件插件，让 SGLang 跑在昆仑 XPU 上",
-   "language": "",
-   "stars": 29,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Rouf0x/splatfpv",
-   "url": "https://github.com/Rouf0x/splatfpv",
-   "description": "浏览器里的 FPV 穿越机模拟器，在 3D 高斯泼溅重建场景中飞行",
-   "language": "",
-   "stars": 21,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ecrc/bemfmm",
-   "url": "https://github.com/ecrc/bemfmm",
-   "description": "FMM 加速的边界积分方程求解器，面向超大尺度波散射问题",
-   "language": "",
-   "stars": 21,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "mmm1712/edge-ai-object-tracking-camera",
-   "url": "https://github.com/mmm1712/edge-ai-object-tracking-camera",
-   "description": "不依赖电脑的本地边缘 AI 云台相机，可检测并跟随目标",
-   "language": "",
-   "stars": 19,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

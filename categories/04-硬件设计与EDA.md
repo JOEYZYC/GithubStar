@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 103 个项目 · 数据更新时间 2026-09-23 · [返回总览](../README.md)
+> 共 104 个项目 · 数据更新时间 2026-09-23 · [返回总览](../README.md)
 
 ---
 
@@ -218,8 +218,9 @@ Hantek 6022BE/BL USB 示波器的开源上位机软件
 ---
 
 #### [wagiminator/ATmega-Soldering-Station](https://github.com/wagiminator/ATmega-Soldering-Station)
-`★1,083 · 🔥 热点推荐`
+`★1,083 · ⭐🔥 已 star + 热点推荐`
 ATmega 驱动的 T12 快速加热焊接台，电路极简，低成本入门方案
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -660,8 +661,9 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 ---
 
 #### [solderable/storm-tracker-hardware](https://github.com/solderable/storm-tracker-hardware)
-`★54 · 🔥 热点推荐`
+`★54 · ⭐🔥 已 star + 热点推荐`
 可直接投产的风暴追踪器开源硬件，设计文件、BOM 与制造包齐全
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -687,6 +689,14 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
 > 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
+
+---
+
+#### [kathoc/brickboy-dmg-fpgacore](https://github.com/kathoc/brickboy-dmg-fpgacore)
+`★45 · ⭐🔥 已 star + 热点推荐`
+Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余晖与反射层
+> 热点推荐于 2026-09-23
+> 收录日期：2026-09-23
 
 ---
 

@@ -1,6 +1,6 @@
 # AI Agent 与 LLM 工具链
 
-> 共 91 个项目 · 数据更新时间 2026-09-23 · [返回总览](../README.md)
+> 共 90 个项目 · 数据更新时间 2026-09-23 · [返回总览](../README.md)
 
 ---
 
@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [obra/superpowers](https://github.com/obra/superpowers)
-`★290,201 · Shell · ⭐ 已 star`
+`★290,202 · Shell · ⭐ 已 star`
 An agentic skills framework & software development methodology that works.
 > 收录日期：2026-09-13
 
@@ -26,7 +26,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★265,408 · JavaScript · ⭐ 已 star`
+`★265,411 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -120,7 +120,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★75,575 · TypeScript · ⭐ 已 star`
+`★75,577 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -178,8 +178,9 @@ Build infinite canvas apps in React with the tldraw SDK. World's best, top-most 
 ---
 
 #### [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
-`★44,196 · 🔥 热点推荐`
+`★44,196 · ⭐🔥 已 star + 热点推荐`
 高性能代码智能 MCP 服务器，把代码库索引成可检索的记忆，C 实现
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -199,7 +200,7 @@ Build resilient agents.
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★40,390 · Markdown · ⭐ 已 star`
+`★40,391 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -259,7 +260,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 ---
 
 #### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-`★32,772 · TypeScript · ⭐ 已 star`
+`★32,771 · TypeScript · ⭐ 已 star`
 ⌥ Coding agent with the IDE wired in
 > 收录日期：2026-09-13
 
@@ -430,15 +431,17 @@ The 100 line AI agent that solves GitHub issues or helps you in your command lin
 ---
 
 #### [Nasiko-Labs/nasiko](https://github.com/Nasiko-Labs/nasiko)
-`★7,619 · 🔥 热点推荐`
+`★7,619 · ⭐🔥 已 star + 热点推荐`
 面向 AI agent 的开发者控制平面，Rust 实现
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
 
 #### [google/ax](https://github.com/google/ax)
-`★7,527 · 🔥 热点推荐`
+`★7,527 · ⭐🔥 已 star + 热点推荐`
 Google 开源的 agent 编排运行时，Go 实现
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -467,8 +470,9 @@ AI-Powered Dark Web OSINT Tool
 ---
 
 #### [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
-`★6,275 · 🔥 热点推荐`
+`★6,275 · ⭐🔥 已 star + 热点推荐`
 可嵌入、可移植、可分支的轻量虚拟机，用于安全运行 agent 产出的代码
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -498,8 +502,9 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 ---
 
 #### [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway)
-`★4,988 · 🔥 热点推荐`
+`★4,988 · ⭐🔥 已 star + 热点推荐`
 面向 AI agent 与 MCP 服务器的下一代代理网关
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -547,8 +552,9 @@ J-Space Cognition Suite — a model-agnostic inference-time control suite for de
 ---
 
 #### [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-`★2,943 · 🔥 热点推荐`
+`★2,943 · ⭐🔥 已 star + 热点推荐`
 Agent Substrate 核心运行时，agent 的基础设施层
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -562,8 +568,9 @@ Agent Substrate 核心运行时，agent 的基础设施层
 ---
 
 #### [superdesigndev/treg](https://github.com/superdesigndev/treg)
-`★2,192 · 🔥 热点推荐`
+`★2,192 · ⭐🔥 已 star + 热点推荐`
 agent 工具的统一路由层，被称为 agent 工具界的 OpenRouter
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
@@ -624,13 +631,6 @@ My Pi coding agent setup: 17 plugins + 18 global skills + 2 MCP servers, with a 
 
 ---
 
-#### [CSS-Electronics/can-bus-reverse-engineering-skills](https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills)
-`★174 · 🔥 热点推荐`
-把 CAN 信号逆向成 DBC 文件的 Claude Code 技能集，配合 CANsub 接口使用
-> 收录日期：2026-09-23
-
----
-
 #### [shinpr/mcp-image](https://github.com/shinpr/mcp-image)
 `★166 · TypeScript · ⭐ 已 star`
 MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Supports Nano Banana (Gemini), OpenAI GPT Image, and BytePlus Seedream.
@@ -639,8 +639,9 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 ---
 
 #### [smfworks/hermes-ai-team](https://github.com/smfworks/hermes-ai-team)
-`★65 · 🔥 热点推荐`
+`★65 · ⭐🔥 已 star + 热点推荐`
 用 Hermes agent 组建 AI 团队：记忆、知识库、技能与夜间研究任务编排
+> 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
 
 ---
