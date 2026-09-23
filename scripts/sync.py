@@ -121,6 +121,29 @@ OVERRIDES: dict[str, str] = {
     "skywalker1905/thermal-camera-viewer": "AI 模型与视觉",      # 热像仪桌面查看器 + 虚拟摄像头驱动
     "fbreitwieser/thermal-camera-android": "AI 模型与视觉",      # 安卓端热像取图与显示
 
+    # ---- 2026-09-24：规则未命中（description 缺关键词），人工归入 ----
+    "orneryd/NornicDB": "AI Agent 与 LLM 工具链",            # 图+向量混合存储底座（agent 记忆层）
+    "ExpressLRS/ExpressLRS-Configurator": "飞控与无人机",      # ELRS 遥控链路配置与固件烧录
+    "ExpressLRS/Backpack": "飞控与无人机",                    # ELRS 背包固件（遥控/图传共享链路）
+    "AlessioMorale/crsf_parser": "飞控与无人机",              # CRSF 协议帧解析库（ELRS 链路）
+    "ysoldak/HeadTracker": "飞控与无人机",                    # FPV 云台无线头部追踪器
+    "Marxlp/pyFlightAnalysis": "飞控与无人机",                # 飞行日志可视化分析
+    "alemidev/scope-tui": "硬件设计与 EDA",                   # 终端示波器/频谱仪（仪器类）
+    "jp3141/Vector-Network-Analyzer": "硬件设计与 EDA",        # 示波器+信号源拼装的矢量网络分析仪
+    "ckflight/RF_SIGNAL_GENERATOR_HARDWARE": "硬件设计与 EDA",  # 射频信号发生器开源硬件
+    "lmcapacho/FPGALab": "硬件设计与 EDA",                     # 交互式虚拟 FPGA 实验台（Verilator）
+    "apolkosnik/AP68040": "硬件设计与 EDA",                    # 类 MC68040 Verilog 软核 CPU
+    "SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog": "硬件设计与 EDA",  # 时序乘法器 RTL-to-GDSII 流程
+    "wigig-tools/isac-plm": "电磁仿真与超表面",                # 802.11ay/bf 通感一体物理层模型（MATLAB）
+    "zhaolin820/stars-enabled-integrated-sensing-and-communications": "电磁仿真与超表面",  # RIS/STARS + ISAC 复现
+    "dmcmahill/wcalc": "电磁仿真与超表面",                     # 传输线/滤波器命令行计算器（射频）
+    "Prokuon/term512": "嵌入式与单片机",                       # Cardputer ADV 键盘终端扩展套件（ESP32）
+    "halbeshuhn/Cardputer-WebRadio": "嵌入式与单片机",          # Cardputer 网络收音机固件
+    "freewili/wilibsp": "嵌入式与单片机",                      # FreeWili 2（RP2350B）板级支持包
+    "austintgriffith/picowallet": "嵌入式与单片机",             # Pico 2 W 硬件钱包（ATECC608）
+    "the-can-opener/CAN-Opener-Hardware": "嵌入式与单片机",      # 低成本 CAN 总线嗅探硬件
+    "InfraRecon7/IR275K": "AI 模型与视觉",                     # 遥感红外多帧超分辨基准数据集
+
     # ---- 2026-09-21：规则未命中（description 缺关键词），人工归入 ----
     "ElectronicCats/faultycat": "硬件设计与 EDA",  # 手动收录：全名与 desc 无硬件设计关键词
     "machmind-dev/drone-swarm-challenge-2026": "飞控与无人机",  # 手动收录：规则本命中 drone，显式固定

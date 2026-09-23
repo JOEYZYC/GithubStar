@@ -299,7 +299,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "jyjblrd/Low-Cost-Mocap",
@@ -620,6 +627,27 @@
    ]
   },
   {
+   "full_name": "ExpressLRS/ExpressLRS-Configurator",
+   "url": "https://github.com/ExpressLRS/ExpressLRS-Configurator",
+   "description": "ExpressLRS 官方跨平台配置与固件编译工具，遥控链路参数与烧录一站完成",
+   "language": "",
+   "stars": 853,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "rtlopez/esp-fc",
    "url": "https://github.com/rtlopez/esp-fc",
    "description": "面向 DIY 爱好者的 ESP32 飞控固件，含 ELRS、DShot 与动态陷波",
@@ -673,7 +701,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "VisDrone/DroneVehicle",
@@ -687,7 +722,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "betaflight/betaflight-tx-lua-scripts",
@@ -1027,7 +1069,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "golaced/Oldx_fly_controller",
@@ -1096,7 +1145,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "lobodol/drone-flight-controller",
@@ -1131,7 +1187,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Extelligence-ai/bagel",
@@ -1187,7 +1250,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "alireza787b/mavsdk_drone_show",
@@ -1285,7 +1355,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "lukeswitz/DragonSync-iOS",
@@ -1299,7 +1376,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Excitablecell/GEARdrones",
@@ -1439,7 +1523,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "BossHobby/QUICKSILVER",
@@ -1523,6 +1614,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "ExpressLRS/Backpack",
+   "url": "https://github.com/ExpressLRS/Backpack",
+   "description": "ExpressLRS 背包固件：让遥控器与图传/云台模块共享控制链路",
+   "language": "",
+   "stars": 161,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
    ]
   },
   {
@@ -1694,6 +1806,27 @@
    ]
   },
   {
+   "full_name": "ysoldak/HeadTracker",
+   "url": "https://github.com/ysoldak/HeadTracker",
+   "description": "零配置自动校准的无线 DIY 头部追踪器，面向 FPV 云台，Nano 33 BLE / XIAO BLE 板",
+   "language": "",
+   "stars": 115,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "b14ckyy/Kite-GC",
    "url": "https://github.com/b14ckyy/Kite-GC",
    "description": "Rust 编写的跨平台地面站，支持 INAV/ArduPilot/PX4",
@@ -1862,6 +1995,27 @@
    ]
   },
   {
+   "full_name": "AlessioMorale/crsf_parser",
+   "url": "https://github.com/AlessioMorale/crsf_parser",
+   "description": "CRSF 协议帧的解析与构造库，专为对接 ExpressLRS 链路设计",
+   "language": "",
+   "stars": 72,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "dashs20/Chesapeake",
    "url": "https://github.com/dashs20/Chesapeake",
    "description": "面向自研飞控硬件的无人机飞行软件",
@@ -1880,6 +2034,27 @@
    ],
    "hot_dates": [
     "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "Marxlp/pyFlightAnalysis",
+   "url": "https://github.com/Marxlp/pyFlightAnalysis",
+   "description": "飞行日志文件可视化分析工具，快速定位航线与姿态异常",
+   "language": "",
+   "stars": 70,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
    ]
   },
   {
@@ -2033,7 +2208,14 @@
    "added_at": "2026-09-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "kuieless/AerialMetric",
@@ -3259,6 +3441,27 @@
    ]
   },
   {
+   "full_name": "wigig-tools/isac-plm",
+   "url": "https://github.com/wigig-tools/isac-plm",
+   "description": "IEEE 802.11ay/bf 的通感一体化（ISAC）物理层模型，MATLAB 实现",
+   "language": "",
+   "stars": 152,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "RedBlight/RaytrAMP",
    "url": "https://github.com/RedBlight/RaytrAMP",
    "description": "弹跳射线法加 BVH 加速的雷达散射截面计算，GPU 实现",
@@ -3592,6 +3795,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "zhaolin820/stars-enabled-integrated-sensing-and-communications",
+   "url": "https://github.com/zhaolin820/stars-enabled-integrated-sensing-and-communications",
+   "description": "论文《STARS Enabled Integrated Sensing and Communications》复现代码",
+   "language": "",
+   "stars": 80,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
    ]
   },
   {
@@ -4908,7 +5132,35 @@
    "added_at": "2026-09-24",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "dmcmahill/wcalc",
+   "url": "https://github.com/dmcmahill/wcalc",
+   "description": "命令行传输线计算器，快速算阻抗与匹配参数",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "ihalage/MetaZero",
@@ -5027,7 +5279,14 @@
    "added_at": "2026-09-24",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "witwin-ai/witwin-maxwell",
@@ -6031,7 +6290,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "cantools/cantools",
@@ -6160,7 +6426,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "MaJerle/stm32-usart-uart-dma-rx-tx",
@@ -6652,7 +6925,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Dobiasd/frugally-deep",
@@ -7506,7 +7786,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "STMicroelectronics/STM32CubeF7",
@@ -7772,7 +8059,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "jremington/UWB-Indoor-Localization_Arduino",
@@ -8434,7 +8728,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "ZhaoChengBo/zhaoming-embedded",
@@ -9187,7 +9488,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Mazin-O3/cpm-neo",
@@ -9400,6 +9708,27 @@
    ]
   },
   {
+   "full_name": "Prokuon/term512",
+   "url": "https://github.com/Prokuon/term512",
+   "description": "Cardputer ADV 扩展套件，为 AREA512 固件补上键盘终端外设",
+   "language": "",
+   "stars": 36,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "cifertech/free-embedded-dev-tools",
    "url": "https://github.com/cifertech/free-embedded-dev-tools",
    "description": "嵌入式/固件/硬件开发免费工具与资源清单",
@@ -9516,7 +9845,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "artfulbytes/i_kept_coding_until_an_rtos_was_inevitable",
@@ -9572,7 +9908,35 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "austintgriffith/picowallet",
+   "url": "https://github.com/austintgriffith/picowallet",
+   "description": "用三件亚马逊现成模块搭的稳定币硬件钱包，Pico 2 W + LCD + ATECC608，免焊接",
+   "language": "",
+   "stars": 29,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Gao-Den/rkos",
@@ -9637,7 +10001,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "sipeed/M0sense_BL702_example",
@@ -9832,7 +10203,35 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "the-can-opener/CAN-Opener-Hardware",
+   "url": "https://github.com/the-can-opener/CAN-Opener-Hardware",
+   "description": "CAN Opener SE 硬件规格开源，低成本 CAN 总线嗅探与注入设备",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "MikeWuPing/UEFI_LVGL",
@@ -9909,7 +10308,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Stevee87/Tactical-Radar-System-ESP32-P4",
@@ -10049,7 +10455,35 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "halbeshuhn/Cardputer-WebRadio",
+   "url": "https://github.com/halbeshuhn/Cardputer-WebRadio",
+   "description": "M5Stack Cardputer 网络收音机，设备端直接搜台收藏，含 VU 表与 FFT 频谱",
+   "language": "",
+   "stars": 19,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "johannesboernsen/ScopeBuddy",
@@ -10202,7 +10636,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -10372,7 +10813,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "valleytechsolutions/PALPack",
@@ -10386,7 +10834,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "RTechAI/ForgeUI-P4",
@@ -10599,6 +11054,27 @@
    ]
   },
   {
+   "full_name": "freewili/wilibsp",
+   "url": "https://github.com/freewili/wilibsp",
+   "description": "FreeWili 2（RP2350B）板级支持包，一块 CMake 库覆盖屏/触控/音频/亚 GHz 射频/PDM 麦克风",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "EIC-UESTC/aCoral",
    "url": "https://github.com/EIC-UESTC/aCoral",
    "description": "珊瑚aCoral实时操作系统",
@@ -10665,7 +11141,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "lvgl/lvgl_safe",
@@ -10805,7 +11288,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "ghi-electronics/micropython-vsc-extension",
@@ -10819,7 +11309,14 @@
    "added_at": "2026-09-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "karagure/rvkit",
@@ -11586,6 +12083,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "alemidev/scope-tui",
+   "url": "https://github.com/alemidev/scope-tui",
+   "description": "终端里的示波器/矢量示波器/频谱仪，纯文本界面读取实时信号",
+   "language": "",
+   "stars": 721,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
    ]
   },
   {
@@ -12955,6 +13473,27 @@
    ]
   },
   {
+   "full_name": "jp3141/Vector-Network-Analyzer",
+   "url": "https://github.com/jp3141/Vector-Network-Analyzer",
+   "description": "用 Rigol DS1054Z 示波器加 Siglent SDG1025 信号源拼出矢量网络分析仪",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "estlit/SemiconductorSchool-Labs",
    "url": "https://github.com/estlit/SemiconductorSchool-Labs",
    "description": "FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板",
@@ -13008,7 +13547,35 @@
    "added_at": "2026-09-24",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog",
+   "url": "https://github.com/SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog",
+   "description": "8x8 时序乘法器的 RTL-to-GDSII 完整 ASIC 流程示例，含低功耗 FSM 设计",
+   "language": "",
+   "stars": 18,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "piyushbag/awesome-pcb-workflow",
@@ -13053,6 +13620,48 @@
    ]
   },
   {
+   "full_name": "lmcapacho/FPGALab",
+   "url": "https://github.com/lmcapacho/FPGALab",
+   "description": "Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 Icestudio 设计",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "apolkosnik/AP68040",
+   "url": "https://github.com/apolkosnik/AP68040",
+   "description": "类 MC68040 的 Verilog 软核 CPU，含 MMU 与 FPU 实现",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "biosshot/kicad-copilot",
    "url": "https://github.com/biosshot/kicad-copilot",
    "description": "面向 KiCad 的 MCP 服务器，支持原理图生成与布局",
@@ -13085,7 +13694,35 @@
    "added_at": "2026-09-24",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
+   "url": "https://github.com/ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
+   "description": "MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放",
+   "language": "",
+   "stars": 11,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "HUYATIEO/silk-fpga",
@@ -13168,7 +13805,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "sgoudelis/ground-station",
@@ -13382,7 +14026,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "AnthonySturdy/micro-radar",
@@ -13690,7 +14341,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "petotamas/pyArgus",
@@ -13830,7 +14488,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "radar-lab/mmfall",
@@ -14054,7 +14719,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "jedarden-org/whofi",
@@ -14110,7 +14782,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "socquique/capsule-radar",
@@ -14166,7 +14845,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "h-shiono/MRTKLIB",
@@ -14180,7 +14866,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "DarkSZChao/MMWave-radar-human-tracking-and-fall-detection",
@@ -14236,7 +14929,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "libc0607/rtl88x2eu-20230815",
@@ -14494,7 +15194,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Toytiny/milliFlow",
@@ -14613,7 +15320,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "ruvnet/rufield",
@@ -14690,7 +15404,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "wdhwg001/csift",
@@ -15040,7 +15761,14 @@
    "added_at": "2026-09-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "tak-wong/THz-AutoEncoder",
@@ -15202,7 +15930,7 @@
    "url": "https://github.com/mattpocock/skills",
    "description": "Skills for Real Engineers. Straight from my .agents directory.",
    "language": "Shell",
-   "stars": 268466,
+   "stars": 268468,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -15215,7 +15943,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 266171,
+   "stars": 266173,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -15237,7 +15965,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 214819,
+   "stars": 214820,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -15250,7 +15978,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 209662,
+   "stars": 209663,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -15263,7 +15991,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 154373,
+   "stars": 154375,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -15297,7 +16025,7 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "language": "JavaScript",
-   "stars": 145002,
+   "stars": 145005,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -15321,7 +16049,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
    "language": "Python",
-   "stars": 138591,
+   "stars": 138592,
    "topics": [
     "ai",
     "copilot",
@@ -15409,7 +16137,7 @@
    "url": "https://github.com/Panniantong/Agent-Reach",
    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
    "language": "Python",
-   "stars": 85091,
+   "stars": 85092,
    "topics": [
     "agent-infrastructure",
     "ai-agent",
@@ -15548,7 +16276,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "JavaScript",
-   "stars": 70311,
+   "stars": 70315,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -15905,14 +16633,21 @@
    "added_at": "2026-09-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "can1357/oh-my-pi",
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 33007,
+   "stars": 33009,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -15948,7 +16683,14 @@
    "added_at": "2026-09-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "topoteretes/cognee",
@@ -16147,7 +16889,7 @@
    "url": "https://github.com/browser-use/jev-ultrafast",
    "description": "Fastest and cheapest web agent",
    "language": "Python",
-   "stars": 19037,
+   "stars": 19038,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16275,7 +17017,7 @@
    "url": "https://github.com/openchamber/openchamber",
    "description": "Agentic Development Environment based on OpenCode AI agent",
    "language": "TypeScript",
-   "stars": 10363,
+   "stars": 10366,
    "topics": [
     "agentic-engineering",
     "agents",
@@ -16400,7 +17142,14 @@
    "added_at": "2026-09-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "Nasiko-Labs/nasiko",
@@ -16785,7 +17534,14 @@
    "added_at": "2026-09-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "langchain-ai/agents-from-scratch",
@@ -16961,7 +17717,14 @@
    "added_at": "2026-09-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "vshulcz/deja-vu",
@@ -16975,7 +17738,35 @@
    "added_at": "2026-09-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "orneryd/NornicDB",
+   "url": "https://github.com/orneryd/NornicDB",
+   "description": "分布式图+向量数据库，亚毫秒 HNSW 检索与图遍历，兼容 Neo4j Bolt/Cypher 协议",
+   "language": "",
+   "stars": 884,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "JrCx7scC/claude-code-source",
@@ -17111,7 +17902,14 @@
    "added_at": "2026-09-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "prasetyarobert205-jpg/codex-fpga-engineering-workflow",
@@ -17283,7 +18081,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 55776,
+   "stars": 55778,
    "topics": [
     "agents",
     "ai",
@@ -17317,7 +18115,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 50433,
+   "stars": 50434,
    "topics": [
     "agent",
     "agent-memory",
@@ -17374,7 +18172,14 @@
    "added_at": "2026-09-24",
    "category": "知识管理与笔记",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "rossant/awesome-math",
@@ -17400,7 +18205,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 13001,
+   "stars": 13002,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -17553,7 +18358,14 @@
    "added_at": "2026-09-24",
    "category": "知识管理与笔记",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "pavel-kirienko/ragrag",
@@ -18308,7 +19120,14 @@
    "added_at": "2026-09-24",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "QiaoLiuHit/LSOTB-TIR",
@@ -18427,7 +19246,14 @@
    "added_at": "2026-09-24",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
   },
   {
    "full_name": "fromgof/TridentVision",
@@ -18788,6 +19614,27 @@
    ]
   },
   {
+   "full_name": "InfraRecon7/IR275K",
+   "url": "https://github.com/InfraRecon7/IR275K",
+   "description": "遥感红外多帧超分辨率基准数据集与评测方案",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-24",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-24"
+   ]
+  },
+  {
    "full_name": "KRoszyk/YOLOv4-Middle_detector",
    "url": "https://github.com/KRoszyk/YOLOv4-Middle_detector",
    "description": "RGB 与热成像在特征中层融合的行人检测器",
@@ -18960,7 +19807,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 482569,
+   "stars": 482568,
    "topics": [
     "api",
     "apis",
@@ -19558,300 +20405,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "orneryd/NornicDB",
-   "url": "https://github.com/orneryd/NornicDB",
-   "description": "分布式图+向量数据库，亚毫秒 HNSW 检索与图遍历，兼容 Neo4j Bolt/Cypher 协议",
-   "language": "",
-   "stars": 884,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ExpressLRS/ExpressLRS-Configurator",
-   "url": "https://github.com/ExpressLRS/ExpressLRS-Configurator",
-   "description": "ExpressLRS 官方跨平台配置与固件编译工具，遥控链路参数与烧录一站完成",
-   "language": "",
-   "stars": 853,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "alemidev/scope-tui",
-   "url": "https://github.com/alemidev/scope-tui",
-   "description": "终端里的示波器/矢量示波器/频谱仪，纯文本界面读取实时信号",
-   "language": "",
-   "stars": 721,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ExpressLRS/Backpack",
-   "url": "https://github.com/ExpressLRS/Backpack",
-   "description": "ExpressLRS 背包固件：让遥控器与图传/云台模块共享控制链路",
-   "language": "",
-   "stars": 161,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "wigig-tools/isac-plm",
-   "url": "https://github.com/wigig-tools/isac-plm",
-   "description": "IEEE 802.11ay/bf 的通感一体化（ISAC）物理层模型，MATLAB 实现",
-   "language": "",
-   "stars": 152,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ysoldak/HeadTracker",
-   "url": "https://github.com/ysoldak/HeadTracker",
-   "description": "零配置自动校准的无线 DIY 头部追踪器，面向 FPV 云台，Nano 33 BLE / XIAO BLE 板",
-   "language": "",
-   "stars": 115,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "zhaolin820/stars-enabled-integrated-sensing-and-communications",
-   "url": "https://github.com/zhaolin820/stars-enabled-integrated-sensing-and-communications",
-   "description": "论文《STARS Enabled Integrated Sensing and Communications》复现代码",
-   "language": "",
-   "stars": 80,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "AlessioMorale/crsf_parser",
-   "url": "https://github.com/AlessioMorale/crsf_parser",
-   "description": "CRSF 协议帧的解析与构造库，专为对接 ExpressLRS 链路设计",
-   "language": "",
-   "stars": 72,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Marxlp/pyFlightAnalysis",
-   "url": "https://github.com/Marxlp/pyFlightAnalysis",
-   "description": "飞行日志文件可视化分析工具，快速定位航线与姿态异常",
-   "language": "",
-   "stars": 70,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Prokuon/term512",
-   "url": "https://github.com/Prokuon/term512",
-   "description": "Cardputer ADV 扩展套件，为 AREA512 固件补上键盘终端外设",
-   "language": "",
-   "stars": 36,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "austintgriffith/picowallet",
-   "url": "https://github.com/austintgriffith/picowallet",
-   "description": "用三件亚马逊现成模块搭的稳定币硬件钱包，Pico 2 W + LCD + ATECC608，免焊接",
-   "language": "",
-   "stars": 29,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "the-can-opener/CAN-Opener-Hardware",
-   "url": "https://github.com/the-can-opener/CAN-Opener-Hardware",
-   "description": "CAN Opener SE 硬件规格开源，低成本 CAN 总线嗅探与注入设备",
-   "language": "",
-   "stars": 23,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "InfraRecon7/IR275K",
-   "url": "https://github.com/InfraRecon7/IR275K",
-   "description": "遥感红外多帧超分辨率基准数据集与评测方案",
-   "language": "",
-   "stars": 22,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jp3141/Vector-Network-Analyzer",
-   "url": "https://github.com/jp3141/Vector-Network-Analyzer",
-   "description": "用 Rigol DS1054Z 示波器加 Siglent SDG1025 信号源拼出矢量网络分析仪",
-   "language": "",
-   "stars": 21,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "halbeshuhn/Cardputer-WebRadio",
-   "url": "https://github.com/halbeshuhn/Cardputer-WebRadio",
-   "description": "M5Stack Cardputer 网络收音机，设备端直接搜台收藏，含 VU 表与 FFT 频谱",
-   "language": "",
-   "stars": 19,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog",
-   "url": "https://github.com/SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog",
-   "description": "8x8 时序乘法器的 RTL-to-GDSII 完整 ASIC 流程示例，含低功耗 FSM 设计",
-   "language": "",
-   "stars": 18,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "dmcmahill/wcalc",
-   "url": "https://github.com/dmcmahill/wcalc",
-   "description": "命令行传输线计算器，快速算阻抗与匹配参数",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "lmcapacho/FPGALab",
-   "url": "https://github.com/lmcapacho/FPGALab",
-   "description": "Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 Icestudio 设计",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "apolkosnik/AP68040",
-   "url": "https://github.com/apolkosnik/AP68040",
-   "description": "类 MC68040 的 Verilog 软核 CPU，含 MMU 与 FPU 实现",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "freewili/wilibsp",
-   "url": "https://github.com/freewili/wilibsp",
-   "description": "FreeWili 2（RP2350B）板级支持包，一块 CMake 库覆盖屏/触控/音频/亚 GHz 射频/PDM 麦克风",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
-   "url": "https://github.com/ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
-   "description": "MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放",
-   "language": "",
-   "stars": 11,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-24",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

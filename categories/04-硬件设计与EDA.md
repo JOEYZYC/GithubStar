@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 106 个项目 · 数据更新时间 2026-09-24 · [返回总览](../README.md)
+> 共 112 个项目 · 数据更新时间 2026-09-24 · [返回总览](../README.md)
 
 ---
 
@@ -254,6 +254,14 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 基于 fx2lafw 的 24MHz 采样率逻辑分析仪开源硬件
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [alemidev/scope-tui](https://github.com/alemidev/scope-tui)
+`★721 · ⭐🔥 已 star + 热点推荐`
+终端里的示波器/矢量示波器/频谱仪，纯文本界面读取实时信号
+> 热点推荐于 2026-09-24
+> 收录日期：2026-09-24
 
 ---
 
@@ -779,6 +787,14 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 
 ---
 
+#### [jp3141/Vector-Network-Analyzer](https://github.com/jp3141/Vector-Network-Analyzer)
+`★21 · ⭐🔥 已 star + 热点推荐`
+用 Rigol DS1054Z 示波器加 Siglent SDG1025 信号源拼出矢量网络分析仪
+> 热点推荐于 2026-09-24
+> 收录日期：2026-09-24
+
+---
+
 #### [estlit/SemiconductorSchool-Labs](https://github.com/estlit/SemiconductorSchool-Labs)
 `★20 · ⭐🔥 已 star + 热点推荐`
 FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
@@ -796,8 +812,17 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 ---
 
 #### [LGAI-Research/PCBWorld](https://github.com/LGAI-Research/PCBWorld)
-`★19 · 🔥 热点推荐`
+`★19 · ⭐🔥 已 star + 热点推荐`
 基于 KiCad 推挤式布线器的 PCB 自动布线强化学习环境，含 PPO/GRPO agent 与 LLM 工具调用
+> 热点推荐于 2026-09-24
+> 收录日期：2026-09-24
+
+---
+
+#### [SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog](https://github.com/SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog)
+`★18 · ⭐🔥 已 star + 热点推荐`
+8x8 时序乘法器的 RTL-to-GDSII 完整 ASIC 流程示例，含低功耗 FSM 设计
+> 热点推荐于 2026-09-24
 > 收录日期：2026-09-24
 
 ---
@@ -818,6 +843,22 @@ KiCad 平面线圈 / 平面电机绕组生成插件，支持 KiCad 6–10
 
 ---
 
+#### [lmcapacho/FPGALab](https://github.com/lmcapacho/FPGALab)
+`★14 · ⭐🔥 已 star + 热点推荐`
+Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 Icestudio 设计
+> 热点推荐于 2026-09-24
+> 收录日期：2026-09-24
+
+---
+
+#### [apolkosnik/AP68040](https://github.com/apolkosnik/AP68040)
+`★14 · ⭐🔥 已 star + 热点推荐`
+类 MC68040 的 Verilog 软核 CPU，含 MMU 与 FPU 实现
+> 热点推荐于 2026-09-24
+> 收录日期：2026-09-24
+
+---
+
 #### [biosshot/kicad-copilot](https://github.com/biosshot/kicad-copilot)
 `★13 · ⭐🔥 已 star + 热点推荐`
 面向 KiCad 的 MCP 服务器，支持原理图生成与布局
@@ -827,8 +868,17 @@ KiCad 平面线圈 / 平面电机绕组生成插件，支持 KiCad 6–10
 ---
 
 #### [ashishsinghbora/EDA-Agent](https://github.com/ashishsinghbora/EDA-Agent)
-`★13 · 🔥 热点推荐`
+`★13 · ⭐🔥 已 star + 热点推荐`
 自主 EDA 与 VLSI 验证框架，串起 RTL 解析、Verilator lint 与 Yosys 综合
+> 热点推荐于 2026-09-24
+> 收录日期：2026-09-24
+
+---
+
+#### [ckflight/RF_SIGNAL_GENERATOR_HARDWARE](https://github.com/ckflight/RF_SIGNAL_GENERATOR_HARDWARE)
+`★11 · ⭐🔥 已 star + 热点推荐`
+MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放
+> 热点推荐于 2026-09-24
 > 收录日期：2026-09-24
 
 ---

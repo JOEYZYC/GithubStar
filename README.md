@@ -11,16 +11,15 @@
 
 | 分类 | 数量 | 说明 |
 | --- | ---: | --- |
-| [飞控与无人机](categories/01-飞控与无人机.md) | 128 | PX4 / ArduPilot / 飞控板卡 / 无人机导航与仿真 |
-| [电磁仿真与超表面](categories/02-电磁仿真与超表面.md) | 120 | FDTD / CST / 超表面与电磁材料设计 |
-| [嵌入式与单片机](categories/03-嵌入式与单片机.md) | 279 | RTOS、MCU 生态、LVGL、MicroPython、调试与仿真工具 |
-| [硬件设计与 EDA](categories/04-硬件设计与EDA.md) | 106 | KiCad / EDA / CAD / PCB / FPGA 设计流程 |
+| [飞控与无人机](categories/01-飞控与无人机.md) | 133 | PX4 / ArduPilot / 飞控板卡 / 无人机导航与仿真 |
+| [电磁仿真与超表面](categories/02-电磁仿真与超表面.md) | 123 | FDTD / CST / 超表面与电磁材料设计 |
+| [嵌入式与单片机](categories/03-嵌入式与单片机.md) | 284 | RTOS、MCU 生态、LVGL、MicroPython、调试与仿真工具 |
+| [硬件设计与 EDA](categories/04-硬件设计与EDA.md) | 112 | KiCad / EDA / CAD / PCB / FPGA 设计流程 |
 | [无线通信与感知](categories/05-无线通信与感知.md) | 102 | WiFi CSI、无线链路、IMU、GNSS 等感知与通信 |
-| [AI Agent 与 LLM 工具链](categories/06-AIAgent与LLM工具链.md) | 97 | 编码 Agent、Skills、MCP、浏览器与自动化 |
+| [AI Agent 与 LLM 工具链](categories/06-AIAgent与LLM工具链.md) | 98 | 编码 Agent、Skills、MCP、浏览器与自动化 |
 | [知识管理与笔记](categories/07-知识管理与笔记.md) | 19 | Obsidian、知识图谱、RAG、教程与书籍 |
-| [AI 模型与视觉](categories/08-AI模型与视觉.md) | 65 | 语音、视觉、模型训练 / 压缩 / 推理 |
+| [AI 模型与视觉](categories/08-AI模型与视觉.md) | 66 | 语音、视觉、模型训练 / 压缩 / 推理 |
 | [开发工具与系统资源](categories/09-开发工具与系统资源.md) | 29 | 系统工具、字体、容器、资源清单等 |
-| [待归类](categories/10-待归类.md) | 21 | 尚未归入上述分类的项目 |
 
 ## 目录结构
 
