@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 104 个项目 · 数据更新时间 2026-09-23 · [返回总览](../README.md)
+> 共 106 个项目 · 数据更新时间 2026-09-24 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,277 · Python · ⭐ 已 star`
+`★16,317 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,904 · C++ · ⭐ 已 star`
+`★2,909 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,213 · Rust · ⭐ 已 star`
+`★2,243 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -607,7 +607,7 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
-`★99 · Python · ⭐ 已 star`
+`★102 · Python · ⭐ 已 star`
 AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
 > 收录日期：2026-09-13
 
@@ -795,6 +795,13 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 
 ---
 
+#### [LGAI-Research/PCBWorld](https://github.com/LGAI-Research/PCBWorld)
+`★19 · 🔥 热点推荐`
+基于 KiCad 推挤式布线器的 PCB 自动布线强化学习环境，含 PPO/GRPO agent 与 LLM 工具调用
+> 收录日期：2026-09-24
+
+---
+
 #### [piyushbag/awesome-pcb-workflow](https://github.com/piyushbag/awesome-pcb-workflow)
 `★15 · ⭐🔥 已 star + 热点推荐`
 覆盖完整 PCB 设计流程的开源工具清单（含 AI 辅助 EDA）
@@ -816,6 +823,13 @@ KiCad 平面线圈 / 平面电机绕组生成插件，支持 KiCad 6–10
 面向 KiCad 的 MCP 服务器，支持原理图生成与布局
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
+
+---
+
+#### [ashishsinghbora/EDA-Agent](https://github.com/ashishsinghbora/EDA-Agent)
+`★13 · 🔥 热点推荐`
+自主 EDA 与 VLSI 验证框架，串起 RTL 解析、Verilator lint 与 Yosys 综合
+> 收录日期：2026-09-24
 
 ---
 
