@@ -345,8 +345,9 @@ KiCad 键盘按键自动布局工具
 ---
 
 #### [vicharak-in/shrike](https://github.com/vicharak-in/shrike)
-`★513 · 🔥 热点推荐`
+`★513 · ⭐🔥 已 star + 热点推荐`
 面向学生与爱好者的低成本 MCU 加 FPGA 同板开发板，以 Verilog 为主
+> 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
 
 ---
@@ -542,8 +543,9 @@ Nordic 全系列芯片 KiCad 元件库
 ---
 
 #### [wagiminator/CH32X035-USB-PD-Tester](https://github.com/wagiminator/CH32X035-USB-PD-Tester)
-`★184 · 🔥 热点推荐`
+`★184 · ⭐🔥 已 star + 热点推荐`
 基于国产 CH32X035（RISC-V）的 USB PD 协议测试设备兼可调电源
+> 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
 
 ---
@@ -589,8 +591,9 @@ Nordic 全系列芯片 KiCad 元件库
 ---
 
 #### [knarfS/smuview](https://github.com/knarfS/smuview)
-`★160 · 🔥 热点推荐`
+`★160 · ⭐🔥 已 star + 热点推荐`
 sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR 表等测量设备
+> 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
 
 ---
@@ -628,8 +631,9 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [DavidClawson/OpenScope-2C53T](https://github.com/DavidClawson/OpenScope-2C53T)
-`★110 · 🔥 热点推荐`
+`★110 · ⭐🔥 已 star + 热点推荐`
 FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开发
+> 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
 
 ---
@@ -658,8 +662,9 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 ---
 
 #### [abduznik/instrumation](https://github.com/abduznik/instrumation)
-`★94 · 🔥 热点推荐`
+`★94 · ⭐🔥 已 star + 热点推荐`
 射频测试台硬件抽象层，支持 SCPI 控制、异步测量与数字孪生
+> 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
 
 ---

@@ -87,6 +87,8 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-25（star 列表）：description/topics/language 全空，规则无法判定 ----
+    "cytstudiooo/cytstudio": "嵌入式与单片机",                    # 嵌入式开发 IDE（Cortex-M/FreeRTOS/CMSIS-Pack/J-Link + AI agent）
     # ---- 2026-09-25：逐条显式归类（免规则串味；仪器/融合/RTK 三类易误判） ----
     "AndersOnLin4/cst-mcp": "电磁仿真与超表面",                  # CST Studio 的 MCP 服务器（吸波体单元胞自动化）
     "hongwei1-c/RF-AIagent": "电磁仿真与超表面",                  # HFSS 自动化 agent（射频设计）

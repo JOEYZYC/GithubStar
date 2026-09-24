@@ -1229,7 +1229,14 @@
    "added_at": "2026-09-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "pratikPhadte/ESP32-Flight-controller-",
@@ -1936,7 +1943,14 @@
    "added_at": "2026-09-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "holsatus/holsatus-flight",
@@ -2347,7 +2361,14 @@
    "added_at": "2026-09-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "LGQWakkk/Quadrotor-F405",
@@ -2437,7 +2458,14 @@
    "added_at": "2026-09-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "raylanlin/smarttune-cli",
@@ -2758,7 +2786,14 @@
    "added_at": "2026-09-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "klever-coex/clover2",
@@ -5460,7 +5495,14 @@
    "added_at": "2026-09-25",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "OpenLithoHub/DiffNano",
@@ -5474,7 +5516,14 @@
    "added_at": "2026-09-25",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "AndersOnLin4/cst-mcp",
@@ -5488,7 +5537,14 @@
    "added_at": "2026-09-25",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "Nishandhini0311/Patch-Antenna-with-Metamaterial-Superstrate",
@@ -5502,7 +5558,14 @@
    "added_at": "2026-09-25",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "78/xiaozhi-esp32",
@@ -7581,7 +7644,14 @@
    "added_at": "2026-09-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "STMicroelectronics/STM32CubeF1",
@@ -7849,7 +7919,14 @@
    "added_at": "2026-09-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "bouffalolab/bouffalo_sdk",
@@ -8728,7 +8805,14 @@
    "added_at": "2026-09-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "Stevee87/Arduino-ESP32-Radarproject",
@@ -8826,7 +8910,14 @@
    "added_at": "2026-09-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "Lagerpun/esp32-cyd-aquarium",
@@ -8903,7 +8994,14 @@
    "added_at": "2026-09-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "jelin-sh/VOFA-Protocol-Driver",
@@ -9119,7 +9217,14 @@
    "added_at": "2026-09-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "tscircuit/circuit-json",
@@ -11291,6 +11396,19 @@
    ]
   },
   {
+   "full_name": "cytstudiooo/cytstudio",
+   "url": "https://github.com/cytstudiooo/cytstudio",
+   "description": "",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-25",
+   "category": "嵌入式与单片机",
+   "note": ""
+  },
+  {
    "full_name": "EIC-UESTC/aCoral",
    "url": "https://github.com/EIC-UESTC/aCoral",
    "description": "珊瑚aCoral实时操作系统",
@@ -11567,7 +11685,14 @@
    "added_at": "2026-09-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "tenstorrent/rv_tester",
@@ -12550,7 +12675,14 @@
    "added_at": "2026-09-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "circuitnet/CircuitNet",
@@ -13059,7 +13191,14 @@
    "added_at": "2026-09-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "ElectronicCats/faultycat",
@@ -13178,7 +13317,14 @@
    "added_at": "2026-09-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "RTimothyEdwards/XCircuit",
@@ -13276,7 +13422,14 @@
    "added_at": "2026-09-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "way2pramil/awesome-kicad-projects",
@@ -13366,7 +13519,14 @@
    "added_at": "2026-09-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "loganwilliams/thermografree",
@@ -14347,7 +14507,14 @@
    "added_at": "2026-09-25",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "AnthonySturdy/micro-radar",
@@ -14613,7 +14780,14 @@
    "added_at": "2026-09-25",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "KylinC/mmVital-Signs",
@@ -14669,7 +14843,14 @@
    "added_at": "2026-09-25",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "Frankweb33/flybrain-robot-bridge",
@@ -16285,7 +16466,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 266872,
+   "stars": 266873,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -16307,7 +16488,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 215009,
+   "stars": 215010,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16886,7 +17067,7 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "language": "PowerShell",
-   "stars": 37188,
+   "stars": 37189,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -16942,7 +17123,7 @@
    "url": "https://github.com/VoltAgent/awesome-agent-skills",
    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
    "language": "",
-   "stars": 34820,
+   "stars": 34821,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -18326,7 +18507,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 121208,
+   "stars": 121209,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -18959,7 +19140,14 @@
    "added_at": "2026-09-25",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "apple-aiml-research/ml-sharp",
@@ -19145,7 +19333,14 @@
    "added_at": "2026-09-25",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "vitoplantamura/OnnxStream",
@@ -19251,7 +19446,14 @@
    "added_at": "2026-09-25",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "sjtuyinjie/Ultra-Fusion",
@@ -19286,7 +19488,14 @@
    "added_at": "2026-09-25",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "SigmanticAI/apex-inference-chip",
@@ -19384,7 +19593,14 @@
    "added_at": "2026-09-25",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "taufeeque9/HumanFallDetection",
@@ -19419,7 +19635,14 @@
    "added_at": "2026-09-25",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-25"
+   ]
   },
   {
    "full_name": "ethz-asl/BIEVR-LIO",
@@ -20246,7 +20469,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 482891,
+   "stars": 482892,
    "topics": [
     "api",
     "apis",
@@ -20603,7 +20826,7 @@
    "url": "https://github.com/garinasset/leak-check",
    "description": "厘查 API © 嘉林数据",
    "language": "Python",
-   "stars": 5393,
+   "stars": 5394,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -20844,19 +21067,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "cytstudiooo/cytstudio",
-   "url": "https://github.com/cytstudiooo/cytstudio",
-   "description": "",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-25",
-   "category": "待归类",
    "note": ""
   }
  ]
