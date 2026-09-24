@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 112 个项目 · 数据更新时间 2026-09-24 · [返回总览](../README.md)
+> 共 117 个项目 · 数据更新时间 2026-09-25 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,317 · Python · ⭐ 已 star`
+`★16,347 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,909 · C++ · ⭐ 已 star`
+`★2,912 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,243 · Rust · ⭐ 已 star`
+`★2,259 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -344,6 +344,13 @@ KiCad 键盘按键自动布局工具
 
 ---
 
+#### [vicharak-in/shrike](https://github.com/vicharak-in/shrike)
+`★513 · 🔥 热点推荐`
+面向学生与爱好者的低成本 MCU 加 FPGA 同板开发板，以 Verilog 为主
+> 收录日期：2026-09-25
+
+---
+
 #### [circuitnet/CircuitNet](https://github.com/circuitnet/CircuitNet)
 `★508 · ⭐🔥 已 star + 热点推荐`
 面向 EDA 机器学习应用的开源数据集，含布局布线与工艺参数
@@ -534,6 +541,13 @@ Nordic 全系列芯片 KiCad 元件库
 
 ---
 
+#### [wagiminator/CH32X035-USB-PD-Tester](https://github.com/wagiminator/CH32X035-USB-PD-Tester)
+`★184 · 🔥 热点推荐`
+基于国产 CH32X035（RISC-V）的 USB PD 协议测试设备兼可调电源
+> 收录日期：2026-09-25
+
+---
+
 #### [ElectronicCats/faultycat](https://github.com/ElectronicCats/faultycat)
 `★178 · ⭐🔥 已 star + 热点推荐`
 低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix
@@ -574,6 +588,13 @@ Nordic 全系列芯片 KiCad 元件库
 
 ---
 
+#### [knarfS/smuview](https://github.com/knarfS/smuview)
+`★160 · 🔥 热点推荐`
+sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR 表等测量设备
+> 收录日期：2026-09-25
+
+---
+
 #### [RTimothyEdwards/XCircuit](https://github.com/RTimothyEdwards/XCircuit)
 `★145 · ⭐🔥 已 star + 热点推荐`
 XCircuit 电路绘制与原理图捕捉工具
@@ -606,6 +627,13 @@ XCircuit 电路绘制与原理图捕捉工具
 
 ---
 
+#### [DavidClawson/OpenScope-2C53T](https://github.com/DavidClawson/OpenScope-2C53T)
+`★110 · 🔥 热点推荐`
+FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开发
+> 收录日期：2026-09-25
+
+---
+
 #### [way2pramil/awesome-kicad-projects](https://github.com/way2pramil/awesome-kicad-projects)
 `★108 · ⭐🔥 已 star + 热点推荐`
 用 KiCad 完成的项目精选清单
@@ -626,6 +654,13 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
+
+---
+
+#### [abduznik/instrumation](https://github.com/abduznik/instrumation)
+`★94 · 🔥 热点推荐`
+射频测试台硬件抽象层，支持 SCPI 控制、异步测量与数字孪生
+> 收录日期：2026-09-25
 
 ---
 

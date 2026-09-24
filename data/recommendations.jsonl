@@ -826,3 +826,33 @@
 {"url": "https://github.com/Mecharonix/Pinecil-Auto-Extractor-Fan", "stars": 11, "desc": "ESP32 经 BLE 监听 Pinecil V2 烙铁温度，热时自动开排风扇、冷时自动停", "date": "2026-09-24"}
 {"url": "https://github.com/shenjingnan/agentmote", "stars": 10, "desc": "ESP32 开源 BLE 硬件平台，用实体按键遥控 Codex、Claude Code 等编码 agent", "date": "2026-09-24"}
 {"url": "https://github.com/ghi-electronics/micropython-vsc-extension", "stars": 10, "desc": "VS Code 里的 MicroPython 源码级调试：真机上打断点、单步与变量查看", "date": "2026-09-24"}
+{"url": "https://github.com/QwenAudio/SenseVoice", "stars": 9384, "desc": "端侧语音理解模型，单模型输出中粤英日韩 ASR、语种识别、情感识别与音频事件检测", "date": "2026-09-25"}
+{"url": "https://github.com/0xShug0/audio.cpp", "stars": 3010, "desc": "纯 C++ 音频推理引擎（基于 ggml），无 Python 依赖支持 TTS/STT/VAD/变声/音乐生成，适合端侧部署", "date": "2026-09-25"}
+{"url": "https://github.com/bupt-ai-cz/LLVIP", "stars": 850, "desc": "可见光-红外配对图像数据集，面向低光照场景，含精确配准标注，用于双光融合研究", "date": "2026-09-25"}
+{"url": "https://github.com/Stefal/rtkbase", "stars": 772, "desc": "自建 GNSS 基准站软件，Web GUI 管理并对外输出 RTCM 改正数，为 RTK 流动站提供厘米级定位", "date": "2026-09-25"}
+{"url": "https://github.com/STMicroelectronics/stm32ai-modelzoo", "stars": 743, "desc": "ST 官方 STM32 AI 模型库，含量化模型、部署脚本与性能基准，MCU 端 TinyML 基线", "date": "2026-09-25"}
+{"url": "https://github.com/Zhaozixiang1228/MMIF-CDDFuse", "stars": 634, "desc": "CVPR 2023 红外-可见光图像融合官方实现，相关性驱动双分支特征分解", "date": "2026-09-25"}
+{"url": "https://github.com/TheMaxMur/RS-Key", "stars": 526, "desc": "用 5 美元 RP2350 开发板自制的开源硬件 passkey，支持 FIDO2 登录、SSH/Git 签名、OpenPGP、PIV 与 TOTP，Rust 固件", "date": "2026-09-25"}
+{"url": "https://github.com/vicharak-in/shrike", "stars": 513, "desc": "面向学生与爱好者的低成本 MCU 加 FPGA 同板开发板，以 Verilog 为主", "date": "2026-09-25"}
+{"url": "https://github.com/agamrossen/VolAnti", "stars": 385, "desc": "开源声学无人机侦测系统，靠螺旋桨声音而非无线电，对光纤 FPV 等零发射目标同样有效", "date": "2026-09-25"}
+{"url": "https://github.com/JinyuanLiu-CV/TarDAL", "stars": 362, "desc": "CVPR 2022 红外-可见光融合与目标检测，目标感知双对抗学习加多场景基准", "date": "2026-09-25"}
+{"url": "https://github.com/hli1221/imagefusion_densefuse", "stars": 308, "desc": "IEEE TIP 高被引 DenseFuse 图像融合实现（TensorFlow），稠密块自动编码器融合框架", "date": "2026-09-25"}
+{"url": "https://github.com/GREAT-WHU/GREAT-PVT", "stars": 280, "desc": "武汉大学 GREAT 团队的精密定位与导航软件，支持 PPP/RTK 高精度解算", "date": "2026-09-25"}
+{"url": "https://github.com/rsasaki0109/gnssplusplus-library", "stars": 222, "desc": "现代 C++20 GNSS 工具箱，支持 RTK/PPP/CLAS 与 IMU 融合", "date": "2026-09-25"}
+{"url": "https://github.com/wagiminator/CH32X035-USB-PD-Tester", "stars": 184, "desc": "基于国产 CH32X035（RISC-V）的 USB PD 协议测试设备兼可调电源", "date": "2026-09-25"}
+{"url": "https://github.com/knarfS/smuview", "stars": 160, "desc": "sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR 表等测量设备", "date": "2026-09-25"}
+{"url": "https://github.com/x1958075990h-pixel/RuView_Radar_Lite", "stars": 133, "desc": "纯 Python 的 ESP32 WiFi CSI 空间感知 DSP 极简引擎，可作轻量对照基线", "date": "2026-09-25"}
+{"url": "https://github.com/esp-cpp/espp", "stars": 118, "desc": "ESP32 的现代 C++ 组件库，用 C++ 抽象封装 ESP-IDF 接口", "date": "2026-09-25"}
+{"url": "https://github.com/DavidClawson/OpenScope-2C53T", "stars": 110, "desc": "FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开发", "date": "2026-09-25"}
+{"url": "https://github.com/gavinlyonsrepo/LCR_meter", "stars": 109, "desc": "基于 Arduino Nano 的开源电感、电容与电阻表", "date": "2026-09-25"}
+{"url": "https://github.com/alireza787b/px4xplane", "stars": 101, "desc": "把 PX4 SITL 桥接到 X-Plane 11/12 的仿真接口，支持固定翼、多旋翼、VTOL 与 AAM", "date": "2026-09-25"}
+{"url": "https://github.com/abduznik/instrumation", "stars": 94, "desc": "射频测试台硬件抽象层，支持 SCPI 控制、异步测量与数字孪生", "date": "2026-09-25"}
+{"url": "https://github.com/Circuit-Digest/MLX90640-Thermal-Camera", "stars": 90, "desc": "可自制的开源 MLX90640 热成像相机，含源码与硬件资料", "date": "2026-09-25"}
+{"url": "https://github.com/Den41k92/crsf-link-tester", "stars": 36, "desc": "用 ESP32 与 SPI 屏做的 CRSF/ExpressLRS 接收机链路测试仪", "date": "2026-09-25"}
+{"url": "https://github.com/Ha22yX/Mother-Ship-Docking-Drone-System", "stars": 31, "desc": "双无人机对接研究系统，融合 UWB、AprilTag 视觉与 PX4/MAVLink 相对定位", "date": "2026-09-25"}
+{"url": "https://github.com/HGSAFD8162/Expresslrs-Ghost-RX", "stars": 12, "desc": "基于 ExpressLRS 3.5.0 的被动遥测嗅探接收机，可非侵入式监听现有遥控链路", "date": "2026-09-25"}
+{"url": "https://github.com/hongwei1-c/RF-AIagent", "stars": 9, "desc": "AI Agent 驱动的射频设计系统，自动调用 HFSS 完成天线、滤波器与传输线设计", "date": "2026-09-25"}
+{"url": "https://github.com/PeterkoCZ91/esphome-wifi-csi", "stars": 6, "desc": "ESPHome 的 WiFi CSI 外部组件，在 C3/C5/C6/S3 上做存在、运动与呼吸率检测", "date": "2026-09-25"}
+{"url": "https://github.com/OpenLithoHub/DiffNano", "stars": 4, "desc": "PyTorch 可微纳米光子学设计库，用于超表面、超透镜与光子器件的逆向设计", "date": "2026-09-25"}
+{"url": "https://github.com/AndersOnLin4/cst-mcp", "stars": 1, "desc": "CST Studio Suite 的 MCP 服务器，自动化太赫兹超材料吸波体单元胞建模与 Floquet 端口控制", "date": "2026-09-25"}
+{"url": "https://github.com/Nishandhini0311/Patch-Antenna-with-Metamaterial-Superstrate", "stars": 0, "desc": "用 openEMS 与 GNU Octave 仿真超材料覆层微带贴片天线的完整算例", "date": "2026-09-25"}

@@ -87,6 +87,38 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-25：逐条显式归类（免规则串味；仪器/融合/RTK 三类易误判） ----
+    "AndersOnLin4/cst-mcp": "电磁仿真与超表面",                  # CST Studio 的 MCP 服务器（吸波体单元胞自动化）
+    "hongwei1-c/RF-AIagent": "电磁仿真与超表面",                  # HFSS 自动化 agent（射频设计）
+    "OpenLithoHub/DiffNano": "电磁仿真与超表面",                  # 可微纳米光子学/超表面逆设计
+    "Nishandhini0311/Patch-Antenna-with-Metamaterial-Superstrate": "电磁仿真与超表面",  # openEMS 超材料覆层算例
+    "knarfS/smuview": "硬件设计与 EDA",                          # 仪器上位机（sigrok 前端）
+    "abduznik/instrumation": "硬件设计与 EDA",                    # RF 测试台 HAL（仪器类）
+    "DavidClawson/OpenScope-2C53T": "硬件设计与 EDA",             # 示波器逆向与固件开发（仪器类）
+    "wagiminator/CH32X035-USB-PD-Tester": "硬件设计与 EDA",       # USB PD 协议测试设备
+    "vicharak-in/shrike": "硬件设计与 EDA",                       # MCU+FPGA 开发板（HDL 先例归 EDA）
+    "0xShug0/audio.cpp": "AI 模型与视觉",                         # 音频推理引擎（同 llamafile/ds4 先例）
+    "QwenAudio/SenseVoice": "AI 模型与视觉",                      # 端侧 ASR/情感识别模型
+    "bupt-ai-cz/LLVIP": "AI 模型与视觉",                          # 可见光-红外配对数据集
+    "Zhaozixiang1228/MMIF-CDDFuse": "AI 模型与视觉",              # 红外-可见光融合（CVPR23）
+    "JinyuanLiu-CV/TarDAL": "AI 模型与视觉",                      # 红外-可见光融合+检测（CVPR22）
+    "hli1221/imagefusion_densefuse": "AI 模型与视觉",             # DenseFuse 图像融合
+    "Stefal/rtkbase": "无线通信与感知",                           # 自建 GNSS 基准站
+    "GREAT-WHU/GREAT-PVT": "无线通信与感知",                      # 精密定位/导航软件
+    "rsasaki0109/gnssplusplus-library": "无线通信与感知",          # C++20 GNSS 工具箱
+    "Circuit-Digest/MLX90640-Thermal-Camera": "嵌入式与单片机",    # MLX90640 热像仪（同 PiThermalCam 先例）
+    "PeterkoCZ91/esphome-wifi-csi": "嵌入式与单片机",             # ESPHome CSI 组件
+    "x1958075990h-pixel/RuView_Radar_Lite": "嵌入式与单片机",      # ESP32 CSI 感知 DSP
+    "esp-cpp/espp": "嵌入式与单片机",                             # ESP32 C++ 组件库
+    "TheMaxMur/RS-Key": "嵌入式与单片机",                         # RP2350 硬件 passkey 固件
+    "STMicroelectronics/stm32ai-modelzoo": "嵌入式与单片机",       # STM32 AI 模型库
+    "gavinlyonsrepo/LCR_meter": "嵌入式与单片机",                  # Arduino 自制 LCR 表
+    "Den41k92/crsf-link-tester": "飞控与无人机",                   # CRSF/ELRS 链路测试仪
+    "HGSAFD8162/Expresslrs-Ghost-RX": "飞控与无人机",              # ELRS 被动遥测嗅探接收机
+    "agamrossen/VolAnti": "飞控与无人机",                          # 声学无人机侦测
+    "Ha22yX/Mother-Ship-Docking-Drone-System": "飞控与无人机",      # 双机对接相对定位
+    "alireza787b/px4xplane": "飞控与无人机",                      # PX4 ↔ X-Plane 仿真桥
+
     # ---- 2026-09-23：规则未命中或误判（description 信息量不足 / 关键词串味） ----
     "zed-industries/zed": "开发工具与系统资源",            # 代码编辑器（star 列表新增）
     "mozilla-ai/llamafile": "AI 模型与视觉",              # 单文件分发的大模型推理（LLM in one file）
