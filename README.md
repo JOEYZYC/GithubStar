@@ -2,8 +2,8 @@
 
 个人 GitHub 项目雷达 —— 把「已 star 的项目」和「每日热点检索推荐的项目」分类归档，便于检索与回顾。
 
-- 数据更新时间：**2026-09-25**
-- 收录总数：**998** 个仓库（⭐ 已 star 153 个、🔥 热点推荐 845 个）
+- 数据更新时间：**2026-09-26**
+- 收录总数：**1045** 个仓库（⭐ 已 star 154 个、🔥 热点推荐 891 个）
 - 数据源：[`data/repos.json`](data/repos.json)（单一事实源）；每日热点推荐记录在 [`data/recommendations.jsonl`](data/recommendations.jsonl)
 - 维护方式：Hermes Agent 每日热点任务自动同步（GitHub search → 分类归档 → 提交推送）
 
@@ -11,14 +11,14 @@
 
 | 分类 | 数量 | 说明 |
 | --- | ---: | --- |
-| [飞控与无人机](categories/01-飞控与无人机.md) | 138 | PX4 / ArduPilot / 飞控板卡 / 无人机导航与仿真 |
-| [电磁仿真与超表面](categories/02-电磁仿真与超表面.md) | 127 | FDTD / CST / 超表面与电磁材料设计 |
-| [嵌入式与单片机](categories/03-嵌入式与单片机.md) | 292 | RTOS、MCU 生态、LVGL、MicroPython、调试与仿真工具 |
-| [硬件设计与 EDA](categories/04-硬件设计与EDA.md) | 117 | KiCad / EDA / CAD / PCB / FPGA 设计流程 |
-| [无线通信与感知](categories/05-无线通信与感知.md) | 105 | WiFi CSI、无线链路、IMU、GNSS 等感知与通信 |
-| [AI Agent 与 LLM 工具链](categories/06-AIAgent与LLM工具链.md) | 99 | 编码 Agent、Skills、MCP、浏览器与自动化 |
+| [飞控与无人机](categories/01-飞控与无人机.md) | 147 | PX4 / ArduPilot / 飞控板卡 / 无人机导航与仿真 |
+| [电磁仿真与超表面](categories/02-电磁仿真与超表面.md) | 128 | FDTD / CST / 超表面与电磁材料设计 |
+| [嵌入式与单片机](categories/03-嵌入式与单片机.md) | 302 | RTOS、MCU 生态、LVGL、MicroPython、调试与仿真工具 |
+| [硬件设计与 EDA](categories/04-硬件设计与EDA.md) | 130 | KiCad / EDA / CAD / PCB / FPGA 设计流程 |
+| [无线通信与感知](categories/05-无线通信与感知.md) | 111 | WiFi CSI、无线链路、IMU、GNSS 等感知与通信 |
+| [AI Agent 与 LLM 工具链](categories/06-AIAgent与LLM工具链.md) | 105 | 编码 Agent、Skills、MCP、浏览器与自动化 |
 | [知识管理与笔记](categories/07-知识管理与笔记.md) | 19 | Obsidian、知识图谱、RAG、教程与书籍 |
-| [AI 模型与视觉](categories/08-AI模型与视觉.md) | 72 | 语音、视觉、模型训练 / 压缩 / 推理 |
+| [AI 模型与视觉](categories/08-AI模型与视觉.md) | 74 | 语音、视觉、模型训练 / 压缩 / 推理 |
 | [开发工具与系统资源](categories/09-开发工具与系统资源.md) | 29 | 系统工具、字体、容器、资源清单等 |
 
 ## 目录结构

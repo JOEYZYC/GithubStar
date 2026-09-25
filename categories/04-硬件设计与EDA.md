@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 117 个项目 · 数据更新时间 2026-09-25 · [返回总览](../README.md)
+> 共 130 个项目 · 数据更新时间 2026-09-26 · [返回总览](../README.md)
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,347 · Python · ⭐ 已 star`
+`★16,370 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,912 · C++ · ⭐ 已 star`
+`★2,916 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,259 · Rust · ⭐ 已 star`
+`★2,277 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -254,6 +254,13 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 基于 fx2lafw 的 24MHz 采样率逻辑分析仪开源硬件
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [Hanqaqa/Easyduino](https://github.com/Hanqaqa/Easyduino)
+`★745 · 🔥 热点推荐`
+常见 MCU 开发板的 KiCad 开源硬件集（Uno/ESP32/Pico/Bluepill 统一为 USB-C 接口），已打样验证，CERN-OHL-P-2.0
+> 收录日期：2026-09-26
 
 ---
 
@@ -408,6 +415,13 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 
 ---
 
+#### [LilithSemi/aegis](https://github.com/LilithSemi/aegis)
+`★347 · 🔥 热点推荐`
+从 fabric 生成、综合、布局布线与比特流打包到流片的全栈开源 FPGA 项目，器件参数化并面向开放 PDK
+> 收录日期：2026-09-26
+
+---
+
 #### [OpenThermal/libseek-thermal](https://github.com/OpenThermal/libseek-thermal)
 `★343 · ⭐🔥 已 star + 热点推荐`
 SEEK 紧凑型热像模块的 Linux 驱动与采集库
@@ -437,6 +451,13 @@ eFPGA 生成器与配套 CAD 工具链
 一批 KiCad Python 动作脚本，自动完成常见 PCB 处理任务
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
+
+---
+
+#### [Chanchaldhiman/CANviz](https://github.com/Chanchaldhiman/CANviz)
+`★289 · 🔥 热点推荐`
+浏览器里的 CAN 总线分析仪，pip 安装即可用，兼容任意 USB CAN 适配器与 J1939/CANopen
+> 收录日期：2026-09-26
 
 ---
 
@@ -574,6 +595,13 @@ Nordic 全系列芯片 KiCad 元件库
 
 ---
 
+#### [jvanderberg/kicad_jlcimport](https://github.com/jvanderberg/kicad_jlcimport)
+`★167 · 🔥 热点推荐`
+KiCad 插件：从嘉立创/LCSC 导入符号、封装与 3D 模型，含插件/CLI/GUI/TUI 四种用法，支持 KiCad 8/9/10
+> 收录日期：2026-09-26
+
+---
+
 #### [xaxaxa-dev/vna](https://github.com/xaxaxa-dev/vna)
 `★164 · ⭐🔥 已 star + 热点推荐`
 简单廉价的开源矢量网络分析仪硬件与配套软件
@@ -614,11 +642,39 @@ XCircuit 电路绘制与原理图捕捉工具
 
 ---
 
+#### [amd/mini-isp](https://github.com/amd/mini-isp)
+`★136 · 🔥 热点推荐`
+AMD 官方开源的最简图像信号处理（ISP）Verilog 实现，仅占 PL 资源，面向吞吐与延迟优化
+> 收录日期：2026-09-26
+
+---
+
+#### [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server)
+`★135 · 🔥 热点推荐`
+KiCad 9+ 的 MCP 服务器：原理图分析、引脚级网表追踪、无头 ERC/DRC 以及 .dts 与测试代码生成
+> 收录日期：2026-09-26
+
+---
+
 #### [jcyrax/pcbmodelgen](https://github.com/jcyrax/pcbmodelgen)
 `★123 · ⭐🔥 已 star + 热点推荐`
 把 KiCad PCB 文件转成可导入 openEMS 的模型
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [lcapossio/fpgacapZero](https://github.com/lcapossio/fpgacapZero)
+`★121 · 🔥 热点推荐`
+跨厂商 FPGA 调试核：JTAG 上的嵌入式逻辑分析仪与 IO，可导出 VCD/CSV，替代 ChipScope/SignalTap
+> 收录日期：2026-09-26
+
+---
+
+#### [theohg/PD240W](https://github.com/theohg/PD240W)
+`★116 · 🔥 热点推荐`
+通过 USB-C PD 取电的可调电源，最高 48V/5A/240W，RP2040 固件含受保护的 AVS/EPR 协商与启动恢复
+> 收录日期：2026-09-26
 
 ---
 
@@ -646,9 +702,31 @@ FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开�
 
 ---
 
+#### [rolandnsharp/terminal-oscilloscope](https://github.com/rolandnsharp/terminal-oscilloscope)
+`★108 · 🔥 热点推荐`
+终端里的示波器：Nim 零依赖 200KB 二进制，CRT 余辉与束流物理 + X-Y 李萨如模式
+> 收录日期：2026-09-26
+
+---
+
+#### [YiHok/FPGABuilder](https://github.com/YiHok/FPGABuilder)
+`★105 · 🔥 热点推荐`
+跨平台 FPGA 自动构建工具链，整合 Vivado 与 Quartus，YAML 配置加 menuconfig 式交互界面
+> 收录日期：2026-09-26
+
+---
+
+#### [Kitjesen/Vectorfoc](https://github.com/Kitjesen/Vectorfoc)
+`★105 · 🔥 热点推荐`
+STM32G431 电机控制板的生产级 FOC 固件：20kHz 电流环、DS402 状态机、CAN/USB 通信与 OTA 引导
+> 收录日期：2026-09-26
+
+---
+
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
-`★102 · Python · ⭐ 已 star`
+`★102 · Python · ⭐🔥 已 star + 热点推荐`
 AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-13
 
 ---
@@ -658,6 +736,13 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
+
+---
+
+#### [paul356/KiCad-AI-Assistant](https://github.com/paul356/KiCad-AI-Assistant)
+`★98 · 🔥 热点推荐`
+把 LLM 聊天面板嵌进 KiCad 10 的动作插件，自带 MCP 服务器，可用自然语言修改原理图与 PCB
+> 收录日期：2026-09-26
 
 ---
 
@@ -674,6 +759,13 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 开源中分辨率、宽带热成像相机（传感器到成像链路自研）
 > 热点推荐于 2026-09-13
 > 收录日期：2026-09-13
+
+---
+
+#### [T76-org/drpd](https://github.com/T76-org/drpd)
+`★76 · 🔥 热点推荐`
+开源 USB-PD 分析仪兼可编程 sink：解码 PD 报文、实测 VBUS 电压电流，支持 PD 3.2 EPR/PPS
+> 收录日期：2026-09-26
 
 ---
 
@@ -773,7 +865,7 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★32 · C++ · ⭐ 已 star`
+`★33 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
 

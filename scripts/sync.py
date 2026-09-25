@@ -87,6 +87,62 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-26：本轮 48 条逐条显式归类（免规则串味；飞控/GNSS/仪器/agent-skill 四类最易误判） ----
+    # 飞控与无人机
+    "sergiovirahonda/cortex": "飞控与无人机",                       # 自研飞控固件（ESP32-S3 + DShot/ELRS）
+    "OpenDrone-hw/OpenFC-Lite-Mini": "飞控与无人机",                 # 开源飞控硬件（RP2354A，OSHWA）
+    "dbloemhard/ESP32_Transmitter_for_ELRS": "飞控与无人机",         # ELRS 遥控发射机
+    "wbhinton/ELRS-Mobile": "飞控与无人机",                          # ELRS 接收机刷写/配置
+    "stephendade/mavlinklinktester": "飞控与无人机",                 # MAVLink 链路质量测试
+    "PteroLabsAI/PteroSim-UAV-Simulator": "飞控与无人机",            # 无人机飞行仿真
+    "yidrone/AstraDroneOpen": "飞控与无人机",                        # 开源无人机整机
+    "sverk-tech/sverk-ros2": "飞控与无人机",                         # 无人机 ROS 2 软件栈
+    "alebal123bal/luckfox_UAV_detection": "飞控与无人机",            # RV1106 反无人机视觉检测
+    # 无线通信与感知（GNSS/UWB/CSI 归此类，遵循 rtkbase、GREAT-PVT 先例）
+    "anandbobba/ros2_uwb_plugin": "无线通信与感知",                  # ROS 2 UWB 定位与误差建模
+    "ultrawidelock/ultrawidelock": "无线通信与感知",                 # Aliro 门锁 + UWB 测距固件
+    "chocochip119/wifi-csi-project": "无线通信与感知",               # WiFi CSI 感知整链
+    "inuex35/tightly-coupled-gnss-imu-fgo": "无线通信与感知",        # GTSAM 因子图 GNSS/IMU 紧耦合
+    "wwz-research/RTK-GNSS": "无线通信与感知",                       # RTK GNSS 研究代码
+    "hmd83/ESP_RTK_ROVER": "无线通信与感知",                         # 蓝牙 RTK 流动站
+    # 电磁仿真与超表面
+    "hyoseokp/TorchFDTD": "电磁仿真与超表面",                        # 可微 FDTD 求解器
+    # 硬件设计与 EDA（含测量仪器，遵循 smuview、OpenScope-2C53T 先例）
+    "Hanqaqa/Easyduino": "硬件设计与 EDA",                           # KiCad 开源开发板集
+    "LilithSemi/aegis": "硬件设计与 EDA",                            # 全栈开源 FPGA
+    "Chanchaldhiman/CANviz": "硬件设计与 EDA",                       # CAN 总线分析仪
+    "jvanderberg/kicad_jlcimport": "硬件设计与 EDA",                 # KiCad 元件库导入插件
+    "amd/mini-isp": "硬件设计与 EDA",                                # 开源 ISP Verilog
+    "Seeed-Studio/kicad-mcp-server": "硬件设计与 EDA",               # KiCad MCP 服务器
+    "lcapossio/fpgacapZero": "硬件设计与 EDA",                       # FPGA 逻辑分析核
+    "YiHok/FPGABuilder": "硬件设计与 EDA",                           # FPGA 构建工具链
+    "Kitjesen/Vectorfoc": "硬件设计与 EDA",                          # STM32 FOC 电机控制板
+    "oaslananka/kicad-mcp-pro": "硬件设计与 EDA",                    # KiCad MCP 服务器（DFM）
+    "paul356/KiCad-AI-Assistant": "硬件设计与 EDA",                  # KiCad LLM 助手插件
+    "Zane456/PCB-Agent-Teams": "硬件设计与 EDA",                     # 多 agent PCB 流水线
+    "theohg/PD240W": "硬件设计与 EDA",                               # USB-C PD 可调电源（仪器）
+    "T76-org/drpd": "硬件设计与 EDA",                                # USB-PD 分析仪（仪器）
+    "rolandnsharp/terminal-oscilloscope": "硬件设计与 EDA",          # 终端示波器（仪器）
+    # 嵌入式与单片机
+    "21cncstudio/project_aura": "嵌入式与单片机",                    # ESP32-S3 空气质量站
+    "espkvm/espkvm": "嵌入式与单片机",                               # ESP32-P4 IP-KVM
+    "jrowny/p4kvm": "嵌入式与单片机",                                # ESP32-P4 IP-KVM（PoC）
+    "torvalds/ScrollWheel": "嵌入式与单片机",                        # RP2350 旋钮
+    "infinition/waveshare-watch-rs": "嵌入式与单片机",               # ESP32-S3 手表 Rust 固件
+    "amcchord/M5Tab-Macintosh": "嵌入式与单片机",                    # ESP32-P4 上的 68k Mac 模拟器
+    "rh1tech/frank-os": "嵌入式与单片机",                            # RP2350 桌面系统
+    "rh1tech/frank-386": "嵌入式与单片机",                           # RP2350 i386 模拟器
+    "fliperama86/pico_hdmi": "嵌入式与单片机",                       # RP2350 HSTX HDMI 输出
+    "bqy12346/Fall-Detection": "嵌入式与单片机",                     # STM32 摔倒检测
+    # AI Agent 与 LLM 工具链
+    "anthropics/claudes-c-compiler": "AI Agent 与 LLM 工具链",       # agent 生成的 C 编译器
+    "jetpax/pycoclaw": "AI Agent 与 LLM 工具链",                     # MCU 上的 agent 框架
+    "LeoKemp223/llm2lvgl": "AI Agent 与 LLM 工具链",                 # LLM 生成 LVGL 界面
+    "beriberikix/zephyr-agent-skills": "AI Agent 与 LLM 工具链",     # Zephyr agent 技能注册表
+    "XZhaoSudo/stm32debug-skill": "AI Agent 与 LLM 工具链",          # STM32 调试技能包
+    # AI 模型与视觉（红外-可见光融合，遵循 LLVIP/MMIF-CDDFuse 先例）
+    "bociic/FusionRegister": "AI 模型与视觉",                        # 融合前配准（CVPR 2026）
+    "ALKA-Wind/EVAFusion": "AI 模型与视觉",                          # 人类评价驱动的融合（CVPR 2026）
     # ---- 2026-09-25（star 列表）：description/topics/language 全空，规则无法判定 ----
     "cytstudiooo/cytstudio": "嵌入式与单片机",                    # 嵌入式开发 IDE（Cortex-M/FreeRTOS/CMSIS-Pack/J-Link + AI agent）
     # ---- 2026-09-25：逐条显式归类（免规则串味；仪器/融合/RTK 三类易误判） ----
