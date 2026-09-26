@@ -1,11 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 130 个项目 · 数据更新时间 2026-09-26 · [返回总览](../README.md)
+> 共 134 个项目 · 数据更新时间 2026-09-27 · [返回总览](../README.md)
+
+---
+
+#### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+`★33,775 · C++ · ⭐ 已 star`
+Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+> 收录日期：2026-09-27
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,370 · Python · ⭐ 已 star`
+`★16,395 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -108,7 +115,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,916 · C++ · ⭐ 已 star`
+`★2,918 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -122,17 +129,24 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 
 ---
 
-#### [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
-`★2,277 · Python · ⭐🔥 已 star + 热点推荐`
-KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
-> 热点推荐于 2026-09-16
-> 收录日期：2026-09-13
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★2,493 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
 
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,277 · Rust · ⭐ 已 star`
+`★2,295 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
+#### [mixelpixx/KiCAD-MCP-Server](https://github.com/mixelpixx/KiCAD-MCP-Server)
+`★2,277 · Python · ⭐🔥 已 star + 热点推荐`
+KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large Language Models (LLMs) like Claude to directly interact with KiCAD for printed circuit board design.
+> 热点推荐于 2026-09-16
 > 收录日期：2026-09-13
 
 ---
@@ -258,8 +272,9 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 ---
 
 #### [Hanqaqa/Easyduino](https://github.com/Hanqaqa/Easyduino)
-`★745 · 🔥 热点推荐`
+`★745 · ⭐🔥 已 star + 热点推荐`
 常见 MCU 开发板的 KiCad 开源硬件集（Uno/ESP32/Pico/Bluepill 统一为 USB-C 接口），已打样验证，CERN-OHL-P-2.0
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -416,8 +431,9 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 ---
 
 #### [LilithSemi/aegis](https://github.com/LilithSemi/aegis)
-`★347 · 🔥 热点推荐`
+`★347 · ⭐🔥 已 star + 热点推荐`
 从 fabric 生成、综合、布局布线与比特流打包到流片的全栈开源 FPGA 项目，器件参数化并面向开放 PDK
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -455,8 +471,9 @@ eFPGA 生成器与配套 CAD 工具链
 ---
 
 #### [Chanchaldhiman/CANviz](https://github.com/Chanchaldhiman/CANviz)
-`★289 · 🔥 热点推荐`
+`★289 · ⭐🔥 已 star + 热点推荐`
 浏览器里的 CAN 总线分析仪，pip 安装即可用，兼容任意 USB CAN 适配器与 J1939/CANopen
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -596,8 +613,9 @@ Nordic 全系列芯片 KiCad 元件库
 ---
 
 #### [jvanderberg/kicad_jlcimport](https://github.com/jvanderberg/kicad_jlcimport)
-`★167 · 🔥 热点推荐`
+`★167 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件：从嘉立创/LCSC 导入符号、封装与 3D 模型，含插件/CLI/GUI/TUI 四种用法，支持 KiCad 8/9/10
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -643,15 +661,17 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [amd/mini-isp](https://github.com/amd/mini-isp)
-`★136 · 🔥 热点推荐`
+`★136 · ⭐🔥 已 star + 热点推荐`
 AMD 官方开源的最简图像信号处理（ISP）Verilog 实现，仅占 PL 资源，面向吞吐与延迟优化
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
 
 #### [Seeed-Studio/kicad-mcp-server](https://github.com/Seeed-Studio/kicad-mcp-server)
-`★135 · 🔥 热点推荐`
+`★135 · ⭐🔥 已 star + 热点推荐`
 KiCad 9+ 的 MCP 服务器：原理图分析、引脚级网表追踪、无头 ERC/DRC 以及 .dts 与测试代码生成
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -665,15 +685,17 @@ KiCad 9+ 的 MCP 服务器：原理图分析、引脚级网表追踪、无头 ER
 ---
 
 #### [lcapossio/fpgacapZero](https://github.com/lcapossio/fpgacapZero)
-`★121 · 🔥 热点推荐`
+`★121 · ⭐🔥 已 star + 热点推荐`
 跨厂商 FPGA 调试核：JTAG 上的嵌入式逻辑分析仪与 IO，可导出 VCD/CSV，替代 ChipScope/SignalTap
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
 
 #### [theohg/PD240W](https://github.com/theohg/PD240W)
-`★116 · 🔥 热点推荐`
+`★116 · ⭐🔥 已 star + 热点推荐`
 通过 USB-C PD 取电的可调电源，最高 48V/5A/240W，RP2040 固件含受保护的 AVS/EPR 协商与启动恢复
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -703,22 +725,25 @@ FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开�
 ---
 
 #### [rolandnsharp/terminal-oscilloscope](https://github.com/rolandnsharp/terminal-oscilloscope)
-`★108 · 🔥 热点推荐`
+`★108 · ⭐🔥 已 star + 热点推荐`
 终端里的示波器：Nim 零依赖 200KB 二进制，CRT 余辉与束流物理 + X-Y 李萨如模式
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
 
 #### [YiHok/FPGABuilder](https://github.com/YiHok/FPGABuilder)
-`★105 · 🔥 热点推荐`
+`★105 · ⭐🔥 已 star + 热点推荐`
 跨平台 FPGA 自动构建工具链，整合 Vivado 与 Quartus，YAML 配置加 menuconfig 式交互界面
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
 
 #### [Kitjesen/Vectorfoc](https://github.com/Kitjesen/Vectorfoc)
-`★105 · 🔥 热点推荐`
+`★105 · ⭐🔥 已 star + 热点推荐`
 STM32G431 电机控制板的生产级 FOC 固件：20kHz 电流环、DS402 状态机、CAN/USB 通信与 OTA 引导
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -740,8 +765,9 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 ---
 
 #### [paul356/KiCad-AI-Assistant](https://github.com/paul356/KiCad-AI-Assistant)
-`★98 · 🔥 热点推荐`
+`★98 · ⭐🔥 已 star + 热点推荐`
 把 LLM 聊天面板嵌进 KiCad 10 的动作插件，自带 MCP 服务器，可用自然语言修改原理图与 PCB
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -763,8 +789,9 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 ---
 
 #### [T76-org/drpd](https://github.com/T76-org/drpd)
-`★76 · 🔥 热点推荐`
+`★76 · ⭐🔥 已 star + 热点推荐`
 开源 USB-PD 分析仪兼可编程 sink：解码 PD 报文、实测 VBUS 电压电流，支持 PD 3.2 EPR/PPS
+> 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
 
 ---
@@ -868,6 +895,13 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 `★33 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
+
+---
+
+#### [ref42/npnp](https://github.com/ref42/npnp)
+`★31 · 🔥 热点推荐`
+命令行批量导出立创商城元件为 Altium Designer / KiCad 可用格式（Rust）
+> 收录日期：2026-09-27
 
 ---
 
@@ -1012,6 +1046,13 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放
 > 热点推荐于 2026-09-24
 > 收录日期：2026-09-24
+
+---
+
+#### [uchan-nos/prepare-ai-review-for-kicad](https://github.com/uchan-nos/prepare-ai-review-for-kicad)
+`★9 · 🔥 热点推荐`
+KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2026-08 新建）
+> 收录日期：2026-09-27
 
 ---
 
