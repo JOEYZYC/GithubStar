@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 134 个项目 · 数据更新时间 2026-09-27 · [返回总览](../README.md)
+> 共 137 个项目 · 数据更新时间 2026-09-28 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,775 · C++ · ⭐ 已 star`
+`★33,792 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,395 · Python · ⭐ 已 star`
+`★16,428 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -115,7 +115,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,918 · C++ · ⭐ 已 star`
+`★2,920 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -130,14 +130,14 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,493 · Python · ⭐ 已 star`
+`★2,513 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,295 · Rust · ⭐ 已 star`
+`★2,307 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -303,6 +303,13 @@ SparkFun 官方 KiCad 符号与封装库
 
 ---
 
+#### [easyw/kicadStepUpMod](https://github.com/easyw/kicadStepUpMod)
+`★689 · 🔥 热点推荐`
+KiCad 到 FreeCAD 的 ECAD-MCAD 协同工作台
+> 收录日期：2026-09-28
+
+---
+
 #### [bennymeg/Fabrication-Toolkit](https://github.com/bennymeg/Fabrication-Toolkit)
 `★680 · ⭐🔥 已 star + 热点推荐`
 KiCad 嘉立创（JLCPCB）制造插件，一键导出 BOM/坐标文件并匹配 LCSC 料号
@@ -327,8 +334,15 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library)
+`★584 · 🔥 热点推荐`
+嘉立创 SMT 基础元件的 KiCad 符号、封装与 3D 模型库
+> 收录日期：2026-09-28
+
+---
+
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★561 · C · ⭐ 已 star`
+`★562 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -899,8 +913,9 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [ref42/npnp](https://github.com/ref42/npnp)
-`★31 · 🔥 热点推荐`
+`★31 · ⭐🔥 已 star + 热点推荐`
 命令行批量导出立创商城元件为 Altium Designer / KiCad 可用格式（Rust）
+> 热点推荐于 2026-09-27
 > 收录日期：2026-09-27
 
 ---
@@ -985,6 +1000,13 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 
 ---
 
+#### [Calvariaa/CH32H417_Logic_Analyzer_Mini](https://github.com/Calvariaa/CH32H417_Logic_Analyzer_Mini)
+`★19 · 🔥 热点推荐`
+基于 CH32H417WEU6 的 16 通道 200MHz 逻辑分析仪工程，含原理图与 PCB 重画
+> 收录日期：2026-09-28
+
+---
+
 #### [SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog](https://github.com/SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog)
 `★18 · ⭐🔥 已 star + 热点推荐`
 8x8 时序乘法器的 RTL-to-GDSII 完整 ASIC 流程示例，含低功耗 FSM 设计
@@ -1050,8 +1072,9 @@ MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤�
 ---
 
 #### [uchan-nos/prepare-ai-review-for-kicad](https://github.com/uchan-nos/prepare-ai-review-for-kicad)
-`★9 · 🔥 热点推荐`
+`★9 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2026-08 新建）
+> 热点推荐于 2026-09-27
 > 收录日期：2026-09-27
 
 ---

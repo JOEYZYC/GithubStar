@@ -1,367 +1,317 @@
 [
  {
-  "url": "https://github.com/thliebig/openEMS-Project",
-  "stars": 771,
-  "desc": "开源电磁场 FDTD 求解器 openEMS 的工程套件仓库（构建脚本 + 依赖打包），是 CST/HFSS 之外的免费全波仿真入口"
+  "url": "https://github.com/ZSWatch/ZSWatch",
+  "stars": 3373,
+  "desc": "基于 Zephyr 的开源智能手表，含硬件与固件全套"
  },
  {
-  "url": "https://github.com/thliebig/openEMS",
-  "stars": 748,
-  "desc": "openEMS 核心求解器（C++，GPL-3.0），EC-FDTD 实现，支持周期边界、PML、色散材料与近远场外推"
+  "url": "https://github.com/ucb-bar/chipyard",
+  "stars": 2402,
+  "desc": "UC Berkeley 的敏捷 RISC-V SoC 设计框架，含顺序/乱序核与加速器集成"
  },
  {
-  "url": "https://github.com/flaport/fdtd",
-  "stars": 723,
-  "desc": "Python 编写并带可选 GPU 实现的三维电磁 FDTD 仿真器，支持亚像素平滑与各向异性材料"
+  "url": "https://github.com/stnolting/neorv32",
+  "stars": 2280,
+  "desc": "用可移植 VHDL 写的 MCU 级 32 位 RISC-V 软核 SoC，可定制可扩展"
  },
  {
-  "url": "https://github.com/fancompute/ceviche",
-  "stars": 425,
-  "desc": "电磁仿真 + 自动微分的 Python 库，可直接对结构几何与材料参数求梯度做逆向设计"
+  "url": "https://github.com/riscv-mcu/e203_hbirdv2",
+  "stars": 1926,
+  "desc": "超低功耗 RISC-V 内核（蜂鸟 E203）"
  },
  {
-  "url": "https://github.com/ymahlau/fdtdx",
-  "stars": 357,
-  "desc": "基于 JAX 的电磁 FDTD 仿真库，自动微分 + GPU 并行，2026-09-23 仍在活跃推送"
+  "url": "https://github.com/OSCPU/NutShell",
+  "stars": 1557,
+  "desc": "国科大（UCAS）学生设计的 RISC-V SoC"
  },
  {
-  "url": "https://github.com/john-b-schneider/uFDTD",
-  "stars": 265,
-  "desc": "《Understanding the FDTD Method》配套教材资料与代码（含网格、PML、色散、激励源的完整推导）"
+  "url": "https://github.com/raspberrypi/debugprobe",
+  "stars": 1253,
+  "desc": "基于 RP2040 的官方调试探针固件（SWD/JTAG）"
  },
  {
-  "url": "https://github.com/antmicro/gerber2ems",
-  "stars": 262,
-  "desc": "以 Gerber 文件为输入、调用 OpenEMS 做 PCB 走线电磁仿真的 Python 工具，自动生成网格与端口"
+  "url": "https://github.com/splinedrive/kianRiscV",
+  "stars": 1119,
+  "desc": "能跑 xv6/Linux 的 RISC-V SoC（Verilog）"
  },
  {
-  "url": "https://github.com/sbyrnes321/metalens",
-  "stars": 183,
-  "desc": "超表面透镜/光束偏折器/光栅的设计、优化与仿真 Python 工具（相位分布 → 结构 → 仿真的完整闭环）"
+  "url": "https://github.com/eugene-tarassov/vivado-risc-v",
+  "stars": 1098,
+  "desc": "Xilinx Vivado 的 FPGA RISC-V SoC 参考设计，可跑 Debian Linux"
  },
  {
-  "url": "https://github.com/thomaslepoix/Qucs-RFlayout",
-  "stars": 167,
-  "desc": "把 Qucs 射频原理图导出为 KiCad 版图与 OpenEMS 脚本，打通「电路级 → 版图级 → 全波仿真」"
+  "url": "https://github.com/mvschwarz/openrig",
+  "stars": 932,
+  "desc": "把 Claude Code 与 Codex 作为同一系统运行的多 agent 编排 harness（TypeScript，Trending 总榜当日 +114★）"
  },
  {
-  "url": "https://github.com/pentilm/FDTDMetamaterial",
-  "stars": 164,
-  "desc": "面向超材料数值实验的 C++ 三维 FDTD Maxwell 求解器"
+  "url": "https://github.com/gprMax/gprMax",
+  "stars": 885,
+  "desc": "开源 FDTD 电磁波传播仿真软件，面向探地雷达与真实材料色散建模，Python 实现"
  },
  {
-  "url": "https://github.com/zameerbharwani/Deep-Learning-for-Metasurface-Optimization",
-  "stars": 125,
-  "desc": "用 TensorFlow/Keras 神经网络做超表面结构参数优化的完整代码与数据集，2025-12 仍有推送"
+  "url": "https://github.com/sergeykhbr/riscv_vhdl",
+  "stars": 697,
+  "desc": "可移植的 RISC-V SoC 实现，含 RTL、调试器与仿真器"
  },
  {
-  "url": "https://github.com/wsshin/maxwellfdfd",
-  "stars": 123,
-  "desc": "MATLAB 编写的 FDFD 麦克斯韦求解器包，支持各向异性材料、PML 与模式求解"
+  "url": "https://github.com/easyw/kicadStepUpMod",
+  "stars": 689,
+  "desc": "KiCad 到 FreeCAD 的 ECAD-MCAD 协同工作台"
  },
  {
-  "url": "https://github.com/jcyrax/pcbmodelgen",
-  "stars": 121,
-  "desc": "把 KiCad PCB 文件转换为可导入 openEMS 的模型，便于直接仿真真实板级结构"
+  "url": "https://github.com/CDFER/JLCPCB-Kicad-Library",
+  "stars": 584,
+  "desc": "嘉立创 SMT 基础元件的 KiCad 符号、封装与 3D 模型库"
  },
  {
-  "url": "https://github.com/yuip/hfss-api",
-  "stars": 121,
-  "desc": "从 MATLAB 驱动 HFSS 的 API 库（自动化建模、扫参与后处理）"
+  "url": "https://github.com/fbiego/esp32-c3-mini",
+  "stars": 539,
+  "desc": "ESP32-C3-Mini（ESP32-2424S012）板子的 LVGL 界面工程"
  },
  {
-  "url": "https://github.com/WoodyBuendia/HFSS-MATLAB-API",
-  "stars": 115,
-  "desc": "通过 HFSS 脚本接口从 MATLAB 控制 Ansoft HFSS 的工具箱"
+  "url": "https://github.com/Seeed-Studio/ModelAssistant",
+  "stars": 446,
+  "desc": "Seeed 的 SenseCraft Model Assistant，面向嵌入式 AI 的开源训练与部署工具链"
  },
  {
-  "url": "https://github.com/LubomirJagos/FreeCAD-OpenEMS-Export",
-  "stars": 112,
-  "desc": "FreeCAD 插件：把当前三维模型一键导出给 OpenEMS 做电磁仿真"
- },
- {
-  "url": "https://github.com/matthuszagh/pyems",
-  "stars": 105,
-  "desc": "OpenEMS 的高层 Python 接口，自带自动网格生成"
- },
- {
-  "url": "https://github.com/mishka-zz/freecad-microwave",
-  "stars": 76,
-  "desc": "2026-08 新建的 FreeCAD 射频/微波工程工作台（LGPL-2.1），把微波结构建模搬进 FreeCAD"
- },
- {
-  "url": "https://github.com/jonfanlab/GAN_for_metasurface",
-  "stars": 73,
-  "desc": "用生成对抗网络做超表面设计的代码（GAN 生成结构 → 仿真验证）"
- },
- {
-  "url": "https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control",
-  "stars": 45,
-  "desc": "多种经典有源/无源超表面单元与阵列的建模工程（MATLAB + CST 协同）"
- },
- {
-  "url": "https://github.com/cemagg/SUN-EM-CMOM",
-  "stars": 45,
-  "desc": "C++ 计算电磁求解器 CMoM，专注矩量法（MoM），适合天线与散射问题"
- },
- {
-  "url": "https://github.com/JustArri/py4cst",
-  "stars": 22,
-  "desc": "CST Studio Suite 的 Python 库，用脚本批量建模与仿真"
- },
- {
-  "url": "https://github.com/DABIAN-afk/microstrip-studio",
-  "stars": 21,
-  "desc": "2026-08 新建的轻量微带线综合与分析可视化工具，面向射频工程师"
- },
- {
-  "url": "https://github.com/GKIAN/LAC-GRTM",
-  "stars": 15,
-  "desc": "Luco-Apsel-Chen 广义反射/透射系数法（Fortran），用于分层介质的格林函数求解"
- },
- {
-  "url": "https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark",
-  "stars": 634,
-  "desc": "WiFi CSI 感知的统一基准与评测框架（MIT），把 CSI 采集、预处理与多种感知任务放在同一套代码下对比"
- },
- {
-  "url": "https://github.com/cwlroda/falldetection_openpifpaf",
+  "url": "https://github.com/alaltitov/Guition-ESP32-S3-4848S040",
   "stars": 434,
-  "desc": "基于 OpenPifPaf 人体姿态估计的跌倒检测实现"
+  "desc": "Guition ESP32-S3-4848S040 触摸屏的 LVGL 固件"
  },
  {
-  "url": "https://github.com/taufeeque9/HumanFallDetection",
-  "stars": 353,
-  "desc": "实时、多人、多摄像头的跌倒检测器（MIT），2026-04 仍有推送"
+  "url": "https://github.com/agillis/esphome-modular-lvgl-buttons",
+  "stars": 417,
+  "desc": "ESPHome 的模块化 LVGL 按钮平台"
  },
  {
-  "url": "https://github.com/Makerfabs/Makerfabs-ESP32-UWB",
-  "stars": 285,
-  "desc": "Makerfabs 的 ESP32 + UWB（DW1000 系列）硬件与示例固件，用于室内定位与测距"
+  "url": "https://github.com/fastvideo/gpu-camera-sample",
+  "stars": 378,
+  "desc": "Windows/Linux/ARM 上的 GPU 实时机器视觉图像处理样例，附性能与 glass-to-glass 延迟基准"
  },
  {
-  "url": "https://github.com/jremington/UWB-Indoor-Localization_Arduino",
-  "stars": 257,
-  "desc": "基于 Arduino + ESP32_UWB 标签/基站的室内定位开源实现（GPL-3.0）"
+  "url": "https://github.com/pulp-platform/cheshire",
+  "stars": 371,
+  "desc": "围绕 CVA6 的极简 64 位 Linux-capable RISC-V SoC"
  },
  {
-  "url": "https://github.com/Makerfabs/Makerfabs-ESP32-UWB-DW3000",
-  "stars": 171,
-  "desc": "Makerfabs 的 DW3000 版本 ESP32 UWB 模块资料与示例（2026-07 推送）"
+  "url": "https://github.com/lvgl/lv_binding_micropython",
+  "stars": 354,
+  "desc": "LVGL 的 MicroPython 绑定"
  },
  {
-  "url": "https://github.com/nkjcqvcpi/hci-sensing",
-  "stars": 95,
-  "desc": "HCI-Sensing：面向居家环境健康监测的射频感知工具箱（2026-08 新建）"
- },
- {
-  "url": "https://github.com/hanfeny7/world-pose-fall-intelligence",
-  "stars": 15,
-  "desc": "SentinelFlow：多模态世界模型 + 跌倒检测的展示工程（2026-09-24 新建）"
- },
- {
-  "url": "https://github.com/sel00000/csi-pose",
-  "stars": 11,
-  "desc": "在 ESP32-S3（3 发 3 收）上用 WiFi CSI 做单人二维姿态估计，并带跌倒检测（2026-06 新建）"
- },
- {
-  "url": "https://github.com/Retr0Kr0dy/non-magical-csi",
-  "stars": 11,
-  "desc": "ESP32 CSI 采集的「反玄学」实现——只做可复现、非雷达式的 CSI 数据获取"
- },
- {
-  "url": "https://github.com/generalized-intelligence/GAAS",
-  "stars": 2086,
-  "desc": "面向全自主 VTOL（含飞行汽车）与无人机的开源全栈框架（BSD-3-Clause）"
- },
- {
-  "url": "https://github.com/kkbin505/Arduino-Transmitter-for-ELRS",
-  "stars": 383,
-  "desc": "基于 Arduino 的 RC 发射机，为 ELRS 外置发射模块提供遥控输入（GPL-3.0）"
- },
- {
-  "url": "https://github.com/pratikPhadte/ESP32-Flight-controller-",
-  "stars": 356,
-  "desc": "在 Arduino IDE 下用 ESP32 写的飞控代码，含各分模块测试程序（MIT）"
- },
- {
-  "url": "https://github.com/KyThuatUAV/ESP32_FC",
-  "stars": 172,
-  "desc": "2026-09 新建的 ESP32 飞控开发项目（GPL-3.0），越南团队研究性工程"
- },
- {
-  "url": "https://github.com/AlfredoSystems/AlfredoCRSF",
-  "stars": 142,
-  "desc": "Arduino 端的 CRSF 协议库，用于解析/构造 ELRS 遥控链路数据（2026-09-26 推送）"
- },
- {
-  "url": "https://github.com/RustedBytes/mavsim",
-  "stars": 11,
-  "desc": "用 Rust 重写的 MAVSim，兼容 MAVLink 与 PX4 SITL（2026-06 新建）"
- },
- {
-  "url": "https://github.com/recrof/drone_meshcore_updater",
-  "stars": 10,
-  "desc": "基于 Zephyr 的无人机 BLE DFU / WiFi OTA 刷写工具（2026-08 新建）"
- },
- {
-  "url": "https://github.com/012345kxy/ch32v307-multirotor-flight-controller",
-  "stars": 9,
-  "desc": "CH32V307 多旋翼飞控硬件（含 IMU、气压计、存储与调参接口），CERN-OHL-P-2.0 开源硬件许可"
- },
- {
-  "url": "https://github.com/juricabi/edgetx-flight-log",
-  "stars": 8,
-  "desc": "在遥控器上直接读取 EdgeTX 飞行日志的 Lua 工具（汇总、曲线、加 plus code 的 GPS 轨迹与全部传感器）"
- },
- {
-  "url": "https://github.com/paulneja/Linux-on-esp32-S3",
-  "stars": 188,
-  "desc": "在 ESP32-S3 的 Xtensa 核上原生跑 Linux 6.11（非模拟），WiFi 可用（GPL-3.0）"
- },
- {
-  "url": "https://github.com/mx3353672833-debug/moto-gps-waveshare",
-  "stars": 181,
-  "desc": "微雪 ESP32-S3 1.75C 圆屏摩托导航 + iPhone App 配套工程（2026-09 新建/推送）"
- },
- {
-  "url": "https://github.com/MichalZaniewicz/esphome-guition-jc3636k718c-va",
-  "stars": 163,
-  "desc": "纯 ESPHome 实现的圆屏旋钮设备全屋语音助手（Guition JC3636K718C）"
- },
- {
-  "url": "https://github.com/engneer-hamachan/area512",
-  "stars": 67,
-  "desc": "为 512KB 内存的 M5Stack Cardputer 打造的 Ruby & Python 自包含开发环境（2026-09 推送）"
- },
- {
-  "url": "https://github.com/emir173/esp32-console",
-  "stars": 34,
-  "desc": "双屏 ESP32-S3 掌机：双核 OS、OTA 启动器与 15 个原生游戏（MIT）"
- },
- {
-  "url": "https://github.com/ref42/npnp",
-  "stars": 31,
-  "desc": "命令行批量导出立创商城元件为 Altium Designer / KiCad 可用格式（Rust）"
- },
- {
-  "url": "https://github.com/10-X-eng/KiChad",
-  "stars": 20,
-  "desc": "把 Codex 集成进 KiCad 的下游分支（GPL-3.0）"
- },
- {
-  "url": "https://github.com/shohanur00/STM32_VSCode_Setup",
-  "stars": 20,
-  "desc": "用 CMSIS + CMake + ARM GNU Toolchain 搭建 STM32 裸机开发的 VS Code 环境分步指南"
- },
- {
-  "url": "https://github.com/alexex1993/mcu-skills",
-  "stars": 18,
-  "desc": "面向 MCU 的 Claude Code Agent Skills 集合：STM32、ESP32、RP2040、nRF52840、AVR 各板级专项技能（2026-08 新建）"
- },
- {
-  "url": "https://github.com/OneB1ank/pcileech-as02-3p",
-  "stars": 15,
-  "desc": "AS02MC04（XCKU3P）FPGA 的 PCILeech 兼容移植，SFP1 上跑 25G RawUDP 传输（2026-09 新建，SystemVerilog）"
- },
- {
-  "url": "https://github.com/InfTape/tang-nano-20k-snn",
-  "stars": 15,
-  "desc": "为 Sipeed Tang Nano 20K FPGA 实现的可综合 LIF 脉冲神经网络（Verilog，2026-08 新建）"
- },
- {
-  "url": "https://github.com/SakuraHop/explorer-eod-rescue-robot",
-  "stars": 13,
-  "desc": "2025 广东省工科大学生实验综合技能竞赛省级一等奖：排爆反恐救援机器人开源工程（OpenMV，2026-08 新建）"
- },
- {
-  "url": "https://github.com/dpks2003/pio-ftdi",
-  "stars": 13,
-  "desc": "用 RP2040/RP2350 的 PIO 把芯片变成 FTDI FT232H JTAG 适配器（2026-08 新建，GPL-2.0）"
- },
- {
-  "url": "https://github.com/Jepl4r/sonix-player",
-  "stars": 12,
-  "desc": "用 LVGL 为 HiBy R3 Pro II / R1 写的替换播放器（2026-09 新建/推送）"
- },
- {
-  "url": "https://github.com/eroblue/embed-ai-assist",
-  "stars": 12,
-  "desc": "AI 辅助嵌入式开发自动化框架（2026-09 新建，Apache-2.0）"
- },
- {
-  "url": "https://github.com/umeiko/KlipperScreen-esp",
-  "stars": 11,
-  "desc": "基于 LVGL v9+ 为 Klipper/BambuLab 做的 GUI，可在 CYD ESP32、Windows、macOS、Linux 运行（2026-09-26 推送）"
- },
- {
-  "url": "https://github.com/uchan-nos/prepare-ai-review-for-kicad",
-  "stars": 9,
-  "desc": "KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2026-08 新建）"
- },
- {
-  "url": "https://github.com/hqy123-git/rk3568-lvgl-project",
-  "stars": 9,
-  "desc": "基于 RK3568 移植 LVGL，结合 MPlayer 与触摸屏做多媒体娱乐平台（含 5 款小游戏与播放器）"
- },
- {
-  "url": "https://github.com/beriberikix/zephyr-desktop",
-  "stars": 8,
-  "desc": "Zephyr RTOS + LVGL 上的复古桌面外壳，应用以运行时加载的 llext 扩展形式存在（2026-08 新建）"
- },
- {
-  "url": "https://github.com/RollingPlain/IVIF_ZOO",
-  "stars": 359,
-  "desc": "红外与可见光图像融合综述配套的算法动物园与数据兼容性讨论（2026-07 推送）"
- },
- {
-  "url": "https://github.com/OpenThermal/libseek-thermal",
+  "url": "https://github.com/cpldcpu/BitNetMCU",
   "stars": 344,
-  "desc": "SEEK 紧凑型热像仪（Compact / CompactXR / CompactPRO）的驱动库（MIT）"
+  "desc": "在 CH32V003 等低端 32 位 MCU 上跑低位宽权重神经网络"
  },
  {
-  "url": "https://github.com/leswright1977/PyThermalCamera",
-  "stars": 321,
-  "desc": "在 Linux / 树莓派上使用 Topdon TC001 热像仪的 Python 软件（Apache-2.0）"
+  "url": "https://github.com/xboot/xfel",
+  "stars": 320,
+  "desc": "全志 SoC 的迷你 FEL 工具，支持 ARM 与 RISC-V 芯片"
  },
  {
-  "url": "https://github.com/groupgets/GetThermal",
-  "stars": 250,
-  "desc": "跨平台 USB 热像仪查看器（MIT，2025-04 推送）"
+  "url": "https://github.com/jonnor/embeddedml",
+  "stars": 315,
+  "desc": "关于嵌入式/传感器/IoT 端侧机器学习的笔记合集"
  },
  {
-  "url": "https://github.com/Linfeng-Tang/VIF-Benchmark",
-  "stars": 229,
-  "desc": "把全部基于深度学习的红外/可见光融合算法收进同一框架的基准工程（2026-06 推送）"
+  "url": "https://github.com/RyanEwen/esphome-lvgl",
+  "stars": 235,
+  "desc": "在 ESPHome 中使用 LVGL 的组件封装"
  },
  {
-  "url": "https://github.com/92es/Thermal-Camera-Redux",
-  "stars": 131,
-  "desc": "Topdon TC001（及山寨版）热像仪 App：读取并显示实时/离线热数据"
+  "url": "https://github.com/DISCOWER/px4-mpc",
+  "stars": 210,
+  "desc": "与 PX4 在 ROS 2 上集成的模型预测控制（MPC）实现"
  },
  {
-  "url": "https://github.com/paperclipai/paperclip",
-  "stars": 87214,
-  "desc": "管理「工作中的 agent」的开源应用（MIT）"
+  "url": "https://github.com/PX4/PX4-OpticalFlow",
+  "stars": 201,
+  "desc": "PX4 官方光流算法库，为位置估计器提供光流输入"
  },
  {
-  "url": "https://github.com/wshobson/agents",
-  "stars": 40003,
-  "desc": "跨多宿主（Claude Code / Codex / Cursor / OpenCode / Copilot / Antigravity 等）的 agent 插件市场（MIT）"
+  "url": "https://github.com/stephendade/Rpanion-server",
+  "stars": 189,
+  "desc": "MAVLink 载机伴飞计算机（树莓派等）的网页配置器"
  },
  {
-  "url": "https://github.com/mobile-next/mobile-mcp",
-  "stars": 7324,
-  "desc": "面向移动端自动化与抓取的 MCP 服务器（iOS/Android/模拟器/真机，Apache-2.0）"
+  "url": "https://github.com/Auterion/px4-ros2-interface-lib",
+  "stars": 185,
+  "desc": "伴飞计算机通过 ROS 2 与 PX4 通信的官方接口库"
  },
  {
-  "url": "https://github.com/SigmanticAI/apex-inference-chip",
-  "stars": 578,
-  "desc": "在 FPGA 上跑真实 LLM（Qwen2.5-0.5B）的推理芯片设计：单层 transformer decoder 的 RTL 实现（2026-08 新建）"
+  "url": "https://github.com/ArduPilot/MethodicConfigurator",
+  "stars": 161,
+  "desc": "ArduPilot 官方推荐的分步参数配置流程工具"
  },
  {
-  "url": "https://github.com/jamro/tiny-engineer",
-  "stars": 393,
-  "desc": "把 AI 编码助手「具身化」的小型桌面机器人：读文件、跑测试时会有物理动作（2026-08 新建，ESP32）"
+  "url": "https://github.com/nicho810/XIAO-PowerBread",
+  "stars": 114,
+  "desc": "开源硬件面包板供电模块，内置传感器与实时功耗监测"
+ },
+ {
+  "url": "https://github.com/zephyrproject-rtos/lvgl",
+  "stars": 87,
+  "desc": "LVGL 的 Zephyr 模块化封装"
+ },
+ {
+  "url": "https://github.com/Efinix-Inc/tinyml",
+  "stars": 87,
+  "desc": "Efinix FPGA 上的 TinyML 端到端部署流程"
+ },
+ {
+  "url": "https://github.com/Tkwer/RadarStream",
+  "stars": 69,
+  "desc": "TI MIMO 毫米波雷达 + DCA1000 的实时原始数据采集与手势识别"
+ },
+ {
+  "url": "https://github.com/gandres42/uwb-imu-fusion",
+  "stars": 41,
+  "desc": "UWB 与 IMU 的扩展卡尔曼滤波室内定位融合"
+ },
+ {
+  "url": "https://github.com/oyama/pico-neural-amp-modeler-demo",
+  "stars": 40,
+  "desc": "在 RP2350（Pico 2）上实时跑神经放大器模型 NAM A2-Lite，无驱 USB 音频"
+ },
+ {
+  "url": "https://github.com/RaemondBW/esp32-ant",
+  "stars": 39,
+  "desc": "纯 ESP32 的 ANT/ANT+ 协议实现，直接用自身 2.4GHz 射频收商用心率带，无外挂射频芯片"
+ },
+ {
+  "url": "https://github.com/su5176/Mklink-AI-Probe",
+  "stars": 38,
+  "desc": "面向 Cortex-M 的一体化嵌入式调试 CLI，把 MKLink/MicroLink 探针接到 AI Agent"
+ },
+ {
+  "url": "https://github.com/j-w9/arduconfigurator",
+  "stars": 23,
+  "desc": "浏览器优先的 ArduPilot 配置器，覆盖 FPV 装机、参数配置与固件刷写"
+ },
+ {
+  "url": "https://github.com/collabray/wisense",
+  "stars": 22,
+  "desc": "用 ESP32 的 WiFi CSI 做 Python 人体感知——存在检测、跌倒、呼吸率与活动分类，无需摄像头与云"
+ },
+ {
+  "url": "https://github.com/eric-rolph/esp32-radar-tracker",
+  "stars": 21,
+  "desc": "ESP32-S3 + HLK-LD2450 24GHz 毫米波雷达目标跟踪，带 OLED 显示与多种可视化模式"
+ },
+ {
+  "url": "https://github.com/RadarML/xwr",
+  "stars": 21,
+  "desc": "TI 毫米波雷达的实时原始数据采集工具"
+ },
+ {
+  "url": "https://github.com/jettify/uf-crsf",
+  "stars": 20,
+  "desc": "no_std Rust 的 Crossfire（CRSF）协议解析器"
+ },
+ {
+  "url": "https://github.com/Calvariaa/CH32H417_Logic_Analyzer_Mini",
+  "stars": 19,
+  "desc": "基于 CH32H417WEU6 的 16 通道 200MHz 逻辑分析仪工程，含原理图与 PCB 重画"
+ },
+ {
+  "url": "https://github.com/peburke/ELRS-Dongle",
+  "stars": 15,
+  "desc": "把 ELRS/CRSF 遥控信号转成 USB 游戏手柄的 ESP32-S3 桥接固件"
+ },
+ {
+  "url": "https://github.com/ARYA-mgc/drone-can-network",
+  "stars": 15,
+  "desc": "双机 STM32 CAN 总线实时通信与领航-跟随编队控制，含优先级消息与容错设计"
+ },
+ {
+  "url": "https://github.com/JoelFPV/GPSQR",
+  "stars": 15,
+  "desc": "EdgeTX 遥控器上的实时二维码遥测组件，支持 Betaflight/iNAV/ArduPilot"
+ },
+ {
+  "url": "https://github.com/arazinalti/waveguide-reflection-framework",
+  "stars": 15,
+  "desc": "用内部反射次数分析多模波导衰减的几何光学框架，含解析模型与蒙特卡洛仿真"
+ },
+ {
+  "url": "https://github.com/BanaanKiamanesh/QuadCopter-NN-Adapt-MPC",
+  "stars": 13,
+  "desc": "四旋翼神经网络自适应模型预测控制"
+ },
+ {
+  "url": "https://github.com/ShahzaibAbbas/ArduPilot-UAV-Lab",
+  "stars": 12,
+  "desc": "本地 React/Node 工作区，做无人机部件布局、接线校验、性能估算与 ArduPilot 参数导出"
+ },
+ {
+  "url": "https://github.com/MichalZaniewicz/esphome-esp32-s3-box-3-va",
+  "stars": 12,
+  "desc": "ESP32-S3-BOX-3 上基于 LVGL 与 GT911 触摸屏的 ESPHome 语音助手"
+ },
+ {
+  "url": "https://github.com/teresasousa585-max/elinx-fpga-vision",
+  "stars": 12,
+  "desc": "基于 eLinx FPGA 与 PyQt6 的实时图像处理、串口控制与 UDP 图传系统"
+ },
+ {
+  "url": "https://github.com/serjster/neowon",
+  "stars": 12,
+  "desc": "用 Rust + Bevy 为 OWON VDS1022 写的示波器级上位机应用"
+ },
+ {
+  "url": "https://github.com/LingZhen07/ros2-stm32-autonomous-robot",
+  "stars": 11,
+  "desc": "ROS 2 + STM32 自主移动机器人，CAN FD 底盘控制 + RPLIDAR 避障 + SLAM 导航"
+ },
+ {
+  "url": "https://github.com/TaoELi/MaxwellLink",
+  "stars": 10,
+  "desc": "电磁-分子自洽仿真框架，由 AI agent skills 驱动，Jupyter 生态"
+ },
+ {
+  "url": "https://github.com/techiesms/sleeplamp-mmwave-sleep-tracker",
+  "stars": 9,
+  "desc": "60GHz 毫米波雷达 + ESP32-S3 的非接触睡眠监测床头灯，含睡眠分期、心率呼吸与自托管看板"
+ },
+ {
+  "url": "https://github.com/lorenzozanizz/ir-synth",
+  "stars": 9,
+  "desc": "Blender 插件，程序化合成热成像与传感器模型数据集"
+ },
+ {
+  "url": "https://github.com/kousheekc/esp32_px4_mocap",
+  "stars": 9,
+  "desc": "ESP32-C6 裸机 Rust 固件，通过 MAVLink 向飞控发送动捕刚体位姿"
+ },
+ {
+  "url": "https://github.com/BushlanovDev/ble-telemetry-lite",
+  "stars": 9,
+  "desc": "通过 BLE 与 WebSocket 把 CRSF/ELRS 遥测从遥控器桥接出去的轻量方案"
+ },
+ {
+  "url": "https://github.com/bk-squared/rfx",
+  "stars": 9,
+  "desc": "基于 JAX 的三维 FDTD 电磁仿真器，可自动微分并 GPU 加速"
+ },
+ {
+  "url": "https://github.com/JohnH2448/Hyper-Fetch",
+  "stars": 9,
+  "desc": "统一的 RISC-V 预取队列与分支预测器（SystemVerilog）"
+ },
+ {
+  "url": "https://github.com/heyfinal/wifi-ghost",
+  "stars": 8,
+  "desc": "ESP32-WROOM + Python 聚合端的 WiFi CSI 穿墙人体存在检测，含动作与呼吸感知"
+ },
+ {
+  "url": "https://github.com/HaiyanggJiang/PhyFusion",
+  "stars": 8,
+  "desc": "物理先验驱动的红外-可见光图像融合 PyTorch 官方实现"
+ },
+ {
+  "url": "https://github.com/Zhuyicheng-HIT/multi-slam-simulation",
+  "stars": 8,
+  "desc": "ROS 2 Humble + Gazebo Harmonic + ArduPilot 多传感器无人机仿真（D435i/MID360/光流/FAST-LIO）"
  }
 ]

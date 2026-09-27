@@ -942,3 +942,66 @@
 {"url": "https://github.com/wshobson/agents", "stars": 40003, "desc": "跨多宿主（Claude Code / Codex / Cursor / OpenCode / Copilot / Antigravity 等）的 agent 插件市场（MIT）", "date": "2026-09-27"}
 {"url": "https://github.com/mobile-next/mobile-mcp", "stars": 7324, "desc": "面向移动端自动化与抓取的 MCP 服务器（iOS/Android/模拟器/真机，Apache-2.0）", "date": "2026-09-27"}
 {"url": "https://github.com/jamro/tiny-engineer", "stars": 393, "desc": "把 AI 编码助手「具身化」的小型桌面机器人：读文件、跑测试时会有物理动作（2026-08 新建，ESP32）", "date": "2026-09-27"}
+{"url": "https://github.com/ZSWatch/ZSWatch", "stars": 3373, "desc": "基于 Zephyr 的开源智能手表，含硬件与固件全套", "date": "2026-09-28"}
+{"url": "https://github.com/ucb-bar/chipyard", "stars": 2402, "desc": "UC Berkeley 的敏捷 RISC-V SoC 设计框架，含顺序/乱序核与加速器集成", "date": "2026-09-28"}
+{"url": "https://github.com/stnolting/neorv32", "stars": 2280, "desc": "用可移植 VHDL 写的 MCU 级 32 位 RISC-V 软核 SoC，可定制可扩展", "date": "2026-09-28"}
+{"url": "https://github.com/riscv-mcu/e203_hbirdv2", "stars": 1926, "desc": "超低功耗 RISC-V 内核（蜂鸟 E203）", "date": "2026-09-28"}
+{"url": "https://github.com/OSCPU/NutShell", "stars": 1557, "desc": "国科大（UCAS）学生设计的 RISC-V SoC", "date": "2026-09-28"}
+{"url": "https://github.com/raspberrypi/debugprobe", "stars": 1253, "desc": "基于 RP2040 的官方调试探针固件（SWD/JTAG）", "date": "2026-09-28"}
+{"url": "https://github.com/splinedrive/kianRiscV", "stars": 1119, "desc": "能跑 xv6/Linux 的 RISC-V SoC（Verilog）", "date": "2026-09-28"}
+{"url": "https://github.com/eugene-tarassov/vivado-risc-v", "stars": 1098, "desc": "Xilinx Vivado 的 FPGA RISC-V SoC 参考设计，可跑 Debian Linux", "date": "2026-09-28"}
+{"url": "https://github.com/mvschwarz/openrig", "stars": 932, "desc": "把 Claude Code 与 Codex 作为同一系统运行的多 agent 编排 harness（TypeScript，Trending 总榜当日 +114★）", "date": "2026-09-28"}
+{"url": "https://github.com/gprMax/gprMax", "stars": 885, "desc": "开源 FDTD 电磁波传播仿真软件，面向探地雷达与真实材料色散建模，Python 实现", "date": "2026-09-28"}
+{"url": "https://github.com/sergeykhbr/riscv_vhdl", "stars": 697, "desc": "可移植的 RISC-V SoC 实现，含 RTL、调试器与仿真器", "date": "2026-09-28"}
+{"url": "https://github.com/easyw/kicadStepUpMod", "stars": 689, "desc": "KiCad 到 FreeCAD 的 ECAD-MCAD 协同工作台", "date": "2026-09-28"}
+{"url": "https://github.com/CDFER/JLCPCB-Kicad-Library", "stars": 584, "desc": "嘉立创 SMT 基础元件的 KiCad 符号、封装与 3D 模型库", "date": "2026-09-28"}
+{"url": "https://github.com/fbiego/esp32-c3-mini", "stars": 539, "desc": "ESP32-C3-Mini（ESP32-2424S012）板子的 LVGL 界面工程", "date": "2026-09-28"}
+{"url": "https://github.com/Seeed-Studio/ModelAssistant", "stars": 446, "desc": "Seeed 的 SenseCraft Model Assistant，面向嵌入式 AI 的开源训练与部署工具链", "date": "2026-09-28"}
+{"url": "https://github.com/alaltitov/Guition-ESP32-S3-4848S040", "stars": 434, "desc": "Guition ESP32-S3-4848S040 触摸屏的 LVGL 固件", "date": "2026-09-28"}
+{"url": "https://github.com/agillis/esphome-modular-lvgl-buttons", "stars": 417, "desc": "ESPHome 的模块化 LVGL 按钮平台", "date": "2026-09-28"}
+{"url": "https://github.com/fastvideo/gpu-camera-sample", "stars": 378, "desc": "Windows/Linux/ARM 上的 GPU 实时机器视觉图像处理样例，附性能与 glass-to-glass 延迟基准", "date": "2026-09-28"}
+{"url": "https://github.com/pulp-platform/cheshire", "stars": 371, "desc": "围绕 CVA6 的极简 64 位 Linux-capable RISC-V SoC", "date": "2026-09-28"}
+{"url": "https://github.com/lvgl/lv_binding_micropython", "stars": 354, "desc": "LVGL 的 MicroPython 绑定", "date": "2026-09-28"}
+{"url": "https://github.com/cpldcpu/BitNetMCU", "stars": 344, "desc": "在 CH32V003 等低端 32 位 MCU 上跑低位宽权重神经网络", "date": "2026-09-28"}
+{"url": "https://github.com/xboot/xfel", "stars": 320, "desc": "全志 SoC 的迷你 FEL 工具，支持 ARM 与 RISC-V 芯片", "date": "2026-09-28"}
+{"url": "https://github.com/jonnor/embeddedml", "stars": 315, "desc": "关于嵌入式/传感器/IoT 端侧机器学习的笔记合集", "date": "2026-09-28"}
+{"url": "https://github.com/RyanEwen/esphome-lvgl", "stars": 235, "desc": "在 ESPHome 中使用 LVGL 的组件封装", "date": "2026-09-28"}
+{"url": "https://github.com/DISCOWER/px4-mpc", "stars": 210, "desc": "与 PX4 在 ROS 2 上集成的模型预测控制（MPC）实现", "date": "2026-09-28"}
+{"url": "https://github.com/PX4/PX4-OpticalFlow", "stars": 201, "desc": "PX4 官方光流算法库，为位置估计器提供光流输入", "date": "2026-09-28"}
+{"url": "https://github.com/stephendade/Rpanion-server", "stars": 189, "desc": "MAVLink 载机伴飞计算机（树莓派等）的网页配置器", "date": "2026-09-28"}
+{"url": "https://github.com/Auterion/px4-ros2-interface-lib", "stars": 185, "desc": "伴飞计算机通过 ROS 2 与 PX4 通信的官方接口库", "date": "2026-09-28"}
+{"url": "https://github.com/ArduPilot/MethodicConfigurator", "stars": 161, "desc": "ArduPilot 官方推荐的分步参数配置流程工具", "date": "2026-09-28"}
+{"url": "https://github.com/nicho810/XIAO-PowerBread", "stars": 114, "desc": "开源硬件面包板供电模块，内置传感器与实时功耗监测", "date": "2026-09-28"}
+{"url": "https://github.com/zephyrproject-rtos/lvgl", "stars": 87, "desc": "LVGL 的 Zephyr 模块化封装", "date": "2026-09-28"}
+{"url": "https://github.com/Efinix-Inc/tinyml", "stars": 87, "desc": "Efinix FPGA 上的 TinyML 端到端部署流程", "date": "2026-09-28"}
+{"url": "https://github.com/Tkwer/RadarStream", "stars": 69, "desc": "TI MIMO 毫米波雷达 + DCA1000 的实时原始数据采集与手势识别", "date": "2026-09-28"}
+{"url": "https://github.com/gandres42/uwb-imu-fusion", "stars": 41, "desc": "UWB 与 IMU 的扩展卡尔曼滤波室内定位融合", "date": "2026-09-28"}
+{"url": "https://github.com/oyama/pico-neural-amp-modeler-demo", "stars": 40, "desc": "在 RP2350（Pico 2）上实时跑神经放大器模型 NAM A2-Lite，无驱 USB 音频", "date": "2026-09-28"}
+{"url": "https://github.com/RaemondBW/esp32-ant", "stars": 39, "desc": "纯 ESP32 的 ANT/ANT+ 协议实现，直接用自身 2.4GHz 射频收商用心率带，无外挂射频芯片", "date": "2026-09-28"}
+{"url": "https://github.com/su5176/Mklink-AI-Probe", "stars": 38, "desc": "面向 Cortex-M 的一体化嵌入式调试 CLI，把 MKLink/MicroLink 探针接到 AI Agent", "date": "2026-09-28"}
+{"url": "https://github.com/j-w9/arduconfigurator", "stars": 23, "desc": "浏览器优先的 ArduPilot 配置器，覆盖 FPV 装机、参数配置与固件刷写", "date": "2026-09-28"}
+{"url": "https://github.com/collabray/wisense", "stars": 22, "desc": "用 ESP32 的 WiFi CSI 做 Python 人体感知——存在检测、跌倒、呼吸率与活动分类，无需摄像头与云", "date": "2026-09-28"}
+{"url": "https://github.com/eric-rolph/esp32-radar-tracker", "stars": 21, "desc": "ESP32-S3 + HLK-LD2450 24GHz 毫米波雷达目标跟踪，带 OLED 显示与多种可视化模式", "date": "2026-09-28"}
+{"url": "https://github.com/RadarML/xwr", "stars": 21, "desc": "TI 毫米波雷达的实时原始数据采集工具", "date": "2026-09-28"}
+{"url": "https://github.com/jettify/uf-crsf", "stars": 20, "desc": "no_std Rust 的 Crossfire（CRSF）协议解析器", "date": "2026-09-28"}
+{"url": "https://github.com/Calvariaa/CH32H417_Logic_Analyzer_Mini", "stars": 19, "desc": "基于 CH32H417WEU6 的 16 通道 200MHz 逻辑分析仪工程，含原理图与 PCB 重画", "date": "2026-09-28"}
+{"url": "https://github.com/peburke/ELRS-Dongle", "stars": 15, "desc": "把 ELRS/CRSF 遥控信号转成 USB 游戏手柄的 ESP32-S3 桥接固件", "date": "2026-09-28"}
+{"url": "https://github.com/ARYA-mgc/drone-can-network", "stars": 15, "desc": "双机 STM32 CAN 总线实时通信与领航-跟随编队控制，含优先级消息与容错设计", "date": "2026-09-28"}
+{"url": "https://github.com/JoelFPV/GPSQR", "stars": 15, "desc": "EdgeTX 遥控器上的实时二维码遥测组件，支持 Betaflight/iNAV/ArduPilot", "date": "2026-09-28"}
+{"url": "https://github.com/arazinalti/waveguide-reflection-framework", "stars": 15, "desc": "用内部反射次数分析多模波导衰减的几何光学框架，含解析模型与蒙特卡洛仿真", "date": "2026-09-28"}
+{"url": "https://github.com/BanaanKiamanesh/QuadCopter-NN-Adapt-MPC", "stars": 13, "desc": "四旋翼神经网络自适应模型预测控制", "date": "2026-09-28"}
+{"url": "https://github.com/ShahzaibAbbas/ArduPilot-UAV-Lab", "stars": 12, "desc": "本地 React/Node 工作区，做无人机部件布局、接线校验、性能估算与 ArduPilot 参数导出", "date": "2026-09-28"}
+{"url": "https://github.com/MichalZaniewicz/esphome-esp32-s3-box-3-va", "stars": 12, "desc": "ESP32-S3-BOX-3 上基于 LVGL 与 GT911 触摸屏的 ESPHome 语音助手", "date": "2026-09-28"}
+{"url": "https://github.com/teresasousa585-max/elinx-fpga-vision", "stars": 12, "desc": "基于 eLinx FPGA 与 PyQt6 的实时图像处理、串口控制与 UDP 图传系统", "date": "2026-09-28"}
+{"url": "https://github.com/serjster/neowon", "stars": 12, "desc": "用 Rust + Bevy 为 OWON VDS1022 写的示波器级上位机应用", "date": "2026-09-28"}
+{"url": "https://github.com/LingZhen07/ros2-stm32-autonomous-robot", "stars": 11, "desc": "ROS 2 + STM32 自主移动机器人，CAN FD 底盘控制 + RPLIDAR 避障 + SLAM 导航", "date": "2026-09-28"}
+{"url": "https://github.com/TaoELi/MaxwellLink", "stars": 10, "desc": "电磁-分子自洽仿真框架，由 AI agent skills 驱动，Jupyter 生态", "date": "2026-09-28"}
+{"url": "https://github.com/techiesms/sleeplamp-mmwave-sleep-tracker", "stars": 9, "desc": "60GHz 毫米波雷达 + ESP32-S3 的非接触睡眠监测床头灯，含睡眠分期、心率呼吸与自托管看板", "date": "2026-09-28"}
+{"url": "https://github.com/lorenzozanizz/ir-synth", "stars": 9, "desc": "Blender 插件，程序化合成热成像与传感器模型数据集", "date": "2026-09-28"}
+{"url": "https://github.com/kousheekc/esp32_px4_mocap", "stars": 9, "desc": "ESP32-C6 裸机 Rust 固件，通过 MAVLink 向飞控发送动捕刚体位姿", "date": "2026-09-28"}
+{"url": "https://github.com/BushlanovDev/ble-telemetry-lite", "stars": 9, "desc": "通过 BLE 与 WebSocket 把 CRSF/ELRS 遥测从遥控器桥接出去的轻量方案", "date": "2026-09-28"}
+{"url": "https://github.com/bk-squared/rfx", "stars": 9, "desc": "基于 JAX 的三维 FDTD 电磁仿真器，可自动微分并 GPU 加速", "date": "2026-09-28"}
+{"url": "https://github.com/JohnH2448/Hyper-Fetch", "stars": 9, "desc": "统一的 RISC-V 预取队列与分支预测器（SystemVerilog）", "date": "2026-09-28"}
+{"url": "https://github.com/heyfinal/wifi-ghost", "stars": 8, "desc": "ESP32-WROOM + Python 聚合端的 WiFi CSI 穿墙人体存在检测，含动作与呼吸感知", "date": "2026-09-28"}
+{"url": "https://github.com/HaiyanggJiang/PhyFusion", "stars": 8, "desc": "物理先验驱动的红外-可见光图像融合 PyTorch 官方实现", "date": "2026-09-28"}
+{"url": "https://github.com/Zhuyicheng-HIT/multi-slam-simulation", "stars": 8, "desc": "ROS 2 Humble + Gazebo Harmonic + ArduPilot 多传感器无人机仿真（D435i/MID360/光流/FAST-LIO）", "date": "2026-09-28"}
