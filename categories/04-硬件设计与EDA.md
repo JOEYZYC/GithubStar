@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 137 个项目 · 数据更新时间 2026-09-28 · [返回总览](../README.md)
+> 共 143 个项目 · 数据更新时间 2026-09-28 · [返回总览](../README.md)
 
 ---
 
@@ -199,6 +199,14 @@ VTR：Verilog 到布线的开源 FPGA CAD 全流程（综合/布局/布线/时�
 
 ---
 
+#### [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe)
+`★1,253 · ⭐🔥 已 star + 热点推荐`
+基于 RP2040 的官方调试探针固件（SWD/JTAG）
+> 热点推荐于 2026-09-28
+> 收录日期：2026-09-28
+
+---
+
 #### [aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)
 `★1,247 · Python · ⭐🔥 已 star + 热点推荐`
 AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication.
@@ -304,8 +312,9 @@ SparkFun 官方 KiCad 符号与封装库
 ---
 
 #### [easyw/kicadStepUpMod](https://github.com/easyw/kicadStepUpMod)
-`★689 · 🔥 热点推荐`
+`★689 · ⭐🔥 已 star + 热点推荐`
 KiCad 到 FreeCAD 的 ECAD-MCAD 协同工作台
+> 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
 
 ---
@@ -335,8 +344,9 @@ KiCad 插件与资源精选清单
 ---
 
 #### [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library)
-`★584 · 🔥 热点推荐`
+`★584 · ⭐🔥 已 star + 热点推荐`
 嘉立创 SMT 基础元件的 KiCad 符号、封装与 3D 模型库
+> 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
 
 ---
@@ -690,6 +700,14 @@ KiCad 9+ 的 MCP 服务器：原理图分析、引脚级网表追踪、无头 ER
 
 ---
 
+#### [92es/Thermal-Camera-Redux](https://github.com/92es/Thermal-Camera-Redux)
+`★131 · ⭐🔥 已 star + 热点推荐`
+Topdon TC001（及山寨版）热像仪 App：读取并显示实时/离线热数据
+> 热点推荐于 2026-09-27
+> 收录日期：2026-09-27
+
+---
+
 #### [jcyrax/pcbmodelgen](https://github.com/jcyrax/pcbmodelgen)
 `★123 · ⭐🔥 已 star + 热点推荐`
 把 KiCad PCB 文件转成可导入 openEMS 的模型
@@ -1001,8 +1019,9 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 ---
 
 #### [Calvariaa/CH32H417_Logic_Analyzer_Mini](https://github.com/Calvariaa/CH32H417_Logic_Analyzer_Mini)
-`★19 · 🔥 热点推荐`
+`★19 · ⭐🔥 已 star + 热点推荐`
 基于 CH32H417WEU6 的 16 通道 200MHz 逻辑分析仪工程，含原理图与 PCB 重画
+> 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
 
 ---
@@ -1020,6 +1039,14 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 覆盖完整 PCB 设计流程的开源工具清单（含 AI 辅助 EDA）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [OneB1ank/pcileech-as02-3p](https://github.com/OneB1ank/pcileech-as02-3p)
+`★15 · ⭐🔥 已 star + 热点推荐`
+AS02MC04（XCKU3P）FPGA 的 PCILeech 兼容移植，SFP1 上跑 25G RawUDP 传输（2026-09 新建，SystemVerilog）
+> 热点推荐于 2026-09-27
+> 收录日期：2026-09-27
 
 ---
 
@@ -1063,6 +1090,22 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 
 ---
 
+#### [dpks2003/pio-ftdi](https://github.com/dpks2003/pio-ftdi)
+`★13 · ⭐🔥 已 star + 热点推荐`
+用 RP2040/RP2350 的 PIO 把芯片变成 FTDI FT232H JTAG 适配器（2026-08 新建，GPL-2.0）
+> 热点推荐于 2026-09-27
+> 收录日期：2026-09-27
+
+---
+
+#### [serjster/neowon](https://github.com/serjster/neowon)
+`★12 · ⭐🔥 已 star + 热点推荐`
+用 Rust + Bevy 为 OWON VDS1022 写的示波器级上位机应用
+> 热点推荐于 2026-09-28
+> 收录日期：2026-09-28
+
+---
+
 #### [ckflight/RF_SIGNAL_GENERATOR_HARDWARE](https://github.com/ckflight/RF_SIGNAL_GENERATOR_HARDWARE)
 `★11 · ⭐🔥 已 star + 热点推荐`
 MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放
@@ -1076,6 +1119,14 @@ MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤�
 KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2026-08 新建）
 > 热点推荐于 2026-09-27
 > 收录日期：2026-09-27
+
+---
+
+#### [lorenzozanizz/ir-synth](https://github.com/lorenzozanizz/ir-synth)
+`★9 · ⭐🔥 已 star + 热点推荐`
+Blender 插件，程序化合成热成像与传感器模型数据集
+> 热点推荐于 2026-09-28
+> 收录日期：2026-09-28
 
 ---
 

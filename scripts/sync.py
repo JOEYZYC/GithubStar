@@ -87,6 +87,33 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-28：待归类清零 + 规则误判校正（19 条待归类含 09-27 遗留 10 条） ----
+    # 电磁仿真与超表面
+    "wsshin/maxwellfdfd": "电磁仿真与超表面",            # MATLAB FDFD 麦克斯韦求解器
+    "GKIAN/LAC-GRTM": "电磁仿真与超表面",                 # 分层介质广义反射/透射系数法
+    "sergeykhbr/riscv_vhdl": "嵌入式与单片机",            # RTL 含 simulation 关键词被电磁规则误吃，实为 RISC-V SoC
+    # 飞控与无人机
+    "stephendade/Rpanion-server": "飞控与无人机",         # MAVLink 载机伴飞计算机网页配置器
+    "BanaanKiamanesh/QuadCopter-NN-Adapt-MPC": "飞控与无人机",
+    # 嵌入式与单片机
+    "nicho810/XIAO-PowerBread": "嵌入式与单片机",         # Seeed XIAO 生态开源硬件
+    "engneer-hamachan/area512": "嵌入式与单片机",         # M5Stack Cardputer 自包含开发环境
+    "oyama/pico-neural-amp-modeler-demo": "嵌入式与单片机",  # RP2350 实时 TinyML 音频
+    "jettify/uf-crsf": "嵌入式与单片机",                  # no_std Rust CRSF 协议库（同 CRSFforArduino 口径）
+    # 硬件设计与 EDA
+    "raspberrypi/debugprobe": "硬件设计与 EDA",           # RP2040 SWD/JTAG 调试探针固件
+    "92es/Thermal-Camera-Redux": "硬件设计与 EDA",        # 热像仪取数 App（同 PyThermalCamera 口径）
+    "OneB1ank/pcileech-as02-3p": "硬件设计与 EDA",        # FPGA 移植工程
+    "dpks2003/pio-ftdi": "硬件设计与 EDA",                # RP2040 PIO 实现的 JTAG 适配器
+    "serjster/neowon": "硬件设计与 EDA",                  # 示波器上位机（仪器工具）
+    "lorenzozanizz/ir-synth": "硬件设计与 EDA",           # 热像数据合成插件（采集侧工具）
+    # AI 模型与视觉
+    "RollingPlain/IVIF_ZOO": "AI 模型与视觉",             # 红外-可见光融合算法集合
+    "Linfeng-Tang/VIF-Benchmark": "AI 模型与视觉",        # 融合算法基准
+    "hanfeny7/world-pose-fall-intelligence": "AI 模型与视觉",  # 视觉跌倒检测（同 falldetection 口径）
+    "HaiyanggJiang/PhyFusion": "AI 模型与视觉",           # 红外-可见光融合网络
+    # 开发工具与系统资源
+    "qingjian-team/qingjian": "开发工具与系统资源",        # Rust 桌面拼音输入法
     # ---- 2026-09-26：本轮 48 条逐条显式归类（免规则串味；飞控/GNSS/仪器/agent-skill 四类最易误判） ----
     # 飞控与无人机
     "sergiovirahonda/cortex": "飞控与无人机",                       # 自研飞控固件（ESP32-S3 + DShot/ELRS）
