@@ -1005,3 +1005,32 @@
 {"url": "https://github.com/heyfinal/wifi-ghost", "stars": 8, "desc": "ESP32-WROOM + Python 聚合端的 WiFi CSI 穿墙人体存在检测，含动作与呼吸感知", "date": "2026-09-28"}
 {"url": "https://github.com/HaiyanggJiang/PhyFusion", "stars": 8, "desc": "物理先验驱动的红外-可见光图像融合 PyTorch 官方实现", "date": "2026-09-28"}
 {"url": "https://github.com/Zhuyicheng-HIT/multi-slam-simulation", "stars": 8, "desc": "ROS 2 Humble + Gazebo Harmonic + ArduPilot 多传感器无人机仿真（D435i/MID360/光流/FAST-LIO）", "date": "2026-09-28"}
+{"url": "https://github.com/ruvnet/RuView", "stars": 95302, "desc": "用商用 WiFi 信号做实时姿态估计 DensePose、呼吸心率监测与穿墙存在检测，原生对接 Home Assistant / Apple Home / Google Home / Alexa（Rust，MIT）", "date": "2026-09-29"}
+{"url": "https://github.com/DarkFlippers/unleashed-firmware", "stars": 22384, "desc": "Flipper Zero 社区 Unleashed 固件（C，GPL-3.0）", "date": "2026-09-29"}
+{"url": "https://github.com/microsoft/SkillOpt", "stars": 17800, "desc": "像训练神经网络一样训练 agent 技能：epoch、学习率与验证门控，产出可部署的 best_skill.md（Python，MIT）", "date": "2026-09-29"}
+{"url": "https://github.com/esphome/esphome", "stars": 11745, "desc": "用声明式配置控制 ESP32 / ESP8266 / BK72xx / RP2040 并接入 Home Assistant 的开源固件平台（C++）", "date": "2026-09-29"}
+{"url": "https://github.com/pacifio/atlas", "stars": 8205, "desc": "面向 coding agent 的源码控制：多 agent 改动集中追踪与查询，把 MCP 与 skills 纳入版本管理（Rust，Apache-2.0）", "date": "2026-09-29"}
+{"url": "https://github.com/SAMS0N1TE/LakeShark", "stars": 125, "desc": "基于 LilyGo T-Display P4 的掌上 SDR 扫描器：RTL-SDR 频谱、P25 Phase 1、ADS-B、POCSAG，兼 LoRa/MeshCore（GPL-3.0）", "date": "2026-09-29"}
+{"url": "https://github.com/FAIRY123456789/human-edge-agent-skills", "stars": 90, "desc": "18 个可移植 Agent Skills 集合，覆盖语音原生 AI、人类判断与安全部署（Python，MIT）", "date": "2026-09-29"}
+{"url": "https://github.com/tarikbc/hotspot-arcade", "stars": 84, "desc": "Flipper Zero 加 ESP32 无线板托管的离线多人派对游戏，手机浏览器直接加入，无需联网", "date": "2026-09-29"}
+{"url": "https://github.com/Behzade/farcaster", "stars": 64, "desc": "键盘优先的跨 harness 编码 agent 原生工作区，内嵌终端并支持 neovim / codex-cli / cursor / opencode（Rust 加 gpui，GPL-3.0）", "date": "2026-09-29"}
+{"url": "https://github.com/Luky-hui/bobac-air-ground-delivery", "stars": 45, "desc": "基于 ROS 2 与 NVIDIA Isaac Sim 的空地协同配送系统，含机械臂抓取与无人机视觉对准（Python）", "date": "2026-09-29"}
+{"url": "https://github.com/APUS-AI-Lab/PhoneBuddySDK", "stars": 35, "desc": "可嵌入 iOS 与 Android 的轻量 LLM Agent 引擎（纯 Rust，含 C FFI 与 Swift/Kotlin 绑定，Apache-2.0）", "date": "2026-09-29"}
+{"url": "https://github.com/Nekoluna-dot/NekolunaRIDScanner", "stars": 23, "desc": "ESP32-C5 无人机 Remote ID 扫描器：扫 Wi-Fi Beacon 帧显示位置与飞手信息，兼容新旧国标与美标，配 Android 查看器", "date": "2026-09-29"}
+{"url": "https://github.com/0day1day/Slave_I", "stars": 21, "desc": "M5Stack Tab5（ESP32-P4 加 C6）上的浏览器可刷写无线侦察固件，LVGL 界面（授权范围内审计用途）", "date": "2026-09-29"}
+{"url": "https://github.com/LOCOSP/WDGWMarauderV8", "stars": 19, "desc": "Marauder V8（ESP32-C5）Wardriving 固件，支持 5 节点 Seeed XIAO ESP32-C5 集群与 WigleWifi-1.6 记录", "date": "2026-09-29"}
+{"url": "https://github.com/whitewhidow/bboink", "stars": 19, "desc": "ESP32 系（T-Embed CC1101 / T-Display C5 / 微雪 C5-LCD）无线握手抓取固件，含 BLE 控制台与浏览器刷写", "date": "2026-09-29"}
+{"url": "https://github.com/riktw/RP2350B_BellsNWhistles", "stars": 18, "desc": "基于 RP2350B 的自制板卡，板载调试器、HDMI 与 microSD（MIT）", "date": "2026-09-29"}
+{"url": "https://github.com/AidenShaw2020/frank-386-waveshare-pi-zero", "stars": 17, "desc": "把 Tiny386（x86 模拟器）移植到 RP2350 与 Waveshare Pi Zero 形态（C）", "date": "2026-09-29"}
+{"url": "https://github.com/rossops/Arcade-SegaXBoard_MiSTer", "stars": 17, "desc": "MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-3.0）", "date": "2026-09-29"}
+{"url": "https://github.com/panyihang/USB-DRM-udisp-driver", "stars": 17, "desc": "ESP32-P4 USB 显示设备的 Linux DRM 图形驱动（C）", "date": "2026-09-29"}
+{"url": "https://github.com/SDU-UAS-Center/lyrebird", "stars": 13, "desc": "让 DJI 无人机以 MAVLink 2 对外（行为对标 PX4），可用 QGroundControl 与 MAVSDK 直接飞，附 HTTP 与 ROS 2 与实时视频面板（BUSL-1.1，非 OSI 开源）", "date": "2026-09-29"}
+{"url": "https://github.com/anticitizn/p4eregrine", "stars": 12, "desc": "40×40mm 一体化无人机飞控与电调与视频板：ESP32-P4 加 C5、MIPI-CSI、PMW3901 光流、STM32G071 加 DRV8328 跑 AM32", "date": "2026-09-29"}
+{"url": "https://github.com/javi-ivaj/cps3-fpga", "stars": 12, "desc": "MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）", "date": "2026-09-29"}
+{"url": "https://github.com/FusedStamen/PACKET_HOG", "stars": 10, "desc": "10 节点 ESP32-C5 Wardriving 载板", "date": "2026-09-29"}
+{"url": "https://github.com/cytstudiooo/stm32g431_smashProject", "stars": 9, "desc": "STM32G431 上的无帧缓冲 LCD UI 框架加点阵动画：320×172 ST7789 经 SPI 加 DMA 约 40fps（GPL-3.0）", "date": "2026-09-29"}
+{"url": "https://github.com/UKTailwind/PicoMite", "stars": 9, "desc": "PicoMite / WebMite / VGA / HDMI 的 MMBasic 固件（RP2040 与 RP2350）重构源码树", "date": "2026-09-29"}
+{"url": "https://github.com/ostenjap/LLM-Agent-generated-Quadcopter-Prop", "stars": 9, "desc": "本地 LLM 多智能体做四旋翼螺旋桨参数化设计与 CFD 优化（Ollama 加 CadQuery 加 OpenFOAM，零 API 成本，MIT）", "date": "2026-09-29"}
+{"url": "https://github.com/cholan2100/rf-agent", "stars": 8, "desc": "容器化 RF/微波设计平台（KiCad 10 加 openEMS 加 Qucs-S 加 FreeCAD 加 ngspice），以 AGENTS.md 与 SKILLS.md 驱动 9 阶段设计协议", "date": "2026-09-29"}
+{"url": "https://github.com/gregfurman/micropython-go", "stars": 8, "desc": "用 wasm2go 生成的可嵌入 Go 的 MicroPython 绑定（no-cgo，Apache-2.0）", "date": "2026-09-29"}
+{"url": "https://github.com/waveshareteam/ESP32-C5-Touch-LCD-2.8", "stars": 8, "desc": "微雪科技官方 ESP32-C5 加 2.8 寸触摸 LCD 板级仓库（Apache-2.0）", "date": "2026-09-29"}

@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 143 个项目 · 数据更新时间 2026-09-28 · [返回总览](../README.md)
+> 共 145 个项目 · 数据更新时间 2026-09-29 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,792 · C++ · ⭐ 已 star`
+`★33,820 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,428 · Python · ⭐ 已 star`
+`★16,461 · Python · ⭐ 已 star`
 A library of agent skills for CAD, CAE and CAM
 > 收录日期：2026-09-13
 
@@ -115,7 +115,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,920 · C++ · ⭐ 已 star`
+`★2,924 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -130,14 +130,14 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,513 · Python · ⭐ 已 star`
+`★2,532 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,307 · Rust · ⭐ 已 star`
+`★2,323 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -352,7 +352,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★562 · C · ⭐ 已 star`
+`★563 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -1034,6 +1034,13 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 
 ---
 
+#### [rossops/Arcade-SegaXBoard_MiSTer](https://github.com/rossops/Arcade-SegaXBoard_MiSTer)
+`★17 · 🔥 热点推荐`
+MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-3.0）
+> 收录日期：2026-09-29
+
+---
+
 #### [piyushbag/awesome-pcb-workflow](https://github.com/piyushbag/awesome-pcb-workflow)
 `★15 · ⭐🔥 已 star + 热点推荐`
 覆盖完整 PCB 设计流程的开源工具清单（含 AI 辅助 EDA）
@@ -1127,6 +1134,13 @@ KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2
 Blender 插件，程序化合成热成像与传感器模型数据集
 > 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
+
+---
+
+#### [ostenjap/LLM-Agent-generated-Quadcopter-Prop](https://github.com/ostenjap/LLM-Agent-generated-Quadcopter-Prop)
+`★9 · 🔥 热点推荐`
+本地 LLM 多智能体做四旋翼螺旋桨参数化设计与 CFD 优化（Ollama 加 CadQuery 加 OpenFOAM，零 API 成本，MIT）
+> 收录日期：2026-09-29
 
 ---
 
