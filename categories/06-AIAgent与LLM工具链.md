@@ -5,7 +5,7 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★390,729 · TypeScript · ⭐ 已 star`
+`★390,730 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -27,7 +27,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★268,959 · JavaScript · ⭐ 已 star`
+`★268,960 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -55,7 +55,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 ---
 
 #### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-`★147,529 · JavaScript · ⭐ 已 star`
+`★147,530 · JavaScript · ⭐ 已 star`
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 > 收录日期：2026-09-13
 
@@ -70,14 +70,14 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★139,278 · Python · ⭐ 已 star`
+`★139,279 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★131,261 · Python · ⭐ 已 star`
+`★131,262 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -114,14 +114,14 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-`★84,329 · Python · ⭐ 已 star`
+`★84,330 · Python · ⭐ 已 star`
 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 > 收录日期：2026-09-13
 
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★80,668 · TypeScript · ⭐ 已 star`
+`★80,671 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -136,7 +136,7 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★72,115 · JavaScript · ⭐ 已 star`
+`★72,116 · JavaScript · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
@@ -390,8 +390,9 @@ Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成
 ---
 
 #### [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)
-`★17,800 · 🔥 热点推荐`
+`★17,800 · ⭐🔥 已 star + 热点推荐`
 像训练神经网络一样训练 agent 技能：epoch、学习率与验证门控，产出可部署的 best_skill.md（Python，MIT）
+> 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
 
 ---
@@ -486,8 +487,9 @@ Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate t
 ---
 
 #### [pacifio/atlas](https://github.com/pacifio/atlas)
-`★8,205 · 🔥 热点推荐`
+`★8,205 · ⭐🔥 已 star + 热点推荐`
 面向 coding agent 的源码控制：多 agent 改动集中追踪与查询，把 MCP 与 skills 纳入版本管理（Rust，Apache-2.0）
+> 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
 
 ---
@@ -780,8 +782,9 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 ---
 
 #### [FAIRY123456789/human-edge-agent-skills](https://github.com/FAIRY123456789/human-edge-agent-skills)
-`★90 · 🔥 热点推荐`
+`★90 · ⭐🔥 已 star + 热点推荐`
 18 个可移植 Agent Skills 集合，覆盖语音原生 AI、人类判断与安全部署（Python，MIT）
+> 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
 
 ---
@@ -811,8 +814,9 @@ Zephyr RTOS 的 agent 技能注册表：按 Kconfig 模式与 devicetree compati
 ---
 
 #### [Behzade/farcaster](https://github.com/Behzade/farcaster)
-`★64 · 🔥 热点推荐`
+`★64 · ⭐🔥 已 star + 热点推荐`
 键盘优先的跨 harness 编码 agent 原生工作区，内嵌终端并支持 neovim / codex-cli / cursor / opencode（Rust 加 gpui，GPL-3.0）
+> 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
 
 ---
@@ -842,8 +846,9 @@ STM32 调试技能包：OpenOCD 烧录 + 不停机监控变量/寄存器/位域 
 ---
 
 #### [APUS-AI-Lab/PhoneBuddySDK](https://github.com/APUS-AI-Lab/PhoneBuddySDK)
-`★35 · 🔥 热点推荐`
+`★35 · ⭐🔥 已 star + 热点推荐`
 可嵌入 iOS 与 Android 的轻量 LLM Agent 引擎（纯 Rust，含 C FFI 与 Swift/Kotlin 绑定，Apache-2.0）
+> 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
 
 ---

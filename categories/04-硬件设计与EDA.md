@@ -1035,8 +1035,9 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 ---
 
 #### [rossops/Arcade-SegaXBoard_MiSTer](https://github.com/rossops/Arcade-SegaXBoard_MiSTer)
-`★17 · 🔥 热点推荐`
+`★17 · ⭐🔥 已 star + 热点推荐`
 MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-3.0）
+> 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
 
 ---
@@ -1113,6 +1114,14 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 
 ---
 
+#### [javi-ivaj/cps3-fpga](https://github.com/javi-ivaj/cps3-fpga)
+`★12 · ⭐🔥 已 star + 热点推荐`
+MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）
+> 热点推荐于 2026-09-29
+> 收录日期：2026-09-29
+
+---
+
 #### [ckflight/RF_SIGNAL_GENERATOR_HARDWARE](https://github.com/ckflight/RF_SIGNAL_GENERATOR_HARDWARE)
 `★11 · ⭐🔥 已 star + 热点推荐`
 MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放
@@ -1134,13 +1143,6 @@ KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2
 Blender 插件，程序化合成热成像与传感器模型数据集
 > 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
-
----
-
-#### [ostenjap/LLM-Agent-generated-Quadcopter-Prop](https://github.com/ostenjap/LLM-Agent-generated-Quadcopter-Prop)
-`★9 · 🔥 热点推荐`
-本地 LLM 多智能体做四旋翼螺旋桨参数化设计与 CFD 优化（Ollama 加 CadQuery 加 OpenFOAM，零 API 成本，MIT）
-> 收录日期：2026-09-29
 
 ---
 

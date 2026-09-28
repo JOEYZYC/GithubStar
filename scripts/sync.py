@@ -87,6 +87,18 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-09-29：本轮 29 条，6 条落待归类 + 1 条规则未覆盖（quadcopter 不在关键词表） ----
+    # 嵌入式与单片机
+    "riktw/RP2350B_BellsNWhistles": "嵌入式与单片机",          # RP2350B 自制板（描述为英文，规则未命中）
+    "AidenShaw2020/frank-386-waveshare-pi-zero": "嵌入式与单片机",  # Tiny386 x86 模拟器移植到 RP2350
+    "UKTailwind/PicoMite": "嵌入式与单片机",                    # MMBasic 固件（RP2040/RP2350）
+    # 硬件设计与 EDA
+    "javi-ivaj/cps3-fpga": "硬件设计与 EDA",                    # MiSTer CPS3 核心（同 SegaXBoard 口径）
+    # 飞控与无人机
+    "ostenjap/LLM-Agent-generated-Quadcopter-Prop": "飞控与无人机",  # 四旋翼螺旋桨设计；规则表只有 quadrotor 无 quadcopter（同 QuadCopter-NN-Adapt-MPC 口径）
+    # 开发工具与系统资源
+    "microsoft/WindowsDeveloperConfig": "开发工具与系统资源",   # Windows 开发机环境配置脚本
+    "Xelckis/qr-server": "开发工具与系统资源",                  # 自建二维码服务
     # ---- 2026-09-28：待归类清零 + 规则误判校正（19 条待归类含 09-27 遗留 10 条） ----
     # 电磁仿真与超表面
     "wsshin/maxwellfdfd": "电磁仿真与超表面",            # MATLAB FDFD 麦克斯韦求解器

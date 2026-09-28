@@ -2466,7 +2466,14 @@
    "added_at": "2026-09-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "kuieless/AerialMetric",
@@ -2892,7 +2899,14 @@
    "added_at": "2026-09-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "pingyun001/LimeRC",
@@ -3192,7 +3206,14 @@
    "added_at": "2026-09-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "HGSAFD8162/Expresslrs-Ghost-RX",
@@ -3248,7 +3269,14 @@
    "added_at": "2026-09-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "klever-coex/clover2",
@@ -3395,6 +3423,27 @@
    ],
    "hot_dates": [
     "2026-09-28"
+   ]
+  },
+  {
+   "full_name": "ostenjap/LLM-Agent-generated-Quadcopter-Prop",
+   "url": "https://github.com/ostenjap/LLM-Agent-generated-Quadcopter-Prop",
+   "description": "本地 LLM 多智能体做四旋翼螺旋桨参数化设计与 CFD 优化（Ollama 加 CadQuery 加 OpenFOAM，零 API 成本，MIT）",
+   "language": "",
+   "stars": 9,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-29",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
    ]
   },
   {
@@ -6411,7 +6460,14 @@
    "added_at": "2026-09-29",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "ismailakdag/cst-studio-mcp",
@@ -6574,7 +6630,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "espressif/esp-idf",
@@ -6726,7 +6789,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "cactus-compute/needle",
@@ -10976,7 +11046,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "Mr-Mika/M-Gauge",
@@ -12570,7 +12647,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -12710,7 +12794,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "whitewhidow/bboink",
@@ -12724,7 +12815,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "johannesboernsen/ScopeBuddy",
@@ -12766,6 +12864,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "riktw/RP2350B_BellsNWhistles",
+   "url": "https://github.com/riktw/RP2350B_BellsNWhistles",
+   "description": "基于 RP2350B 的自制板卡，板载调试器、HDMI 与 microSD（MIT）",
+   "language": "",
+   "stars": 18,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-29",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
    ]
   },
   {
@@ -12898,7 +13017,35 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
+  },
+  {
+   "full_name": "AidenShaw2020/frank-386-waveshare-pi-zero",
+   "url": "https://github.com/AidenShaw2020/frank-386-waveshare-pi-zero",
+   "description": "把 Tiny386（x86 模拟器）移植到 RP2350 与 Waveshare Pi Zero 形态（C）",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-29",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -13745,7 +13892,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -13822,7 +13976,35 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
+  },
+  {
+   "full_name": "UKTailwind/PicoMite",
+   "url": "https://github.com/UKTailwind/PicoMite",
+   "description": "PicoMite / WebMite / VGA / HDMI 的 MMBasic 固件（RP2040 与 RP2350）重构源码树",
+   "language": "",
+   "stars": 9,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-29",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "beriberikix/zephyr-desktop",
@@ -13878,7 +14060,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "waveshareteam/ESP32-C5-Touch-LCD-2.8",
@@ -13892,7 +14081,14 @@
    "added_at": "2026-09-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "karagure/rvkit",
@@ -16744,7 +16940,14 @@
    "added_at": "2026-09-29",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "piyushbag/awesome-pcb-workflow",
@@ -16936,6 +17139,27 @@
    ]
   },
   {
+   "full_name": "javi-ivaj/cps3-fpga",
+   "url": "https://github.com/javi-ivaj/cps3-fpga",
+   "description": "MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-29",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
+  },
+  {
    "full_name": "ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
    "url": "https://github.com/ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
    "description": "MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放",
@@ -16999,20 +17223,6 @@
    ]
   },
   {
-   "full_name": "ostenjap/LLM-Agent-generated-Quadcopter-Prop",
-   "url": "https://github.com/ostenjap/LLM-Agent-generated-Quadcopter-Prop",
-   "description": "本地 LLM 多智能体做四旋翼螺旋桨参数化设计与 CFD 优化（Ollama 加 CadQuery 加 OpenFOAM，零 API 成本，MIT）",
-   "language": "",
-   "stars": 9,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-29",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "HUYATIEO/silk-fpga",
    "url": "https://github.com/HUYATIEO/silk-fpga",
    "description": "ASIC/FPGA 设计流程工具与远程实验平台",
@@ -17045,7 +17255,14 @@
    "added_at": "2026-09-29",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "NawfalMotii79/PLFM_RADAR",
@@ -18042,7 +18259,14 @@
    "added_at": "2026-09-29",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "edwin-pan/uDoppler-Classification",
@@ -19511,7 +19735,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 390729,
+   "stars": 390730,
    "topics": [
     "ai",
     "assistant",
@@ -19574,7 +19798,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 268959,
+   "stars": 268960,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -19635,7 +19859,7 @@
    "url": "https://github.com/DietrichGebert/ponytail",
    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
    "language": "JavaScript",
-   "stars": 147529,
+   "stars": 147530,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -19680,7 +19904,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 139278,
+   "stars": 139279,
    "topics": [
     "ai",
     "copilot",
@@ -19701,7 +19925,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 131261,
+   "stars": 131262,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -19820,7 +20044,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 84329,
+   "stars": 84330,
    "topics": [
     "ai",
     "ai-scraping",
@@ -19854,7 +20078,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 80668,
+   "stars": 80671,
    "topics": [
     "ade",
     "agent-ide",
@@ -19907,7 +20131,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "JavaScript",
-   "stars": 72115,
+   "stars": 72116,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -20622,7 +20846,14 @@
    "added_at": "2026-09-29",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "NVIDIA/SkillSpector",
@@ -20867,7 +21098,14 @@
    "added_at": "2026-09-29",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "SWE-agent/mini-swe-agent",
@@ -21709,7 +21947,14 @@
    "added_at": "2026-09-29",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "LeoKemp223/llm2lvgl",
@@ -21786,7 +22031,14 @@
    "added_at": "2026-09-29",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "lichuang/semquery",
@@ -21863,7 +22115,14 @@
    "added_at": "2026-09-29",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-29"
+   ]
   },
   {
    "full_name": "neosun100/mineru-mcp-server",
@@ -21938,7 +22197,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 122143,
+   "stars": 122144,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -22048,7 +22307,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 60359,
+   "stars": 60361,
    "topics": [
     "agents",
     "ai",
@@ -22082,7 +22341,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 51518,
+   "stars": 51519,
    "topics": [
     "agent",
     "agent-memory",
@@ -22153,7 +22412,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 24483,
+   "stars": 24485,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -24089,7 +24348,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 484098,
+   "stars": 484099,
    "topics": [
     "api",
     "apis",
@@ -24528,6 +24787,19 @@
    "note": ""
   },
   {
+   "full_name": "microsoft/WindowsDeveloperConfig",
+   "url": "https://github.com/microsoft/WindowsDeveloperConfig",
+   "description": "Automate the setup and configuration of your Windows development environment.",
+   "language": "PowerShell",
+   "stars": 2616,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-29",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "qingjian-team/qingjian",
    "url": "https://github.com/qingjian-team/qingjian",
    "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
@@ -24644,6 +24916,19 @@
    "note": ""
   },
   {
+   "full_name": "Xelckis/qr-server",
+   "url": "https://github.com/Xelckis/qr-server",
+   "description": "A assembly webserver inside a QR Code",
+   "language": "HTML",
+   "stars": 244,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-29",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "nathanfarlow/univac-1219-riscv",
    "url": "https://github.com/nathanfarlow/univac-1219-riscv",
    "description": "UNIVAC 1219B 复古计算机的 C 工具链与程序",
@@ -24715,88 +25000,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "microsoft/WindowsDeveloperConfig",
-   "url": "https://github.com/microsoft/WindowsDeveloperConfig",
-   "description": "Automate the setup and configuration of your Windows development environment.",
-   "language": "PowerShell",
-   "stars": 2616,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-29",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "Xelckis/qr-server",
-   "url": "https://github.com/Xelckis/qr-server",
-   "description": "A assembly webserver inside a QR Code",
-   "language": "HTML",
-   "stars": 244,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-29",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "riktw/RP2350B_BellsNWhistles",
-   "url": "https://github.com/riktw/RP2350B_BellsNWhistles",
-   "description": "基于 RP2350B 的自制板卡，板载调试器、HDMI 与 microSD（MIT）",
-   "language": "",
-   "stars": 18,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "AidenShaw2020/frank-386-waveshare-pi-zero",
-   "url": "https://github.com/AidenShaw2020/frank-386-waveshare-pi-zero",
-   "description": "把 Tiny386（x86 模拟器）移植到 RP2350 与 Waveshare Pi Zero 形态（C）",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "javi-ivaj/cps3-fpga",
-   "url": "https://github.com/javi-ivaj/cps3-fpga",
-   "description": "MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "UKTailwind/PicoMite",
-   "url": "https://github.com/UKTailwind/PicoMite",
-   "description": "PicoMite / WebMite / VGA / HDMI 的 MMBasic 固件（RP2040 与 RP2350）重构源码树",
-   "language": "",
-   "stars": 9,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-29",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
