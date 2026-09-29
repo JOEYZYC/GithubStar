@@ -1034,3 +1034,34 @@
 {"url": "https://github.com/cholan2100/rf-agent", "stars": 8, "desc": "容器化 RF/微波设计平台（KiCad 10 加 openEMS 加 Qucs-S 加 FreeCAD 加 ngspice），以 AGENTS.md 与 SKILLS.md 驱动 9 阶段设计协议", "date": "2026-09-29"}
 {"url": "https://github.com/gregfurman/micropython-go", "stars": 8, "desc": "用 wasm2go 生成的可嵌入 Go 的 MicroPython 绑定（no-cgo，Apache-2.0）", "date": "2026-09-29"}
 {"url": "https://github.com/waveshareteam/ESP32-C5-Touch-LCD-2.8", "stars": 8, "desc": "微雪科技官方 ESP32-C5 加 2.8 寸触摸 LCD 板级仓库（Apache-2.0）", "date": "2026-09-29"}
+{"url": "https://github.com/bytedance/deer-flow", "stars": 83230, "desc": "字节开源的长程 SuperAgent 框架，含沙箱、记忆、工具、技能、子 agent 与消息网关", "date": "2026-09-30"}
+{"url": "https://github.com/VectifyAI/PageIndex", "stars": 37287, "desc": "无向量推理式 RAG：为文档建层次化树索引，由 LLM 在树上推理定位，不切块不用向量库", "date": "2026-09-30"}
+{"url": "https://github.com/kvcache-ai/Mooncake", "stars": 6688, "desc": "Kimi 的服务化推理平台，以 KVCache 为中心的分离式架构", "date": "2026-09-30"}
+{"url": "https://github.com/Q00/ouroboros", "stars": 6140, "desc": "Agent OS：自我改进的 agent 运行时，含面试门控、分阶段评估与预算约束", "date": "2026-09-30"}
+{"url": "https://github.com/magnitudedev/magnitude", "stars": 5473, "desc": "本机 LLM 推理引擎：先对机器做硬件画像，再推荐并调优适配该机器的开源模型", "date": "2026-09-30"}
+{"url": "https://github.com/enjoy-digital/litex", "stars": 4136, "desc": "用 Python 描述并生成 FPGA 核与 SoC 的框架，覆盖多厂商板卡与外设集成", "date": "2026-09-30"}
+{"url": "https://github.com/apache/nuttx", "stars": 4052, "desc": "POSIX 兼容的成熟实时操作系统，覆盖 8 位到 64 位 MCU，含 USB、网络与文件系统子系统", "date": "2026-09-30"}
+{"url": "https://github.com/openhwfoundation/cva6", "stars": 3137, "desc": "OpenHW 开源的高可配置 6 级 RISC-V 应用级处理器核，支持 Linux 与虚拟化", "date": "2026-09-30"}
+{"url": "https://github.com/datawhalechina/deepagents-in-action", "stars": 2548, "desc": "中文《Deep Agents 实战》教程仓库，用 LangChain/LangGraph 从零构建生产级 agent", "date": "2026-09-30"}
+{"url": "https://github.com/ElmerCSC/elmerfem", "stars": 1720, "desc": "CSC 芬兰维护的开源多物理场有限元套件，含电磁模块，可从 PC 跑到 HPC", "date": "2026-09-30"}
+{"url": "https://github.com/dji-sdk/Onboard-SDK", "stars": 991, "desc": "DJI 商用无人机的机载二次开发接口，经串口或 UDP 控制航点、云台、相机并读遥测", "date": "2026-09-30"}
+{"url": "https://github.com/simpeg/simpeg", "stars": 680, "desc": "地球物理正演与参数估计（反演）框架，含电磁法模块，可参照其反演抽象组织方式", "date": "2026-09-30"}
+{"url": "https://github.com/UNIC-Lab/RadioDiff", "stars": 322, "desc": "用生成式扩散模型做无采样动态无线电地图构建，含 PINN 增强与室内版本", "date": "2026-09-30"}
+{"url": "https://github.com/meshtastic/antenna-reports", "stars": 286, "desc": "社区天线实测报告库：VNA 实测 + 统一下载模板，提示厂商标称增益常偏乐观", "date": "2026-09-30"}
+{"url": "https://github.com/raul-ortega/u360gts", "stars": 276, "desc": "无人机地面站天线自动跟踪云台，360° 连续旋转、多协议遥测自动识别，固件跑 STM32", "date": "2026-09-30"}
+{"url": "https://github.com/lepton-eda/lepton-eda", "stars": 265, "desc": "gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表生成与 PCB 工具链", "date": "2026-09-30"}
+{"url": "https://github.com/Thinklab-SJTU/awesome-ai4eda", "stars": 214, "desc": "上海交大 ThinkLab 的 AI for EDA 论文清单，覆盖布局布线、综合、验证与模拟电路", "date": "2026-09-30"}
+{"url": "https://github.com/ludlows/CSI-Activity-Recognition", "stars": 126, "desc": "基于 WiFi CSI 的人体活动识别参考实现，双向 LSTM + Attention，七类活动含跌倒", "date": "2026-09-30"}
+{"url": "https://github.com/hdl/containers", "stars": 123, "desc": "Verilator、GHDL、Yosys、nextpnr 等开源 EDA 的容器镜像与部署脚本，可用于可复现的 RTL 验证", "date": "2026-09-30"}
+{"url": "https://github.com/Logicademy/HDLGen-ChatGPT", "stars": 37, "desc": "与 ChatGPT 配合的对话式 HDL 生成工具，输出 VHDL/Verilog 模型、testbench 与 Vivado/Quartus 工程", "date": "2026-09-30"}
+{"url": "https://github.com/ucb-substrate/substrate2", "stars": 37, "desc": "以 Rust crate 形式提供的版图设计自动化工具（Substrate 2），API 尚未稳定", "date": "2026-09-30"}
+{"url": "https://github.com/alexpiti/Calc-ScatPat", "stars": 31, "desc": "MATLAB 实现的矩形超表面散射方向图计算（惠更斯-菲涅耳原理），输入为各单元反射系数幅度与相位", "date": "2026-09-30"}
+{"url": "https://github.com/ESPARGOS/esp-sdr", "stars": 29, "desc": "绕过 ESP32 的 Wi-Fi 调制解调器直接取原始 I/Q 采样，把 ESP32 变成 2.4/5GHz 软件无线电", "date": "2026-09-30"}
+{"url": "https://github.com/cjpcool/Metamaterial-Benchmark", "stars": 24, "desc": "KDD 2025 超材料基准 MetamatBench（力学超材料口径），整合异构数据、计算工具与可视化界面（MIT）", "date": "2026-09-30"}
+{"url": "https://github.com/hftools/hftools", "stars": 21, "desc": "微波工程数据与绘图库：给 numpy 数组加频率/测量/矩阵轴语义，配套 VNA 校准与 S 参数绘图", "date": "2026-09-30"}
+{"url": "https://github.com/harrypm/MISRC-GUI", "stars": 20, "desc": "RF 采集与归档的图形界面工具，用于射频信号采集、整理与回顾", "date": "2026-09-30"}
+{"url": "https://github.com/GuitarML/GuitarPedalSTM32", "stars": 17, "desc": "STM32H7B0 数字吉他效果器的完整开源工程：可下单 Gerber 的 PCB + C++ 固件", "date": "2026-09-30"}
+{"url": "https://github.com/tenpa1105/M5Camera_OpenMV", "stars": 12, "desc": "在 M5Camera（ESP32 + OV2640）上运行的 MicroPython / OpenMV 风格摄像头固件", "date": "2026-09-30"}
+{"url": "https://github.com/hervestudio/firmware-badge", "stars": 12, "desc": "ESP32-S3 圆形屏幕会议胸牌的固件工程，含 UI 与交互逻辑", "date": "2026-09-30"}
+{"url": "https://github.com/EthanLowenthal/GDS-Lens-Vscode", "stars": 11, "desc": "GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS Code 扩展可渲染上亿多边形", "date": "2026-09-30"}
+{"url": "https://github.com/matsvandamme/fishball7020-fpga-devkit", "stars": 10, "desc": "Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 开发套件", "date": "2026-09-30"}
