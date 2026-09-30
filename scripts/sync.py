@@ -87,6 +87,39 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-01：本轮 34 条，6 条落待归类 + 4 条规则误判 ----
+    # 嵌入式与单片机
+    "windowsair/elaphureLink": "嵌入式与单片机",              # CMSIS-DAP 网络调试服务器（Keil 远程调试）
+    "cederom/LibSWD": "嵌入式与单片机",                       # SWD 时序实现库
+    "piersfinlayson/airfrog": "嵌入式与单片机",               # 微型无线 ARM 调试 / 编程协处理器
+    # 硬件设计与 EDA
+    "exeex/edge-cores": "硬件设计与 EDA",                     # Verilog AI 加速器 IP 集（描述为英文，规则未命中）
+    "bodsvei/2D-systolic-array": "硬件设计与 EDA",            # 可参数化 2D 脉动阵列 RTL 生成器
+    "BasisResearch/ship-your-interpreter": "硬件设计与 EDA",  # Lean 4 形式化 RISC-V ISA 模型与验证
+    "senolgulgonul/verisim": "硬件设计与 EDA",                # HDL 仿真器（simulation 关键词被电磁规则误吃，同 iverilog 口径）
+    # 飞控与无人机
+    "byuflowlab/FLOWUnsteady": "飞控与无人机",                # 多旋翼相互作用气动与声学求解器（VPM）
+    "StephenCarlson/MiniHawk-VTOL": "飞控与无人机",           # 3D 打印三旋翼 / 固定翼混合 VTOL 整机
+    "robustini/eXploraVTOL": "飞控与无人机",                  # 尾座式 VTOL 整机（规则误判入无线通信）
+    # AI 模型与视觉
+    "xingchenzhang/VIFB": "AI 模型与视觉",                    # 红外-可见光融合基准（同 LLVIP / TarDAL 口径）
+    "jiayi-ma/FusionGAN": "AI 模型与视觉",                    # GAN 红外-可见光融合经典实现
+    "Linfeng-Tang/MSRS": "AI 模型与视觉",                     # 多光谱道路场景配准数据与融合
+    "Linfeng-Tang/SeAFusion": "AI 模型与视觉",                # 语义感知红外-可见光融合
+    "bakhtiyorjondadajonov/fall-detection-vison": "AI 模型与视觉",  # 视觉侧跌倒检测（同 falldetection_openpifpaf 口径）
+    # ---- 2026-09-30：本轮 31 条，6 条落待归类 + 2 条规则误判 ----
+    # 硬件设计与 EDA
+    "enjoy-digital/litex": "硬件设计与 EDA",                    # Python 生成 FPGA/SoC 框架（fpga 不在关键词表）
+    "ucb-substrate/substrate2": "硬件设计与 EDA",                # 版图设计自动化（版图不在关键词表）
+    "EthanLowenthal/GDS-Lens-Vscode": "硬件设计与 EDA",          # GDSII/OASIS 版图查看器
+    "matsvandamme/fishball7020-fpga-devkit": "硬件设计与 EDA",   # Zynq-7020 FPGA 开发套件
+    # 电磁仿真与超表面
+    "UNIC-Lab/RadioDiff": "电磁仿真与超表面",                    # 无线电地图扩散模型生成（传播建模）
+    # AI Agent 与 LLM 工具链
+    "kvcache-ai/Mooncake": "AI Agent 与 LLM 工具链",            # 以 KVCache 为中心的推理服务平台
+    "bytedance/deer-flow": "AI Agent 与 LLM 工具链",            # 长程 SuperAgent；描述含 cascade，子串 "cad" 误中硬件规则
+    # 知识管理与笔记
+    "firecrawl/anydoc": "知识管理与笔记",                        # 文档（Word/PDF/EPUB…）转 Markdown（star 抓取带入的遗留待归类）
     # ---- 2026-09-29：本轮 29 条，6 条落待归类 + 1 条规则未覆盖（quadcopter 不在关键词表） ----
     # 嵌入式与单片机
     "riktw/RP2350B_BellsNWhistles": "嵌入式与单片机",          # RP2350B 自制板（描述为英文，规则未命中）

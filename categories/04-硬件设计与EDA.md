@@ -1,25 +1,26 @@
 # 硬件设计与 EDA
 
-> 共 150 个项目 · 数据更新时间 2026-09-30 · [返回总览](../README.md)
+> 共 154 个项目 · 数据更新时间 2026-10-01 · [返回总览](../README.md)
 
 ---
 
 #### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
-`★83,230 · 🔥 热点推荐`
+`★83,230 · ⭐🔥 已 star + 热点推荐`
 字节开源的长程 SuperAgent 框架，含沙箱、记忆、工具、技能、子 agent 与消息网关
+> 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,847 · C++ · ⭐ 已 star`
+`★33,867 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,480 · Python · ⭐ 已 star`
+`★16,511 · Python · ⭐ 已 star`
 Give your agent CAD superpowers.
 > 收录日期：2026-09-13
 
@@ -122,7 +123,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,930 · C++ · ⭐ 已 star`
+`★2,935 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -137,14 +138,14 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,548 · Python · ⭐ 已 star`
+`★2,571 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,354 · Rust · ⭐ 已 star`
+`★2,369 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -359,7 +360,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★564 · C · ⭐ 已 star`
+`★565 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -526,8 +527,9 @@ eFPGA 生成器与配套 CAD 工具链
 ---
 
 #### [lepton-eda/lepton-eda](https://github.com/lepton-eda/lepton-eda)
-`★265 · 🔥 热点推荐`
+`★265 · ⭐🔥 已 star + 热点推荐`
 gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表生成与 PCB 工具链
+> 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
 
 ---
@@ -541,7 +543,7 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★250 · C++ · ⭐ 已 star`
+`★251 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -571,8 +573,9 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [Thinklab-SJTU/awesome-ai4eda](https://github.com/Thinklab-SJTU/awesome-ai4eda)
-`★214 · 🔥 热点推荐`
+`★214 · ⭐🔥 已 star + 热点推荐`
 上海交大 ThinkLab 的 AI for EDA 论文清单，覆盖布局布线、综合、验证与模拟电路
+> 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
 
 ---
@@ -738,8 +741,9 @@ Topdon TC001（及山寨版）热像仪 App：读取并显示实时/离线热数
 ---
 
 #### [hdl/containers](https://github.com/hdl/containers)
-`★123 · 🔥 热点推荐`
+`★123 · ⭐🔥 已 star + 热点推荐`
 Verilator、GHDL、Yosys、nextpnr 等开源 EDA 的容器镜像与部署脚本，可用于可复现的 RTL 验证
+> 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
 
 ---
@@ -773,6 +777,13 @@ Verilator、GHDL、Yosys、nextpnr 等开源 EDA 的容器镜像与部署脚本�
 FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开发
 > 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
+
+---
+
+#### [exeex/edge-cores](https://github.com/exeex/edge-cores)
+`★110 · 🔥 热点推荐`
+从 PyTorch 到自研 ASIC 的最短路径：面向边缘 AI 的可综合加速核
+> 收录日期：2026-10-01
 
 ---
 
@@ -810,7 +821,7 @@ STM32G431 电机控制板的生产级 FOC 固件：20kHz 电流环、DS402 状�
 
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
 `★102 · Python · ⭐🔥 已 star + 热点推荐`
-AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and manufacturing review from Claude, Cursor, Copilot and other AI agents.
+MCP server for KiCad, connecting AI agents to schematic and PCB workflows, ERC/DRC validation, DFM checks, BOM analysis, and manufacturing preparation—with controlled edits and human-gated release workflows.
 > 热点推荐于 2026-09-26
 > 收录日期：2026-09-13
 
@@ -873,7 +884,7 @@ AI-ready MCP server for KiCad: automate schematic, PCB, ERC/DRC, DFM, BOM and ma
 ---
 
 #### [zrrraa/X-Laser](https://github.com/zrrraa/X-Laser)
-`★63 · C · ⭐ 已 star`
+`★64 · C · ⭐ 已 star`
 X-Laser，一款小型的矢量激光投影仪
 > 收录日期：2026-09-13
 
@@ -927,6 +938,13 @@ Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余�
 
 ---
 
+#### [bodsvei/2D-systolic-array](https://github.com/bodsvei/2D-systolic-array)
+`★44 · 🔥 热点推荐`
+可参数化的权重固定 2D 脉动阵列（Verilog），硬件加速矩阵乘法
+> 收录日期：2026-10-01
+
+---
+
 #### [haruto89610/rtl-nic](https://github.com/haruto89610/rtl-nic)
 `★39 · ⭐🔥 已 star + 热点推荐`
 自研 FPGA 以太网数据通路的 SystemVerilog RTL（ARP / IPv4 / UDP / TCP 传输控制）
@@ -936,9 +954,17 @@ Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余�
 ---
 
 #### [Logicademy/HDLGen-ChatGPT](https://github.com/Logicademy/HDLGen-ChatGPT)
-`★37 · 🔥 热点推荐`
+`★37 · ⭐🔥 已 star + 热点推荐`
 与 ChatGPT 配合的对话式 HDL 生成工具，输出 VHDL/Verilog 模型、testbench 与 Vivado/Quartus 工程
+> 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
+
+---
+
+#### [BasisResearch/ship-your-interpreter](https://github.com/BasisResearch/ship-your-interpreter)
+`★37 · 🔥 热点推荐`
+Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正确性，零 sorry
+> 收录日期：2026-10-01
 
 ---
 
@@ -994,6 +1020,13 @@ AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
 对齐嘉立创（JLCPCB）与 PCBWay 工艺能力的 KiCad 自定义设计规则（.kicad_dru）
 > 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
+
+---
+
+#### [senolgulgonul/verisim](https://github.com/senolgulgonul/verisim)
+`★24 · 🔥 热点推荐`
+把 Icarus Verilog 编译为 WebAssembly，浏览器里纯前端跑 Verilog 仿真
+> 收录日期：2026-10-01
 
 ---
 

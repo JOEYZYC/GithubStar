@@ -1,157 +1,172 @@
 [
-  {
-    "url": "https://github.com/bytedance/deer-flow",
-    "stars": 83230,
-    "desc": "字节开源的长程 SuperAgent 框架，含沙箱、记忆、工具、技能、子 agent 与消息网关"
-  },
-  {
-    "url": "https://github.com/VectifyAI/PageIndex",
-    "stars": 37287,
-    "desc": "无向量推理式 RAG：为文档建层次化树索引，由 LLM 在树上推理定位，不切块不用向量库"
-  },
-  {
-    "url": "https://github.com/kvcache-ai/Mooncake",
-    "stars": 6688,
-    "desc": "Kimi 的服务化推理平台，以 KVCache 为中心的分离式架构"
-  },
-  {
-    "url": "https://github.com/Q00/ouroboros",
-    "stars": 6140,
-    "desc": "Agent OS：自我改进的 agent 运行时，含面试门控、分阶段评估与预算约束"
-  },
-  {
-    "url": "https://github.com/magnitudedev/magnitude",
-    "stars": 5473,
-    "desc": "本机 LLM 推理引擎：先对机器做硬件画像，再推荐并调优适配该机器的开源模型"
-  },
-  {
-    "url": "https://github.com/enjoy-digital/litex",
-    "stars": 4136,
-    "desc": "用 Python 描述并生成 FPGA 核与 SoC 的框架，覆盖多厂商板卡与外设集成"
-  },
-  {
-    "url": "https://github.com/apache/nuttx",
-    "stars": 4052,
-    "desc": "POSIX 兼容的成熟实时操作系统，覆盖 8 位到 64 位 MCU，含 USB、网络与文件系统子系统"
-  },
-  {
-    "url": "https://github.com/openhwfoundation/cva6",
-    "stars": 3137,
-    "desc": "OpenHW 开源的高可配置 6 级 RISC-V 应用级处理器核，支持 Linux 与虚拟化"
-  },
-  {
-    "url": "https://github.com/datawhalechina/deepagents-in-action",
-    "stars": 2548,
-    "desc": "中文《Deep Agents 实战》教程仓库，用 LangChain/LangGraph 从零构建生产级 agent"
-  },
-  {
-    "url": "https://github.com/ElmerCSC/elmerfem",
-    "stars": 1720,
-    "desc": "CSC 芬兰维护的开源多物理场有限元套件，含电磁模块，可从 PC 跑到 HPC"
-  },
-  {
-    "url": "https://github.com/dji-sdk/Onboard-SDK",
-    "stars": 991,
-    "desc": "DJI 商用无人机的机载二次开发接口，经串口或 UDP 控制航点、云台、相机并读遥测"
-  },
-  {
-    "url": "https://github.com/simpeg/simpeg",
-    "stars": 680,
-    "desc": "地球物理正演与参数估计（反演）框架，含电磁法模块，可参照其反演抽象组织方式"
-  },
-  {
-    "url": "https://github.com/UNIC-Lab/RadioDiff",
-    "stars": 322,
-    "desc": "用生成式扩散模型做无采样动态无线电地图构建，含 PINN 增强与室内版本"
-  },
-  {
-    "url": "https://github.com/meshtastic/antenna-reports",
-    "stars": 286,
-    "desc": "社区天线实测报告库：VNA 实测 + 统一下载模板，提示厂商标称增益常偏乐观"
-  },
-  {
-    "url": "https://github.com/raul-ortega/u360gts",
-    "stars": 276,
-    "desc": "无人机地面站天线自动跟踪云台，360° 连续旋转、多协议遥测自动识别，固件跑 STM32"
-  },
-  {
-    "url": "https://github.com/lepton-eda/lepton-eda",
-    "stars": 265,
-    "desc": "gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表生成与 PCB 工具链"
-  },
-  {
-    "url": "https://github.com/Thinklab-SJTU/awesome-ai4eda",
-    "stars": 214,
-    "desc": "上海交大 ThinkLab 的 AI for EDA 论文清单，覆盖布局布线、综合、验证与模拟电路"
-  },
-  {
-    "url": "https://github.com/ludlows/CSI-Activity-Recognition",
-    "stars": 126,
-    "desc": "基于 WiFi CSI 的人体活动识别参考实现，双向 LSTM + Attention，七类活动含跌倒"
-  },
-  {
-    "url": "https://github.com/hdl/containers",
-    "stars": 123,
-    "desc": "Verilator、GHDL、Yosys、nextpnr 等开源 EDA 的容器镜像与部署脚本，可用于可复现的 RTL 验证"
-  },
-  {
-    "url": "https://github.com/Logicademy/HDLGen-ChatGPT",
-    "stars": 37,
-    "desc": "与 ChatGPT 配合的对话式 HDL 生成工具，输出 VHDL/Verilog 模型、testbench 与 Vivado/Quartus 工程"
-  },
-  {
-    "url": "https://github.com/ucb-substrate/substrate2",
-    "stars": 37,
-    "desc": "以 Rust crate 形式提供的版图设计自动化工具（Substrate 2），API 尚未稳定"
-  },
-  {
-    "url": "https://github.com/alexpiti/Calc-ScatPat",
-    "stars": 31,
-    "desc": "MATLAB 实现的矩形超表面散射方向图计算（惠更斯-菲涅耳原理），输入为各单元反射系数幅度与相位"
-  },
-  {
-    "url": "https://github.com/ESPARGOS/esp-sdr",
-    "stars": 29,
-    "desc": "绕过 ESP32 的 Wi-Fi 调制解调器直接取原始 I/Q 采样，把 ESP32 变成 2.4/5GHz 软件无线电"
-  },
-  {
-    "url": "https://github.com/cjpcool/Metamaterial-Benchmark",
-    "stars": 24,
-    "desc": "KDD 2025 超材料基准 MetamatBench（力学超材料口径），整合异构数据、计算工具与可视化界面（MIT）"
-  },
-  {
-    "url": "https://github.com/hftools/hftools",
-    "stars": 21,
-    "desc": "微波工程数据与绘图库：给 numpy 数组加频率/测量/矩阵轴语义，配套 VNA 校准与 S 参数绘图"
-  },
-  {
-    "url": "https://github.com/harrypm/MISRC-GUI",
-    "stars": 20,
-    "desc": "RF 采集与归档的图形界面工具，用于射频信号采集、整理与回顾"
-  },
-  {
-    "url": "https://github.com/GuitarML/GuitarPedalSTM32",
-    "stars": 17,
-    "desc": "STM32H7B0 数字吉他效果器的完整开源工程：可下单 Gerber 的 PCB + C++ 固件"
-  },
-  {
-    "url": "https://github.com/tenpa1105/M5Camera_OpenMV",
-    "stars": 12,
-    "desc": "在 M5Camera（ESP32 + OV2640）上运行的 MicroPython / OpenMV 风格摄像头固件"
-  },
-  {
-    "url": "https://github.com/hervestudio/firmware-badge",
-    "stars": 12,
-    "desc": "ESP32-S3 圆形屏幕会议胸牌的固件工程，含 UI 与交互逻辑"
-  },
-  {
-    "url": "https://github.com/EthanLowenthal/GDS-Lens-Vscode",
-    "stars": 11,
-    "desc": "GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS Code 扩展可渲染上亿多边形"
-  },
-  {
-    "url": "https://github.com/matsvandamme/fishball7020-fpga-devkit",
-    "stars": 10,
-    "desc": "Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 开发套件"
-  }
+ {
+  "url": "https://github.com/mattpocock/skills",
+  "stars": 272966,
+  "desc": "面向工程师的 agent skills 集合，直接从作者 .agents 目录导出，当日 Trending 总榜第一"
+ },
+ {
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "stars": 149132,
+  "desc": "约束 AI agent 行为方式的提示工程资产：让 agent 像最懒的资深工程师那样思考"
+ },
+ {
+  "url": "https://github.com/mksglu/context-mode",
+  "stars": 24473,
+  "desc": "AI 编码 agent 的上下文窗口优化：工具输出沙箱化（降 98%）、会话记忆持久化与路由"
+ },
+ {
+  "url": "https://github.com/hathach/tinyusb",
+  "stars": 7166,
+  "desc": "开源跨平台嵌入式 USB 协议栈（设备/主机/OTG），支持数十种 MCU，当日 GitHub Trending C 语言榜首"
+ },
+ {
+  "url": "https://github.com/VectifyAI/OpenKB",
+  "stars": 4678,
+  "desc": "OpenKB：开源 LLM 知识库，探索 LLM 原生组织个人知识的结构"
+ },
+ {
+  "url": "https://github.com/cherry-embedded/CherryUSB",
+  "stars": 2049,
+  "desc": "国产轻量嵌入式 USB 主机/设备协议栈，自带 USB IP 支持、易移植"
+ },
+ {
+  "url": "https://github.com/paparazzi/paparazzi",
+  "stars": 1715,
+  "desc": "Paparazzi UAV 开源自驾仪项目：固件、地面站与配套硬件设计一体，长年活跃的学术级飞控"
+ },
+ {
+  "url": "https://github.com/Matthias84/awesome-flying-fpv",
+  "stars": 706,
+  "desc": "FPV 穿越机软硬件资源精选清单，覆盖机架/电调/飞控/固件全链"
+ },
+ {
+  "url": "https://github.com/xingchenzhang/VIFB",
+  "stars": 498,
+  "desc": "可见光与红外图像融合基准（VIFB）：统一数据集与 20+ 评测指标，融合算法横向比较的标尺"
+ },
+ {
+  "url": "https://github.com/byuflowlab/FLOWUnsteady",
+  "stars": 389,
+  "desc": "多旋翼与风力机的相互作用气动与声学求解器（黏性涡粒子法），Julia 实现"
+ },
+ {
+  "url": "https://github.com/Linfeng-Tang/SeAFusion",
+  "stars": 333,
+  "desc": "语义感知的实时红外与可见光图像融合网络，把高层视觉任务反馈进融合回路"
+ },
+ {
+  "url": "https://github.com/jiayi-ma/FusionGAN",
+  "stars": 324,
+  "desc": "用生成对抗网络做红外与可见光图像融合的经典工作，被广泛引作基线"
+ },
+ {
+  "url": "https://github.com/StephenCarlson/MiniHawk-VTOL",
+  "stars": 323,
+  "desc": "3D 打印三旋翼/固定翼混合 VTOL 的完整设计文件与图纸"
+ },
+ {
+  "url": "https://github.com/walmis/blackmagic-espidf",
+  "stars": 298,
+  "desc": "基于 ESP-IDF 的 Blackmagic 无线 SWD 调试探针（ESP8266 承载，Telnet/HTTP + xterm.js）"
+ },
+ {
+  "url": "https://github.com/Linfeng-Tang/MSRS",
+  "stars": 282,
+  "desc": "多光谱道路场景数据集（MSRS）：配准好的红外/可见光图像对，面向实际道路场景"
+ },
+ {
+  "url": "https://github.com/Linfeng-Tang/PSFusion",
+  "stars": 232,
+  "desc": "兼顾高层视觉任务的实用红外与可见光融合网络，主打真实场景可用"
+ },
+ {
+  "url": "https://github.com/eclipse-threadx/usbx",
+  "stars": 229,
+  "desc": "Eclipse ThreadX 的 USBX：高性能 USB 主机/设备/OTG 栈，与 ThreadX RTOS 深度集成"
+ },
+ {
+  "url": "https://github.com/zs6buj/AntTracker",
+  "stars": 193,
+  "desc": "跟踪移动模型机/无人机的自动天线跟踪器，UHF/SHF 高增益天线指向控制"
+ },
+ {
+  "url": "https://github.com/windowsair/elaphureLink",
+  "stars": 189,
+  "desc": "兼容 CMSIS-DAP 的调试方案：把 Keil µVision 的 TCP/IP 调试请求转换成 DAP 协议"
+ },
+ {
+  "url": "https://github.com/robustini/eXploraVTOL",
+  "stars": 170,
+  "desc": "eXplora 尾座式 VTOL 开源整机项目，含机身设计与装机资料"
+ },
+ {
+  "url": "https://github.com/AutonomyLab/bebop_autonomy",
+  "stars": 164,
+  "desc": "Parrot Bebop 无人机的 ROS 驱动，把商用机接入 ROS 生态做自主开发"
+ },
+ {
+  "url": "https://github.com/bakhtiyorjondadajonov/fall-detection-vison",
+  "stars": 153,
+  "desc": "视觉侧的跌倒检测实现，为 CSI/IMU 之外的第三条技术路径提供对照"
+ },
+ {
+  "url": "https://github.com/cederom/LibSWD",
+  "stars": 132,
+  "desc": "Serial Wire Debug 开源库，供自制探针/工具直接实现 SWD 时序"
+ },
+ {
+  "url": "https://github.com/exeex/edge-cores",
+  "stars": 110,
+  "desc": "从 PyTorch 到自研 ASIC 的最短路径：面向边缘 AI 的可综合加速核"
+ },
+ {
+  "url": "https://github.com/Fescron/universal-jlink-adapter",
+  "stars": 99,
+  "desc": "20 针 SWD/JTAG J-Link 转 10 针 Cortex-M 通用转接板，含供电与 TagConnect 兼容"
+ },
+ {
+  "url": "https://github.com/weston-embedded/uC-USBD",
+  "stars": 84,
+  "desc": "Micrium µC/USB-Device 设备栈，含 Audio/CDC/HID/MSC 类驱动，商业级嵌入式实现"
+ },
+ {
+  "url": "https://github.com/weston-embedded/uC-USBH",
+  "stars": 72,
+  "desc": "Micrium µC/USB-Host 主机栈，含 MSC/HID/CDC 类驱动"
+ },
+ {
+  "url": "https://github.com/cortexm/pyswd",
+  "stars": 72,
+  "desc": "用 Python 经 ST-Link/V2 做 SWD 调试的库，脚本化读写目标 MCU"
+ },
+ {
+  "url": "https://github.com/szymonh/SWDscan",
+  "stars": 67,
+  "desc": "用 Arduino 扫出目标板 SWD 的时钟与 IO 线序，反向排查调试口"
+ },
+ {
+  "url": "https://github.com/libusbhost/libusbhost",
+  "stars": 63,
+  "desc": "面向嵌入式设备的开源 USB 主机栈，无操作系统依赖"
+ },
+ {
+  "url": "https://github.com/piersfinlayson/airfrog",
+  "stars": 60,
+  "desc": "3 美元 WiFi 模块改造的微型无线 ARM 编程/调试协处理器，Rust 实现"
+ },
+ {
+  "url": "https://github.com/bodsvei/2D-systolic-array",
+  "stars": 44,
+  "desc": "可参数化的权重固定 2D 脉动阵列（Verilog），硬件加速矩阵乘法"
+ },
+ {
+  "url": "https://github.com/BasisResearch/ship-your-interpreter",
+  "stars": 37,
+  "desc": "Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正确性，零 sorry"
+ },
+ {
+  "url": "https://github.com/senolgulgonul/verisim",
+  "stars": 24,
+  "desc": "把 Icarus Verilog 编译为 WebAssembly，浏览器里纯前端跑 Verilog 仿真"
+ }
 ]
