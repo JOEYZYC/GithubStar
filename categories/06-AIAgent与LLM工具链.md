@@ -1,6 +1,6 @@
 # AI Agent 与 LLM 工具链
 
-> 共 125 个项目 · 数据更新时间 2026-10-01 · [返回总览](../README.md)
+> 共 127 个项目 · 数据更新时间 2026-10-01 · [返回总览](../README.md)
 
 ---
 
@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★155,518 · Shell · ⭐ 已 star`
+`★155,519 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -79,7 +79,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★139,594 · Python · ⭐ 已 star`
+`★139,595 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -126,6 +126,14 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 `★84,721 · Python · ⭐ 已 star`
 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 > 收录日期：2026-09-13
+
+---
+
+#### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+`★83,230 · ⭐🔥 已 star + 热点推荐`
+字节开源的长程 SuperAgent 框架，含沙箱、记忆、工具、技能、子 agent 与消息网关
+> 热点推荐于 2026-09-30
+> 收录日期：2026-09-30
 
 ---
 
@@ -407,8 +415,9 @@ What are the principles we can use to build LLM-powered software that is actuall
 ---
 
 #### [mksglu/context-mode](https://github.com/mksglu/context-mode)
-`★24,473 · 🔥 热点推荐`
+`★24,473 · ⭐🔥 已 star + 热点推荐`
 AI 编码 agent 的上下文窗口优化：工具输出沙箱化（降 98%）、会话记忆持久化与路由
+> 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
 
 ---
@@ -594,6 +603,14 @@ AI-Powered Dark Web OSINT Tool
 
 ---
 
+#### [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake)
+`★6,688 · ⭐🔥 已 star + 热点推荐`
+Kimi 的服务化推理平台，以 KVCache 为中心的分离式架构
+> 热点推荐于 2026-09-30
+> 收录日期：2026-09-30
+
+---
+
 #### [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
 `★6,275 · ⭐🔥 已 star + 热点推荐`
 可嵌入、可移植、可分支的轻量虚拟机，用于安全运行 agent 产出的代码
@@ -658,8 +675,9 @@ Let AI agents use your real, logged-in browser without interrupting your work. C
 ---
 
 #### [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB)
-`★4,678 · 🔥 热点推荐`
+`★4,678 · ⭐🔥 已 star + 热点推荐`
 OpenKB：开源 LLM 知识库，探索 LLM 原生组织个人知识的结构
+> 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
 
 ---

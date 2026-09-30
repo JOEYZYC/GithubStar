@@ -501,7 +501,14 @@
    "added_at": "2026-10-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "bitcraze/crazyflie-firmware",
@@ -799,7 +806,14 @@
    "added_at": "2026-10-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "makeecat/Peng",
@@ -1278,7 +1292,14 @@
    "added_at": "2026-10-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "agamrossen/VolAnti",
@@ -1355,7 +1376,14 @@
    "added_at": "2026-10-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "alireza787b/mavsdk_drone_show",
@@ -1768,7 +1796,14 @@
    "added_at": "2026-10-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "stephendade/Rpanion-server",
@@ -1824,7 +1859,14 @@
    "added_at": "2026-10-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "KyThuatUAV/ESP32_FC",
@@ -1859,7 +1901,14 @@
    "added_at": "2026-10-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "ExpressLRS/Backpack",
@@ -4046,6 +4095,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "UNIC-Lab/RadioDiff",
+   "url": "https://github.com/UNIC-Lab/RadioDiff",
+   "description": "用生成式扩散模型做无采样动态无线电地图构建，含 PINN 增强与室内版本",
+   "language": "",
+   "stars": 322,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-30",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-30"
    ]
   },
   {
@@ -7244,7 +7314,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "BruceDevices/firmware",
@@ -8006,7 +8083,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "uTensor/uTensor",
@@ -10104,7 +10188,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "Rompass/openc6-bios",
@@ -10341,7 +10432,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "rh1tech/frank-386",
@@ -10431,7 +10529,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "mx3353672833-debug/moto-gps-waveshare",
@@ -10886,7 +10991,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "fliperama86/pico_hdmi",
@@ -11249,7 +11361,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "wladimiravila/esp32s3-distributed-ai",
@@ -11473,7 +11592,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "Mr-Mika/M-Gauge",
@@ -11634,7 +11760,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "cortexm/pyswd",
@@ -11648,7 +11781,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "ocfh/mecanum-wheel-car-ble-voice-stm32",
@@ -11725,7 +11865,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "Evil-Project-Team/ESP32-C5-J4CK3D",
@@ -11781,7 +11928,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "Gypsy-Server/RadioMCU",
@@ -11900,7 +12054,14 @@
    "added_at": "2026-10-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "alexsprojects0/Pen-plotter",
@@ -14741,27 +14902,6 @@
    "note": ""
   },
   {
-   "full_name": "bytedance/deer-flow",
-   "url": "https://github.com/bytedance/deer-flow",
-   "description": "字节开源的长程 SuperAgent 框架，含沙箱、记忆、工具、技能、子 agent 与消息网关",
-   "language": "",
-   "stars": 83230,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-30",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-30"
-   ]
-  },
-  {
    "full_name": "FreeCAD/FreeCAD",
    "url": "https://github.com/FreeCAD/FreeCAD",
    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
@@ -14917,6 +15057,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "enjoy-digital/litex",
+   "url": "https://github.com/enjoy-digital/litex",
+   "description": "用 Python 描述并生成 FPGA 核与 SoC 的框架，覆盖多厂商板卡与外设集成",
+   "language": "",
+   "stars": 4136,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-30",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-30"
    ]
   },
   {
@@ -16838,7 +16999,14 @@
    "added_at": "2026-10-01",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "way2pramil/awesome-kicad-projects",
@@ -17263,7 +17431,14 @@
    "added_at": "2026-10-01",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "haruto89610/rtl-nic",
@@ -17319,7 +17494,35 @@
    "added_at": "2026-10-01",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
+  },
+  {
+   "full_name": "ucb-substrate/substrate2",
+   "url": "https://github.com/ucb-substrate/substrate2",
+   "description": "以 Rust crate 形式提供的版图设计自动化工具（Substrate 2），API 尚未稳定",
+   "language": "",
+   "stars": 37,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-30",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-30"
+   ]
   },
   {
    "full_name": "zhbi98/pcb-layout-design",
@@ -17472,7 +17675,14 @@
    "added_at": "2026-10-01",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "scott-guthridge/libvna",
@@ -17913,6 +18123,48 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "EthanLowenthal/GDS-Lens-Vscode",
+   "url": "https://github.com/EthanLowenthal/GDS-Lens-Vscode",
+   "description": "GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS Code 扩展可渲染上亿多边形",
+   "language": "",
+   "stars": 11,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-30",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-30"
+   ]
+  },
+  {
+   "full_name": "matsvandamme/fishball7020-fpga-devkit",
+   "url": "https://github.com/matsvandamme/fishball7020-fpga-devkit",
+   "description": "Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 开发套件",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-30",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-30"
    ]
   },
   {
@@ -20648,7 +20900,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 155518,
+   "stars": 155519,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -20713,7 +20965,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 139594,
+   "stars": 139595,
    "topics": [
     "ai",
     "copilot",
@@ -20881,6 +21133,27 @@
    "added_at": "2026-09-13",
    "category": "AI Agent 与 LLM 工具链",
    "note": ""
+  },
+  {
+   "full_name": "bytedance/deer-flow",
+   "url": "https://github.com/bytedance/deer-flow",
+   "description": "字节开源的长程 SuperAgent 框架，含沙箱、记忆、工具、技能、子 agent 与消息网关",
+   "language": "",
+   "stars": 83230,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-30",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-30"
+   ]
   },
   {
    "full_name": "stablyai/orca",
@@ -21728,7 +22001,14 @@
    "added_at": "2026-10-01",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "browser-use/jev-ultrafast",
@@ -22197,6 +22477,27 @@
    ]
   },
   {
+   "full_name": "kvcache-ai/Mooncake",
+   "url": "https://github.com/kvcache-ai/Mooncake",
+   "description": "Kimi 的服务化推理平台，以 KVCache 为中心的分离式架构",
+   "language": "",
+   "stars": 6688,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-30",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-30"
+   ]
+  },
+  {
    "full_name": "smol-machines/smolvm",
    "url": "https://github.com/smol-machines/smolvm",
    "description": "可嵌入、可移植、可分支的轻量虚拟机，用于安全运行 agent 产出的代码",
@@ -22387,7 +22688,14 @@
    "added_at": "2026-10-01",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "xianyu110/awesome-openclaw-tutorial",
@@ -23420,6 +23728,19 @@
    ]
   },
   {
+   "full_name": "firecrawl/anydoc",
+   "url": "https://github.com/firecrawl/anydoc",
+   "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+   "language": "Rust",
+   "stars": 22310,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-09-30",
+   "category": "知识管理与笔记",
+   "note": ""
+  },
+  {
    "full_name": "rossant/awesome-math",
    "url": "https://github.com/rossant/awesome-math",
    "description": "A curated list of awesome mathematics resources",
@@ -24269,7 +24590,14 @@
    "added_at": "2026-10-01",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "cwlroda/falldetection_openpifpaf",
@@ -24409,7 +24737,14 @@
    "added_at": "2026-10-01",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "jiayi-ma/FusionGAN",
@@ -24423,7 +24758,14 @@
    "added_at": "2026-10-01",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "hli1221/imagefusion_densefuse",
@@ -24479,7 +24821,14 @@
    "added_at": "2026-10-01",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "nmatt0/moria",
@@ -24577,7 +24926,14 @@
    "added_at": "2026-10-01",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "Linfeng-Tang/VIF-Benchmark",
@@ -24675,7 +25031,14 @@
    "added_at": "2026-10-01",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-01"
+   ]
   },
   {
    "full_name": "QiaoLiuHit/LSOTB-TIR",
@@ -26113,145 +26476,6 @@
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
    "note": ""
-  },
-  {
-   "full_name": "firecrawl/anydoc",
-   "url": "https://github.com/firecrawl/anydoc",
-   "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-   "language": "Rust",
-   "stars": 22310,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-09-30",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "kvcache-ai/Mooncake",
-   "url": "https://github.com/kvcache-ai/Mooncake",
-   "description": "Kimi 的服务化推理平台，以 KVCache 为中心的分离式架构",
-   "language": "",
-   "stars": 6688,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-30"
-   ]
-  },
-  {
-   "full_name": "enjoy-digital/litex",
-   "url": "https://github.com/enjoy-digital/litex",
-   "description": "用 Python 描述并生成 FPGA 核与 SoC 的框架，覆盖多厂商板卡与外设集成",
-   "language": "",
-   "stars": 4136,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-30"
-   ]
-  },
-  {
-   "full_name": "UNIC-Lab/RadioDiff",
-   "url": "https://github.com/UNIC-Lab/RadioDiff",
-   "description": "用生成式扩散模型做无采样动态无线电地图构建，含 PINN 增强与室内版本",
-   "language": "",
-   "stars": 322,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-30"
-   ]
-  },
-  {
-   "full_name": "ucb-substrate/substrate2",
-   "url": "https://github.com/ucb-substrate/substrate2",
-   "description": "以 Rust crate 形式提供的版图设计自动化工具（Substrate 2），API 尚未稳定",
-   "language": "",
-   "stars": 37,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-30"
-   ]
-  },
-  {
-   "full_name": "EthanLowenthal/GDS-Lens-Vscode",
-   "url": "https://github.com/EthanLowenthal/GDS-Lens-Vscode",
-   "description": "GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS Code 扩展可渲染上亿多边形",
-   "language": "",
-   "stars": 11,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-30"
-   ]
-  },
-  {
-   "full_name": "matsvandamme/fishball7020-fpga-devkit",
-   "url": "https://github.com/matsvandamme/fishball7020-fpga-devkit",
-   "description": "Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 开发套件",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-30"
-   ]
   }
  ]
 }

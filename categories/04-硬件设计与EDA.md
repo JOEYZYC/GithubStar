@@ -1,14 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 154 个项目 · 数据更新时间 2026-10-01 · [返回总览](../README.md)
-
----
-
-#### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
-`★83,230 · ⭐🔥 已 star + 热点推荐`
-字节开源的长程 SuperAgent 框架，含沙箱、记忆、工具、技能、子 agent 与消息网关
-> 热点推荐于 2026-09-30
-> 收录日期：2026-09-30
+> 共 157 个项目 · 数据更新时间 2026-10-01 · [返回总览](../README.md)
 
 ---
 
@@ -63,6 +55,14 @@ Chisel：用 Scala 写硬件描述语言的现代 HDL 框架，生成 Verilog �
 KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [enjoy-digital/litex](https://github.com/enjoy-digital/litex)
+`★4,136 · ⭐🔥 已 star + 热点推荐`
+用 Python 描述并生成 FPGA 核与 SoC 的框架，覆盖多厂商板卡与外设集成
+> 热点推荐于 2026-09-30
+> 收录日期：2026-09-30
 
 ---
 
@@ -781,8 +781,9 @@ FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开�
 ---
 
 #### [exeex/edge-cores](https://github.com/exeex/edge-cores)
-`★110 · 🔥 热点推荐`
+`★110 · ⭐🔥 已 star + 热点推荐`
 从 PyTorch 到自研 ASIC 的最短路径：面向边缘 AI 的可综合加速核
+> 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
 
 ---
@@ -939,8 +940,9 @@ Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余�
 ---
 
 #### [bodsvei/2D-systolic-array](https://github.com/bodsvei/2D-systolic-array)
-`★44 · 🔥 热点推荐`
+`★44 · ⭐🔥 已 star + 热点推荐`
 可参数化的权重固定 2D 脉动阵列（Verilog），硬件加速矩阵乘法
+> 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
 
 ---
@@ -962,9 +964,18 @@ Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余�
 ---
 
 #### [BasisResearch/ship-your-interpreter](https://github.com/BasisResearch/ship-your-interpreter)
-`★37 · 🔥 热点推荐`
+`★37 · ⭐🔥 已 star + 热点推荐`
 Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正确性，零 sorry
+> 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
+
+---
+
+#### [ucb-substrate/substrate2](https://github.com/ucb-substrate/substrate2)
+`★37 · ⭐🔥 已 star + 热点推荐`
+以 Rust crate 形式提供的版图设计自动化工具（Substrate 2），API 尚未稳定
+> 热点推荐于 2026-09-30
+> 收录日期：2026-09-30
 
 ---
 
@@ -1024,8 +1035,9 @@ AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
 ---
 
 #### [senolgulgonul/verisim](https://github.com/senolgulgonul/verisim)
-`★24 · 🔥 热点推荐`
+`★24 · ⭐🔥 已 star + 热点推荐`
 把 Icarus Verilog 编译为 WebAssembly，浏览器里纯前端跑 Verilog 仿真
+> 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
 
 ---
@@ -1195,6 +1207,22 @@ MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）
 MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放
 > 热点推荐于 2026-09-24
 > 收录日期：2026-09-24
+
+---
+
+#### [EthanLowenthal/GDS-Lens-Vscode](https://github.com/EthanLowenthal/GDS-Lens-Vscode)
+`★11 · ⭐🔥 已 star + 热点推荐`
+GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS Code 扩展可渲染上亿多边形
+> 热点推荐于 2026-09-30
+> 收录日期：2026-09-30
+
+---
+
+#### [matsvandamme/fishball7020-fpga-devkit](https://github.com/matsvandamme/fishball7020-fpga-devkit)
+`★10 · ⭐🔥 已 star + 热点推荐`
+Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 开发套件
+> 热点推荐于 2026-09-30
+> 收录日期：2026-09-30
 
 ---
 
