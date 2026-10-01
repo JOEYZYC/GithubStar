@@ -87,6 +87,32 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-02：本轮 36 条，规则误判 / 待归类风险 19 条 ----
+    # 电磁仿真与超表面（准静态提取、非结构网格、严格解、形式化验证均不在关键词表）
+    "ediloren/FastHenry2": "电磁仿真与超表面",                  # PEEC 电感提取求解器
+    "ediloren/FastCap2": "电磁仿真与超表面",                    # BEM 电容提取求解器
+    "AMReX-Microelectronics/artemis": "电磁仿真与超表面",        # AMR 时域电动力学 + 漂移扩散
+    "fancompute/legume": "电磁仿真与超表面",                     # 光子晶体板导模展开（GME）
+    "wsshin/fd3d": "电磁仿真与超表面",                           # 迭代 FDFD Maxwell 求解器
+    "OpenSEMBA/dgtd": "电磁仿真与超表面",                        # DGTD 间断伽辽金时域求解器
+    "lanyonai/MaxwellEquations": "电磁仿真与超表面",             # Lean 4 形式化验证 Maxwell 求解器
+    "johnaparker/miepy": "电磁仿真与超表面",                     # 多粒子 Mie 严格解（颗粒簇散射/吸收）
+    # 硬件设计与 EDA（"仿真" 关键词会先被电磁规则吃掉；编译器/验证框架不在关键词表）
+    "cocotb/cocotb": "硬件设计与 EDA",                          # Python 协同仿真验证框架
+    "MikePopoloski/slang": "硬件设计与 EDA",                    # SystemVerilog 编译器与语言服务
+    "SpinalHDL/SpinalHDL": "硬件设计与 EDA",                    # Scala HDL
+    "zeroasiccorp/switchboard": "硬件设计与 EDA",                # RTL 仿真-仿真器通信框架
+    "LibreSolar/bms-c1": "硬件设计与 EDA",                      # 16S/100A 开源 BMS 硬件
+    "conol-ai/openmicrokbd": "硬件设计与 EDA",                   # CoHDL 写的宏键盘 PCB + Rust 固件
+    # 飞控与无人机
+    "olliw42/mLRS": "飞控与无人机",                             # LoRa 遥控/遥测链路（ELRS 之外第二套）
+    "generalroboticslab/SonicFly": "飞控与无人机",               # 气动声学相对感知（论文配套代码）
+    # 无线通信与感知
+    "aqibsaeed/Human-Activity-Recognition-using-CNN": "无线通信与感知",  # IMU HAR 一维 CNN 基线
+    # AI 模型与视觉
+    "wdhudiekou/UMF-CMGR": "AI 模型与视觉",                     # 未配准红外-可见光融合（同 MSRS 口径）
+    # AI Agent 与 LLM 工具链
+    "gokeshenzhen/TraceWeave": "AI Agent 与 LLM 工具链",         # RTL 调试 MCP 服务器（描述含"仿真"会误入电磁）
     # ---- 2026-10-01：本轮 34 条，6 条落待归类 + 4 条规则误判 ----
     # 嵌入式与单片机
     "windowsair/elaphureLink": "嵌入式与单片机",              # CMSIS-DAP 网络调试服务器（Keil 远程调试）

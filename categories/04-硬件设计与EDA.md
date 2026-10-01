@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 157 个项目 · 数据更新时间 2026-10-01 · [返回总览](../README.md)
+> 共 164 个项目 · 数据更新时间 2026-10-02 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,867 · C++ · ⭐ 已 star`
+`★33,885 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,511 · Python · ⭐ 已 star`
+`★16,531 · Python · ⭐ 已 star`
 Give your agent CAD superpowers.
 > 收录日期：2026-09-13
 
@@ -123,7 +123,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,935 · C++ · ⭐ 已 star`
+`★2,937 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -138,14 +138,21 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,571 · Python · ⭐ 已 star`
+`★2,604 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
+#### [cocotb/cocotb](https://github.com/cocotb/cocotb)
+`★2,529 · 🔥 热点推荐`
+Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准，替代一大半 SystemVerilog testbench
+> 收录日期：2026-10-02
+
+---
+
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,369 · Rust · ⭐ 已 star`
+`★2,389 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -172,6 +179,13 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [SpinalHDL/SpinalHDL](https://github.com/SpinalHDL/SpinalHDL)
+`★2,051 · 🔥 热点推荐`
+基于 Scala 的硬件描述语言，用元编程生成参数化 Verilog/VHDL，比 Chisel 更贴近 RTL 语义
+> 收录日期：2026-10-02
 
 ---
 
@@ -239,11 +253,25 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 
 ---
 
+#### [MikePopoloski/slang](https://github.com/MikePopoloski/slang)
+`★1,154 · 🔥 热点推荐`
+SystemVerilog 编译器与语言服务前端，支撑 lint、格式化与 IDE 补全，开源 RTL 基建的核心组件
+> 收录日期：2026-10-02
+
+---
+
 #### [OpenHantek/OpenHantek6022](https://github.com/OpenHantek/OpenHantek6022)
 `★1,120 · ⭐🔥 已 star + 热点推荐`
 Hantek 6022BE/BL USB 示波器的开源上位机软件
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [creapunk/CLN-ClosedLoopNemaDriver](https://github.com/creapunk/CLN-ClosedLoopNemaDriver)
+`★1,101 · 🔥 热点推荐`
+NEMA 步进电机闭环驱动器开源硬件，含位置环算法与原理图，自制闭环驱动可参考
+> 收录日期：2026-10-02
 
 ---
 
@@ -478,6 +506,13 @@ SEEK 紧凑型热像模块的 Linux 驱动与采集库
 
 ---
 
+#### [zeroasiccorp/switchboard](https://github.com/zeroasiccorp/switchboard)
+`★324 · 🔥 热点推荐`
+RTL 仿真与硬件仿真之间的通信框架，用 Python 声明式连线路由，跨仿真器可移植
+> 收录日期：2026-10-02
+
+---
+
 #### [leswright1977/PyThermalCamera](https://github.com/leswright1977/PyThermalCamera)
 `★318 · ⭐🔥 已 star + 热点推荐`
 Topdon TC001 热像仪在 Linux 与树莓派上的采集软件
@@ -531,6 +566,13 @@ eFPGA 生成器与配套 CAD 工具链
 gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表生成与 PCB 工具链
 > 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
+
+---
+
+#### [LibreSolar/bms-c1](https://github.com/LibreSolar/bms-c1)
+`★262 · 🔥 热点推荐`
+16 串 100A 开源电池管理系统，KiCad 原理图与 PCB 齐全，大电流 BMS 硬件设计参考
+> 收录日期：2026-10-02
 
 ---
 
@@ -721,6 +763,13 @@ AMD 官方开源的最简图像信号处理（ISP）Verilog 实现，仅占 PL �
 KiCad 9+ 的 MCP 服务器：原理图分析、引脚级网表追踪、无头 ERC/DRC 以及 .dts 与测试代码生成
 > 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
+
+---
+
+#### [conol-ai/openmicrokbd](https://github.com/conol-ai/openmicrokbd)
+`★134 · 🔥 热点推荐`
+复刻 OpenAI Codex Micro 宏键盘的开源硬件，PCB 用 AI 原生硬件描述语言 CoHDL 编写
+> 收录日期：2026-10-02
 
 ---
 

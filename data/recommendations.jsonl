@@ -1099,3 +1099,39 @@
 {"url": "https://github.com/bodsvei/2D-systolic-array", "stars": 44, "desc": "可参数化的权重固定 2D 脉动阵列（Verilog），硬件加速矩阵乘法", "date": "2026-10-01"}
 {"url": "https://github.com/BasisResearch/ship-your-interpreter", "stars": 37, "desc": "Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正确性，零 sorry", "date": "2026-10-01"}
 {"url": "https://github.com/senolgulgonul/verisim", "stars": 24, "desc": "把 Icarus Verilog 编译为 WebAssembly，浏览器里纯前端跑 Verilog 仿真", "date": "2026-10-01"}
+{"url": "https://github.com/openai/codex", "stars": 127542, "desc": "OpenAI 官方终端编码 agent，Rust 实现，当日涨星 172★", "date": "2026-10-02"}
+{"url": "https://github.com/earendil-works/pi", "stars": 111182, "desc": "统一 LLM 接口 + agent 循环 + TUI 的 AI agent 工具箱，当日涨星 294★ 居总榜第一", "date": "2026-10-02"}
+{"url": "https://github.com/PrimeIntellect-ai/prime-agent", "stars": 21460, "desc": "面向长任务与编码流程的自改进 RLM agent，Rust 实现，当日涨星 51★", "date": "2026-10-02"}
+{"url": "https://github.com/google/skills", "stars": 20567, "desc": "Google 官方出品的 Agent Skills 集合，用技能包让 agent 操作自家产品与技术栈", "date": "2026-10-02"}
+{"url": "https://github.com/gyroflow/gyroflow", "stars": 9553, "desc": "用陀螺仪数据做视频增稳的桌面工具，支持从飞控日志读 IMU 数据，FPV 影像后处理标准流程", "date": "2026-10-02"}
+{"url": "https://github.com/cocotb/cocotb", "stars": 2529, "desc": "Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准，替代一大半 SystemVerilog testbench", "date": "2026-10-02"}
+{"url": "https://github.com/rtic-rs/rtic", "stars": 2414, "desc": "Cortex-M 上的实时中断驱动并发框架，用 Rust 静态保证中断优先级不冲突，硬实时任务的替代范式", "date": "2026-10-02"}
+{"url": "https://github.com/SpinalHDL/SpinalHDL", "stars": 2051, "desc": "基于 Scala 的硬件描述语言，用元编程生成参数化 Verilog/VHDL，比 Chisel 更贴近 RTL 语义", "date": "2026-10-02"}
+{"url": "https://github.com/rmk-rs/rmk", "stars": 1768, "desc": "Rust 写的现代键盘固件，支持 BLE 与有线双模、Vial 改键，嵌入式 HID 应用的完整样例", "date": "2026-10-02"}
+{"url": "https://github.com/cnlohr/ch32fun", "stars": 1619, "desc": "WCH CH32/CH5xx RISC-V 单片机的最小依赖开发栈，无厂商 IDE 也能编译烧录", "date": "2026-10-02"}
+{"url": "https://github.com/MikePopoloski/slang", "stars": 1154, "desc": "SystemVerilog 编译器与语言服务前端，支撑 lint、格式化与 IDE 补全，开源 RTL 基建的核心组件", "date": "2026-10-02"}
+{"url": "https://github.com/creapunk/CLN-ClosedLoopNemaDriver", "stars": 1101, "desc": "NEMA 步进电机闭环驱动器开源硬件，含位置环算法与原理图，自制闭环驱动可参考", "date": "2026-10-02"}
+{"url": "https://github.com/uzh-rpg/rpg_quadrotor_control", "stars": 727, "desc": "苏黎世联邦理工的四旋翼控制框架，状态估计、轨迹规划与控制分层，学术级参考实现", "date": "2026-10-02"}
+{"url": "https://github.com/xtoolbox/TeenyUSB", "stars": 615, "desc": "面向 STM32 与其他 MCU 的轻量 USB 设备/主机协议栈，体积小、已支持 USB 3.0 设备", "date": "2026-10-02"}
+{"url": "https://github.com/olliw42/mLRS", "stars": 614, "desc": "LoRa 多频段遥控与遥测链路（2.4G/915/868/433MHz），ELRS 之外的另一套开源 RC 链路体系", "date": "2026-10-02"}
+{"url": "https://github.com/yaapu/FrskyTelemetryScript", "stars": 582, "desc": "OpenTX/EdgeTX 遥控器上的 Lua 遥测脚本，通过 FrSky 透传显示 ArduPilot 全量遥测", "date": "2026-10-02"}
+{"url": "https://github.com/uzh-rpg/high_mpc", "stars": 549, "desc": "敏捷飞行的模型预测控制策略搜索代码，用 MPC 可微性直接优化控制策略参数", "date": "2026-10-02"}
+{"url": "https://github.com/Jaeyoung-Lim/mavros_controllers", "stars": 509, "desc": "PX4 上的激进轨迹跟踪控制器（几何控制 + MAVROS），把学术控制律接进真实飞控", "date": "2026-10-02"}
+{"url": "https://github.com/aqibsaeed/Human-Activity-Recognition-using-CNN", "stars": 485, "desc": "用一维卷积网络做手机传感器人体动作识别，TensorFlow 教程级实现，HAR 基线模型常用参照", "date": "2026-10-02"}
+{"url": "https://github.com/haoranD/Awesome-Human-Activity-Recognition", "stars": 340, "desc": "IMU 人体动作识别方向的论文与数据集清单，持续更新", "date": "2026-10-02"}
+{"url": "https://github.com/zeroasiccorp/switchboard", "stars": 324, "desc": "RTL 仿真与硬件仿真之间的通信框架，用 Python 声明式连线路由，跨仿真器可移植", "date": "2026-10-02"}
+{"url": "https://github.com/LibreSolar/bms-c1", "stars": 262, "desc": "16 串 100A 开源电池管理系统，KiCad 原理图与 PCB 齐全，大电流 BMS 硬件设计参考", "date": "2026-10-02"}
+{"url": "https://github.com/nesl/RadHAR", "stars": 244, "desc": "用毫米波雷达点云做人体动作识别，毫米波感知与深度模型结合的完整开源实现", "date": "2026-10-02"}
+{"url": "https://github.com/wdhudiekou/UMF-CMGR", "stars": 238, "desc": "未配准红外与可见光图像融合（IJCAI2022），跨模态生成与配准、融合一体，直击双光融合的配准难题", "date": "2026-10-02"}
+{"url": "https://github.com/fancompute/legume", "stars": 150, "desc": "光子晶体板的导模展开（GME）求解器，Python 秒级算出能带与透射谱，周期单元分析的第三条数值路线", "date": "2026-10-02"}
+{"url": "https://github.com/conol-ai/openmicrokbd", "stars": 134, "desc": "复刻 OpenAI Codex Micro 宏键盘的开源硬件，PCB 用 AI 原生硬件描述语言 CoHDL 编写", "date": "2026-10-02"}
+{"url": "https://github.com/ventZl/cmrx", "stars": 129, "desc": "面向无 MMU 单片机的内存保护微内核实时操作系统，用 MPU 做内存隔离", "date": "2026-10-02"}
+{"url": "https://github.com/gokeshenzhen/TraceWeave", "stars": 117, "desc": "面向 RTL 仿真调试的 MCP 服务器，关联 VCS/Xcelium 日志与 VCD/FSDB 波形，agent 直读验证数据", "date": "2026-10-02"}
+{"url": "https://github.com/ediloren/FastHenry2", "stars": 84, "desc": "MIT 经典的电感提取求解器（PEEC 部分元等效电路），多导体三维互感的黄金参考实现", "date": "2026-10-02"}
+{"url": "https://github.com/ediloren/FastCap2", "stars": 53, "desc": "MIT 经典的电容提取求解器（边界元法），三维导体系统寄生电容的参考实现", "date": "2026-10-02"}
+{"url": "https://github.com/AMReX-Microelectronics/artemis", "stars": 48, "desc": "ARTEMIS 时域电动力学求解器，用自适应网格（AMR）耦合 Maxwell 方程与半导体漂移扩散", "date": "2026-10-02"}
+{"url": "https://github.com/johnaparker/miepy", "stars": 46, "desc": "通用多粒子 Mie 理论 Python 库，严格解颗粒簇的散射与吸收，可作吸收体颗粒模型对照", "date": "2026-10-02"}
+{"url": "https://github.com/lanyonai/MaxwellEquations", "stars": 44, "desc": "Lean 4 中端到端形式化验证的 Maxwell 方程求解器，1D/2D/3D 均给出机器可检验的正确性证明", "date": "2026-10-02"}
+{"url": "https://github.com/generalroboticslab/SonicFly", "stars": 44, "desc": "利用螺旋桨气动声学做空中机器人之间的相对感知与追踪，不依赖视觉与无线电", "date": "2026-10-02"}
+{"url": "https://github.com/wsshin/fd3d", "stars": 40, "desc": "面向大型三维问题的迭代 FDFD Maxwell 求解器，C 语言实现，适合频域周期结构算例", "date": "2026-10-02"}
+{"url": "https://github.com/OpenSEMBA/dgtd", "stars": 35, "desc": "间断伽辽金时域（DGTD）Maxwell 方程求解器，非结构网格上处理复杂几何", "date": "2026-10-02"}
