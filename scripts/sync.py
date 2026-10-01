@@ -107,6 +107,7 @@ OVERRIDES: dict[str, str] = {
     # 飞控与无人机
     "olliw42/mLRS": "飞控与无人机",                             # LoRa 遥控/遥测链路（ELRS 之外第二套）
     "generalroboticslab/SonicFly": "飞控与无人机",               # 气动声学相对感知（论文配套代码）
+    "uzh-rpg/high_mpc": "飞控与无人机",                          # MPC 敏捷飞行策略搜索（规则未命中落待归类）
     # 无线通信与感知
     "aqibsaeed/Human-Activity-Recognition-using-CNN": "无线通信与感知",  # IMU HAR 一维 CNN 基线
     # AI 模型与视觉

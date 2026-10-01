@@ -145,8 +145,9 @@ FreeCAD MCP(Model Context Protocol) server
 ---
 
 #### [cocotb/cocotb](https://github.com/cocotb/cocotb)
-`★2,529 · 🔥 热点推荐`
+`★2,529 · ⭐🔥 已 star + 热点推荐`
 Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准，替代一大半 SystemVerilog testbench
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -183,8 +184,9 @@ KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 ---
 
 #### [SpinalHDL/SpinalHDL](https://github.com/SpinalHDL/SpinalHDL)
-`★2,051 · 🔥 热点推荐`
+`★2,051 · ⭐🔥 已 star + 热点推荐`
 基于 Scala 的硬件描述语言，用元编程生成参数化 Verilog/VHDL，比 Chisel 更贴近 RTL 语义
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -254,8 +256,9 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [MikePopoloski/slang](https://github.com/MikePopoloski/slang)
-`★1,154 · 🔥 热点推荐`
+`★1,154 · ⭐🔥 已 star + 热点推荐`
 SystemVerilog 编译器与语言服务前端，支撑 lint、格式化与 IDE 补全，开源 RTL 基建的核心组件
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -269,8 +272,9 @@ Hantek 6022BE/BL USB 示波器的开源上位机软件
 ---
 
 #### [creapunk/CLN-ClosedLoopNemaDriver](https://github.com/creapunk/CLN-ClosedLoopNemaDriver)
-`★1,101 · 🔥 热点推荐`
+`★1,101 · ⭐🔥 已 star + 热点推荐`
 NEMA 步进电机闭环驱动器开源硬件，含位置环算法与原理图，自制闭环驱动可参考
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -507,8 +511,9 @@ SEEK 紧凑型热像模块的 Linux 驱动与采集库
 ---
 
 #### [zeroasiccorp/switchboard](https://github.com/zeroasiccorp/switchboard)
-`★324 · 🔥 热点推荐`
+`★324 · ⭐🔥 已 star + 热点推荐`
 RTL 仿真与硬件仿真之间的通信框架，用 Python 声明式连线路由，跨仿真器可移植
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -570,8 +575,9 @@ gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表�
 ---
 
 #### [LibreSolar/bms-c1](https://github.com/LibreSolar/bms-c1)
-`★262 · 🔥 热点推荐`
+`★262 · ⭐🔥 已 star + 热点推荐`
 16 串 100A 开源电池管理系统，KiCad 原理图与 PCB 齐全，大电流 BMS 硬件设计参考
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -767,8 +773,9 @@ KiCad 9+ 的 MCP 服务器：原理图分析、引脚级网表追踪、无头 ER
 ---
 
 #### [conol-ai/openmicrokbd](https://github.com/conol-ai/openmicrokbd)
-`★134 · 🔥 热点推荐`
+`★134 · ⭐🔥 已 star + 热点推荐`
 复刻 OpenAI Codex Micro 宏键盘的开源硬件，PCB 用 AI 原生硬件描述语言 CoHDL 编写
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---

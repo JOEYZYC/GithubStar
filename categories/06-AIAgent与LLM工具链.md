@@ -93,8 +93,9 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 ---
 
 #### [openai/codex](https://github.com/openai/codex)
-`★127,542 · 🔥 热点推荐`
+`★127,542 · ⭐🔥 已 star + 热点推荐`
 OpenAI 官方终端编码 agent，Rust 实现，当日涨星 172★
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -438,15 +439,17 @@ Fastest and cheapest web agent
 ---
 
 #### [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
-`★21,460 · 🔥 热点推荐`
+`★21,460 · ⭐🔥 已 star + 热点推荐`
 面向长任务与编码流程的自改进 RLM agent，Rust 实现，当日涨星 51★
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
 
 #### [google/skills](https://github.com/google/skills)
-`★20,567 · 🔥 热点推荐`
+`★20,567 · ⭐🔥 已 star + 热点推荐`
 Google 官方出品的 Agent Skills 集合，用技能包让 agent 操作自家产品与技术栈
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---
@@ -891,8 +894,9 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 ---
 
 #### [gokeshenzhen/TraceWeave](https://github.com/gokeshenzhen/TraceWeave)
-`★117 · 🔥 热点推荐`
+`★117 · ⭐🔥 已 star + 热点推荐`
 面向 RTL 仿真调试的 MCP 服务器，关联 VCS/Xcelium 日志与 VCD/FSDB 波形，agent 直读验证数据
+> 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
 
 ---

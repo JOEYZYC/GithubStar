@@ -68,7 +68,14 @@
    "added_at": "2026-10-02",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "OpenDroneMap/ODM",
@@ -820,7 +827,14 @@
    "added_at": "2026-10-02",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "Matthias84/awesome-flying-fpv",
@@ -918,7 +932,14 @@
    "added_at": "2026-10-02",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "JacopoPan/aerial-autonomy-stack",
@@ -953,7 +974,14 @@
    "added_at": "2026-10-02",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "lightorigins/LightNav-0",
@@ -1019,6 +1047,27 @@
    ]
   },
   {
+   "full_name": "uzh-rpg/high_mpc",
+   "url": "https://github.com/uzh-rpg/high_mpc",
+   "description": "敏捷飞行的模型预测控制策略搜索代码，用 MPC 可微性直接优化控制策略参数",
+   "language": "",
+   "stars": 549,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-02",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
+  },
+  {
    "full_name": "Jaeyoung-Lim/mavros_controllers",
    "url": "https://github.com/Jaeyoung-Lim/mavros_controllers",
    "description": "PX4 上的激进轨迹跟踪控制器（几何控制 + MAVROS），把学术控制律接进真实飞控",
@@ -1030,7 +1079,14 @@
    "added_at": "2026-10-02",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "betaflight/blackbox-log-viewer",
@@ -2767,7 +2823,14 @@
    "added_at": "2026-10-02",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "alebal123bal/luckfox_UAV_detection",
@@ -4689,7 +4752,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "KJ7LNW/xnec2c",
@@ -5060,7 +5130,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "zhaolin820/stars-enabled-integrated-sensing-and-communications",
@@ -5410,7 +5487,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "jimrains/OpenRIS",
@@ -5508,7 +5592,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "johnaparker/miepy",
@@ -5522,7 +5613,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "renanmav/pycst",
@@ -5641,7 +5739,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "Iraeis/circe",
@@ -5697,7 +5802,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "gems-uff/pypofacets",
@@ -5858,7 +5970,14 @@
    "added_at": "2026-10-02",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "ra3xdh/qucsator_rf",
@@ -8153,7 +8272,14 @@
    "added_at": "2026-10-02",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "ucb-bar/chipyard",
@@ -8492,7 +8618,14 @@
    "added_at": "2026-10-02",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "sekigon-gonnoc/Pico-PIO-USB",
@@ -8590,7 +8723,14 @@
    "added_at": "2026-10-02",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "SuperHouse/esp-open-rtos",
@@ -9669,7 +9809,14 @@
    "added_at": "2026-10-02",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "ai-techsystems/deepC",
@@ -11285,7 +11432,14 @@
    "added_at": "2026-10-02",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "Liwuyuee/xiaozhi-esp32-local",
@@ -15570,7 +15724,14 @@
    "added_at": "2026-10-02",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "HakanSeven12/OpenCADStudio",
@@ -15680,7 +15841,14 @@
    "added_at": "2026-10-02",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "yaqwsx/KiKit",
@@ -15882,7 +16050,14 @@
    "added_at": "2026-10-02",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "OpenHantek/OpenHantek6022",
@@ -15917,7 +16092,14 @@
    "added_at": "2026-10-02",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "wagiminator/ATmega-Soldering-Station",
@@ -16531,7 +16713,14 @@
    "added_at": "2026-10-02",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "leswright1977/PyThermalCamera",
@@ -16692,7 +16881,14 @@
    "added_at": "2026-10-02",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "LeoDJ/P2Pro-Viewer",
@@ -17202,7 +17398,14 @@
    "added_at": "2026-10-02",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "92es/Thermal-Camera-Redux",
@@ -19043,7 +19246,14 @@
    "added_at": "2026-10-02",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "seemoo-lab/nexmon_csi",
@@ -19099,7 +19309,14 @@
    "added_at": "2026-10-02",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "wuzhiguocarter/Awesome-WiFi-CSI-Research",
@@ -19281,7 +19498,14 @@
    "added_at": "2026-10-02",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "skizzophrenic/Cardputer-CSI-Human-Detector",
@@ -21432,7 +21656,14 @@
    "added_at": "2026-10-02",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "earendil-works/pi",
@@ -22462,7 +22693,14 @@
    "added_at": "2026-10-02",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "google/skills",
@@ -22476,7 +22714,14 @@
    "added_at": "2026-10-02",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "op7418/Humanizer-zh",
@@ -23709,7 +23954,14 @@
    "added_at": "2026-10-02",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "FAIRY123456789/human-edge-agent-skills",
@@ -24511,7 +24763,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
    "language": "Python",
-   "stars": 63044,
+   "stars": 63043,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -25408,7 +25660,14 @@
    "added_at": "2026-10-02",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   },
   {
    "full_name": "Linfeng-Tang/PSFusion",
@@ -26971,20 +27230,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "uzh-rpg/high_mpc",
-   "url": "https://github.com/uzh-rpg/high_mpc",
-   "description": "敏捷飞行的模型预测控制策略搜索代码，用 MPC 可微性直接优化控制策略参数",
-   "language": "",
-   "stars": 549,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-02",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
