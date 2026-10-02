@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 164 个项目 · 数据更新时间 2026-10-02 · [返回总览](../README.md)
+> 共 172 个项目 · 数据更新时间 2026-10-03 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,885 · C++ · ⭐ 已 star`
+`★33,900 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,531 · Python · ⭐ 已 star`
+`★16,541 · Python · ⭐ 已 star`
 Give your agent CAD superpowers.
 > 收录日期：2026-09-13
 
@@ -123,9 +123,16 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,937 · C++ · ⭐ 已 star`
+`★2,939 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
+
+---
+
+#### [ghdl/ghdl](https://github.com/ghdl/ghdl)
+`★2,898 · 🔥 热点推荐`
+开源 VHDL 仿真器与综合前端，VHDL 语言的参考实现
+> 收录日期：2026-10-03
 
 ---
 
@@ -138,7 +145,7 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,604 · Python · ⭐ 已 star`
+`★2,621 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -153,7 +160,7 @@ Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,389 · Rust · ⭐ 已 star`
+`★2,404 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -196,6 +203,27 @@ KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 KiCad 自动化工具集：拼板面板化、BOM 与装配图
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [chipsalliance/verible](https://github.com/chipsalliance/verible)
+`★1,950 · 🔥 热点推荐`
+CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式化器与语言服务
+> 收录日期：2026-10-03
+
+---
+
+#### [pulp-platform/axi](https://github.com/pulp-platform/axi)
+`★1,712 · 🔥 热点推荐`
+AXI4 可综合总线 IP 库与配套验证 IP（SystemVerilog）
+> 收录日期：2026-10-03
+
+---
+
+#### [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler)
+`★1,619 · 🔥 热点推荐`
+把 Haskell 编译为 VHDL/Verilog 的宿主语言 HDL 编译器
+> 收录日期：2026-10-03
 
 ---
 
@@ -319,6 +347,13 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 
 ---
 
+#### [Green-bms/SmartBMS](https://github.com/Green-bms/SmartBMS)
+`★751 · 🔥 热点推荐`
+开源智能电池管理系统，支持多化学体系与 CAN/RS485 通信，含开源硬件
+> 收录日期：2026-10-03
+
+---
+
 #### [Hanqaqa/Easyduino](https://github.com/Hanqaqa/Easyduino)
 `★745 · ⭐🔥 已 star + 热点推荐`
 常见 MCU 开发板的 KiCad 开源硬件集（Uno/ESP32/Pico/Bluepill 统一为 USB-C 接口），已打样验证，CERN-OHL-P-2.0
@@ -392,7 +427,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★565 · C · ⭐ 已 star`
+`★566 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -884,6 +919,13 @@ MCP server for KiCad, connecting AI agents to schematic and PCB workflows, ERC/D
 
 ---
 
+#### [a2307588073-arch/zynq-yolov3-tiny-accelerator](https://github.com/a2307588073-arch/zynq-yolov3-tiny-accelerator)
+`★99 · 🔥 热点推荐`
+Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机全管线（Verilog）
+> 收录日期：2026-10-03
+
+---
+
 #### [WiHarper/nfc_card](https://github.com/WiHarper/nfc_card)
 `★98 · ⭐🔥 已 star + 热点推荐`
 开源 NFC 有源 PCB 电子名片，含天线设计与完整工程文件
@@ -992,6 +1034,13 @@ AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
 Analogue Pocket 的 openFPGA 核心：用 Verilog 建模 DMG 液晶串扰、余晖与反射层
 > 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
+
+---
+
+#### [Verilean/hesper](https://github.com/Verilean/hesper)
+`★45 · 🔥 热点推荐`
+Lean 4 中的可验证 GPU 编程框架
+> 收录日期：2026-10-03
 
 ---
 
@@ -1279,6 +1328,13 @@ GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS 
 Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 开发套件
 > 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
+
+---
+
+#### [Verified-zkEVM/riscv-zkvm](https://github.com/Verified-zkEVM/riscv-zkvm)
+`★10 · 🔥 热点推荐`
+从 Sail RISC-V 规格提取的 Lean 模型，用于 zkVM 形式化验证
+> 收录日期：2026-10-03
 
 ---
 

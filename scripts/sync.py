@@ -87,6 +87,34 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-03：本轮 34 条，规则误判 / 待归类风险 22 条 ----
+    # 飞控与无人机（电调固件谱系 + 集群/空中操作仿真；"仿真" 关键词会被电磁规则先吃掉）
+    "bitdump/BLHeli": "飞控与无人机",                            # 8 位 AVR 电调固件基线
+    "sim-/tgy": "飞控与无人机",                                  # ATmega 8 位电调开源固件（谱系起点）
+    "AlkaMotors/AM32-MultiRotor-ESC-firmware": "飞控与无人机",   # 32 位 STM32 数字电调固件
+    "learnsyslab/safe-control-gym": "飞控与无人机",              # 四旋翼/车辆安全控制仿真基准
+    "ambench/ambench": "飞控与无人机",                           # 空中操作基准（描述含"仿真"会误入电磁）
+    "srl-ethz/osprey": "飞控与无人机",                           # 软体空中操作平台
+    # 硬件设计与 EDA（HDL 工具链 / 加速器 / 形式化验证均不在关键词表）
+    "ghdl/ghdl": "硬件设计与 EDA",                               # VHDL 仿真器（"仿真" 被电磁规则误吃）
+    "chipsalliance/verible": "硬件设计与 EDA",                    # SystemVerilog linter/formatter/LS
+    "pulp-platform/axi": "硬件设计与 EDA",                        # AXI4 可综合 IP + VIP
+    "clash-lang/clash-compiler": "硬件设计与 EDA",                # Haskell→VHDL/Verilog 编译器
+    "a2307588073-arch/zynq-yolov3-tiny-accelerator": "硬件设计与 EDA",  # Zynq INT8 视觉加速器（"yolo" 会误入 AI 视觉）
+    "Verilean/hesper": "硬件设计与 EDA",                          # Lean 4 可验证 GPU 编程（同 ship-your-interpreter 口径）
+    "Verified-zkEVM/riscv-zkvm": "硬件设计与 EDA",                # Sail RISC-V → Lean 形式化模型
+    "Green-bms/SmartBMS": "硬件设计与 EDA",                       # 开源 BMS 硬件（同 bms-c1 口径）
+    # 嵌入式与单片机
+    "libusb/hidapi": "嵌入式与单片机",                            # USB HID 主机侧库（规则未命中落待归类）
+    "CANopenNode/CANopenNode": "嵌入式与单片机",                  # CANopen 应用层协议栈（规则未命中）
+    # 电磁仿真与超表面
+    "RedBlight/EFVIE-MoM": "电磁仿真与超表面",                    # 体积分方程 + 矩量法（有耗介质体散射）
+    "jmakitalo/for90-mom2": "电磁仿真与超表面",                   # Fortran 矩量法积分算子
+    "xiumingzhang/photonic-bandgap-comsol-matlab": "电磁仿真与超表面",  # COMSOL 脚本化计算光子晶体带隙
+    "ntotorica/SMP_Passivity_Enforcement": "电磁仿真与超表面",    # S 参数无源性强制
+    # 无线通信与感知（"esp32" 会先被嵌入式规则吃掉，本项目属 CSI 采集链）
+    "RikeshMMM/ESP32-CSI-Python-Parser": "无线通信与感知",        # ESP-IDF CSI 数据解析
+    "MoWiNG-Lab/CSI-Pi": "无线通信与感知",                        # 多块 ESP32 同步 CSI 采集平台
     # ---- 2026-10-02：本轮 36 条，规则误判 / 待归类风险 19 条 ----
     # 电磁仿真与超表面（准静态提取、非结构网格、严格解、形式化验证均不在关键词表）
     "ediloren/FastHenry2": "电磁仿真与超表面",                  # PEEC 电感提取求解器

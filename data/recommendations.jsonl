@@ -1135,3 +1135,37 @@
 {"url": "https://github.com/generalroboticslab/SonicFly", "stars": 44, "desc": "利用螺旋桨气动声学做空中机器人之间的相对感知与追踪，不依赖视觉与无线电", "date": "2026-10-02"}
 {"url": "https://github.com/wsshin/fd3d", "stars": 40, "desc": "面向大型三维问题的迭代 FDFD Maxwell 求解器，C 语言实现，适合频域周期结构算例", "date": "2026-10-02"}
 {"url": "https://github.com/OpenSEMBA/dgtd", "stars": 35, "desc": "间断伽辽金时域（DGTD）Maxwell 方程求解器，非结构网格上处理复杂几何", "date": "2026-10-02"}
+{"url": "https://github.com/JuliusBrussee/caveman", "stars": 109079, "desc": "压缩发给 LLM 的提示与工具输出以削减 token 开销的 Go 工具", "date": "2026-10-03"}
+{"url": "https://github.com/Panniantong/Agent-Reach", "stars": 88565, "desc": "给 agent 统一接入互联网内容的 CLI，可读 Twitter/YouTube/GitHub/Bilibili 等站点", "date": "2026-10-03"}
+{"url": "https://github.com/FalkorDB/FalkorDB", "stars": 6647, "desc": "基于 GraphBLAS 稀疏矩阵的图数据库，面向 GraphRAG 与知识图谱场景", "date": "2026-10-03"}
+{"url": "https://github.com/geo-tp/ESP32-Bit-Pirate", "stars": 5936, "desc": "把 Bus Pirate 搬上 ESP32 的多协议总线调试工具，Web CLI 支持 UART/SPI/I2C/JTAG/BLE", "date": "2026-10-03"}
+{"url": "https://github.com/tensorflow/tflite-micro", "stars": 3099, "desc": "TensorFlow Lite for Microcontrollers，MCU 端侧机器学习推理运行时（C++）", "date": "2026-10-03"}
+{"url": "https://github.com/probe-rs/probe-rs", "stars": 2956, "desc": "统一的嵌入式调试工具集，支持 ARM 与 RISC-V 的 SWD/JTAG 下载与调试", "date": "2026-10-03"}
+{"url": "https://github.com/ghdl/ghdl", "stars": 2898, "desc": "开源 VHDL 仿真器与综合前端，VHDL 语言的参考实现", "date": "2026-10-03"}
+{"url": "https://github.com/libusb/hidapi", "stars": 2275, "desc": "跨平台 USB HID 主机侧通信库，用于与 HID 设备通信（C）", "date": "2026-10-03"}
+{"url": "https://github.com/bitdump/BLHeli", "stars": 2235, "desc": "多旋翼无刷电调通用固件，8 位 AVR 时代的事实基线，2025 年才开源（汇编）", "date": "2026-10-03"}
+{"url": "https://github.com/CANopenNode/CANopenNode", "stars": 2020, "desc": "可移植的 CANopen 应用层协议栈，实现 CiA 301 及配套子协议（C）", "date": "2026-10-03"}
+{"url": "https://github.com/chipsalliance/verible", "stars": 1950, "desc": "CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式化器与语言服务", "date": "2026-10-03"}
+{"url": "https://github.com/pulp-platform/axi", "stars": 1712, "desc": "AXI4 可综合总线 IP 库与配套验证 IP（SystemVerilog）", "date": "2026-10-03"}
+{"url": "https://github.com/clash-lang/clash-compiler", "stars": 1619, "desc": "把 Haskell 编译为 VHDL/Verilog 的宿主语言 HDL 编译器", "date": "2026-10-03"}
+{"url": "https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware", "stars": 1083, "desc": "32 位 STM32 多旋翼数字电调固件，支持 DShot 与双向遥测（C）", "date": "2026-10-03"}
+{"url": "https://github.com/learnsyslab/safe-control-gym", "stars": 918, "desc": "PyBullet 中的安全控制仿真基准，含 CasADi 符号动力学与 MPC/CBF 安全滤波器", "date": "2026-10-03"}
+{"url": "https://github.com/Green-bms/SmartBMS", "stars": 751, "desc": "开源智能电池管理系统，支持多化学体系与 CAN/RS485 通信，含开源硬件", "date": "2026-10-03"}
+{"url": "https://github.com/sim-/tgy", "stars": 710, "desc": "ATmega 8 位无刷电调开源固件，BLHeli 等后续固件的谱系起点（汇编）", "date": "2026-10-03"}
+{"url": "https://github.com/PX4/sapog", "stars": 225, "desc": "PX4 的 CAN 总线数字电调固件（UAVCAN），走数字总线而非 PWM/DShot", "date": "2026-10-03"}
+{"url": "https://github.com/Adancurusul/embedded-debugger-mcp", "stars": 197, "desc": "把 probe-rs/OpenOCD 调试能力暴露给 LLM 的 MCP 服务器与 CLI，覆盖 ARM/RISC-V/Xtensa", "date": "2026-10-03"}
+{"url": "https://github.com/aau-cns/Ardupilot_Multiagent_Simulation", "stars": 124, "desc": "ArduPilot × ROS 2 × Gazebo 的多机仿真包，用于无人机集群开发", "date": "2026-10-03"}
+{"url": "https://github.com/a2307588073-arch/zynq-yolov3-tiny-accelerator", "stars": 99, "desc": "Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机全管线（Verilog）", "date": "2026-10-03"}
+{"url": "https://github.com/xiumingzhang/photonic-bandgap-comsol-matlab", "stars": 60, "desc": "用 MATLAB 脚本驱动 COMSOL 计算光子晶体带隙的建模与扫参骨架", "date": "2026-10-03"}
+{"url": "https://github.com/ambench/ambench", "stars": 49, "desc": "空中操作策略学习的模块化仿真套件与统一评测基准（CoRL 2026）", "date": "2026-10-03"}
+{"url": "https://github.com/NVlabs/FVEval", "stars": 45, "desc": "LLM 在硬件形式化验证任务上的评测基准，含断言生成与证明任务（NVIDIA）", "date": "2026-10-03"}
+{"url": "https://github.com/Verilean/hesper", "stars": 45, "desc": "Lean 4 中的可验证 GPU 编程框架", "date": "2026-10-03"}
+{"url": "https://github.com/srl-ethz/osprey", "stars": 39, "desc": "开源软体空中操作平台，全向飞行加力控接触的完整软硬件栈", "date": "2026-10-03"}
+{"url": "https://github.com/emfem/emfem", "stars": 29, "desc": "三维频域电磁自适应有限元正演求解器，含 Jacobian 与后处理（C++）", "date": "2026-10-03"}
+{"url": "https://github.com/RedBlight/EFVIE-MoM", "stars": 28, "desc": "电场体积积分方程 + 矩量法，用 SWG 基函数计算有耗介质体散射（MATLAB）", "date": "2026-10-03"}
+{"url": "https://github.com/jmakitalo/for90-mom2", "stars": 24, "desc": "Fortran 90 实现的矩量法离散积分算子，面向介质与有耗体电磁散射", "date": "2026-10-03"}
+{"url": "https://github.com/RikeshMMM/ESP32-CSI-Python-Parser", "stars": 21, "desc": "解析 ESP-IDF CSI 数据结构、输出幅值与相位的 Python 工具", "date": "2026-10-03"}
+{"url": "https://github.com/Vinc0110/Helmi_FEM", "stars": 16, "desc": "基于 scikit-fem 求解电磁 Helmholtz 方程的 Python 有限元实现", "date": "2026-10-03"}
+{"url": "https://github.com/ntotorica/SMP_Passivity_Enforcement", "stars": 11, "desc": "用奇异矩阵微扰法对 S 参数做无源性强制，恢复物理可实现性", "date": "2026-10-03"}
+{"url": "https://github.com/MoWiNG-Lab/CSI-Pi", "stars": 10, "desc": "以树莓派为主机、从多块 ESP32 同步采集 WiFi CSI 的测量平台", "date": "2026-10-03"}
+{"url": "https://github.com/Verified-zkEVM/riscv-zkvm", "stars": 10, "desc": "从 Sail RISC-V 规格提取的 Lean 模型，用于 zkVM 形式化验证", "date": "2026-10-03"}
