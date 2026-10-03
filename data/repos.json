@@ -598,7 +598,14 @@
    "added_at": "2026-10-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "DroneBridge/ESP32",
@@ -1579,7 +1586,14 @@
    "added_at": "2026-10-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "DroneDetectionThesis/Drone-detection-dataset",
@@ -2076,7 +2090,14 @@
    "added_at": "2026-10-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "stephendade/Rpanion-server",
@@ -2237,7 +2258,14 @@
    "added_at": "2026-10-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "interuss/dss",
@@ -2629,7 +2657,14 @@
    "added_at": "2026-10-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "holsatus/holsatus-flight",
@@ -2811,7 +2846,14 @@
    "added_at": "2026-10-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "xiaoqi371317/SCAN-Planner-Ros2",
@@ -3298,7 +3340,14 @@
    "added_at": "2026-10-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "raylanlin/smarttune-cli",
@@ -4123,7 +4172,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "ElmerCSC/elmerfem",
@@ -4210,6 +4266,35 @@
    ]
   },
   {
+   "full_name": "ESPARGOS/pyespargos",
+   "url": "https://github.com/ESPARGOS/pyespargos",
+   "description": "The python library for the ESPARGOS WiFi antenna array",
+   "language": "Python",
+   "stars": 1003,
+   "topics": [
+    "angle-of-arrival",
+    "channel-state-information",
+    "csi",
+    "esp32",
+    "music-algorithm",
+    "python",
+    "wifi"
+   ],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-18",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-18"
+   ]
+  },
+  {
    "full_name": "optiland/optiland",
    "url": "https://github.com/optiland/optiland",
    "description": "Python 光学系统设计、优化与分析库，含 GPU 加速与可微光线追迹",
@@ -4284,7 +4369,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "jdesbonnet/RCWL-0516",
@@ -4403,7 +4495,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "NGSolve/ngsolve",
@@ -4585,7 +4684,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "meshtastic/antenna-reports",
@@ -5116,7 +5222,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "kc-ml2/meent",
@@ -5179,6 +5292,27 @@
    ],
    "hot_dates": [
     "2026-09-27"
+   ]
+  },
+  {
+   "full_name": "google/ceviche-challenges",
+   "url": "https://github.com/google/ceviche-challenges",
+   "description": "Google 光子逆设计基准题集：一整套拓扑优化标准问题（波导弯、分束器、模式转换器），用于公平对比各类伴随法/优化器性能",
+   "language": "",
+   "stars": 125,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
    ]
   },
   {
@@ -5277,7 +5411,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "mradway/hycohanz",
@@ -5459,7 +5600,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "Shallot-2009/Ketupa",
@@ -5809,7 +5957,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "comp-ime-eb-br/open-rcs",
@@ -6117,7 +6272,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "kaankvrck/Cst-Py-Api",
@@ -6320,7 +6482,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "LiZhuoRan0/RIS-AidedChannelEstandLocalization_THzHybridFieldBeamSquint",
@@ -7601,7 +7770,14 @@
    "added_at": "2026-10-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "hongwei1-c/RF-AIagent",
@@ -8259,7 +8435,14 @@
    "added_at": "2026-10-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "geo-tp/ESP32-Bit-Pirate",
@@ -10001,35 +10184,6 @@
    ]
   },
   {
-   "full_name": "ESPARGOS/pyespargos",
-   "url": "https://github.com/ESPARGOS/pyespargos",
-   "description": "The python library for the ESPARGOS WiFi antenna array",
-   "language": "Python",
-   "stars": 1003,
-   "topics": [
-    "angle-of-arrival",
-    "channel-state-information",
-    "csi",
-    "esp32",
-    "music-algorithm",
-    "python",
-    "wifi"
-   ],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-18",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-18"
-   ]
-  },
-  {
    "full_name": "modm-io/modm",
    "url": "https://github.com/modm-io/modm",
    "description": "德国 Roboterclub Aachen 维护的 C++23 HAL 代码生成器：按芯片型号渲染 HAL，一套接口覆盖 STM32/SAM/AVR/nRF/RP2040，编译期断言引脚与波特率",
@@ -10398,7 +10552,14 @@
    "added_at": "2026-10-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "CreativeLau/Mini-DSO",
@@ -11539,7 +11700,14 @@
    "added_at": "2026-10-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "rh1tech/frank-386",
@@ -14059,7 +14227,14 @@
    "added_at": "2026-10-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "ruvnet/rvcsi",
@@ -16639,6 +16814,27 @@
    ]
   },
   {
+   "full_name": "pConst/basic_verilog",
+   "url": "https://github.com/pConst/basic_verilog",
+   "description": "常用 Verilog/SystemVerilog 模块合集，涵盖跨时钟域同步、FIFO、仲裁器等可复用基础件",
+   "language": "",
+   "stars": 2024,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
+  },
+  {
    "full_name": "chipsalliance/verible",
    "url": "https://github.com/chipsalliance/verible",
    "description": "CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式化器与语言服务",
@@ -16741,6 +16937,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "hdl-util/hdmi",
+   "url": "https://github.com/hdl-util/hdmi",
+   "description": "纯 Verilog 实现的 HDMI 收发器：在 FPGA 上发送视频与音频，可直接复用的 HDMI 编码/时序模块",
+   "language": "",
+   "stars": 1300,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
    ]
   },
   {
@@ -17037,6 +17254,27 @@
    ]
   },
   {
+   "full_name": "rejunity/z80-open-silicon",
+   "url": "https://github.com/rejunity/z80-open-silicon",
+   "description": "Z80 开源硅实现：目标是做出流片验证、引脚兼容的经典 Z80 替代品，观察开源 CPU 从 HDL 到硅的全流程",
+   "language": "",
+   "stars": 799,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
+  },
+  {
    "full_name": "Green-bms/SmartBMS",
    "url": "https://github.com/Green-bms/SmartBMS",
    "description": "开源智能电池管理系统，支持多化学体系与 CAN/RS485 通信，含开源硬件",
@@ -17160,6 +17398,27 @@
    ],
    "hot_dates": [
     "2026-09-28"
+   ]
+  },
+  {
+   "full_name": "gnomeria/usbtree",
+   "url": "https://github.com/gnomeria/usbtree",
+   "description": "终端里的实时 USB 设备树浏览器，Rust TUI 实现，无需 root 与 libusb，带带宽与活动指标，调试 USB 设备时好用",
+   "language": "",
+   "stars": 684,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
    ]
   },
   {
@@ -20139,7 +20398,14 @@
    "added_at": "2026-10-04",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "analogdevicesinc/scopy",
@@ -20846,7 +21112,14 @@
    "added_at": "2026-10-04",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "edwin-pan/uDoppler-Classification",
@@ -21849,6 +22122,27 @@
    ]
   },
   {
+   "full_name": "DandongExpress/PPPR",
+   "url": "https://github.com/DandongExpress/PPPR",
+   "description": "物理信息参数化表示（PPPR）用于毫米波人体姿态估计：把每个关节建模为高斯基元，引入人体结构先验",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
+  },
+  {
    "full_name": "GREAT-ISAC/CSI-CLIP",
    "url": "https://github.com/GREAT-ISAC/CSI-CLIP",
    "description": "把 CSI 与视觉/文本对齐的多模态基础模型研究代码，面向通感一体化场景",
@@ -22448,7 +22742,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 272211,
+   "stars": 272212,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -22501,7 +22795,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 211632,
+   "stars": 211631,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -22723,7 +23017,14 @@
    "added_at": "2026-10-04",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "Panniantong/Agent-Reach",
@@ -22883,7 +23184,14 @@
    "added_at": "2026-10-04",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "opendatalab/MinerU",
@@ -22945,7 +23253,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "JavaScript",
-   "stars": 75272,
+   "stars": 75273,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -24965,7 +25273,14 @@
    "added_at": "2026-10-04",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "realchendahuang/pi-config",
@@ -25049,7 +25364,14 @@
    "added_at": "2026-10-04",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "gokeshenzhen/TraceWeave",
@@ -25432,7 +25754,7 @@
    "url": "https://github.com/byoungd/up",
    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
    "language": "JavaScript",
-   "stars": 66928,
+   "stars": 66929,
    "topics": [
     "chinese",
     "english-learning",
@@ -25478,7 +25800,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 63136,
+   "stars": 63138,
    "topics": [
     "agents",
     "ai",
@@ -25512,7 +25834,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 52209,
+   "stars": 52210,
    "topics": [
     "agent",
     "agent-memory",
@@ -25562,7 +25884,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 37221,
+   "stars": 37222,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -25805,7 +26127,14 @@
    "added_at": "2026-10-04",
    "category": "知识管理与笔记",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
   },
   {
    "full_name": "hangli-hl/AI-Articles",
@@ -26478,6 +26807,27 @@
    ]
   },
   {
+   "full_name": "YuChuang1205/PAL",
+   "url": "https://github.com/YuChuang1205/PAL",
+   "description": "ICCV 2025 红外小目标检测渐进式主动学习框架官方代码，解决标注稀缺下的红外弱小目标检测训练问题",
+   "language": "",
+   "stars": 584,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
+   ]
+  },
+  {
    "full_name": "xingchenzhang/VIFB",
    "url": "https://github.com/xingchenzhang/VIFB",
    "description": "可见光与红外图像融合基准（VIFB）：统一数据集与 20+ 评测指标，融合算法横向比较的标尺",
@@ -26580,6 +26930,27 @@
    ],
    "hot_dates": [
     "2026-09-25"
+   ]
+  },
+  {
+   "full_name": "lartpang/PyIRSTDMetrics",
+   "url": "https://github.com/lartpang/PyIRSTDMetrics",
+   "description": "NeurIPS 2025 数据集与基准论文配套库，重新审视红外小目标检测的评测指标，给出可复现的统一评测实现",
+   "language": "",
+   "stars": 362,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-04",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-04"
    ]
   },
   {
@@ -28311,6 +28682,25 @@
    "note": ""
   },
   {
+   "full_name": "andyhuo520/MacCheck",
+   "url": "https://github.com/andyhuo520/MacCheck",
+   "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具",
+   "language": "Swift",
+   "stars": 635,
+   "topics": [
+    "hardware-diagnostics",
+    "mac-check",
+    "macos",
+    "second-hand-mac",
+    "swiftui"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-04",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "Xelckis/qr-server",
    "url": "https://github.com/Xelckis/qr-server",
    "description": "A assembly webserver inside a QR Code",
@@ -28320,6 +28710,19 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-09-29",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
+   "full_name": "rerun-io/examples-monorepo",
+   "url": "https://github.com/rerun-io/examples-monorepo",
+   "description": "Holds all the more complex examples in a single monorepo",
+   "language": "Python",
+   "stars": 71,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-04",
    "category": "开发工具与系统资源",
    "note": ""
   },
@@ -28395,150 +28798,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "pConst/basic_verilog",
-   "url": "https://github.com/pConst/basic_verilog",
-   "description": "常用 Verilog/SystemVerilog 模块合集，涵盖跨时钟域同步、FIFO、仲裁器等可复用基础件",
-   "language": "",
-   "stars": 2024,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "hdl-util/hdmi",
-   "url": "https://github.com/hdl-util/hdmi",
-   "description": "纯 Verilog 实现的 HDMI 收发器：在 FPGA 上发送视频与音频，可直接复用的 HDMI 编码/时序模块",
-   "language": "",
-   "stars": 1300,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "rejunity/z80-open-silicon",
-   "url": "https://github.com/rejunity/z80-open-silicon",
-   "description": "Z80 开源硅实现：目标是做出流片验证、引脚兼容的经典 Z80 替代品，观察开源 CPU 从 HDL 到硅的全流程",
-   "language": "",
-   "stars": 799,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "gnomeria/usbtree",
-   "url": "https://github.com/gnomeria/usbtree",
-   "description": "终端里的实时 USB 设备树浏览器，Rust TUI 实现，无需 root 与 libusb，带带宽与活动指标，调试 USB 设备时好用",
-   "language": "",
-   "stars": 684,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "andyhuo520/MacCheck",
-   "url": "https://github.com/andyhuo520/MacCheck",
-   "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具",
-   "language": "Swift",
-   "stars": 635,
-   "topics": [
-    "hardware-diagnostics",
-    "mac-check",
-    "macos",
-    "second-hand-mac",
-    "swiftui"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "YuChuang1205/PAL",
-   "url": "https://github.com/YuChuang1205/PAL",
-   "description": "ICCV 2025 红外小目标检测渐进式主动学习框架官方代码，解决标注稀缺下的红外弱小目标检测训练问题",
-   "language": "",
-   "stars": 584,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "lartpang/PyIRSTDMetrics",
-   "url": "https://github.com/lartpang/PyIRSTDMetrics",
-   "description": "NeurIPS 2025 数据集与基准论文配套库，重新审视红外小目标检测的评测指标，给出可复现的统一评测实现",
-   "language": "",
-   "stars": 362,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "google/ceviche-challenges",
-   "url": "https://github.com/google/ceviche-challenges",
-   "description": "Google 光子逆设计基准题集：一整套拓扑优化标准问题（波导弯、分束器、模式转换器），用于公平对比各类伴随法/优化器性能",
-   "language": "",
-   "stars": 125,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "rerun-io/examples-monorepo",
-   "url": "https://github.com/rerun-io/examples-monorepo",
-   "description": "Holds all the more complex examples in a single monorepo",
-   "language": "Python",
-   "stars": 71,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "DandongExpress/PPPR",
-   "url": "https://github.com/DandongExpress/PPPR",
-   "description": "物理信息参数化表示（PPPR）用于毫米波人体姿态估计：把每个关节建模为高斯基元，引入人体结构先验",
-   "language": "",
-   "stars": 22,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-04",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 172 个项目 · 数据更新时间 2026-10-04 · [返回总览](../README.md)
+> 共 176 个项目 · 数据更新时间 2026-10-04 · [返回总览](../README.md)
 
 ---
 
@@ -207,6 +207,14 @@ KiCad 自动化工具集：拼板面板化、BOM 与装配图
 
 ---
 
+#### [pConst/basic_verilog](https://github.com/pConst/basic_verilog)
+`★2,024 · ⭐🔥 已 star + 热点推荐`
+常用 Verilog/SystemVerilog 模块合集，涵盖跨时钟域同步、FIFO、仲裁器等可复用基础件
+> 热点推荐于 2026-10-04
+> 收录日期：2026-10-04
+
+---
+
 #### [chipsalliance/verible](https://github.com/chipsalliance/verible)
 `★1,950 · ⭐🔥 已 star + 热点推荐`
 CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式化器与语言服务
@@ -244,6 +252,14 @@ AXI4 可综合总线 IP 库与配套验证 IP（SystemVerilog）
 掌上矢量网络分析仪开源硬件（含原理图与固件），低成本实测入口
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [hdl-util/hdmi](https://github.com/hdl-util/hdmi)
+`★1,300 · ⭐🔥 已 star + 热点推荐`
+纯 Verilog 实现的 HDMI 收发器：在 FPGA 上发送视频与音频，可直接复用的 HDMI 编码/时序模块
+> 热点推荐于 2026-10-04
+> 收录日期：2026-10-04
 
 ---
 
@@ -351,6 +367,14 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 
 ---
 
+#### [rejunity/z80-open-silicon](https://github.com/rejunity/z80-open-silicon)
+`★799 · ⭐🔥 已 star + 热点推荐`
+Z80 开源硅实现：目标是做出流片验证、引脚兼容的经典 Z80 替代品，观察开源 CPU 从 HDL 到硅的全流程
+> 热点推荐于 2026-10-04
+> 收录日期：2026-10-04
+
+---
+
 #### [Green-bms/SmartBMS](https://github.com/Green-bms/SmartBMS)
 `★751 · ⭐🔥 已 star + 热点推荐`
 开源智能电池管理系统，支持多化学体系与 CAN/RS485 通信，含开源硬件
@@ -396,6 +420,14 @@ SparkFun 官方 KiCad 符号与封装库
 KiCad 到 FreeCAD 的 ECAD-MCAD 协同工作台
 > 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
+
+---
+
+#### [gnomeria/usbtree](https://github.com/gnomeria/usbtree)
+`★684 · ⭐🔥 已 star + 热点推荐`
+终端里的实时 USB 设备树浏览器，Rust TUI 实现，无需 root 与 libusb，带带宽与活动指标，调试 USB 设备时好用
+> 热点推荐于 2026-10-04
+> 收录日期：2026-10-04
 
 ---
 

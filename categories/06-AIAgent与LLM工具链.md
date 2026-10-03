@@ -28,7 +28,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★272,211 · JavaScript · ⭐ 已 star`
+`★272,212 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -49,7 +49,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★211,632 · TypeScript · ⭐ 已 star`
+`★211,631 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
@@ -125,8 +125,9 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
-`★95,557 · 🔥 热点推荐`
+`★95,557 · ⭐🔥 已 star + 热点推荐`
 跨会话持久上下文：捕获 agent 会话全过程、AI 压缩后按需注入未来会话，适配 Claude Code/Codex/Hermes 等多种客户端
+> 热点推荐于 2026-10-04
 > 收录日期：2026-10-04
 
 ---
@@ -170,8 +171,9 @@ Orca is the ADE for working with a fleet of parallel agents. Run any coding agen
 ---
 
 #### [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-`★82,312 · 🔥 热点推荐`
+`★82,312 · ⭐🔥 已 star + 热点推荐`
 Rust 单文件 CLI 代理，把常见开发命令的输出裁剪后喂给 LLM，实测降低 60-90% token 消耗，零依赖
+> 热点推荐于 2026-10-04
 > 收录日期：2026-10-04
 
 ---
@@ -192,7 +194,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★75,272 · JavaScript · ⭐ 已 star`
+`★75,273 · JavaScript · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
@@ -909,8 +911,9 @@ Premium hand-drawn, dark-background animated architecture & process diagrams. Ou
 ---
 
 #### [luke321/vault-graph](https://github.com/luke321/vault-graph)
-`★264 · 🔥 热点推荐`
+`★264 · ⭐🔥 已 star + 热点推荐`
 Obsidian 库交互式图谱社区插件，把 vault 的笔记网络可视化，配合 LLM Wiki 结构可直观检查页面互联密度
+> 热点推荐于 2026-10-04
 > 收录日期：2026-10-04
 
 ---
@@ -938,8 +941,9 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 ---
 
 #### [psinetron/echoes-vault-codex](https://github.com/psinetron/echoes-vault-codex)
-`★131 · 🔥 热点推荐`
+`★131 · ⭐🔥 已 star + 热点推荐`
 为 Codex 提供持久记忆的插件，用 Obsidian 式知识库让会话记忆跨轮次存活，思路与 LLM Wiki 同源
+> 热点推荐于 2026-10-04
 > 收录日期：2026-10-04
 
 ---

@@ -87,6 +87,22 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-04：本轮 37 条，待归类 / 误判 10 条 ----
+    # 硬件设计与 EDA（HDL IP 与开源硅路线，关键词表未覆盖）
+    "hdl-util/hdmi": "硬件设计与 EDA",                 # 纯 Verilog HDMI 收发器
+    "pConst/basic_verilog": "硬件设计与 EDA",           # 可综合 Verilog/SV 模块集
+    "rejunity/z80-open-silicon": "硬件设计与 EDA",      # OpenROAD/TinyTapeout 开源流片 Z80
+    "gnomeria/usbtree": "硬件设计与 EDA",               # USB 拓扑可视化/枚举工具
+    # 电磁仿真与超表面（光子逆设计挑战赛，描述未含命中词）
+    "google/ceviche-challenges": "电磁仿真与超表面",     # 有源光子逆设计评测集
+    # 无线通信与感知（毫米波点云人体重建，与 mPose3D 同口径）
+    "DandongExpress/PPPR": "无线通信与感知",            # 毫米波点云人体重建
+    # AI 模型与视觉（红外小目标检测）
+    "YuChuang1205/PAL": "AI 模型与视觉",                # 红外小目标渐进式主动学习
+    "lartpang/PyIRSTDMetrics": "AI 模型与视觉",         # 红外小目标检测统一评测指标
+    # 开发工具与系统资源（与两个核心领域无关，走工具类别）
+    "andyhuo520/MacCheck": "开发工具与系统资源",         # Mac 硬件检测报告工具
+    "rerun-io/examples-monorepo": "开发工具与系统资源",  # Rerun 多模态可视化示例集
     # ---- 2026-10-03：本轮 34 条，规则误判 / 待归类风险 22 条 ----
     # 飞控与无人机（电调固件谱系 + 集群/空中操作仿真；"仿真" 关键词会被电磁规则先吃掉）
     "bitdump/BLHeli": "飞控与无人机",                            # 8 位 AVR 电调固件基线
