@@ -1,36 +1,187 @@
 [
-  {"url": "https://github.com/JuliusBrussee/caveman", "stars": 109079, "desc": "压缩发给 LLM 的提示与工具输出以削减 token 开销的 Go 工具"},
-  {"url": "https://github.com/Panniantong/Agent-Reach", "stars": 88565, "desc": "给 agent 统一接入互联网内容的 CLI，可读 Twitter/YouTube/GitHub/Bilibili 等站点"},
-  {"url": "https://github.com/FalkorDB/FalkorDB", "stars": 6647, "desc": "基于 GraphBLAS 稀疏矩阵的图数据库，面向 GraphRAG 与知识图谱场景"},
-  {"url": "https://github.com/geo-tp/ESP32-Bit-Pirate", "stars": 5936, "desc": "把 Bus Pirate 搬上 ESP32 的多协议总线调试工具，Web CLI 支持 UART/SPI/I2C/JTAG/BLE"},
-  {"url": "https://github.com/tensorflow/tflite-micro", "stars": 3099, "desc": "TensorFlow Lite for Microcontrollers，MCU 端侧机器学习推理运行时（C++）"},
-  {"url": "https://github.com/probe-rs/probe-rs", "stars": 2956, "desc": "统一的嵌入式调试工具集，支持 ARM 与 RISC-V 的 SWD/JTAG 下载与调试"},
-  {"url": "https://github.com/ghdl/ghdl", "stars": 2898, "desc": "开源 VHDL 仿真器与综合前端，VHDL 语言的参考实现"},
-  {"url": "https://github.com/libusb/hidapi", "stars": 2275, "desc": "跨平台 USB HID 主机侧通信库，用于与 HID 设备通信（C）"},
-  {"url": "https://github.com/bitdump/BLHeli", "stars": 2235, "desc": "多旋翼无刷电调通用固件，8 位 AVR 时代的事实基线，2025 年才开源（汇编）"},
-  {"url": "https://github.com/CANopenNode/CANopenNode", "stars": 2020, "desc": "可移植的 CANopen 应用层协议栈，实现 CiA 301 及配套子协议（C）"},
-  {"url": "https://github.com/chipsalliance/verible", "stars": 1950, "desc": "CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式化器与语言服务"},
-  {"url": "https://github.com/pulp-platform/axi", "stars": 1712, "desc": "AXI4 可综合总线 IP 库与配套验证 IP（SystemVerilog）"},
-  {"url": "https://github.com/clash-lang/clash-compiler", "stars": 1619, "desc": "把 Haskell 编译为 VHDL/Verilog 的宿主语言 HDL 编译器"},
-  {"url": "https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware", "stars": 1083, "desc": "32 位 STM32 多旋翼数字电调固件，支持 DShot 与双向遥测（C）"},
-  {"url": "https://github.com/learnsyslab/safe-control-gym", "stars": 918, "desc": "PyBullet 中的安全控制仿真基准，含 CasADi 符号动力学与 MPC/CBF 安全滤波器"},
-  {"url": "https://github.com/Green-bms/SmartBMS", "stars": 751, "desc": "开源智能电池管理系统，支持多化学体系与 CAN/RS485 通信，含开源硬件"},
-  {"url": "https://github.com/sim-/tgy", "stars": 710, "desc": "ATmega 8 位无刷电调开源固件，BLHeli 等后续固件的谱系起点（汇编）"},
-  {"url": "https://github.com/PX4/sapog", "stars": 225, "desc": "PX4 的 CAN 总线数字电调固件（UAVCAN），走数字总线而非 PWM/DShot"},
-  {"url": "https://github.com/Adancurusul/embedded-debugger-mcp", "stars": 197, "desc": "把 probe-rs/OpenOCD 调试能力暴露给 LLM 的 MCP 服务器与 CLI，覆盖 ARM/RISC-V/Xtensa"},
-  {"url": "https://github.com/aau-cns/Ardupilot_Multiagent_Simulation", "stars": 124, "desc": "ArduPilot × ROS 2 × Gazebo 的多机仿真包，用于无人机集群开发"},
-  {"url": "https://github.com/a2307588073-arch/zynq-yolov3-tiny-accelerator", "stars": 99, "desc": "Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机全管线（Verilog）"},
-  {"url": "https://github.com/xiumingzhang/photonic-bandgap-comsol-matlab", "stars": 60, "desc": "用 MATLAB 脚本驱动 COMSOL 计算光子晶体带隙的建模与扫参骨架"},
-  {"url": "https://github.com/ambench/ambench", "stars": 49, "desc": "空中操作策略学习的模块化仿真套件与统一评测基准（CoRL 2026）"},
-  {"url": "https://github.com/NVlabs/FVEval", "stars": 45, "desc": "LLM 在硬件形式化验证任务上的评测基准，含断言生成与证明任务（NVIDIA）"},
-  {"url": "https://github.com/Verilean/hesper", "stars": 45, "desc": "Lean 4 中的可验证 GPU 编程框架"},
-  {"url": "https://github.com/srl-ethz/osprey", "stars": 39, "desc": "开源软体空中操作平台，全向飞行加力控接触的完整软硬件栈"},
-  {"url": "https://github.com/emfem/emfem", "stars": 29, "desc": "三维频域电磁自适应有限元正演求解器，含 Jacobian 与后处理（C++）"},
-  {"url": "https://github.com/RedBlight/EFVIE-MoM", "stars": 28, "desc": "电场体积积分方程 + 矩量法，用 SWG 基函数计算有耗介质体散射（MATLAB）"},
-  {"url": "https://github.com/jmakitalo/for90-mom2", "stars": 24, "desc": "Fortran 90 实现的矩量法离散积分算子，面向介质与有耗体电磁散射"},
-  {"url": "https://github.com/RikeshMMM/ESP32-CSI-Python-Parser", "stars": 21, "desc": "解析 ESP-IDF CSI 数据结构、输出幅值与相位的 Python 工具"},
-  {"url": "https://github.com/Vinc0110/Helmi_FEM", "stars": 16, "desc": "基于 scikit-fem 求解电磁 Helmholtz 方程的 Python 有限元实现"},
-  {"url": "https://github.com/ntotorica/SMP_Passivity_Enforcement", "stars": 11, "desc": "用奇异矩阵微扰法对 S 参数做无源性强制，恢复物理可实现性"},
-  {"url": "https://github.com/MoWiNG-Lab/CSI-Pi", "stars": 10, "desc": "以树莓派为主机、从多块 ESP32 同步采集 WiFi CSI 的测量平台"},
-  {"url": "https://github.com/Verified-zkEVM/riscv-zkvm", "stars": 10, "desc": "从 Sail RISC-V 规格提取的 Lean 模型，用于 zkVM 形式化验证"}
+ {
+  "url": "https://github.com/thedotmack/claude-mem",
+  "stars": 95557,
+  "desc": "跨会话持久上下文：捕获 agent 会话全过程、AI 压缩后按需注入未来会话，适配 Claude Code/Codex/Hermes 等多种客户端"
+ },
+ {
+  "url": "https://github.com/rtk-ai/rtk",
+  "stars": 82312,
+  "desc": "Rust 单文件 CLI 代理，把常见开发命令的输出裁剪后喂给 LLM，实测降低 60-90% token 消耗，零依赖"
+ },
+ {
+  "url": "https://github.com/lmarzen/esp32-weather-epd",
+  "stars": 6285,
+  "desc": "ESP32 低功耗墨水屏气象站：深度睡眠 + 局部刷新把续航做到数月，ESP32 功耗优化的典型参考设计"
+ },
+ {
+  "url": "https://github.com/pConst/basic_verilog",
+  "stars": 2024,
+  "desc": "常用 Verilog/SystemVerilog 模块合集，涵盖跨时钟域同步、FIFO、仲裁器等可复用基础件"
+ },
+ {
+  "url": "https://github.com/Skythinker616/foc-wheel-legged-robot",
+  "stars": 1776,
+  "desc": "开源轮足机器人全套资料：机械、电路、FOC 电机驱动与平衡控制算法仿真，嵌入式软硬件一体范例"
+ },
+ {
+  "url": "https://github.com/hdl-util/hdmi",
+  "stars": 1300,
+  "desc": "纯 Verilog 实现的 HDMI 收发器：在 FPGA 上发送视频与音频，可直接复用的 HDMI 编码/时序模块"
+ },
+ {
+  "url": "https://github.com/yrlu/quadrotor",
+  "stars": 1129,
+  "desc": "MATLAB 四旋翼控制、路径规划与轨迹优化全套教材代码，含动力学建模、LQR/MPC 控制器与可视化，飞控入门经典"
+ },
+ {
+  "url": "https://github.com/PySpice-org/PySpice",
+  "stars": 870,
+  "desc": "用 Python 驱动 Ngspice/Xyce 做电路仿真，把网表建模、参数扫描与结果绘图统一在 Python 生态里，适合电路设计自动化"
+ },
+ {
+  "url": "https://github.com/rejunity/z80-open-silicon",
+  "stars": 799,
+  "desc": "Z80 开源硅实现：目标是做出流片验证、引脚兼容的经典 Z80 替代品，观察开源 CPU 从 HDL 到硅的全流程"
+ },
+ {
+  "url": "https://github.com/ringtailsoftware/uvm32",
+  "stars": 685,
+  "desc": "面向单片机的极简无依赖虚拟机沙箱，单文件 C 实现，可在资源受限设备上安全运行不可信代码"
+ },
+ {
+  "url": "https://github.com/gnomeria/usbtree",
+  "stars": 684,
+  "desc": "终端里的实时 USB 设备树浏览器，Rust TUI 实现，无需 root 与 libusb，带带宽与活动指标，调试 USB 设备时好用"
+ },
+ {
+  "url": "https://github.com/arplaboratory/learning-to-fly",
+  "stars": 592,
+  "desc": "端到端四旋翼控制策略的迁移学习框架，笔记本上 18 秒即可训练完成，演示仿真到实机的策略迁移"
+ },
+ {
+  "url": "https://github.com/YuChuang1205/PAL",
+  "stars": 584,
+  "desc": "ICCV 2025 红外小目标检测渐进式主动学习框架官方代码，解决标注稀缺下的红外弱小目标检测训练问题"
+ },
+ {
+  "url": "https://github.com/uzh-rpg/rpg_mpc",
+  "stars": 522,
+  "desc": "苏黎世联邦理工 RPG 组的四旋翼模型预测控制库，扩展支持感知感知（perception-aware）MPC 轨迹规划"
+ },
+ {
+  "url": "https://github.com/lartpang/PyIRSTDMetrics",
+  "stars": 362,
+  "desc": "NeurIPS 2025 数据集与基准论文配套库，重新审视红外小目标检测的评测指标，给出可复现的统一评测实现"
+ },
+ {
+  "url": "https://github.com/ZJU-FAST-Lab/Fast-Racing",
+  "stars": 331,
+  "desc": "浙大 FAST-Lab 开源无人机竞速 SE(3) 规划强基线，含动力学感知的轨迹生成与竞速场景仿真"
+ },
+ {
+  "url": "https://github.com/tmolteno/necpp",
+  "stars": 306,
+  "desc": "NEC2++ 是经典矩量法电磁仿真代码 NEC-2 的 C++ 重写，可求解线天线/线栅结构的辐射与阻抗，支持自动纠错与脚本化批处理"
+ },
+ {
+  "url": "https://github.com/luke321/vault-graph",
+  "stars": 264,
+  "desc": "Obsidian 库交互式图谱社区插件，把 vault 的笔记网络可视化，配合 LLM Wiki 结构可直观检查页面互联密度"
+ },
+ {
+  "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+  "stars": 219,
+  "desc": "7 节点 ESP32-S3 集群通过 SPI 菊花链跑 0.4B 大模型，用 1.58-bit BitNet 三值量化做端侧推理，嵌入式 + LLM 交叉的极端尝试"
+ },
+ {
+  "url": "https://github.com/szebedy/autonomous-drone",
+  "stars": 193,
+  "desc": "基于 PX4 飞控与 Intel Aero 的自主配送无人机完整代码，覆盖视觉定位、目标识别与投放任务编排"
+ },
+ {
+  "url": "https://github.com/stephansturges/OpenLander",
+  "stars": 158,
+  "desc": "无人机着陆区检测开源方案，基于深度网络语义分割识别安全降落平面，也可用于配送场景"
+ },
+ {
+  "url": "https://github.com/edmundsj/rcwa",
+  "stars": 147,
+  "desc": "Python 严格耦合波分析（RCWA）实现，计算光子晶体/周期超表面结构的反射透射谱，超表面单元胞快速验证的轻量工具"
+ },
+ {
+  "url": "https://github.com/psinetron/echoes-vault-codex",
+  "stars": 131,
+  "desc": "为 Codex 提供持久记忆的插件，用 Obsidian 式知识库让会话记忆跨轮次存活，思路与 LLM Wiki 同源"
+ },
+ {
+  "url": "https://github.com/google/ceviche-challenges",
+  "stars": 125,
+  "desc": "Google 光子逆设计基准题集：一整套拓扑优化标准问题（波导弯、分束器、模式转换器），用于公平对比各类伴随法/优化器性能"
+ },
+ {
+  "url": "https://github.com/KylinC/mPose3D",
+  "stars": 120,
+  "desc": "mPose3D：基于毫米波雷达点云的 3D 人体姿态估计模型，与 WiFi CSI 同属射频感知路线，可互为参照"
+ },
+ {
+  "url": "https://github.com/renjieli08/Photonics-FDTD-DRL",
+  "stars": 108,
+  "desc": "用深度强化学习做光子芯片优化与逆设计，FDTD 仿真在环，探索 RL 替代伴随梯度求解设计问题"
+ },
+ {
+  "url": "https://github.com/artastier/PX4_Swarm_Controller",
+  "stars": 98,
+  "desc": "ROS 2 无人机蜂群控制器：Gazebo 仿真下编排 PX4 多机编队飞行，提供高层群控接口"
+ },
+ {
+  "url": "https://github.com/chriskeraly/BerkeleyPhotonicInverseDesign",
+  "stars": 95,
+  "desc": "UC Berkeley 的连续伴随法（adjoint）逆设计教程代码，基于 Lumerical 驱动，逐课讲解梯度优化光器件设计的实现细节"
+ },
+ {
+  "url": "https://github.com/spikelab-jhu/isaac-sim-event-camera-plugin",
+  "stars": 93,
+  "desc": "Isaac Sim 中的高速事件相机仿真插件，用运动矢量插值生成高帧率事件流，供机器人视觉算法训练"
+ },
+ {
+  "url": "https://github.com/dronecz/ESP32-Reflow-Controller",
+  "stars": 69,
+  "desc": "ESP32 + TFT 触摸屏回流焊控制器，含温度曲线编程与 PID 控温，小型 SMT 产线的自制方案"
+ },
+ {
+  "url": "https://github.com/imendizabal/Near-Field-Probes",
+  "stars": 57,
+  "desc": "开源 EMC 近场探头套件：PCB 加工文件 + 选型说明，用于电磁兼容排查与近场辐射定位，属实测硬件环节"
+ },
+ {
+  "url": "https://github.com/ScopeX-ASU/MAPS",
+  "stars": 45,
+  "desc": "MAPS：AI 辅助光子器件逆设计框架，把仿真与优化编排成可复用流水线，面向 DATE 2025 发布"
+ },
+ {
+  "url": "https://github.com/HIT-LZG-GROUP/DeepLearning-metasurface-paper",
+  "stars": 39,
+  "desc": "哈尔滨工业大学整理的「深度学习 + 超表面」论文清单，覆盖数据驱动/生成式方法设计超表面的代表工作"
+ },
+ {
+  "url": "https://github.com/ruvnet/ruv-drone",
+  "stars": 29,
+  "desc": "Rust 实现的工业级协作无人机集群协调框架，含编队保持、Raft 共识与协同任务分配"
+ },
+ {
+  "url": "https://github.com/Boyyt357/esp-to-esp-vtx-and-vrx-with-packet-injection-fpv",
+  "stars": 25,
+  "desc": "ESP32-CAM（VTX）与 ESP32（VRX）通过 802.11 原始包注入实现低延迟数字 FPV 图传，含自适应帧率策略"
+ },
+ {
+  "url": "https://github.com/DandongExpress/PPPR",
+  "stars": 22,
+  "desc": "物理信息参数化表示（PPPR）用于毫米波人体姿态估计：把每个关节建模为高斯基元，引入人体结构先验"
+ },
+ {
+  "url": "https://github.com/mgopalkrishna0007/CSTapi-MATLAB-Python",
+  "stars": 10,
+  "desc": "CST 微波工作室 API 的 MATLAB/Python 脚本集，用宏脚本批量仿真像素化超表面与贴片天线，与手动建模流程同构"
+ }
 ]
