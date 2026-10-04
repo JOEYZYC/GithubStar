@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 177 个项目 · 数据更新时间 2026-10-05 · [返回总览](../README.md)
+> 共 183 个项目 · 数据更新时间 2026-10-05 · [返回总览](../README.md)
 
 ---
 
@@ -213,6 +213,14 @@ KiCad 自动化工具集：拼板面板化、BOM 与装配图
 常用 Verilog/SystemVerilog 模块合集，涵盖跨时钟域同步、FIFO、仲裁器等可复用基础件
 > 热点推荐于 2026-10-04
 > 收录日期：2026-10-04
+
+---
+
+#### [The-OpenROAD-Project/OpenLane](https://github.com/The-OpenROAD-Project/OpenLane)
+`★1,954 · ⭐🔥 已 star + 热点推荐`
+自动化 RTL→GDSII 实现流程（OpenROAD / Yosys / Magic / Netgen）
+> 热点推荐于 2026-10-05
+> 收录日期：2026-10-05
 
 ---
 
@@ -464,6 +472,14 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [librelane/librelane](https://github.com/librelane/librelane)
+`★571 · ⭐🔥 已 star + 热点推荐`
+ASIC 实现流程基础设施，OpenLane 的继任者
+> 热点推荐于 2026-10-05
+> 收录日期：2026-10-05
+
+---
+
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
 `★567 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
@@ -607,6 +623,14 @@ eFPGA 生成器与配套 CAD 工具链
 
 ---
 
+#### [mflowgen/mflowgen](https://github.com/mflowgen/mflowgen)
+`★299 · ⭐🔥 已 star + 热点推荐`
+模块化 ASIC/FPGA 流程生成器
+> 热点推荐于 2026-10-05
+> 收录日期：2026-10-05
+
+---
+
 #### [jsreynaud/kicad-action-scripts](https://github.com/jsreynaud/kicad-action-scripts)
 `★294 · ⭐🔥 已 star + 热点推荐`
 一批 KiCad Python 动作脚本，自动完成常见 PCB 处理任务
@@ -620,6 +644,22 @@ eFPGA 生成器与配套 CAD 工具链
 浏览器里的 CAN 总线分析仪，pip 安装即可用，兼容任意 USB CAN 适配器与 J1939/CANopen
 > 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
+
+---
+
+#### [ngspice/ngspice](https://github.com/ngspice/ngspice)
+`★284 · ⭐🔥 已 star + 热点推荐`
+开源 SPICE 电路仿真器本体
+> 热点推荐于 2026-10-05
+> 收录日期：2026-10-05
+
+---
+
+#### [pulp-platform/croc](https://github.com/pulp-platform/croc)
+`★282 · ⭐🔥 已 star + 热点推荐`
+教学用 PULP SoC，含从 RTL 到物理设计的完整流程
+> 热点推荐于 2026-10-05
+> 收录日期：2026-10-05
 
 ---
 
@@ -682,6 +722,14 @@ InfiRay P2 Pro 热像模块的查看器与 API
 键盘设计用 KiCad 符号/封装/3D 模型库
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
+
+---
+
+#### [tomek-o/CH341A-tool](https://github.com/tomek-o/CH341A-tool)
+`★235 · ⭐🔥 已 star + 热点推荐`
+CH341A EEPROM/FLASH 编程器的扩展烧录工具
+> 热点推荐于 2026-10-05
+> 收录日期：2026-10-05
 
 ---
 
@@ -862,8 +910,9 @@ Topdon TC001（及山寨版）热像仪 App：读取并显示实时/离线热数
 ---
 
 #### [assalas/pcb-designer-ai-agent](https://github.com/assalas/pcb-designer-ai-agent)
-`★131 · 🔥 热点推荐`
+`★131 · ⭐🔥 已 star + 热点推荐`
 AI 驱动 PCB 设计自动化：元件布局、布线优化与信号完整性检查
+> 热点推荐于 2026-10-05
 > 收录日期：2026-10-05
 
 ---

@@ -87,6 +87,36 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-05：本轮 47 条，待归类 20 条 + 关键词误判 2 条 ----
+    # 硬件设计与 EDA（ASIC 实现流程 / HDL 工程工具 / 烧录器均不在关键词表）
+    "The-OpenROAD-Project/OpenLane": "硬件设计与 EDA",  # 自动化 RTL→GDSII 流程
+    "librelane/librelane": "硬件设计与 EDA",             # OpenLane 继任者（流程框架）
+    "mflowgen/mflowgen": "硬件设计与 EDA",               # 模块化 ASIC/FPGA 流程生成器
+    "pulp-platform/croc": "硬件设计与 EDA",              # 教学用 SoC（RTL→物理设计）
+    "tomek-o/CH341A-tool": "硬件设计与 EDA",             # CH341A EEPROM/FLASH 烧录工具
+    "ngspice/ngspice": "硬件设计与 EDA",                 # SPICE 电路仿真内核（"仿真" 被电磁规则误吃）
+    # 飞控与无人机（气动 / RTK 接入 / 桨驱硬件与描述未含命中词）
+    "techwinder/flow5": "飞控与无人机",                  # XFLR5 第七代，翼型/机翼气动分析
+    "egekonuk/ExBEMT--An-Extended-Blade-Element-Momentum-Theory-Solver": "飞控与无人机",  # 桨叶 BEMT 求解
+    "HKUST-Aerial-Robotics/ublox_driver": "飞控与无人机",  # ZED-F9P RTK 的 ROS 驱动
+    "Zubax/newtdrive_nd500_34v": "飞控与无人机",          # 500W 一体化桨驱开源硬件
+    # 电磁仿真与超表面（散射严格解 / 光子 FEM / S 参数工具）
+    "bsumlin/PyMieScatt": "电磁仿真与超表面",             # Mie 正/逆求解
+    "lavakyan/mstm-spectrum": "电磁仿真与超表面",         # 多球 T 矩阵（MSTM）
+    "deltaeecs/MoM_AllinOne.jl": "电磁仿真与超表面",      # MoM + MLFMA
+    "HelgeGehring/femwell": "电磁仿真与超表面",           # 光子波导 FEM 模式求解
+    "Nubis-Communications/SignalIntegrity": "电磁仿真与超表面",  # S 参数 / 眼图 / 通道分析
+    # 无线通信与感知（毫米波生命体征与 CSI 感知平台，描述未含命中词）
+    "phish-tech/mmWave-Heartbeat-Dataset-Preprocessing-Toolbox-": "无线通信与感知",  # 77GHz 呼吸心跳数据与预处理
+    "Rc-W024/VS_DATASET": "无线通信与感知",               # 120GHz 生命体征数据集
+    "tientruongminh/rf-worldpose": "无线通信与感知",       # ESP32-S3 CSI 感知平台（被嵌入式规则先吃）
+    # 嵌入式与单片机（RTOS 中间件 / MISRA 检查）
+    "micro-ROS/micro_ros_setup": "嵌入式与单片机",        # micro-ROS 固件构建工具
+    "rettichschnidi/clang-tidy-misra": "嵌入式与单片机",  # MISRA C/C++ 合规检查
+    # AI 模型与视觉（投机解码全栈）
+    "deepseek-ai/DeepSpec": "AI 模型与视觉",              # 投机解码训练与评测
+    # 开发工具与系统资源（与两个核心领域无关，走工具类别）
+    "thingsboard/thingsboard": "开发工具与系统资源",      # 物联网平台（用户的 star，非研究方向）
     # ---- 2026-10-04：本轮 37 条，待归类 / 误判 10 条 ----
     # 硬件设计与 EDA（HDL IP 与开源硅路线，关键词表未覆盖）
     "hdl-util/hdmi": "硬件设计与 EDA",                 # 纯 Verilog HDMI 收发器
