@@ -1206,3 +1206,50 @@
 {"url": "https://github.com/Boyyt357/esp-to-esp-vtx-and-vrx-with-packet-injection-fpv", "stars": 25, "desc": "ESP32-CAM（VTX）与 ESP32（VRX）通过 802.11 原始包注入实现低延迟数字 FPV 图传，含自适应帧率策略", "date": "2026-10-04"}
 {"url": "https://github.com/DandongExpress/PPPR", "stars": 22, "desc": "物理信息参数化表示（PPPR）用于毫米波人体姿态估计：把每个关节建模为高斯基元，引入人体结构先验", "date": "2026-10-04"}
 {"url": "https://github.com/mgopalkrishna0007/CSTapi-MATLAB-Python", "stars": 10, "desc": "CST 微波工作室 API 的 MATLAB/Python 脚本集，用宏脚本批量仿真像素化超表面与贴片天线，与手动建模流程同构", "date": "2026-10-04"}
+{"url": "https://github.com/SiEPIC/SiEPIC-Tools", "stars": 275, "desc": "KLayout 硅光子/集成光学设计套件：波导布局、网表提取与电路仿真", "date": "2026-10-05"}
+{"url": "https://github.com/Nubis-Communications/SignalIntegrity", "stars": 217, "desc": "信号完整性 Python 工具集：S 参数、传输线、眼图与通道分析", "date": "2026-10-05"}
+{"url": "https://github.com/HelgeGehring/femwell", "stars": 179, "desc": "光子波导 FEM 模式求解器，与 gdsfactory 流程配套", "date": "2026-10-05"}
+{"url": "https://github.com/bsumlin/PyMieScatt", "stars": 123, "desc": "Mie 理论正/逆求解例程（Bohren & Huffman 体系），粒子散射计算", "date": "2026-10-05"}
+{"url": "https://github.com/konstantd/Computational_Electromagnetics", "stars": 53, "desc": "FEM 计算电磁学教学代码：静电场、圆波导 TE/TM 模与散射 MATLAB 实现", "date": "2026-10-05"}
+{"url": "https://github.com/alexpapad95/6G-simulation-platform", "stars": 41, "desc": "6G 物理层多天线/RIS 系统级仿真平台（MATLAB）", "date": "2026-10-05"}
+{"url": "https://github.com/lavakyan/mstm-spectrum", "stars": 25, "desc": "多球 T 矩阵（MSTM）与 Mie 理论 Python 封装，算表面等离激元共振谱", "date": "2026-10-05"}
+{"url": "https://github.com/deltaeecs/MoM_AllinOne.jl", "stars": 17, "desc": "矩量法与多层快速多极子（MLFMA）的 Julia 集成包", "date": "2026-10-05"}
+{"url": "https://github.com/microsoft/AirSim", "stars": 18534, "desc": "基于 Unreal/Unity 的自动驾驶与无人机开源仿真器", "date": "2026-10-05"}
+{"url": "https://github.com/louiszengCN/CarlaAir", "stars": 1110, "desc": "在 CARLA 世界里飞无人机的空地一体具身智能基础设施", "date": "2026-10-05"}
+{"url": "https://github.com/DroneBridge/DroneBridge", "stars": 953, "desc": "基于 WifiBroadcast 的双向数字图传/数传链路系统", "date": "2026-10-05"}
+{"url": "https://github.com/INAVFlights/inav-configurator", "stars": 718, "desc": "INAV 飞控跨平台地面站配置器（JavaScript GUI）", "date": "2026-10-05"}
+{"url": "https://github.com/INAVFlights/inav", "stars": 648, "desc": "INAV：带导航能力的开源飞控固件（固定翼/多旋翼）", "date": "2026-10-05"}
+{"url": "https://github.com/u-blox/ubxlib", "stars": 358, "desc": "u-blox 模块官方可移植 C 库（GNSS / 蜂窝 / WiFi）", "date": "2026-10-05"}
+{"url": "https://github.com/uzh-rpg/learned_inertial_model_odometry", "stars": 278, "desc": "学习式惯性里程计（RA-L 2023），无人机竞速状态估计", "date": "2026-10-05"}
+{"url": "https://github.com/techwinder/flow5", "stars": 227, "desc": "XFLR5 的第七代延续：翼型/机翼气动分析与设计工具", "date": "2026-10-05"}
+{"url": "https://github.com/HKUST-Aerial-Robotics/ublox_driver", "stars": 160, "desc": "u-blox ZED-F9P RTK 接收机的 ROS 驱动", "date": "2026-10-05"}
+{"url": "https://github.com/alireza787b/PixEagle", "stars": 70, "desc": "PX4 无人机视觉跟踪与目标跟随（OpenCV + YOLO + MAVSDK）", "date": "2026-10-05"}
+{"url": "https://github.com/egekonuk/ExBEMT--An-Extended-Blade-Element-Momentum-Theory-Solver", "stars": 19, "desc": "扩展叶素动量理论（BEMT）求解器，小尺寸螺旋桨与 VTOL 桨设计优化", "date": "2026-10-05"}
+{"url": "https://github.com/Zubax/newtdrive_nd500_34v", "stars": 14, "desc": "500W 一体化螺旋桨驱动开源硬件参考设计（Mitochondrik LV 电机控制芯片）", "date": "2026-10-05"}
+{"url": "https://github.com/meshtastic/firmware", "stars": 8375, "desc": "Meshtastic 官方固件：LoRa 脱网 mesh 通信系统", "date": "2026-10-05"}
+{"url": "https://github.com/FreeRTOS/FreeRTOS", "stars": 7860, "desc": "'Classic' FreeRTOS 发行版（内核本体）", "date": "2026-10-05"}
+{"url": "https://github.com/No-Chicken/OV-Watch", "stars": 2527, "desc": "STM32 + FreeRTOS + LVGL 智能手表，含 LVGL 界面与电源管理", "date": "2026-10-05"}
+{"url": "https://github.com/The-OpenROAD-Project/OpenLane", "stars": 1954, "desc": "自动化 RTL→GDSII 实现流程（OpenROAD / Yosys / Magic / Netgen）", "date": "2026-10-05"}
+{"url": "https://github.com/librelane/librelane", "stars": 571, "desc": "ASIC 实现流程基础设施，OpenLane 的继任者", "date": "2026-10-05"}
+{"url": "https://github.com/micro-ROS/micro_ros_setup", "stars": 518, "desc": "micro-ROS 固件构建支持宏与工具链", "date": "2026-10-05"}
+{"url": "https://github.com/jgauchia/IceNav-v3", "stars": 468, "desc": "ESP32 GPS 导航仪，离线 OSM 地图与多 GNSS 支持", "date": "2026-10-05"}
+{"url": "https://github.com/micro-ROS/micro_ros_espidf_component", "stars": 419, "desc": "micro-ROS 的 ESP-IDF 组件与示例代码", "date": "2026-10-05"}
+{"url": "https://github.com/RT-Thread/IoT_Board", "stars": 378, "desc": "RT-Thread IoT 开发板 BSP（STM32L4 + WiFi / 传感器 / LCD）", "date": "2026-10-05"}
+{"url": "https://github.com/mflowgen/mflowgen", "stars": 299, "desc": "模块化 ASIC/FPGA 流程生成器", "date": "2026-10-05"}
+{"url": "https://github.com/ngspice/ngspice", "stars": 284, "desc": "开源 SPICE 电路仿真器本体", "date": "2026-10-05"}
+{"url": "https://github.com/esp-arduino-libs/ESP32_Display_Panel", "stars": 283, "desc": "ESP 系列 SoC 显示驱动与 GUI 移植库（含 ESP32-P4）", "date": "2026-10-05"}
+{"url": "https://github.com/pulp-platform/croc", "stars": 282, "desc": "教学用 PULP SoC，含从 RTL 到物理设计的完整流程", "date": "2026-10-05"}
+{"url": "https://github.com/tomek-o/CH341A-tool", "stars": 235, "desc": "CH341A EEPROM/FLASH 编程器的扩展烧录工具", "date": "2026-10-05"}
+{"url": "https://github.com/rettichschnidi/clang-tidy-misra", "stars": 184, "desc": "基于 clang-tidy 的 MISRA C:2012 / C++:2008 合规检查器", "date": "2026-10-05"}
+{"url": "https://github.com/assalas/pcb-designer-ai-agent", "stars": 131, "desc": "AI 驱动 PCB 设计自动化：元件布局、布线优化与信号完整性检查", "date": "2026-10-05"}
+{"url": "https://github.com/phish-tech/mmWave-Heartbeat-Dataset-Preprocessing-Toolbox-", "stars": 65, "desc": "77GHz 毫米波原始 .bin 数据与 EEMD 呼吸/心跳预处理 MATLAB 管线", "date": "2026-10-05"}
+{"url": "https://github.com/nhoyh/HR_IMU_falldetection_dataset", "stars": 43, "desc": "可穿戴设备跌倒检测 IMU 数据集（同步心率）", "date": "2026-10-05"}
+{"url": "https://github.com/phish-tech/awesome-mmwave-sensing", "stars": 41, "desc": "毫米波感知资源路线图（生命体征与 HCI 方向）", "date": "2026-10-05"}
+{"url": "https://github.com/Rc-W024/VS_DATASET", "stars": 16, "desc": "120GHz 毫米波雷达生命体征数据集（含同步参考记录）", "date": "2026-10-05"}
+{"url": "https://github.com/tientruongminh/rf-worldpose", "stars": 11, "desc": "ESP32-S3 WiFi CSI 感知平台（MLOps + 边缘/云端推理）", "date": "2026-10-05"}
+{"url": "https://github.com/earthtojake/text-to-cad", "stars": 16846, "desc": "给 agent 装上 CAD 能力：文本直接生成机械 CAD 模型（trending）", "date": "2026-10-05"}
+{"url": "https://github.com/deepseek-ai/DeepSpec", "stars": 7185, "desc": "投机解码算法的训练与评测全栈代码库", "date": "2026-10-05"}
+{"url": "https://github.com/z-lab/dflash", "stars": 6135, "desc": "块扩散式投机解码（Block Diffusion for Flash Speculative Decoding）", "date": "2026-10-05"}
+{"url": "https://github.com/Glitch-Cat-Club/graph-memory-starter", "stars": 234, "desc": "AI 助手的知识图谱记忆：三张 SQLite 表 + 一个递归查询 + 一个提示钩子", "date": "2026-10-05"}
+{"url": "https://github.com/EfficientStreet/youtube-subscriptions-ingest", "stars": 176, "desc": "把 YouTube 订阅元数据拉进第二大脑 vault，生成交叉链接知识图谱", "date": "2026-10-05"}
+{"url": "https://github.com/ArtemisLin/obsidian-wechat-diary", "stars": 39, "desc": "微信对话自动落进 Obsidian 库，生成每日 Markdown 笔记", "date": "2026-10-05"}

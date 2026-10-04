@@ -1,19 +1,20 @@
 # 硬件设计与 EDA
 
-> 共 176 个项目 · 数据更新时间 2026-10-04 · [返回总览](../README.md)
+> 共 177 个项目 · 数据更新时间 2026-10-05 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,921 · C++ · ⭐ 已 star`
+`★33,938 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
-`★16,619 · Python · ⭐ 已 star`
+`★16,846 · Python · ⭐🔥 已 star + 热点推荐`
 Give your agent CAD superpowers.
+> 热点推荐于 2026-10-05
 > 收录日期：2026-09-13
 
 ---
@@ -123,7 +124,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,940 · C++ · ⭐ 已 star`
+`★2,947 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -146,7 +147,7 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,649 · Python · ⭐ 已 star`
+`★2,669 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -161,7 +162,7 @@ Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,426 · Rust · ⭐ 已 star`
+`★2,447 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -857,6 +858,13 @@ KiCad 9+ 的 MCP 服务器：原理图分析、引脚级网表追踪、无头 ER
 Topdon TC001（及山寨版）热像仪 App：读取并显示实时/离线热数据
 > 热点推荐于 2026-09-27
 > 收录日期：2026-09-27
+
+---
+
+#### [assalas/pcb-designer-ai-agent](https://github.com/assalas/pcb-designer-ai-agent)
+`★131 · 🔥 热点推荐`
+AI 驱动 PCB 设计自动化：元件布局、布线优化与信号完整性检查
+> 收录日期：2026-10-05
 
 ---
 
