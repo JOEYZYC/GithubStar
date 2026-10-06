@@ -87,6 +87,21 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-07：本轮 32 条，待归类 7 条 + 用户 star 未归类 2 条 ----
+    # 硬件设计与 EDA（HDL IP、开源 PDK、FPGA 网络平台均不在关键词表）
+    "alexforencich/verilog-ethernet": "硬件设计与 EDA",   # Verilog 以太网 MAC/PHY 组件集
+    "corundum/corundum": "硬件设计与 EDA",                # FPGA 100G 网卡与在网计算平台
+    "openecos-projects/icsprout55-pdk": "硬件设计与 EDA",  # 55nm CMOS 开源 PDK
+    # 嵌入式与单片机（引导器 / 显示编辑工具）
+    "Limine-Bootloader/Limine": "嵌入式与单片机",          # 多协议引导加载器（BIOS+UEFI）
+    "koosoli/ESPHomeDesigner": "嵌入式与单片机",           # ESPHome 显示屏可视化编辑器
+    # 飞控与无人机（地面站，描述未含命中词）
+    "MishkaRogachev/JAGCS": "飞控与无人机",                # Qt/QML 开源地面站
+    # 电磁仿真与超表面（超透镜逆设计，描述未含命中词）
+    "demroz/pinn-ms": "电磁仿真与超表面",                  # PINN 无数据超透镜逆设计
+    # 开发工具与系统资源（用户的 star，与两个核心领域无关）
+    "ellermister/wechat-clean": "开发工具与系统资源",       # 安卓微信存储清理工具
+    "read-x/refactoring-ui-zh": "开发工具与系统资源",       # 《Refactoring UI》中文翻译 + PDF→MD 工具链
     # ---- 2026-10-05：本轮 47 条，待归类 20 条 + 关键词误判 2 条 ----
     # 硬件设计与 EDA（ASIC 实现流程 / HDL 工程工具 / 烧录器均不在关键词表）
     "The-OpenROAD-Project/OpenLane": "硬件设计与 EDA",  # 自动化 RTL→GDSII 流程

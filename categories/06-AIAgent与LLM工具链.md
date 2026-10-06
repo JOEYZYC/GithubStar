@@ -35,7 +35,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★244,590 · TypeScript · ⭐ 已 star`
+`★244,591 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★157,797 · Shell · ⭐ 已 star`
+`★157,799 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -149,7 +149,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★86,512 · TypeScript · ⭐ 已 star`
+`★86,513 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -187,7 +187,7 @@ Rust 单文件 CLI 代理，把常见开发命令的输出裁剪后喂给 LLM，
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★78,677 · JavaScript · ⭐ 已 star`
+`★78,678 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -561,8 +561,9 @@ Agentic Development Environment based on OpenCode AI agent
 ---
 
 #### [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
-`★10,628 · 🔥 热点推荐`
+`★10,628 · ⭐🔥 已 star + 热点推荐`
 开源 AI agent 框架与元编排层（meta-harness），统一调度多种 coding agent
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
@@ -605,8 +606,9 @@ Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate t
 ---
 
 #### [morluto/rea](https://github.com/morluto/rea)
-`★9,157 · 🔥 热点推荐`
+`★9,157 · ⭐🔥 已 star + 热点推荐`
 用 AI agent 做逆向工程：从应用行为一路下探到原生二进制分析
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
@@ -782,8 +784,9 @@ Dynamic context pruning plugin for OpenCode - intelligently manages conversation
 ---
 
 #### [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
-`★3,916 · 🔥 热点推荐`
+`★3,916 · ⭐🔥 已 star + 热点推荐`
 Apple Silicon 上的 OpenAI/Anthropic 兼容本地推理服务（Apache 2.0），一行命令起服务
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---

@@ -1670,7 +1670,14 @@
    "added_at": "2026-10-07",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "pratikPhadte/ESP32-Flight-controller-",
@@ -2195,6 +2202,27 @@
    ],
    "hot_dates": [
     "2026-09-28"
+   ]
+  },
+  {
+   "full_name": "MishkaRogachev/JAGCS",
+   "url": "https://github.com/MishkaRogachev/JAGCS",
+   "description": "跨平台开源地面站（Qt/QML），支持 MAVLink 遥测、任务规划与参数配置",
+   "language": "",
+   "stars": 207,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-07",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
    ]
   },
   {
@@ -2944,7 +2972,14 @@
    "added_at": "2026-10-07",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "huobuilds/quadfs_flight_controller",
@@ -6531,7 +6566,14 @@
    "added_at": "2026-10-07",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "airPeter/SmartGlass",
@@ -6545,7 +6587,14 @@
    "added_at": "2026-10-07",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "johnaparker/miepy",
@@ -7458,6 +7507,27 @@
    ]
   },
   {
+   "full_name": "demroz/pinn-ms",
+   "url": "https://github.com/demroz/pinn-ms",
+   "description": "用无数据机器学习优化大面积超透镜（metalens）设计，PINN 逆设计论文配套代码",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-07",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
+  },
+  {
    "full_name": "adityarajIITj/adios",
    "url": "https://github.com/adityarajIITj/adios",
    "description": "针对自研 RISC-V(RV32I) 仿真层从零写的极轻裸机系统，含抢占式多任务与页框架",
@@ -8078,7 +8148,14 @@
    "added_at": "2026-10-07",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "jman4162/electromagnetics-work-samples",
@@ -8092,7 +8169,14 @@
    "added_at": "2026-10-07",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "witwin-ai/witwin-maxwell",
@@ -8486,7 +8570,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "DarkFlippers/unleashed-firmware",
@@ -8638,7 +8729,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "RT-Thread/rt-thread",
@@ -9093,7 +9191,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "FreeRTOS/FreeRTOS-Kernel",
@@ -9233,7 +9338,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "ailyProject/aily-blockly",
@@ -9254,6 +9366,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "Limine-Bootloader/Limine",
+   "url": "https://github.com/Limine-Bootloader/Limine",
+   "description": "现代多协议引导加载器与引导管理器，支持 BIOS/UEFI、多架构、图形化菜单",
+   "language": "",
+   "stars": 3808,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-07",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
    ]
   },
   {
@@ -9659,7 +9792,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "No-Chicken/OV-Watch",
@@ -10040,7 +10180,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "OMOTE-Community/OMOTE-Firmware",
@@ -10605,6 +10752,27 @@
    ]
   },
   {
+   "full_name": "koosoli/ESPHomeDesigner",
+   "url": "https://github.com/koosoli/ESPHomeDesigner",
+   "description": "ESPHome 显示屏的可视化拖拽编辑器（墨水屏/OLED/LCD/触摸），Home Assistant 集成或独立网页",
+   "language": "",
+   "stars": 1115,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-07",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
+  },
+  {
    "full_name": "pico-coder/sigrok-pico",
    "url": "https://github.com/pico-coder/sigrok-pico",
    "description": "把 RP2040/RP2350 变成 sigrok 逻辑分析仪与示波器",
@@ -10909,7 +11077,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "dog-qiuqiu/Yolo-FastestV2",
@@ -10965,7 +11140,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "ecubus/EcuBus-Pro",
@@ -12672,7 +12854,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "simonw/micropython-wasm",
@@ -15710,7 +15899,14 @@
    "added_at": "2026-10-07",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "RT-Thread-Studio/sdk-bsp-ra8p1-titan-board",
@@ -17330,6 +17526,27 @@
    ]
   },
   {
+   "full_name": "alexforencich/verilog-ethernet",
+   "url": "https://github.com/alexforencich/verilog-ethernet",
+   "description": "Verilog 实现的以太网 MAC/PHY 组件集，覆盖 1G/10G/25G，FPGA 网络设计常用 IP",
+   "language": "",
+   "stars": 3114,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-07",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
+  },
+  {
    "full_name": "The-OpenROAD-Project/OpenROAD",
    "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
    "description": "RTL-to-GDS 开源数字芯片实现流程",
@@ -17492,6 +17709,27 @@
    ],
    "hot_dates": [
     "2026-10-02"
+   ]
+  },
+  {
+   "full_name": "corundum/corundum",
+   "url": "https://github.com/corundum/corundum",
+   "description": "基于 FPGA 的开源 100G 网卡与在网计算平台，含 PCIe DMA 与完整驱动栈",
+   "language": "",
+   "stars": 2484,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-07",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
    ]
   },
   {
@@ -18315,7 +18553,14 @@
    "added_at": "2026-10-07",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "joanbono/awesome-kicad",
@@ -18405,7 +18650,14 @@
    "added_at": "2026-10-07",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "CircuitProApp/CircuitPro",
@@ -18670,7 +18922,14 @@
    "added_at": "2026-10-07",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "LilithSemi/aegis",
@@ -18817,6 +19076,27 @@
    ],
    "hot_dates": [
     "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "openecos-projects/icsprout55-pdk",
+   "url": "https://github.com/openecos-projects/icsprout55-pdk",
+   "description": "55nm CMOS 开源工艺设计套件（PDK），含器件模型与 DRC，扩展开源流片工艺选项",
+   "language": "",
+   "stars": 293,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-07",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
    ]
   },
   {
@@ -18978,7 +19258,14 @@
    "added_at": "2026-10-07",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "LeoDJ/P2Pro-Viewer",
@@ -19194,7 +19481,14 @@
    "added_at": "2026-10-07",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "Clothooo/lvt2calib",
@@ -19691,7 +19985,14 @@
    "added_at": "2026-10-07",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "DavidClawson/OpenScope-2C53T",
@@ -23940,7 +24241,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 244590,
+   "stars": 244591,
    "topics": [
     "ai-agents",
     "cordis",
@@ -23984,7 +24285,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 157797,
+   "stars": 157799,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -24266,7 +24567,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 86512,
+   "stars": 86513,
    "topics": [
     "ade",
     "agent-ide",
@@ -24395,7 +24696,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 78677,
+   "stars": 78678,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -25468,7 +25769,14 @@
    "added_at": "2026-10-07",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "FareedKhan-dev/train-llm-from-scratch",
@@ -25579,7 +25887,14 @@
    "added_at": "2026-10-07",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "SWE-agent/mini-swe-agent",
@@ -26062,7 +26377,14 @@
    "added_at": "2026-10-07",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-07"
+   ]
   },
   {
    "full_name": "Tiger3807861189/J-Space-Cognition-Suite-V3.7",
@@ -30040,6 +30362,19 @@
    "note": ""
   },
   {
+   "full_name": "ellermister/wechat-clean",
+   "url": "https://github.com/ellermister/wechat-clean",
+   "description": "释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。",
+   "language": "Rich Text Format",
+   "stars": 1218,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-07",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "AcademySoftwareFoundation/rez",
    "url": "https://github.com/AcademySoftwareFoundation/rez",
    "description": "An integrated package configuration, build and deployment system for software",
@@ -30147,6 +30482,19 @@
    "note": ""
   },
   {
+   "full_name": "read-x/refactoring-ui-zh",
+   "url": "https://github.com/read-x/refactoring-ui-zh",
+   "description": "《Refactoring UI》中文翻译（非官方、个人学习用），含 PDF 到 Markdown 再到中文译文的完整工具链",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-07",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "Hazy019/hazy-readme-cards",
    "url": "https://github.com/Hazy019/hazy-readme-cards",
    "description": "A high-performance, theme-aware terminal UI dashboard and custom pixel art setup for GitHub READMEs.",
@@ -30176,130 +30524,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "Limine-Bootloader/Limine",
-   "url": "https://github.com/Limine-Bootloader/Limine",
-   "description": "现代多协议引导加载器与引导管理器，支持 BIOS/UEFI、多架构、图形化菜单",
-   "language": "",
-   "stars": 3808,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "alexforencich/verilog-ethernet",
-   "url": "https://github.com/alexforencich/verilog-ethernet",
-   "description": "Verilog 实现的以太网 MAC/PHY 组件集，覆盖 1G/10G/25G，FPGA 网络设计常用 IP",
-   "language": "",
-   "stars": 3114,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "corundum/corundum",
-   "url": "https://github.com/corundum/corundum",
-   "description": "基于 FPGA 的开源 100G 网卡与在网计算平台，含 PCIe DMA 与完整驱动栈",
-   "language": "",
-   "stars": 2484,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ellermister/wechat-clean",
-   "url": "https://github.com/ellermister/wechat-clean",
-   "description": "释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。",
-   "language": "Rich Text Format",
-   "stars": 1218,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "koosoli/ESPHomeDesigner",
-   "url": "https://github.com/koosoli/ESPHomeDesigner",
-   "description": "ESPHome 显示屏的可视化拖拽编辑器（墨水屏/OLED/LCD/触摸），Home Assistant 集成或独立网页",
-   "language": "",
-   "stars": 1115,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "openecos-projects/icsprout55-pdk",
-   "url": "https://github.com/openecos-projects/icsprout55-pdk",
-   "description": "55nm CMOS 开源工艺设计套件（PDK），含器件模型与 DRC，扩展开源流片工艺选项",
-   "language": "",
-   "stars": 293,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "MishkaRogachev/JAGCS",
-   "url": "https://github.com/MishkaRogachev/JAGCS",
-   "description": "跨平台开源地面站（Qt/QML），支持 MAVLink 遥测、任务规划与参数配置",
-   "language": "",
-   "stars": 207,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "demroz/pinn-ms",
-   "url": "https://github.com/demroz/pinn-ms",
-   "description": "用无数据机器学习优化大面积超透镜（metalens）设计，PINN 逆设计论文配套代码",
-   "language": "",
-   "stars": 25,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-07",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "read-x/refactoring-ui-zh",
-   "url": "https://github.com/read-x/refactoring-ui-zh",
-   "description": "《Refactoring UI》中文翻译（非官方、个人学习用），含 PDF 到 Markdown 再到中文译文的完整工具链",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-07",
-   "category": "待归类",
    "note": ""
   }
  ]

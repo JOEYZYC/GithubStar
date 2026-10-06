@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 189 个项目 · 数据更新时间 2026-10-07 · [返回总览](../README.md)
+> 共 192 个项目 · 数据更新时间 2026-10-07 · [返回总览](../README.md)
 
 ---
 
@@ -99,6 +99,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 
 ---
 
+#### [alexforencich/verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
+`★3,114 · ⭐🔥 已 star + 热点推荐`
+Verilog 实现的以太网 MAC/PHY 组件集，覆盖 1G/10G/25G，FPGA 网络设计常用 IP
+> 热点推荐于 2026-10-07
+> 收录日期：2026-10-07
+
+---
+
 #### [The-OpenROAD-Project/OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD)
 `★3,107 · ⭐🔥 已 star + 热点推荐`
 RTL-to-GDS 开源数字芯片实现流程
@@ -158,6 +166,14 @@ FreeCAD MCP(Model Context Protocol) server
 Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准，替代一大半 SystemVerilog testbench
 > 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
+
+---
+
+#### [corundum/corundum](https://github.com/corundum/corundum)
+`★2,484 · ⭐🔥 已 star + 热点推荐`
+基于 FPGA 的开源 100G 网卡与在网计算平台，含 PCIe DMA 与完整驱动栈
+> 热点推荐于 2026-10-07
+> 收录日期：2026-10-07
 
 ---
 
@@ -457,8 +473,9 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 ---
 
 #### [KitSprout/AltiumDesigner_PcbLibrary](https://github.com/KitSprout/AltiumDesigner_PcbLibrary)
-`★672 · 🔥 热点推荐`
+`★672 · ⭐🔥 已 star + 热点推荐`
 中文社区维护的 Altium Designer 元件库，含常用器件封装与原理图符号，PCB 设计即取即用
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
@@ -495,8 +512,9 @@ Software and Hardware Production Files of the Automotive Rapid DEvelopment Platf
 ---
 
 #### [KinkyMakers/OSSM-hardware](https://github.com/KinkyMakers/OSSM-hardware)
-`★567 · 🔥 热点推荐`
+`★567 · ⭐🔥 已 star + 热点推荐`
 OSSM（开源性爱机）的 PCB 与外壳结构设计文件，含电机驱动与 DC 电源板
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
@@ -598,8 +616,9 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 ---
 
 #### [idea-fasoc/OpenFASOC](https://github.com/idea-fasoc/OpenFASOC)
-`★364 · 🔥 热点推荐`
+`★364 · ⭐🔥 已 star + 热点推荐`
 基于开源 EDA 工具链的全开源模拟电路（FASOC）生成器，含 LDO/温度传感器等模板
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
@@ -660,6 +679,14 @@ eFPGA 生成器与配套 CAD 工具链
 
 ---
 
+#### [openecos-projects/icsprout55-pdk](https://github.com/openecos-projects/icsprout55-pdk)
+`★293 · ⭐🔥 已 star + 热点推荐`
+55nm CMOS 开源工艺设计套件（PDK），含器件模型与 DRC，扩展开源流片工艺选项
+> 热点推荐于 2026-10-07
+> 收录日期：2026-10-07
+
+---
+
 #### [Chanchaldhiman/CANviz](https://github.com/Chanchaldhiman/CANviz)
 `★289 · ⭐🔥 已 star + 热点推荐`
 浏览器里的 CAN 总线分析仪，pip 安装即可用，兼容任意 USB CAN 适配器与 J1939/CANopen
@@ -717,8 +744,9 @@ gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表�
 ---
 
 #### [Steffen-W/Import-LIB-KiCad-Plugin](https://github.com/Steffen-W/Import-LIB-KiCad-Plugin)
-`★262 · 🔥 热点推荐`
+`★262 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩包，免手工转换
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
@@ -802,8 +830,9 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 ---
 
 #### [wokwi/kicad-jlcpcb-bom-plugin](https://github.com/wokwi/kicad-jlcpcb-bom-plugin)
-`★204 · 🔥 热点推荐`
+`★204 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件：从原理图直接导出嘉立创（JLCPCB）兼容 BOM，自动匹配 LCSC 料号
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
@@ -993,8 +1022,9 @@ Verilator、GHDL、Yosys、nextpnr 等开源 EDA 的容器镜像与部署脚本�
 ---
 
 #### [azmat-bilal/bldc_motor_controller_pcb](https://github.com/azmat-bilal/bldc_motor_controller_pcb)
-`★112 · 🔥 热点推荐`
+`★112 · ⭐🔥 已 star + 热点推荐`
 BLDC 无刷电机驱动板设计（兼容 ODrive 接口），含原理图与 PCB，自制驱动器参考
+> 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
 
 ---
