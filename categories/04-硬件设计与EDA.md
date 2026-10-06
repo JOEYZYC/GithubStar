@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 183 个项目 · 数据更新时间 2026-10-05 · [返回总览](../README.md)
+> 共 189 个项目 · 数据更新时间 2026-10-07 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,938 · C++ · ⭐ 已 star`
+`★33,983 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -124,7 +124,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,947 · C++ · ⭐ 已 star`
+`★2,959 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -138,18 +138,18 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 
 ---
 
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★2,716 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
+
+---
+
 #### [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
 `★2,679 · ⭐🔥 已 star + 热点推荐`
 用 TypeScript/React 定义并生成真实电子产品（电路即代码）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
-
----
-
-#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,669 · Python · ⭐ 已 star`
-FreeCAD MCP(Model Context Protocol) server
-> 收录日期：2026-09-27
 
 ---
 
@@ -162,7 +162,7 @@ Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,447 · Rust · ⭐ 已 star`
+`★2,480 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -456,6 +456,13 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 
 ---
 
+#### [KitSprout/AltiumDesigner_PcbLibrary](https://github.com/KitSprout/AltiumDesigner_PcbLibrary)
+`★672 · 🔥 热点推荐`
+中文社区维护的 Altium Designer 元件库，含常用器件封装与原理图符号，PCB 设计即取即用
+> 收录日期：2026-10-07
+
+---
+
 #### [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad)
 `★613 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件与资源精选清单
@@ -481,9 +488,16 @@ ASIC 实现流程基础设施，OpenLane 的继任者
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★567 · C · ⭐ 已 star`
+`★569 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
+
+---
+
+#### [KinkyMakers/OSSM-hardware](https://github.com/KinkyMakers/OSSM-hardware)
+`★567 · 🔥 热点推荐`
+OSSM（开源性爱机）的 PCB 与外壳结构设计文件，含电机驱动与 DC 电源板
+> 收录日期：2026-10-07
 
 ---
 
@@ -580,6 +594,13 @@ ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 热点推荐于 2026-09-15
 > 收录日期：2026-09-13
+
+---
+
+#### [idea-fasoc/OpenFASOC](https://github.com/idea-fasoc/OpenFASOC)
+`★364 · 🔥 热点推荐`
+基于开源 EDA 工具链的全开源模拟电路（FASOC）生成器，含 LDO/温度传感器等模板
+> 收录日期：2026-10-07
 
 ---
 
@@ -695,6 +716,13 @@ gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表�
 
 ---
 
+#### [Steffen-W/Import-LIB-KiCad-Plugin](https://github.com/Steffen-W/Import-LIB-KiCad-Plugin)
+`★262 · 🔥 热点推荐`
+KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩包，免手工转换
+> 收录日期：2026-10-07
+
+---
+
 #### [LeoDJ/P2Pro-Viewer](https://github.com/LeoDJ/P2Pro-Viewer)
 `★253 · ⭐🔥 已 star + 热点推荐`
 InfiRay P2 Pro 热像模块的查看器与 API
@@ -770,6 +798,13 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 小体积可配置的 FPGA 片内逻辑分析仪，直接在 RTL 内插观测点
 > 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
+
+---
+
+#### [wokwi/kicad-jlcpcb-bom-plugin](https://github.com/wokwi/kicad-jlcpcb-bom-plugin)
+`★204 · 🔥 热点推荐`
+KiCad 插件：从原理图直接导出嘉立创（JLCPCB）兼容 BOM，自动匹配 LCSC 料号
+> 收录日期：2026-10-07
 
 ---
 
@@ -954,6 +989,13 @@ Verilator、GHDL、Yosys、nextpnr 等开源 EDA 的容器镜像与部署脚本�
 音频模块厂商的 KiCad 元件库
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
+
+---
+
+#### [azmat-bilal/bldc_motor_controller_pcb](https://github.com/azmat-bilal/bldc_motor_controller_pcb)
+`★112 · 🔥 热点推荐`
+BLDC 无刷电机驱动板设计（兼容 ODrive 接口），含原理图与 PCB，自制驱动器参考
+> 收录日期：2026-10-07
 
 ---
 

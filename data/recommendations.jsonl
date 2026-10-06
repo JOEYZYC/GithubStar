@@ -1253,3 +1253,35 @@
 {"url": "https://github.com/Glitch-Cat-Club/graph-memory-starter", "stars": 234, "desc": "AI 助手的知识图谱记忆：三张 SQLite 表 + 一个递归查询 + 一个提示钩子", "date": "2026-10-05"}
 {"url": "https://github.com/EfficientStreet/youtube-subscriptions-ingest", "stars": 176, "desc": "把 YouTube 订阅元数据拉进第二大脑 vault，生成交叉链接知识图谱", "date": "2026-10-05"}
 {"url": "https://github.com/ArtemisLin/obsidian-wechat-diary", "stars": 39, "desc": "微信对话自动落进 Obsidian 库，生成每日 Markdown 笔记", "date": "2026-10-05"}
+{"url": "https://github.com/Tencent/ncnn", "stars": 23909, "desc": "面向移动端与嵌入式的高性能神经网络推理框架，无第三方依赖、ARM NEON/Vulkan 加速", "date": "2026-10-07"}
+{"url": "https://github.com/cesanta/mongoose", "stars": 13072, "desc": "单文件嵌入式网络库，集 TCP/IP 栈、HTTP/WebSocket/MQTT 服务端与客户端于一体", "date": "2026-10-07"}
+{"url": "https://github.com/omnigent-ai/omnigent", "stars": 10628, "desc": "开源 AI agent 框架与元编排层（meta-harness），统一调度多种 coding agent", "date": "2026-10-07"}
+{"url": "https://github.com/morluto/rea", "stars": 9157, "desc": "用 AI agent 做逆向工程：从应用行为一路下探到原生二进制分析", "date": "2026-10-07"}
+{"url": "https://github.com/OAID/Tengine", "stars": 4533, "desc": "面向嵌入式设备的轻量高性能推理引擎，模块化设计，支持异构计算后端", "date": "2026-10-07"}
+{"url": "https://github.com/raullenchai/Rapid-MLX", "stars": 3916, "desc": "Apple Silicon 上的 OpenAI/Anthropic 兼容本地推理服务（Apache 2.0），一行命令起服务", "date": "2026-10-07"}
+{"url": "https://github.com/misprit7/computerraria", "stars": 3861, "desc": "在《泰拉瑞亚》游戏里用红石逻辑搭出的完整 RISC-V 计算机，可跑真实程序", "date": "2026-10-07"}
+{"url": "https://github.com/Limine-Bootloader/Limine", "stars": 3808, "desc": "现代多协议引导加载器与引导管理器，支持 BIOS/UEFI、多架构、图形化菜单", "date": "2026-10-07"}
+{"url": "https://github.com/alexforencich/verilog-ethernet", "stars": 3114, "desc": "Verilog 实现的以太网 MAC/PHY 组件集，覆盖 1G/10G/25G，FPGA 网络设计常用 IP", "date": "2026-10-07"}
+{"url": "https://github.com/darklife/darkriscv", "stars": 2621, "desc": "一个晚上从零写成的 RISC-V CPU 核（Verilog），CPU 微架构入门的高质量单文件实现", "date": "2026-10-07"}
+{"url": "https://github.com/corundum/corundum", "stars": 2484, "desc": "基于 FPGA 的开源 100G 网卡与在网计算平台，含 PCIe DMA 与完整驱动栈", "date": "2026-10-07"}
+{"url": "https://github.com/lovyan03/LovyanGFX", "stars": 1781, "desc": "面向 ESP32/ESP8266/SAMD51 的高速 SPI LCD 图形库，比 TFT_eSPI 更快的显示驱动", "date": "2026-10-07"}
+{"url": "https://github.com/koosoli/ESPHomeDesigner", "stars": 1115, "desc": "ESPHome 显示屏的可视化拖拽编辑器（墨水屏/OLED/LCD/触摸），Home Assistant 集成或独立网页", "date": "2026-10-07"}
+{"url": "https://github.com/lvgl/lv_binding_rust", "stars": 944, "desc": "LVGL 的 Rust 语言绑定，把 LVGL 全部控件与动画能力带进嵌入式 Rust 项目", "date": "2026-10-07"}
+{"url": "https://github.com/FASTSHIFT/WatchX", "stars": 912, "desc": "基于 LVGL 的开源智能手表固件与硬件方案，闭环表盘 UI 与低功耗调度参考实现", "date": "2026-10-07"}
+{"url": "https://github.com/KitSprout/AltiumDesigner_PcbLibrary", "stars": 672, "desc": "中文社区维护的 Altium Designer 元件库，含常用器件封装与原理图符号，PCB 设计即取即用", "date": "2026-10-07"}
+{"url": "https://github.com/KinkyMakers/OSSM-hardware", "stars": 567, "desc": "OSSM（开源性爱机）的 PCB 与外壳结构设计文件，含电机驱动与 DC 电源板", "date": "2026-10-07"}
+{"url": "https://github.com/idea-fasoc/OpenFASOC", "stars": 364, "desc": "基于开源 EDA 工具链的全开源模拟电路（FASOC）生成器，含 LDO/温度传感器等模板", "date": "2026-10-07"}
+{"url": "https://github.com/AutonomyLab/ardrone_autonomy", "stars": 362, "desc": "Parrot AR-Drone 四旋翼的 ROS 驱动节点，把消费级无人机接入 ROS 控制栈", "date": "2026-10-07"}
+{"url": "https://github.com/openecos-projects/icsprout55-pdk", "stars": 293, "desc": "55nm CMOS 开源工艺设计套件（PDK），含器件模型与 DRC，扩展开源流片工艺选项", "date": "2026-10-07"}
+{"url": "https://github.com/Steffen-W/Import-LIB-KiCad-Plugin", "stars": 262, "desc": "KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩包，免手工转换", "date": "2026-10-07"}
+{"url": "https://github.com/MishkaRogachev/JAGCS", "stars": 207, "desc": "跨平台开源地面站（Qt/QML），支持 MAVLink 遥测、任务规划与参数配置", "date": "2026-10-07"}
+{"url": "https://github.com/wokwi/kicad-jlcpcb-bom-plugin", "stars": 204, "desc": "KiCad 插件：从原理图直接导出嘉立创（JLCPCB）兼容 BOM，自动匹配 LCSC 料号", "date": "2026-10-07"}
+{"url": "https://github.com/gbmhunter/MFixedPoint", "stars": 176, "desc": "头文件级定点数 C++ 库，面向无 FPU 的嵌入式 MCU 做快速定点运算", "date": "2026-10-07"}
+{"url": "https://github.com/azmat-bilal/bldc_motor_controller_pcb", "stars": 112, "desc": "BLDC 无刷电机驱动板设计（兼容 ODrive 接口），含原理图与 PCB，自制驱动器参考", "date": "2026-10-07"}
+{"url": "https://github.com/pfeerick/USB_ELRS_Receiver", "stars": 81, "desc": "把 ESP32 做成 USB HID 摇杆的 ELRS 接收机固件，手柄直连无人机模拟器免遥控器", "date": "2026-10-07"}
+{"url": "https://github.com/polarscope-studio/polarscope", "stars": 48, "desc": "实时三维天线仿真桌面应用，内置 NEC-2 矩量法求解器，天线方向图即时可视化", "date": "2026-10-07"}
+{"url": "https://github.com/airPeter/SmartGlass", "stars": 48, "desc": "衍射光学神经网络（DONN）的 Python 实现，可训练全光分类器，超表面计算成像路线", "date": "2026-10-07"}
+{"url": "https://github.com/demroz/pinn-ms", "stars": 25, "desc": "用无数据机器学习优化大面积超透镜（metalens）设计，PINN 逆设计论文配套代码", "date": "2026-10-07"}
+{"url": "https://github.com/FabianKuebler/micropython-snes", "stars": 18, "desc": "在正版超任（SNES）主机上跑 MicroPython：含控制台内编译器、REPL 与 PPU 精灵引擎", "date": "2026-10-07"}
+{"url": "https://github.com/Woodchuk/FenicsElectromag", "stars": 13, "desc": "FEniCS 有限元天线仿真示例集，配套《Basics of Antenna Modeling with FEniCS》，开源 FEM 电磁建模入门", "date": "2026-10-07"}
+{"url": "https://github.com/jman4162/electromagnetics-work-samples", "stars": 13, "desc": "电磁/RF/天线/雷达系统分析的 MATLAB 作业样本，含链路预算、方向图与散射计算", "date": "2026-10-07"}
