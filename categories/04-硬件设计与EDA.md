@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 192 个项目 · 数据更新时间 2026-10-07 · [返回总览](../README.md)
+> 共 193 个项目 · 数据更新时间 2026-10-08 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★33,983 · C++ · ⭐ 已 star`
+`★34,011 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -132,7 +132,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,959 · C++ · ⭐ 已 star`
+`★2,965 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -147,7 +147,7 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,716 · Python · ⭐ 已 star`
+`★2,732 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -169,18 +169,18 @@ Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准�
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★2,512 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [corundum/corundum](https://github.com/corundum/corundum)
 `★2,484 · ⭐🔥 已 star + 热点推荐`
 基于 FPGA 的开源 100G 网卡与在网计算平台，含 PCIe DMA 与完整驱动栈
 > 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,480 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 
@@ -1106,6 +1106,13 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 把 LLM 聊天面板嵌进 KiCad 10 的动作插件，自带 MCP 服务器，可用自然语言修改原理图与 PCB
 > 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
+
+---
+
+#### [issus/DifferentialProbe](https://github.com/issus/DifferentialProbe)
+`★95 · 🔥 热点推荐`
+开源 250MHz 差分示波器探头，含前端放大器设计与 PCB
+> 收录日期：2026-10-08
 
 ---
 

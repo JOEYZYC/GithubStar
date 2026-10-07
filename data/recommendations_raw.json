@@ -1,162 +1,152 @@
 [
  {
-  "url": "https://github.com/Tencent/ncnn",
-  "stars": 23909,
-  "desc": "面向移动端与嵌入式的高性能神经网络推理框架，无第三方依赖、ARM NEON/Vulkan 加速"
+  "url": "https://github.com/allenai/olmocr",
+  "stars": 19723,
+  "desc": "Allen AI 的 PDF 线性化工具包，把文档转成适合 LLM 数据集与训练的文本"
  },
  {
-  "url": "https://github.com/cesanta/mongoose",
-  "stars": 13072,
-  "desc": "单文件嵌入式网络库，集 TCP/IP 栈、HTTP/WebSocket/MQTT 服务端与客户端于一体"
+  "url": "https://github.com/memvid/memvid",
+  "stars": 16583,
+  "desc": "AI agent 的记忆层，用单文件无服务器形态替代复杂 RAG 管线"
  },
  {
-  "url": "https://github.com/omnigent-ai/omnigent",
-  "stars": 10628,
-  "desc": "开源 AI agent 框架与元编排层（meta-harness），统一调度多种 coding agent"
+  "url": "https://github.com/alibaba/zvec",
+  "stars": 16073,
+  "desc": "阿里开源的进程内轻量向量数据库，面向端侧与本地 RAG 检索场景"
  },
  {
-  "url": "https://github.com/morluto/rea",
-  "stars": 9157,
-  "desc": "用 AI agent 做逆向工程：从应用行为一路下探到原生二进制分析"
+  "url": "https://github.com/threat9/routersploit",
+  "stars": 13256,
+  "desc": "面向嵌入式设备的漏洞利用框架，覆盖路由器与 IoT 设备常见漏洞的探测与利用模块"
  },
  {
-  "url": "https://github.com/OAID/Tengine",
-  "stars": 4533,
-  "desc": "面向嵌入式设备的轻量高性能推理引擎，模块化设计，支持异构计算后端"
+  "url": "https://github.com/unicorn-engine/unicorn",
+  "stars": 9408,
+  "desc": "轻量多架构 CPU 模拟器框架（ARM/RISC-V/MIPS/x86 等），固件逆向与嵌入式仿真的常用底座"
  },
  {
-  "url": "https://github.com/raullenchai/Rapid-MLX",
-  "stars": 3916,
-  "desc": "Apple Silicon 上的 OpenAI/Anthropic 兼容本地推理服务（Apache 2.0），一行命令起服务"
+  "url": "https://github.com/xingkongliang/skills-manager",
+  "stars": 5693,
+  "desc": "跨 50+ 编码工具的 AI agent 技能管理桌面应用，统一管理、同步与组织 skills"
  },
  {
-  "url": "https://github.com/misprit7/computerraria",
-  "stars": 3861,
-  "desc": "在《泰拉瑞亚》游戏里用红石逻辑搭出的完整 RISC-V 计算机，可跑真实程序"
+  "url": "https://github.com/warmcat/libwebsockets",
+  "stars": 5333,
+  "desc": "C 语言事件驱动网络库，覆盖 HTTP/WebSocket/MQTT，嵌入式与 IoT 设备通信常用"
  },
  {
-  "url": "https://github.com/Limine-Bootloader/Limine",
-  "stars": 3808,
-  "desc": "现代多协议引导加载器与引导管理器，支持 BIOS/UEFI、多架构、图形化菜单"
+  "url": "https://github.com/cyberbotics/webots",
+  "stars": 4695,
+  "desc": "开源机器人仿真器，支持 ROS/ROS 2 与 PX4 接口，机器人算法可先在仿真里跑通"
  },
  {
-  "url": "https://github.com/alexforencich/verilog-ethernet",
-  "stars": 3114,
-  "desc": "Verilog 实现的以太网 MAC/PHY 组件集，覆盖 1G/10G/25G，FPGA 网络设计常用 IP"
+  "url": "https://github.com/chipsalliance/rocket-chip",
+  "stars": 3882,
+  "desc": "Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器设计的基础 RTL 资产"
  },
  {
-  "url": "https://github.com/darklife/darkriscv",
-  "stars": 2621,
-  "desc": "一个晚上从零写成的 RISC-V CPU 核（Verilog），CPU 微架构入门的高质量单文件实现"
+  "url": "https://github.com/rcore-os/rCore",
+  "stars": 3687,
+  "desc": "Rust 重写的 Linux 兼容操作系统内核，RISC-V 平台教学与 OS 研究首选样本"
  },
  {
-  "url": "https://github.com/corundum/corundum",
-  "stars": 2484,
-  "desc": "基于 FPGA 的开源 100G 网卡与在网计算平台，含 PCIe DMA 与完整驱动栈"
+  "url": "https://github.com/enactic/openarm",
+  "stars": 3581,
+  "desc": "完全开源的人形机械臂硬件与软件（含关节与驱动方案），面向物理 AI 研究与落地"
  },
  {
-  "url": "https://github.com/lovyan03/LovyanGFX",
-  "stars": 1781,
-  "desc": "面向 ESP32/ESP8266/SAMD51 的高速 SPI LCD 图形库，比 TFT_eSPI 更快的显示驱动"
+  "url": "https://github.com/xerj-org/xerj",
+  "stars": 3107,
+  "desc": "为 AI 搜索数据设计的自动索引引擎，一条命令索引代码/文档/日志/PDF，比 grep 省数十倍 token"
  },
  {
-  "url": "https://github.com/koosoli/ESPHomeDesigner",
-  "stars": 1115,
-  "desc": "ESPHome 显示屏的可视化拖拽编辑器（墨水屏/OLED/LCD/触摸），Home Assistant 集成或独立网页"
+  "url": "https://github.com/dronesploit/dronesploit",
+  "stars": 2191,
+  "desc": "无人机渗透测试框架控制台，支持 DJI/Parrot 等机型的协议探测与固件分析"
  },
  {
-  "url": "https://github.com/lvgl/lv_binding_rust",
-  "stars": 944,
-  "desc": "LVGL 的 Rust 语言绑定，把 LVGL 全部控件与动画能力带进嵌入式 Rust 项目"
+  "url": "https://github.com/uber/ADR",
+  "stars": 1900,
+  "desc": "Uber 开源的企业级 AI agent 安全框架，含可观测性、安全基准测试与威胁检测"
  },
  {
-  "url": "https://github.com/FASTSHIFT/WatchX",
-  "stars": 912,
-  "desc": "基于 LVGL 的开源智能手表固件与硬件方案，闭环表盘 UI 与低功耗调度参考实现"
+  "url": "https://github.com/OpenSparX/MasterAgent",
+  "stars": 1646,
+  "desc": "100% 端侧运行的 AI agent 框架，Qualcomm NPU 上亚 100ms 延迟、零云端依赖"
  },
  {
-  "url": "https://github.com/KitSprout/AltiumDesigner_PcbLibrary",
-  "stars": 672,
-  "desc": "中文社区维护的 Altium Designer 元件库，含常用器件封装与原理图符号，PCB 设计即取即用"
+  "url": "https://github.com/codyd51/gypsum",
+  "stars": 383,
+  "desc": "从原始天线信号起步自制的 GPS 接收机，展示射频前端到定位解算的完整链路"
  },
  {
-  "url": "https://github.com/KinkyMakers/OSSM-hardware",
-  "stars": 567,
-  "desc": "OSSM（开源性爱机）的 PCB 与外壳结构设计文件，含电机驱动与 DC 电源板"
+  "url": "https://github.com/Newspicel/sdrmm",
+  "stars": 292,
+  "desc": "模块化客户端-服务端架构的软件无线电（SDR），Rust 实现，可灵活组合调制解调与信号处理链"
  },
  {
-  "url": "https://github.com/idea-fasoc/OpenFASOC",
-  "stars": 364,
-  "desc": "基于开源 EDA 工具链的全开源模拟电路（FASOC）生成器，含 LDO/温度传感器等模板"
+  "url": "https://github.com/NVlabs/ASPIRE",
+  "stars": 245,
+  "desc": "NVIDIA 的机器人技能自动发现框架，用 agent 从示教数据中挖掘可复用操作技能"
  },
  {
-  "url": "https://github.com/AutonomyLab/ardrone_autonomy",
-  "stars": 362,
-  "desc": "Parrot AR-Drone 四旋翼的 ROS 驱动节点，把消费级无人机接入 ROS 控制栈"
+  "url": "https://github.com/fkiene/llmtrim",
+  "stars": 244,
+  "desc": "本地代理压缩 LLM API 请求以降低费用，不改动回答内容"
  },
  {
-  "url": "https://github.com/openecos-projects/icsprout55-pdk",
-  "stars": 293,
-  "desc": "55nm CMOS 开源工艺设计套件（PDK），含器件模型与 DRC，扩展开源流片工艺选项"
+  "url": "https://github.com/MatAtBread/esp-scope",
+  "stars": 220,
+  "desc": "ESP32 上的开源低速率示波器，含模拟前端与 Web 端波形显示"
  },
  {
-  "url": "https://github.com/Steffen-W/Import-LIB-KiCad-Plugin",
-  "stars": 262,
-  "desc": "KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩包，免手工转换"
+  "url": "https://github.com/bybit-exchange/kaas",
+  "stars": 149,
+  "desc": "把零散笔记、文档与转录稿变成可查询 Markdown wiki 的 LLM 知识库构建工具"
  },
  {
-  "url": "https://github.com/MishkaRogachev/JAGCS",
-  "stars": 207,
-  "desc": "跨平台开源地面站（Qt/QML），支持 MAVLink 遥测、任务规划与参数配置"
+  "url": "https://github.com/ataradov/open-5012h",
+  "stars": 146,
+  "desc": "FNIRSI-5012H 手持示波器的开源固件替代，逆向原厂固件后的自研实现"
  },
  {
-  "url": "https://github.com/wokwi/kicad-jlcpcb-bom-plugin",
-  "stars": 204,
-  "desc": "KiCad 插件：从原理图直接导出嘉立创（JLCPCB）兼容 BOM，自动匹配 LCSC 料号"
+  "url": "https://github.com/issus/DifferentialProbe",
+  "stars": 95,
+  "desc": "开源 250MHz 差分示波器探头，含前端放大器设计与 PCB"
  },
  {
-  "url": "https://github.com/gbmhunter/MFixedPoint",
-  "stars": 176,
-  "desc": "头文件级定点数 C++ 库，面向无 FPU 的嵌入式 MCU 做快速定点运算"
+  "url": "https://github.com/elmot/open-oscilloscope-stm32f3",
+  "stars": 40,
+  "desc": "基于 STM32F3-DISCOVERY 开发板的开源示波器，MCU 内部 ADC + DMA 高速采样方案"
  },
  {
-  "url": "https://github.com/azmat-bilal/bldc_motor_controller_pcb",
-  "stars": 112,
-  "desc": "BLDC 无刷电机驱动板设计（兼容 ODrive 接口），含原理图与 PCB，自制驱动器参考"
+  "url": "https://github.com/EspiroFares/Autonomous-UAV",
+  "stars": 33,
+  "desc": "仿真优先的 ROS 2 室内跟随无人机自主栈，Gazebo + ArduPilot SITL 数字孪生，可下发实机"
  },
  {
-  "url": "https://github.com/pfeerick/USB_ELRS_Receiver",
-  "stars": 81,
-  "desc": "把 ESP32 做成 USB HID 摇杆的 ELRS 接收机固件，手柄直连无人机模拟器免遥控器"
+  "url": "https://github.com/fotonik-sk/stm32n6-asr",
+  "stars": 26,
+  "desc": "在带 NPU 的 STM32N6 上实现语音识别，端侧 MCU 跑神经网络推理的完整实例"
  },
  {
-  "url": "https://github.com/polarscope-studio/polarscope",
-  "stars": 48,
-  "desc": "实时三维天线仿真桌面应用，内置 NEC-2 矩量法求解器，天线方向图即时可视化"
+  "url": "https://github.com/Spaceflight-Rocketry-Giessen-e-V/Telemetry",
+  "stars": 26,
+  "desc": "基于 Radiocrafts RC232 无线模块的开源火箭遥测系统，含机载采集与地面接收"
  },
  {
-  "url": "https://github.com/airPeter/SmartGlass",
-  "stars": 48,
-  "desc": "衍射光学神经网络（DONN）的 Python 实现，可训练全光分类器，超表面计算成像路线"
+  "url": "https://github.com/gaozhen16/a.liao-jsac21",
+  "stars": 23,
+  "desc": "JSAC 论文配套 MATLAB 代码：太赫兹超大规模 MIMO 在空天地一体化航空通信中的信道与阵列建模"
  },
  {
-  "url": "https://github.com/demroz/pinn-ms",
-  "stars": 25,
-  "desc": "用无数据机器学习优化大面积超透镜（metalens）设计，PINN 逆设计论文配套代码"
+  "url": "https://github.com/nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS",
+  "stars": 12,
+  "desc": "面向 ASIC 与 FPGA 设计的 AI Skills 集合，把代码助手接进硬件设计流程"
  },
  {
-  "url": "https://github.com/FabianKuebler/micropython-snes",
-  "stars": 18,
-  "desc": "在正版超任（SNES）主机上跑 MicroPython：含控制台内编译器、REPL 与 PPU 精灵引擎"
- },
- {
-  "url": "https://github.com/Woodchuk/FenicsElectromag",
-  "stars": 13,
-  "desc": "FEniCS 有限元天线仿真示例集，配套《Basics of Antenna Modeling with FEniCS》，开源 FEM 电磁建模入门"
- },
- {
-  "url": "https://github.com/jman4162/electromagnetics-work-samples",
-  "stars": 13,
-  "desc": "电磁/RF/天线/雷达系统分析的 MATLAB 作业样本，含链路预算、方向图与散射计算"
+  "url": "https://github.com/Avnet/Fujikura-beamforming",
+  "stars": 10,
+  "desc": "Avnet 与 Fujikura 的 5G 毫米波相控阵天线模块（Type-C PAAM）开源开发平台，含波束赋形阵列硬件与评估资料"
  }
 ]
