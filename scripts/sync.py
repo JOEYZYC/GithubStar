@@ -87,6 +87,24 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-08：本轮 30 条，待归类 6 条 + 关键词误判 5 条 ----
+    # 电磁仿真与超表面（阵列/天线模块与 THz 信道建模，描述未含命中词）
+    "Avnet/Fujikura-beamforming": "电磁仿真与超表面",       # 5G 毫米波相控阵天线模块开发平台
+    "gaozhen16/a.liao-jsac21": "电磁仿真与超表面",          # THz 超大规模 MIMO 论文代码
+    # 嵌入式与单片机（仪器固件 / CPU 模拟器被 "simulation" 误吃进电磁）
+    "ataradov/open-5012h": "嵌入式与单片机",                # 手持示波器替代固件（逆向原厂固件）
+    "unicorn-engine/unicorn": "嵌入式与单片机",             # 多架构 CPU 模拟器框架（被「电磁仿真」关键词误判）
+    # 飞控与无人机（机器人域：机械臂与机器人技能发现）
+    "enactic/openarm": "飞控与无人机",                      # 完全开源人形机械臂（硬件 + 软件）
+    "NVlabs/ASPIRE": "飞控与无人机",                        # 机器人技能自动发现（被 AI 关键词误判进嵌入式）
+    # 硬件设计与 EDA（RTL 生成器与 ASIC/FPGA 设计 Skills 不在关键词表）
+    "chipsalliance/rocket-chip": "硬件设计与 EDA",          # RISC-V Rocket 处理器核生成器
+    "nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS": "硬件设计与 EDA",  # ASIC/FPGA 设计 AI Skills（内容属硬件设计）
+    # 无线通信与感知（SDR 属射频收发，比「嵌入式」更贴切）
+    "Newspicel/sdrmm": "无线通信与感知",                    # 模块化客户端-服务端软件无线电
+    # AI Agent 与 LLM 工具链（检索底座与索引引擎）
+    "alibaba/zvec": "AI Agent 与 LLM 工具链",               # 进程内轻量向量数据库
+    "xerj-org/xerj": "AI Agent 与 LLM 工具链",              # 面向 AI 数据检索的自动索引引擎
     # ---- 2026-10-07：本轮 32 条，待归类 7 条 + 用户 star 未归类 2 条 ----
     # 硬件设计与 EDA（HDL IP、开源 PDK、FPGA 网络平台均不在关键词表）
     "alexforencich/verilog-ethernet": "硬件设计与 EDA",   # Verilog 以太网 MAC/PHY 组件集

@@ -173,7 +173,14 @@
    "added_at": "2026-10-08",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "iNavFlight/inav",
@@ -236,6 +243,27 @@
    ],
    "hot_dates": [
     "2026-09-22"
+   ]
+  },
+  {
+   "full_name": "enactic/openarm",
+   "url": "https://github.com/enactic/openarm",
+   "description": "完全开源的人形机械臂硬件与软件（含关节与驱动方案），面向物理 AI 研究与落地",
+   "language": "",
+   "stars": 3581,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
    ]
   },
   {
@@ -473,7 +501,14 @@
    "added_at": "2026-10-08",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "espressif/esp-drone",
@@ -2044,6 +2079,27 @@
    ]
   },
   {
+   "full_name": "NVlabs/ASPIRE",
+   "url": "https://github.com/NVlabs/ASPIRE",
+   "description": "NVIDIA 的机器人技能自动发现框架，用 agent 从示教数据中挖掘可复用操作技能",
+   "language": "",
+   "stars": 245,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
+  },
+  {
    "full_name": "DJISDKUser/ESP8266_DJI_DroneID_Throwie",
    "url": "https://github.com/DJISDKUser/ESP8266_DJI_DroneID_Throwie",
    "description": "ESP8266 实现 DJI DroneID 广播伪造的抛掷式装置示例",
@@ -3557,7 +3613,14 @@
    "added_at": "2026-10-08",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "hx23840/S3-PX4-FC",
@@ -4474,20 +4537,6 @@
    "hot_dates": [
     "2026-09-13"
    ]
-  },
-  {
-   "full_name": "unicorn-engine/unicorn",
-   "url": "https://github.com/unicorn-engine/unicorn",
-   "description": "轻量多架构 CPU 模拟器框架（ARM/RISC-V/MIPS/x86 等），固件逆向与嵌入式仿真的常用底座",
-   "language": "",
-   "stars": 9408,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "iDoka/awesome-canbus",
@@ -7689,6 +7738,27 @@
    ]
   },
   {
+   "full_name": "gaozhen16/a.liao-jsac21",
+   "url": "https://github.com/gaozhen16/a.liao-jsac21",
+   "description": "JSAC 论文配套 MATLAB 代码：太赫兹超大规模 MIMO 在空天地一体化航空通信中的信道与阵列建模",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
+  },
+  {
    "full_name": "mavrikak/Helios",
    "url": "https://github.com/mavrikak/Helios",
    "description": "自由表面积分方程法（SIE）散射求解器，面向均匀/周期/分层介质的光与电磁散射建模",
@@ -8403,6 +8473,27 @@
    ]
   },
   {
+   "full_name": "Avnet/Fujikura-beamforming",
+   "url": "https://github.com/Avnet/Fujikura-beamforming",
+   "description": "Avnet 与 Fujikura 的 5G 毫米波相控阵天线模块（Type-C PAAM）开源开发平台，含波束赋形阵列硬件与评估资料",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
+  },
+  {
    "full_name": "hongwei1-c/RF-AIagent",
    "url": "https://github.com/hongwei1-c/RF-AIagent",
    "description": "AI Agent 驱动的射频设计系统，自动调用 HFSS 完成天线、滤波器与传输线设计",
@@ -8785,7 +8876,14 @@
    "added_at": "2026-10-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "cesanta/mongoose",
@@ -8932,6 +9030,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "unicorn-engine/unicorn",
+   "url": "https://github.com/unicorn-engine/unicorn",
+   "description": "轻量多架构 CPU 模拟器框架（ARM/RISC-V/MIPS/x86 等），固件逆向与嵌入式仿真的常用底座",
+   "language": "",
+   "stars": 9408,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
    ]
   },
   {
@@ -9198,7 +9317,14 @@
    "added_at": "2026-10-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "stlink-org/stlink",
@@ -9411,20 +9537,6 @@
    ]
   },
   {
-   "full_name": "chipsalliance/rocket-chip",
-   "url": "https://github.com/chipsalliance/rocket-chip",
-   "description": "Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器设计的基础 RTL 资产",
-   "language": "",
-   "stars": 3882,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "misprit7/computerraria",
    "url": "https://github.com/misprit7/computerraria",
    "description": "在《泰拉瑞亚》游戏里用红石逻辑搭出的完整 RISC-V 计算机，可跑真实程序",
@@ -9499,7 +9611,14 @@
    "added_at": "2026-10-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "BrunoLevy/learn-fpga",
@@ -12502,20 +12621,6 @@
    ]
   },
   {
-   "full_name": "Newspicel/sdrmm",
-   "url": "https://github.com/Newspicel/sdrmm",
-   "description": "模块化客户端-服务端架构的软件无线电（SDR），Rust 实现，可灵活组合调制解调与信号处理链",
-   "language": "",
-   "stars": 292,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "amcchord/M5Tab-Macintosh",
    "url": "https://github.com/amcchord/M5Tab-Macintosh",
    "description": "把 BasiliskII 68k Mac 模拟器移植到 ESP32-P4，在 M5Stack Tab5 与 Waveshare P4 板上跑 System 7.x-8.1",
@@ -12676,20 +12781,6 @@
    "note": ""
   },
   {
-   "full_name": "NVlabs/ASPIRE",
-   "url": "https://github.com/NVlabs/ASPIRE",
-   "description": "NVIDIA 的机器人技能自动发现框架，用 agent 从示教数据中挖掘可复用操作技能",
-   "language": "",
-   "stars": 245,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "Hamspiced/piglet",
    "url": "https://github.com/Hamspiced/piglet",
    "description": "开源 ESP32 wardriving 平台，扫 WiFi 网络并配 GPS 定位存成 WiGLE 可直接用的 CSV 到 SD 卡",
@@ -12785,7 +12876,14 @@
    "added_at": "2026-10-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "Low-Zi-Hong/ESP32s3-LLM-Cluster",
@@ -13309,6 +13407,27 @@
    ],
    "hot_dates": [
     "2026-09-20"
+   ]
+  },
+  {
+   "full_name": "ataradov/open-5012h",
+   "url": "https://github.com/ataradov/open-5012h",
+   "description": "FNIRSI-5012H 手持示波器的开源固件替代，逆向原厂固件后的自研实现",
+   "language": "",
+   "stars": 146,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
    ]
   },
   {
@@ -14821,7 +14940,14 @@
    "added_at": "2026-10-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "pavlov-net/hub75-studio",
@@ -15382,7 +15508,14 @@
    "added_at": "2026-10-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "sipeed/M0sense_BL702_example",
@@ -17663,6 +17796,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "chipsalliance/rocket-chip",
+   "url": "https://github.com/chipsalliance/rocket-chip",
+   "description": "Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器设计的基础 RTL 资产",
+   "language": "",
+   "stars": 3882,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
    ]
   },
   {
@@ -20418,7 +20572,14 @@
    "added_at": "2026-10-08",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "abduznik/instrumation",
@@ -21371,6 +21532,27 @@
    ]
   },
   {
+   "full_name": "nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS",
+   "url": "https://github.com/nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS",
+   "description": "面向 ASIC 与 FPGA 设计的 AI Skills 集合，把代码助手接进硬件设计流程",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
+  },
+  {
    "full_name": "ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
    "url": "https://github.com/ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
    "description": "MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤波组与功放",
@@ -22029,7 +22211,14 @@
    "added_at": "2026-10-08",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "u-blox/ubxlib",
@@ -22218,6 +22407,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "Newspicel/sdrmm",
+   "url": "https://github.com/Newspicel/sdrmm",
+   "description": "模块化客户端-服务端架构的软件无线电（SDR），Rust 实现，可灵活组合调制解调与信号处理链",
+   "language": "",
+   "stars": 292,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
    ]
   },
   {
@@ -23715,7 +23925,14 @@
    "added_at": "2026-10-08",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "dkkmy/Midas",
@@ -24423,7 +24640,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 274916,
+   "stars": 274917,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -24465,7 +24682,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 245157,
+   "stars": 245158,
    "topics": [
     "ai-agents",
     "cordis",
@@ -24574,7 +24791,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 140541,
+   "stars": 140542,
    "topics": [
     "ai",
     "copilot",
@@ -25812,7 +26029,14 @@
    "added_at": "2026-10-08",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "op7418/Humanizer-zh",
@@ -25881,7 +26105,35 @@
    "added_at": "2026-10-08",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
+  },
+  {
+   "full_name": "alibaba/zvec",
+   "url": "https://github.com/alibaba/zvec",
+   "description": "阿里开源的进程内轻量向量数据库，面向端侧与本地 RAG 检索场景",
+   "language": "",
+   "stars": 16073,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "YishenTu/claudian",
@@ -26080,7 +26332,7 @@
    "url": "https://github.com/cloudflare/computer",
    "description": "Give your agent a computer 👾",
    "language": "TypeScript",
-   "stars": 9505,
+   "stars": 9506,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -26132,7 +26384,7 @@
    "url": "https://github.com/openai/math",
    "description": "",
    "language": "Lean",
-   "stars": 9316,
+   "stars": 9317,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -26474,7 +26726,14 @@
    "added_at": "2026-10-08",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "magnitudedev/magnitude",
@@ -26663,6 +26922,27 @@
    ],
    "hot_dates": [
     "2026-10-07"
+   ]
+  },
+  {
+   "full_name": "xerj-org/xerj",
+   "url": "https://github.com/xerj-org/xerj",
+   "description": "为 AI 搜索数据设计的自动索引引擎，一条命令索引代码/文档/日志/PDF，比 grep 省数十倍 token",
+   "language": "",
+   "stars": 3107,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-08",
+   "category": "AI Agent 与 LLM 工具链",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
    ]
   },
   {
@@ -26902,7 +27182,14 @@
    "added_at": "2026-10-08",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "mediar-ai/terminator",
@@ -26941,7 +27228,14 @@
    "added_at": "2026-10-08",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "tianma-if/edgeever",
@@ -27172,7 +27466,14 @@
    "added_at": "2026-10-08",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "realchendahuang/pi-config",
@@ -27256,7 +27557,14 @@
    "added_at": "2026-10-08",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-08"
+   ]
   },
   {
    "full_name": "psinetron/echoes-vault-codex",
@@ -27558,20 +27866,6 @@
    ]
   },
   {
-   "full_name": "nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS",
-   "url": "https://github.com/nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS",
-   "description": "面向 ASIC 与 FPGA 设计的 AI Skills 集合，把代码助手接进硬件设计流程",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "AI Agent 与 LLM 工具链",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "techmanual-ai/lablink-mcp",
    "url": "https://github.com/techmanual-ai/lablink-mcp",
    "description": "Unified & extensible MCP server enabling AI agent connectivity to all types of lab equipment — VISA/SCPI, SSH, REST, serial, and Python environments.",
@@ -27786,7 +28080,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 50208,
+   "stars": 50209,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -30886,90 +31180,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "alibaba/zvec",
-   "url": "https://github.com/alibaba/zvec",
-   "description": "阿里开源的进程内轻量向量数据库，面向端侧与本地 RAG 检索场景",
-   "language": "",
-   "stars": 16073,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "enactic/openarm",
-   "url": "https://github.com/enactic/openarm",
-   "description": "完全开源的人形机械臂硬件与软件（含关节与驱动方案），面向物理 AI 研究与落地",
-   "language": "",
-   "stars": 3581,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "xerj-org/xerj",
-   "url": "https://github.com/xerj-org/xerj",
-   "description": "为 AI 搜索数据设计的自动索引引擎，一条命令索引代码/文档/日志/PDF，比 grep 省数十倍 token",
-   "language": "",
-   "stars": 3107,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ataradov/open-5012h",
-   "url": "https://github.com/ataradov/open-5012h",
-   "description": "FNIRSI-5012H 手持示波器的开源固件替代，逆向原厂固件后的自研实现",
-   "language": "",
-   "stars": 146,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "gaozhen16/a.liao-jsac21",
-   "url": "https://github.com/gaozhen16/a.liao-jsac21",
-   "description": "JSAC 论文配套 MATLAB 代码：太赫兹超大规模 MIMO 在空天地一体化航空通信中的信道与阵列建模",
-   "language": "",
-   "stars": 23,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Avnet/Fujikura-beamforming",
-   "url": "https://github.com/Avnet/Fujikura-beamforming",
-   "description": "Avnet 与 Fujikura 的 5G 毫米波相控阵天线模块（Type-C PAAM）开源开发平台，含波束赋形阵列硬件与评估资料",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-08",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

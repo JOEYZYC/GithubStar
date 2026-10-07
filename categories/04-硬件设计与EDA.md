@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 193 个项目 · 数据更新时间 2026-10-08 · [返回总览](../README.md)
+> 共 195 个项目 · 数据更新时间 2026-10-08 · [返回总览](../README.md)
 
 ---
 
@@ -80,6 +80,14 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-13
+
+---
+
+#### [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip)
+`★3,882 · ⭐🔥 已 star + 热点推荐`
+Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器设计的基础 RTL 资产
+> 热点推荐于 2026-10-08
+> 收录日期：2026-10-08
 
 ---
 
@@ -1110,8 +1118,9 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 ---
 
 #### [issus/DifferentialProbe](https://github.com/issus/DifferentialProbe)
-`★95 · 🔥 热点推荐`
+`★95 · ⭐🔥 已 star + 热点推荐`
 开源 250MHz 差分示波器探头，含前端放大器设计与 PCB
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -1479,6 +1488,14 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）
 > 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
+
+---
+
+#### [nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS](https://github.com/nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS)
+`★12 · ⭐🔥 已 star + 热点推荐`
+面向 ASIC 与 FPGA 设计的 AI Skills 集合，把代码助手接进硬件设计流程
+> 热点推荐于 2026-10-08
+> 收录日期：2026-10-08
 
 ---
 

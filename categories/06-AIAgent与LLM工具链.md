@@ -1,6 +1,6 @@
 # AI Agent 与 LLM 工具链
 
-> 共 153 个项目 · 数据更新时间 2026-10-08 · [返回总览](../README.md)
+> 共 154 个项目 · 数据更新时间 2026-10-08 · [返回总览](../README.md)
 
 ---
 
@@ -20,7 +20,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★274,916 · JavaScript · ⭐ 已 star`
+`★274,917 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -35,7 +35,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★245,157 · TypeScript · ⭐ 已 star`
+`★245,158 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -79,7 +79,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★140,541 · Python · ⭐ 已 star`
+`★140,542 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -487,8 +487,9 @@ Google 官方出品的 Agent Skills 集合，用技能包让 agent 操作自家�
 ---
 
 #### [allenai/olmocr](https://github.com/allenai/olmocr)
-`★19,723 · 🔥 热点推荐`
+`★19,723 · ⭐🔥 已 star + 热点推荐`
 Allen AI 的 PDF 线性化工具包，把文档转成适合 LLM 数据集与训练的文本
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -517,8 +518,17 @@ AI agent skill 安全扫描器，检测提示注入、数据外泄与供应链�
 ---
 
 #### [memvid/memvid](https://github.com/memvid/memvid)
-`★16,583 · 🔥 热点推荐`
+`★16,583 · ⭐🔥 已 star + 热点推荐`
 AI agent 的记忆层，用单文件无服务器形态替代复杂 RAG 管线
+> 热点推荐于 2026-10-08
+> 收录日期：2026-10-08
+
+---
+
+#### [alibaba/zvec](https://github.com/alibaba/zvec)
+`★16,073 · ⭐🔥 已 star + 热点推荐`
+阿里开源的进程内轻量向量数据库，面向端侧与本地 RAG 检索场景
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -598,7 +608,7 @@ Review-first terminal diff viewer for agentic coders
 ---
 
 #### [cloudflare/computer](https://github.com/cloudflare/computer)
-`★9,505 · TypeScript · ⭐ 已 star`
+`★9,506 · TypeScript · ⭐ 已 star`
 Give your agent a computer 👾
 > 收录日期：2026-09-13
 
@@ -620,7 +630,7 @@ LangChain 官方 RAG 从零实现系列，检索增强生成的原理到代码
 ---
 
 #### [openai/math](https://github.com/openai/math)
-`★9,316 · Lean · ⭐ 已 star`
+`★9,317 · Lean · ⭐ 已 star`
 > 收录日期：2026-10-08
 
 ---
@@ -743,8 +753,9 @@ Agent OS：自我改进的 agent 运行时，含面试门控、分阶段评估�
 ---
 
 #### [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)
-`★5,693 · 🔥 热点推荐`
+`★5,693 · ⭐🔥 已 star + 热点推荐`
 跨 50+ 编码工具的 AI agent 技能管理桌面应用，统一管理、同步与组织 skills
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -818,6 +829,14 @@ Apple Silicon 上的 OpenAI/Anthropic 兼容本地推理服务（Apache 2.0）�
 
 ---
 
+#### [xerj-org/xerj](https://github.com/xerj-org/xerj)
+`★3,107 · ⭐🔥 已 star + 热点推荐`
+为 AI 搜索数据设计的自动索引引擎，一条命令索引代码/文档/日志/PDF，比 grep 省数十倍 token
+> 热点推荐于 2026-10-08
+> 收录日期：2026-10-08
+
+---
+
 #### [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7)
 `★3,011 · Python · ⭐ 已 star`
 J-Space Cognition Suite V3.7 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675
@@ -888,8 +907,9 @@ agent 工具的统一路由层，被称为 agent 工具界的 OpenRouter
 ---
 
 #### [uber/ADR](https://github.com/uber/ADR)
-`★1,900 · 🔥 热点推荐`
+`★1,900 · ⭐🔥 已 star + 热点推荐`
 Uber 开源的企业级 AI agent 安全框架，含可观测性、安全基准测试与威胁检测
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -902,8 +922,9 @@ playwright for windows computer use
 ---
 
 #### [OpenSparX/MasterAgent](https://github.com/OpenSparX/MasterAgent)
-`★1,646 · 🔥 热点推荐`
+`★1,646 · ⭐🔥 已 star + 热点推荐`
 100% 端侧运行的 AI agent 框架，Qualcomm NPU 上亚 100ms 延迟、零云端依赖
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -991,8 +1012,9 @@ Obsidian 库交互式图谱社区插件，把 vault 的笔记网络可视化，�
 ---
 
 #### [fkiene/llmtrim](https://github.com/fkiene/llmtrim)
-`★244 · 🔥 热点推荐`
+`★244 · ⭐🔥 已 star + 热点推荐`
 本地代理压缩 LLM API 请求以降低费用，不改动回答内容
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -1020,8 +1042,9 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 ---
 
 #### [bybit-exchange/kaas](https://github.com/bybit-exchange/kaas)
-`★149 · 🔥 热点推荐`
+`★149 · ⭐🔥 已 star + 热点推荐`
 把零散笔记、文档与转录稿变成可查询 Markdown wiki 的 LLM 知识库构建工具
+> 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
 
 ---
@@ -1141,13 +1164,6 @@ MinerU MCP Server - 完整的文档处理解决方案。支持PDF/PPTX/DOCX/图�
 面向 Codex 的多智能体 FPGA/SoC 工作流：RTL、CDC/RDC、STA、验证与独立签核
 > 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
-
----
-
-#### [nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS](https://github.com/nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS)
-`★12 · 🔥 热点推荐`
-面向 ASIC 与 FPGA 设计的 AI Skills 集合，把代码助手接进硬件设计流程
-> 收录日期：2026-10-08
 
 ---
 
