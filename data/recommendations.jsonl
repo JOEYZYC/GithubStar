@@ -1315,3 +1315,20 @@
 {"url": "https://github.com/gaozhen16/a.liao-jsac21", "stars": 23, "desc": "JSAC 论文配套 MATLAB 代码：太赫兹超大规模 MIMO 在空天地一体化航空通信中的信道与阵列建模", "date": "2026-10-08"}
 {"url": "https://github.com/nguyenquanicd/VLSIT_CODEX_CLAUDE_SKILLS", "stars": 12, "desc": "面向 ASIC 与 FPGA 设计的 AI Skills 集合，把代码助手接进硬件设计流程", "date": "2026-10-08"}
 {"url": "https://github.com/Avnet/Fujikura-beamforming", "stars": 10, "desc": "Avnet 与 Fujikura 的 5G 毫米波相控阵天线模块（Type-C PAAM）开源开发平台，含波束赋形阵列硬件与评估资料", "date": "2026-10-08"}
+{"url": "https://github.com/microsoft/agent-framework", "stars": 14019, "desc": "微软的 AI 智能体编排与部署框架，支持 Python 与 .NET 两套实现", "date": "2026-10-09"}
+{"url": "https://github.com/CursorTouch/Windows-MCP", "stars": 8313, "desc": "Windows 上的计算机操作 MCP 服务器，让 AI 代理直接操控桌面应用", "date": "2026-10-09"}
+{"url": "https://github.com/google-ai-edge/LiteRT-LM", "stars": 6616, "desc": "谷歌面向边缘设备的大模型推理框架，把 LLM 部署到端侧硬件上运行", "date": "2026-10-09"}
+{"url": "https://github.com/gnss-sdr/gnss-sdr", "stars": 2296, "desc": "开源软件定义 GNSS 接收机，从射频采样到定位解算全链路可替换可修改", "date": "2026-10-09"}
+{"url": "https://github.com/Neumi/ethersweep", "stars": 586, "desc": "以太网接入的开源步进电机控制器，含 KiCad 电路与 Arduino 固件", "date": "2026-10-09"}
+{"url": "https://github.com/janelia-arduino/TMC2209", "stars": 324, "desc": "TMC2209 超静音两相步进电机驱动的 Arduino 库，支持 UART 与 STEP/DIR 两种接口", "date": "2026-10-09"}
+{"url": "https://github.com/dimentary/llm-robotics-playground", "stars": 165, "desc": "用前沿 LLM/VLM 做机器人任务实验的代码库，探索视觉语言模型驱动机械操作", "date": "2026-10-09"}
+{"url": "https://github.com/fabriciowth/cozmo-esp32", "stars": 98, "desc": "ESP32 桌面机器人：OLED 动画表情、语音对话与按键游戏，含外壳与固件", "date": "2026-10-09"}
+{"url": "https://github.com/perrysou/GNSS_SDR", "stars": 95, "desc": "《A Software-Defined GPS and Galileo Receiver》教材配套代码，单频段 SDR 接收机实现", "date": "2026-10-09"}
+{"url": "https://github.com/globsky/greta-oto", "stars": 92, "desc": "开源 GNSS 接收机项目，含射频前端与基带处理的可复现实现", "date": "2026-10-09"}
+{"url": "https://github.com/jorgeiglesiasc/advanced-rfsoc-front-end", "stars": 29, "desc": "在 RFSoC 上实现的多频段 GNSS 软件无线电前端，覆盖多系统多频点采样", "date": "2026-10-09"}
+{"url": "https://github.com/tvelliott/jPCBSim", "stars": 27, "desc": "用 openEMS FDTD 求解器仿真平面 RF 滤波器与天线的前端与后处理工具", "date": "2026-10-09"}
+{"url": "https://github.com/jlrh/gaelco-fpga", "stars": 25, "desc": "Gaelco 街机基板的 FPGA 复刻核心（Verilog），可作 HDL 逆向与总线时序的学习样本", "date": "2026-10-09"}
+{"url": "https://github.com/Georgekemk/Educopter", "stars": 19, "desc": "树莓派 Linux 飞控板的硬件与固件实现，用于运行 ArduPilot", "date": "2026-10-09"}
+{"url": "https://github.com/CoreCometIndustries/Comet-Drone", "stars": 13, "desc": "ESP32-C3（RISC-V）上的开源微型四轴飞控固件，面向空心杯电机小四轴，含遥测与状态估计", "date": "2026-10-09"}
+{"url": "https://github.com/KI3P/VWS-SDR", "stars": 12, "desc": "软件定义接收机的射频前端硬件设计，含前端链路与滤波方案", "date": "2026-10-09"}
+{"url": "https://github.com/f3rhd/rv_soc", "stars": 10, "desc": "SystemVerilog 实现的 RISC-V 片上系统，可作软核 SoC 的参考设计", "date": "2026-10-09"}
