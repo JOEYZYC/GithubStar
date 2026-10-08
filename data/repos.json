@@ -4025,7 +4025,14 @@
    "added_at": "2026-10-09",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "SyrNitram/recon-ground-drone",
@@ -4291,7 +4298,14 @@
    "added_at": "2026-10-09",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "HGSAFD8162/Expresslrs-Ghost-RX",
@@ -7567,7 +7581,14 @@
    "added_at": "2026-10-09",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "tinsever/m5-adv-emf-meter",
@@ -10794,6 +10815,19 @@
    ]
   },
   {
+   "full_name": "EEVengers/ThunderScope",
+   "url": "https://github.com/EEVengers/ThunderScope",
+   "description": "ThunderScope GitHub Repo",
+   "language": "ANTLR",
+   "stars": 1318,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-09",
+   "category": "嵌入式与单片机",
+   "note": ""
+  },
+  {
    "full_name": "wiredopposite/OGX-Mini",
    "url": "https://github.com/wiredopposite/OGX-Mini",
    "description": "RP2040 与 RP2350 上的 USB 手柄模拟固件，兼容多平台主机",
@@ -11833,7 +11867,14 @@
    "added_at": "2026-10-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "lvgl/lv_micropython",
@@ -12499,7 +12540,14 @@
    "added_at": "2026-10-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "xboot/xfel",
@@ -14008,7 +14056,14 @@
    "added_at": "2026-10-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "wladimiravila/esp32s3-distributed-ai",
@@ -17396,7 +17451,14 @@
    "added_at": "2026-10-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -21189,6 +21251,27 @@
    ]
   },
   {
+   "full_name": "jlrh/gaelco-fpga",
+   "url": "https://github.com/jlrh/gaelco-fpga",
+   "description": "Gaelco 街机基板的 FPGA 复刻核心（Verilog），可作 HDL 逆向与总线时序的学习样本",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-09",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
+  },
+  {
    "full_name": "senolgulgonul/verisim",
    "url": "https://github.com/senolgulgonul/verisim",
    "description": "把 Icarus Verilog 编译为 WebAssembly，浏览器里纯前端跑 Verilog 仿真",
@@ -21975,7 +22058,14 @@
    "added_at": "2026-10-09",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "MaliosDark/wifi-3d-fusion",
@@ -23121,7 +23211,14 @@
    "added_at": "2026-10-09",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "globsky/greta-oto",
@@ -23135,7 +23232,14 @@
    "added_at": "2026-10-09",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "jedarden-org/whofi",
@@ -24044,7 +24148,14 @@
    "added_at": "2026-10-09",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "ruvnet/wifi-veil",
@@ -24541,7 +24652,14 @@
    "added_at": "2026-10-09",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "tientruongminh/rf-worldpose",
@@ -25305,7 +25423,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 79962,
+   "stars": 79963,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -26137,7 +26255,7 @@
    "url": "https://github.com/browser-use/jev-ultrafast",
    "description": "Fastest and cheapest web agent",
    "language": "Python",
-   "stars": 22391,
+   "stars": 22390,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -26369,7 +26487,14 @@
    "added_at": "2026-10-09",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "cloudflare/security-audit-skill",
@@ -26629,7 +26754,14 @@
    "added_at": "2026-10-09",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "pacifio/atlas",
@@ -26832,7 +26964,14 @@
    "added_at": "2026-10-09",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "smol-machines/smolvm",
@@ -27516,7 +27655,7 @@
    "url": "https://github.com/nullmoth/nvidia-macos-driver",
    "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
    "language": "Rust",
-   "stars": 1032,
+   "stars": 1033,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -27748,7 +27887,14 @@
    "added_at": "2026-10-09",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-09"
+   ]
   },
   {
    "full_name": "jetpax/pycoclaw",
@@ -31406,33 +31552,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "EEVengers/ThunderScope",
-   "url": "https://github.com/EEVengers/ThunderScope",
-   "description": "ThunderScope GitHub Repo",
-   "language": "ANTLR",
-   "stars": 1318,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-09",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "jlrh/gaelco-fpga",
-   "url": "https://github.com/jlrh/gaelco-fpga",
-   "description": "Gaelco 街机基板的 FPGA 复刻核心（Verilog），可作 HDL 逆向与总线时序的学习样本",
-   "language": "",
-   "stars": 25,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-09",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

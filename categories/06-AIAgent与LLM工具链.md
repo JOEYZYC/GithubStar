@@ -187,7 +187,7 @@ Rust 单文件 CLI 代理，把常见开发命令的输出裁剪后喂给 LLM，
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★79,962 · JavaScript · ⭐ 已 star`
+`★79,963 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -464,7 +464,7 @@ AI 编码 agent 的上下文窗口优化：工具输出沙箱化（降 98%）、
 ---
 
 #### [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
-`★22,391 · Python · ⭐ 已 star`
+`★22,390 · Python · ⭐ 已 star`
 Fastest and cheapest web agent
 > 收录日期：2026-09-20
 
@@ -556,8 +556,9 @@ Multiplayer agent harness for work.
 ---
 
 #### [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
-`★14,019 · 🔥 热点推荐`
+`★14,019 · ⭐🔥 已 star + 热点推荐`
 微软的 AI 智能体编排与部署框架，支持 Python 与 .NET 两套实现
+> 热点推荐于 2026-10-09
 > 收录日期：2026-10-09
 
 ---
@@ -658,8 +659,9 @@ The 100 line AI agent that solves GitHub issues or helps you in your command lin
 ---
 
 #### [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
-`★8,313 · 🔥 热点推荐`
+`★8,313 · ⭐🔥 已 star + 热点推荐`
 Windows 上的计算机操作 MCP 服务器，让 AI 代理直接操控桌面应用
+> 热点推荐于 2026-10-09
 > 收录日期：2026-10-09
 
 ---
@@ -736,8 +738,9 @@ Kimi 的服务化推理平台，以 KVCache 为中心的分离式架构
 ---
 
 #### [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
-`★6,616 · 🔥 热点推荐`
+`★6,616 · ⭐🔥 已 star + 热点推荐`
 谷歌面向边缘设备的大模型推理框架，把 LLM 部署到端侧硬件上运行
+> 热点推荐于 2026-10-09
 > 收录日期：2026-10-09
 
 ---
@@ -972,7 +975,7 @@ Create, Evaluate, and Connect AI Skills
 ---
 
 #### [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
-`★1,032 · Rust · ⭐ 已 star`
+`★1,033 · Rust · ⭐ 已 star`
 Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
 > 收录日期：2026-10-08
 
@@ -1055,8 +1058,9 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 ---
 
 #### [dimentary/llm-robotics-playground](https://github.com/dimentary/llm-robotics-playground)
-`★165 · 🔥 热点推荐`
+`★165 · ⭐🔥 已 star + 热点推荐`
 用前沿 LLM/VLM 做机器人任务实验的代码库，探索视觉语言模型驱动机械操作
+> 热点推荐于 2026-10-09
 > 收录日期：2026-10-09
 
 ---

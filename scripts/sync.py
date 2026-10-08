@@ -87,6 +87,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-09：本轮 17 条，待归类 1 条 + 用户新 star 未归类 1 条 ----
+    # 硬件设计与 EDA（HDL/FPGA 关键词不在 RULES 表内，中文简介未含命中词）
+    "jlrh/gaelco-fpga": "硬件设计与 EDA",                    # Gaelco 街机基板 FPGA 复刻核心（Verilog）
+    # 嵌入式与单片机（示波器仪器，描述为占位文本、无关键词）
+    "EEVengers/ThunderScope": "嵌入式与单片机",               # 4 通道 1GS/s 开源示波器（延续 open-5012h 的归类口径）
     # ---- 2026-10-08：本轮 30 条，待归类 6 条 + 关键词误判 5 条 ----
     # 电磁仿真与超表面（阵列/天线模块与 THz 信道建模，描述未含命中词）
     "Avnet/Fujikura-beamforming": "电磁仿真与超表面",       # 5G 毫米波相控阵天线模块开发平台
