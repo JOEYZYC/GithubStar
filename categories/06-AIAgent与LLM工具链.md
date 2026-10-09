@@ -5,7 +5,7 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★391,528 · TypeScript · ⭐ 已 star`
+`★391,529 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -20,7 +20,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★275,951 · JavaScript · ⭐ 已 star`
+`★275,952 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -156,7 +156,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-`★86,525 · Python · ⭐ 已 star`
+`★86,526 · Python · ⭐ 已 star`
 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 > 收录日期：2026-09-13
 
@@ -179,7 +179,7 @@ Rust 单文件 CLI 代理，把常见开发命令的输出裁剪后喂给 LLM，
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★81,164 · JavaScript · ⭐ 已 star`
+`★81,166 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -260,7 +260,7 @@ Build infinite canvas apps in React with the tldraw SDK. World's best, top-most 
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★44,758 · Markdown · ⭐ 已 star`
+`★44,760 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 

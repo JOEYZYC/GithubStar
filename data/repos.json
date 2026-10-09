@@ -131,7 +131,14 @@
    "added_at": "2026-10-10",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "ExpressLRS/ExpressLRS",
@@ -173,6 +180,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "ros-navigation/navigation2",
+   "url": "https://github.com/ros-navigation/navigation2",
+   "description": "ROS 2 的导航框架 Nav2，覆盖代价地图、路径规划与行为树控制，移动机器人自主导航的标准栈",
+   "language": "",
+   "stars": 4784,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-10",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
    ]
   },
   {
@@ -2440,7 +2468,14 @@
    "added_at": "2026-10-10",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "robustini/eXploraVTOL",
@@ -2769,7 +2804,14 @@
    "added_at": "2026-10-10",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "hku-mars/LiDAR-UAV-Autonomy",
@@ -2867,7 +2909,14 @@
    "added_at": "2026-10-10",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "TIERS/uwb-drone-dataset",
@@ -5834,6 +5883,27 @@
    ]
   },
   {
+   "full_name": "MWATelescope/mwa_hyperdrive",
+   "url": "https://github.com/MWATelescope/mwa_hyperdrive",
+   "description": "Murchison 宽视场阵列（MWA）射电望远镜的校准软件，用 Rust 对天线阵列的可见度数据做高性能干涉校准",
+   "language": "",
+   "stars": 137,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-10",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
+  },
+  {
    "full_name": "zameerbharwani/Deep-Learning-for-Metasurface-Optimization",
    "url": "https://github.com/zameerbharwani/Deep-Learning-for-Metasurface-Optimization",
    "description": "用 TensorFlow/Keras 神经网络做超表面结构参数优化的完整代码与数据集，2025-12 仍有推送",
@@ -6086,6 +6156,27 @@
    ]
   },
   {
+   "full_name": "RadioAstronomySoftwareGroup/pyuvdata",
+   "url": "https://github.com/RadioAstronomySoftwareGroup/pyuvdata",
+   "description": "射电天文干涉测量（天线阵列可见度）数据的 Python 读写接口，统一 uvfits/MeasurementSet/uvh5 等格式",
+   "language": "",
+   "stars": 102,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-10",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
+  },
+  {
    "full_name": "youxch/Inverse-design-of-metasurfaces",
    "url": "https://github.com/youxch/Inverse-design-of-metasurfaces",
    "description": "机器学习辅助的多波束超表面加速设计与综合方法",
@@ -6244,7 +6335,14 @@
    "added_at": "2026-10-10",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "zhaolin820/stars-enabled-integrated-sensing-and-communications",
@@ -12652,7 +12750,14 @@
    "added_at": "2026-10-10",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "EUA/ESP32_LogicAnalyzer",
@@ -13675,6 +13780,27 @@
    ]
   },
   {
+   "full_name": "rheslip/PyDSA",
+   "url": "https://github.com/rheslip/PyDSA",
+   "description": "把 Rigol DS1000 系列示波器当频谱分析仪使用的 Python 脚本，低成本补上频谱测量能力",
+   "language": "",
+   "stars": 139,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-10",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
+  },
+  {
    "full_name": "x1958075990h-pixel/RuView_Radar_Lite",
    "url": "https://github.com/x1958075990h-pixel/RuView_Radar_Lite",
    "description": "纯 Python 的 ESP32 WiFi CSI 空间感知 DSP 极简引擎，可作轻量对照基线",
@@ -14613,7 +14739,14 @@
    "added_at": "2026-10-10",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "WayV5/RK3588-STM32-ROS2-SLAM-Robot",
@@ -18289,7 +18422,7 @@
    "url": "https://github.com/HakanSeven12/OpenCADStudio",
    "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
    "language": "Rust",
-   "stars": 2632,
+   "stars": 2633,
    "topics": [
     "cad",
     "dwg",
@@ -22143,7 +22276,14 @@
    "added_at": "2026-10-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "tomojitakasu/RTKLIB",
@@ -22157,6 +22297,27 @@
    "added_at": "2026-09-13",
    "category": "无线通信与感知",
    "note": ""
+  },
+  {
+   "full_name": "jgaeddert/liquid-dsp",
+   "url": "https://github.com/jgaeddert/liquid-dsp",
+   "description": "面向软件无线电的 C 语言数字信号处理库，含滤波器、调制解调、纠错码与帧同步等 DSP 原语",
+   "language": "",
+   "stars": 2311,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-10",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "gnss-sdr/gnss-sdr",
@@ -22191,7 +22352,14 @@
    "added_at": "2026-10-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "DSheirer/sdrtrunk",
@@ -22205,7 +22373,14 @@
    "added_at": "2026-10-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "MaliosDark/wifi-3d-fusion",
@@ -22282,7 +22457,35 @@
    "added_at": "2026-10-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
+  },
+  {
+   "full_name": "cariboulabs/cariboulite",
+   "url": "https://github.com/cariboulabs/cariboulite",
+   "description": "插在树莓派 40 针排针上的 6GHz 收发软件无线电扩展板，含硬件设计与驱动源码",
+   "language": "",
+   "stars": 1339,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-10",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "SlimeVR/SlimeVR-Server",
@@ -22336,7 +22539,14 @@
    "added_at": "2026-10-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "PreSenseRadar/OpenRadar",
@@ -23190,7 +23400,14 @@
    "added_at": "2026-10-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "euaziel/-WiFi-CSI-Human-Pose-Detection-V2",
@@ -23700,7 +23917,14 @@
    "added_at": "2026-10-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-10"
+   ]
   },
   {
    "full_name": "pdselvam/ris-aided-fual-functional-radar-and-communications-beamforming-design",
@@ -25072,7 +25296,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 391528,
+   "stars": 391529,
    "topics": [
     "ai",
     "assistant",
@@ -25122,7 +25346,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 275951,
+   "stars": 275952,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -25522,7 +25746,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 86525,
+   "stars": 86526,
    "topics": [
     "ai",
     "ai-scraping",
@@ -25598,7 +25822,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 81164,
+   "stars": 81166,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -25840,7 +26064,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 44758,
+   "stars": 44760,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -31006,7 +31230,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 486999,
+   "stars": 487000,
    "topics": [
     "api",
     "apis",
@@ -31033,7 +31257,7 @@
    "url": "https://github.com/521xueweihan/HelloGitHub",
    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
-   "stars": 180904,
+   "stars": 180905,
    "topics": [
     "awesome",
     "github",
@@ -31748,90 +31972,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "ros-navigation/navigation2",
-   "url": "https://github.com/ros-navigation/navigation2",
-   "description": "ROS 2 的导航框架 Nav2，覆盖代价地图、路径规划与行为树控制，移动机器人自主导航的标准栈",
-   "language": "",
-   "stars": 4784,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jgaeddert/liquid-dsp",
-   "url": "https://github.com/jgaeddert/liquid-dsp",
-   "description": "面向软件无线电的 C 语言数字信号处理库，含滤波器、调制解调、纠错码与帧同步等 DSP 原语",
-   "language": "",
-   "stars": 2311,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "cariboulabs/cariboulite",
-   "url": "https://github.com/cariboulabs/cariboulite",
-   "description": "插在树莓派 40 针排针上的 6GHz 收发软件无线电扩展板，含硬件设计与驱动源码",
-   "language": "",
-   "stars": 1339,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "rheslip/PyDSA",
-   "url": "https://github.com/rheslip/PyDSA",
-   "description": "把 Rigol DS1000 系列示波器当频谱分析仪使用的 Python 脚本，低成本补上频谱测量能力",
-   "language": "",
-   "stars": 139,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "MWATelescope/mwa_hyperdrive",
-   "url": "https://github.com/MWATelescope/mwa_hyperdrive",
-   "description": "Murchison 宽视场阵列（MWA）射电望远镜的校准软件，用 Rust 对天线阵列的可见度数据做高性能干涉校准",
-   "language": "",
-   "stars": 137,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "RadioAstronomySoftwareGroup/pyuvdata",
-   "url": "https://github.com/RadioAstronomySoftwareGroup/pyuvdata",
-   "description": "射电天文干涉测量（天线阵列可见度）数据的 Python 读写接口，统一 uvfits/MeasurementSet/uvh5 等格式",
-   "language": "",
-   "stars": 102,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-10",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

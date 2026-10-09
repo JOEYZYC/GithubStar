@@ -87,6 +87,17 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-10：本轮 20 条，待归类 6 条（描述为中文简介，关键词表未覆盖）----
+    # 飞控与无人机（机器人域：导航栈本体，与 openarm / ASPIRE 同口径）
+    "ros-navigation/navigation2": "飞控与无人机",            # ROS 2 导航框架 Nav2（代价地图/规划/行为树）
+    # 无线通信与感知（SDR 属射频收发，与 sdrmm 同口径）
+    "jgaeddert/liquid-dsp": "无线通信与感知",                # SDR 数字信号处理库（滤波器/调制解调/纠错码）
+    "cariboulabs/cariboulite": "无线通信与感知",             # 树莓派 40 针 SDR 扩展板（6GHz Tx/Rx）
+    # 嵌入式与单片机（仪器复用软件，与 open-5012h / ThunderScope 同口径）
+    "rheslip/PyDSA": "嵌入式与单片机",                       # 用 Python 把 Rigol DS1000 示波器当频谱仪
+    # 电磁仿真与超表面（射电阵列的电磁仿真与可见度数据处理）
+    "MWATelescope/mwa_hyperdrive": "电磁仿真与超表面",       # MWA 射电望远镜阵列干涉校准（Rust）
+    "RadioAstronomySoftwareGroup/pyuvdata": "电磁仿真与超表面",  # 干涉测量可见度数据统一读写接口
     # ---- 2026-10-09：本轮 17 条，待归类 1 条 + 用户新 star 未归类 1 条 ----
     # 硬件设计与 EDA（HDL/FPGA 关键词不在 RULES 表内，中文简介未含命中词）
     "jlrh/gaelco-fpga": "硬件设计与 EDA",                    # Gaelco 街机基板 FPGA 复刻核心（Verilog）

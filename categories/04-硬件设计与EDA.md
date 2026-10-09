@@ -170,7 +170,7 @@ FreeCAD MCP(Model Context Protocol) server
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,632 · Rust · ⭐ 已 star`
+`★2,633 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
