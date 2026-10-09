@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 196 个项目 · 数据更新时间 2026-10-09 · [返回总览](../README.md)
+> 共 196 个项目 · 数据更新时间 2026-10-10 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,041 · C++ · ⭐ 已 star`
+`★34,087 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -131,18 +131,18 @@ RTL-to-GDS 开源数字芯片实现流程
 
 ---
 
+#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
+`★2,980 · C++ · ⭐ 已 star`
+Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+> 收录日期：2026-09-13
+
+---
+
 #### [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)
 `★2,970 · ⭐🔥 已 star + 热点推荐`
 KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
-
----
-
-#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,968 · C++ · ⭐ 已 star`
-Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
-> 收录日期：2026-09-13
 
 ---
 
@@ -155,7 +155,7 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,750 · Python · ⭐ 已 star`
+`★2,766 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -170,7 +170,7 @@ FreeCAD MCP(Model Context Protocol) server
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,547 · Rust · ⭐ 已 star`
+`★2,632 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -513,7 +513,7 @@ ASIC 实现流程基础设施，OpenLane 的继任者
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★569 · C · ⭐ 已 star`
+`★571 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -768,7 +768,7 @@ InfiRay P2 Pro 热像模块的查看器与 API
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★251 · C++ · ⭐ 已 star`
+`★252 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1268,6 +1268,13 @@ Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正
 
 ---
 
+#### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
+`★35 · C++ · ⭐ 已 star`
+嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
+> 收录日期：2026-09-13
+
+---
+
 #### [zhbi98/pcb-layout-design](https://github.com/zhbi98/pcb-layout-design)
 `★34 · ⭐🔥 已 star + 热点推荐`
 面向 Codex 的 KiCad 10 PCB 自动布线 Skill
@@ -1281,13 +1288,6 @@ Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正
 RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 > 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
-
----
-
-#### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★34 · C++ · ⭐ 已 star`
-嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
-> 收录日期：2026-09-13
 
 ---
 
