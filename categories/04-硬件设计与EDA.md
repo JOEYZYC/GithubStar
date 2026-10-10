@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 196 个项目 · 数据更新时间 2026-10-10 · [返回总览](../README.md)
+> 共 196 个项目 · 数据更新时间 2026-10-11 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,087 · C++ · ⭐ 已 star`
+`★34,128 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -132,7 +132,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,980 · C++ · ⭐ 已 star`
+`★2,983 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -155,9 +155,16 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,766 · Python · ⭐ 已 star`
+`★2,787 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
+
+---
+
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★2,718 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
 
 ---
 
@@ -166,13 +173,6 @@ FreeCAD MCP(Model Context Protocol) server
 用 TypeScript/React 定义并生成真实电子产品（电路即代码）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,633 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 

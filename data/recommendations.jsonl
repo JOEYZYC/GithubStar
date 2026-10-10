@@ -1352,3 +1352,23 @@
 {"url": "https://github.com/OxfordSKA/OSKAR", "stars": 82, "desc": "射电望远镜阵列的电磁与信号仿真器，可模拟干涉测量数据用于算法开发", "date": "2026-10-10"}
 {"url": "https://github.com/byggemandboesen/H-line-software", "stars": 75, "desc": "用 RTL-SDR 接收 1420.4MHz 中性氢谱线的软件，射电天文入门实测方案", "date": "2026-10-10"}
 {"url": "https://github.com/jochenhammes/esp32-sdr-trx", "stars": 71, "desc": "用一块 ESP32-S3 实现的软件定义收发机：rtl_tcp 接收端接 SDR++，另可做 13cm 频段 FM/SSB 语音发射", "date": "2026-10-10"}
+{"url": "https://github.com/zserge/grayskull", "stars": 701, "desc": "面向嵌入式系统、无人机与机器人的极小体积免依赖 C 计算机视觉库", "date": "2026-10-11"}
+{"url": "https://github.com/Evrytania/LTE-Cell-Scanner", "stars": 673, "desc": "针对低性能射频前端的 LTE 小区扫描器，8bit ADC、20dB 噪声系数下仍可工作", "date": "2026-10-11"}
+{"url": "https://github.com/ekurtgl/FMCW-MIMO-Radar-Simulation", "stars": 362, "desc": "FMCW MIMO 毫米波雷达的 MATLAB 仿真实现（波形、阵列与信号处理链）", "date": "2026-10-11"}
+{"url": "https://github.com/Ttl/fmcw3", "stars": 320, "desc": "双接收通道 6GHz FMCW 雷达的 VHDL 设计文件（含射频前端与数字处理）", "date": "2026-10-11"}
+{"url": "https://github.com/luni64/TeensyStep", "stars": 298, "desc": "Teensy 开发板上的高速步进电机驱动库，面向精确定位运动控制", "date": "2026-10-11"}
+{"url": "https://github.com/strath-sdr/RFSoC-Book", "stars": 288, "desc": "《Software Defined Radio with RFSoC》配套 Jupyter Notebook，覆盖 RFSoC 软件无线电全流程", "date": "2026-10-11"}
+{"url": "https://github.com/XuWei9506/PKU-Millimeter-Wave-Radar-Tutorial", "stars": 278, "desc": "毫米波雷达系统教程：IWR1843 原始 ADC 数据处理、FMCW-MIMO 仿真、点云人体追踪、手势与生命体征检测", "date": "2026-10-11"}
+{"url": "https://github.com/ncmreynolds/ld2410", "stars": 221, "desc": "海凌科 LD2410 24GHz FMCW 雷达传感器的 Arduino 驱动库，用于低成本存在感知识别", "date": "2026-10-11"}
+{"url": "https://github.com/jLynx/BrowSDR", "stars": 200, "desc": "在浏览器中运行的软件无线电接收机，无需本地安装客户端", "date": "2026-10-11"}
+{"url": "https://github.com/davidscmx/radar-target-generation-and-detection", "stars": 157, "desc": "按系统指标配置 FMCW 波形，仿真目标距离/速度与位移的雷达信号处理链路", "date": "2026-10-11"}
+{"url": "https://github.com/KaliAssistant/rpi-sdr-tx", "stars": 94, "desc": "树莓派上的软件无线电发射工具链，把树莓派做成 SDR 发射端", "date": "2026-10-11"}
+{"url": "https://github.com/strath-sdr/rfsoc_sam", "stars": 93, "desc": "基于 PYNQ 的 RFSoC 频谱分析模块（VHDL 实现），把 RFSoC 当频谱仪用", "date": "2026-10-11"}
+{"url": "https://github.com/srsran/zynq_timestamping", "stars": 81, "desc": "软件无线电基站用的 Zynq 时间戳实现，解决 SDR 收发链路的定时同步", "date": "2026-10-11"}
+{"url": "https://github.com/persistentcache/Lora-Wideband-Decoder", "stars": 72, "desc": "自托管的宽带 LoRa 侦收解码器，从 SDR IQ 数据近实时解析 Meshtastic/LoRaWAN/MeshCore 报文", "date": "2026-10-11"}
+{"url": "https://github.com/sinara-hw/RFSOC-AMC", "stars": 44, "desc": "集成 Xilinx RF-SoC 与两路模拟前端夹层板的 AMC 模块硬件设计，面向 SDR 与量子测控", "date": "2026-10-11"}
+{"url": "https://github.com/dbourgoyne/rigflow", "stars": 40, "desc": "把多台 SDR 组织成网络化射频服务的软定义无线电网络服务器", "date": "2026-10-11"}
+{"url": "https://github.com/NUS-CIR/ProtO-RU", "stars": 35, "desc": "符合 O-RAN 7.2 分割的软件无线电单元（RU）实现，用 SDR 搭 5G 射频前端", "date": "2026-10-11"}
+{"url": "https://github.com/ningzichun/dtmb-sdr", "stars": 15, "desc": "中国地面数字电视 DTMB 标准的软件接收机（C++20/Python），含 LDPC/BCH 解码、64QAM、OFDM 解调与 GPU 加速", "date": "2026-10-11"}
+{"url": "https://github.com/luyii-code-1/dji-ocusync-droneid-research", "stars": 14, "desc": "大疆 OcuSync O2/O4 DroneID 物理层与数据包解析的可复现研究", "date": "2026-10-11"}
+{"url": "https://github.com/mergeos-bounties/ros2-mcp", "stars": 11, "desc": "让 AI agent 通过 MCP 检查和操控 ROS 2 系统的 MCP 服务器", "date": "2026-10-11"}
