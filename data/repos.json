@@ -1163,7 +1163,14 @@
    "added_at": "2026-10-11",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "makeecat/Peng",
@@ -1999,7 +2006,14 @@
    "added_at": "2026-10-11",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "PX4/flight_review",
@@ -4368,7 +4382,14 @@
    "added_at": "2026-10-11",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "ZSN2024/AGC-VLN",
@@ -5209,7 +5230,14 @@
    "added_at": "2026-10-11",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "ymahlau/fdtdx",
@@ -5803,7 +5831,14 @@
    "added_at": "2026-10-11",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "wigig-tools/isac-plm",
@@ -12977,6 +13012,27 @@
    ]
   },
   {
+   "full_name": "luni64/TeensyStep",
+   "url": "https://github.com/luni64/TeensyStep",
+   "description": "Teensy 开发板上的高速步进电机驱动库，面向精确定位运动控制",
+   "language": "",
+   "stars": 298,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-11",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
+  },
+  {
    "full_name": "Rompass/openc6-bios",
    "url": "https://github.com/Rompass/openc6-bios",
    "description": "ESP32-C6 上的开源 RISC-V BIOS/Payload 固件平台",
@@ -13253,7 +13309,14 @@
    "added_at": "2026-10-11",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "MatAtBread/esp-scope",
@@ -22717,6 +22780,27 @@
    ]
   },
   {
+   "full_name": "Evrytania/LTE-Cell-Scanner",
+   "url": "https://github.com/Evrytania/LTE-Cell-Scanner",
+   "description": "针对低性能射频前端的 LTE 小区扫描器，8bit ADC、20dB 噪声系数下仍可工作",
+   "language": "",
+   "stars": 673,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-11",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
+  },
+  {
    "full_name": "xyanchen/WiFi-CSI-Sensing-Benchmark",
    "url": "https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark",
    "description": "WiFi CSI 感知的统一基准与评测框架（MIT），把 CSI 采集、预处理与多种感知任务放在同一套代码下对比",
@@ -22948,6 +23032,27 @@
    ]
   },
   {
+   "full_name": "Ttl/fmcw3",
+   "url": "https://github.com/Ttl/fmcw3",
+   "description": "双接收通道 6GHz FMCW 雷达的 VHDL 设计文件（含射频前端与数字处理）",
+   "language": "",
+   "stars": 320,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-11",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
+  },
+  {
    "full_name": "wuzhiguocarter/Awesome-WiFi-CSI-Research",
    "url": "https://github.com/wuzhiguocarter/Awesome-WiFi-CSI-Research",
    "description": "WiFi CSI 研究资源合集，覆盖数据集、论文与开源实现",
@@ -23106,7 +23211,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "GREAT-WHU/GREAT-PVT",
@@ -23267,7 +23379,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "dividebysandwich/sdroxide",
@@ -23743,7 +23862,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "strath-sdr/rfsoc_sam",
@@ -23757,7 +23883,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "globsky/greta-oto",
@@ -24002,7 +24135,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "libc0607/rtl88x2eu-20230815",
@@ -24092,7 +24232,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "pdselvam/ris-aided-fual-functional-radar-and-communications-beamforming-design",
@@ -24421,7 +24568,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "NTU-AIoT-Lab/EfficientFi",
@@ -24561,7 +24715,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "DarriusL/IDLab",
@@ -24659,7 +24820,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "LuislopezMartinez/IC-SDR",
@@ -25261,7 +25429,14 @@
    "added_at": "2026-10-11",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "tak-wong/THz-AutoEncoder",
@@ -25520,7 +25695,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 391615,
+   "stars": 391616,
    "topics": [
     "ai",
     "assistant",
@@ -25656,7 +25831,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 158767,
+   "stars": 158766,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -26288,7 +26463,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 45040,
+   "stars": 45041,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -28914,7 +29089,14 @@
    "added_at": "2026-10-11",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-11"
+   ]
   },
   {
    "full_name": "techmanual-ai/lablink-mcp",
@@ -29104,7 +29286,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 58766,
+   "stars": 58767,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -32244,48 +32426,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "Evrytania/LTE-Cell-Scanner",
-   "url": "https://github.com/Evrytania/LTE-Cell-Scanner",
-   "description": "针对低性能射频前端的 LTE 小区扫描器，8bit ADC、20dB 噪声系数下仍可工作",
-   "language": "",
-   "stars": 673,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-11",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Ttl/fmcw3",
-   "url": "https://github.com/Ttl/fmcw3",
-   "description": "双接收通道 6GHz FMCW 雷达的 VHDL 设计文件（含射频前端与数字处理）",
-   "language": "",
-   "stars": 320,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-11",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "luni64/TeensyStep",
-   "url": "https://github.com/luni64/TeensyStep",
-   "description": "Teensy 开发板上的高速步进电机驱动库，面向精确定位运动控制",
-   "language": "",
-   "stars": 298,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-11",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

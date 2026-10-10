@@ -5,7 +5,7 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★391,615 · TypeScript · ⭐ 已 star`
+`★391,616 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★158,767 · Shell · ⭐ 已 star`
+`★158,766 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -260,7 +260,7 @@ Build infinite canvas apps in React with the tldraw SDK. World's best, top-most 
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★45,040 · Markdown · ⭐ 已 star`
+`★45,041 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -1200,8 +1200,9 @@ MinerU MCP Server - 完整的文档处理解决方案。支持PDF/PPTX/DOCX/图�
 ---
 
 #### [mergeos-bounties/ros2-mcp](https://github.com/mergeos-bounties/ros2-mcp)
-`★11 · 🔥 热点推荐`
+`★11 · ⭐🔥 已 star + 热点推荐`
 让 AI agent 通过 MCP 检查和操控 ROS 2 系统的 MCP 服务器
+> 热点推荐于 2026-10-11
 > 收录日期：2026-10-11
 
 ---

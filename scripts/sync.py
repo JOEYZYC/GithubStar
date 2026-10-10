@@ -87,6 +87,12 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-11：本轮 20 条，待归类 3 条（描述为中文简介，关键词表未覆盖）----
+    # 无线通信与感知（SDR/雷达接收侧，与 sdrmm 同口径）
+    "Evrytania/LTE-Cell-Scanner": "无线通信与感知",     # 低性能前端可用的 LTE 小区扫描器（SDR 接收）
+    "Ttl/fmcw3": "无线通信与感知",                     # 双通道 6GHz FMCW 雷达设计文件（含射频前端与数字处理）
+    # 嵌入式与单片机（Teensy 平台的运动控制库）
+    "luni64/TeensyStep": "嵌入式与单片机",             # Teensy 高速步进电机驱动库
     # ---- 2026-10-10：本轮 20 条，待归类 6 条（描述为中文简介，关键词表未覆盖）----
     # 飞控与无人机（机器人域：导航栈本体，与 openarm / ASPIRE 同口径）
     "ros-navigation/navigation2": "飞控与无人机",            # ROS 2 导航框架 Nav2（代价地图/规划/行为树）
