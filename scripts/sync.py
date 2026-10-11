@@ -87,6 +87,9 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-12：本轮 20 条，待归类 1 条（描述为中文简介，关键词表未覆盖）----
+    # 硬件设计与 EDA（射频功放板设计文件，与 bg3mdo 23cm 功放 / marcoreps 低噪放同口径）
+    "StrontiumGroup/GaN-RF-amplifier-": "硬件设计与 EDA",     # 超冷原子实验用 GaN 高功率射频功放
     # ---- 2026-10-11：本轮 20 条，待归类 3 条（描述为中文简介，关键词表未覆盖）----
     # 无线通信与感知（SDR/雷达接收侧，与 sdrmm 同口径）
     "Evrytania/LTE-Cell-Scanner": "无线通信与感知",     # 低性能前端可用的 LTE 小区扫描器（SDR 接收）

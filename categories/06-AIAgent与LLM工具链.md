@@ -20,7 +20,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★277,189 · JavaScript · ⭐ 已 star`
+`★277,191 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -35,7 +35,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★247,480 · TypeScript · ⭐ 已 star`
+`★247,482 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -133,7 +133,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★89,729 · TypeScript · ⭐ 已 star`
+`★89,732 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -179,7 +179,7 @@ Rust 单文件 CLI 代理，把常见开发命令的输出裁剪后喂给 LLM，
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★82,034 · JavaScript · ⭐ 已 star`
+`★82,036 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -908,7 +908,7 @@ Anthropic 用 Claude Opus 4.6 从零生成的 C 编译器，Rust 实现含 SSA I
 ---
 
 #### [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
-`★2,524 · Rust · ⭐ 已 star`
+`★2,526 · Rust · ⭐ 已 star`
 Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
 > 收录日期：2026-10-08
 

@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 200 个项目 · 数据更新时间 2026-10-12 · [返回总览](../README.md)
+> 共 201 个项目 · 数据更新时间 2026-10-12 · [返回总览](../README.md)
 
 ---
 
@@ -1205,8 +1205,9 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 ---
 
 #### [bg3mdo/budget_23cm_band_RF_power_amplifier](https://github.com/bg3mdo/budget_23cm_band_RF_power_amplifier)
-`★51 · 🔥 热点推荐`
+`★51 · ⭐🔥 已 star + 热点推荐`
 23cm 波段经济型射频功率放大器设计（业余无线电），含功放电路与 PCB
+> 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
 
 ---
@@ -1244,8 +1245,9 @@ Lean 4 中的可验证 GPU 编程框架
 ---
 
 #### [Breadstick-Innovations/22008-RP2040-Dev-Board](https://github.com/Breadstick-Innovations/22008-RP2040-Dev-Board)
-`★43 · 🔥 热点推荐`
+`★43 · ⭐🔥 已 star + 热点推荐`
 RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立创基础元件低成本贴片
+> 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
 
 ---
@@ -1283,8 +1285,9 @@ Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正
 ---
 
 #### [marcoreps/low_noise_amplifier](https://github.com/marcoreps/low_noise_amplifier)
-`★36 · 🔥 热点推荐`
+`★36 · ⭐🔥 已 star + 热点推荐`
 低噪声放大器设计文件，射频前端小信号放大的电路与 PCB
+> 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
 
 ---
@@ -1401,8 +1404,9 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 ---
 
 #### [bgkatz/mc-psu-v3](https://github.com/bgkatz/mc-psu-v3)
-`★20 · 🔥 热点推荐`
+`★20 · ⭐🔥 已 star + 热点推荐`
 Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图
+> 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
 
 ---
@@ -1564,6 +1568,14 @@ Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 
 从 Sail RISC-V 规格提取的 Lean 模型，用于 zkVM 形式化验证
 > 热点推荐于 2026-10-03
 > 收录日期：2026-10-03
+
+---
+
+#### [StrontiumGroup/GaN-RF-amplifier-](https://github.com/StrontiumGroup/GaN-RF-amplifier-)
+`★10 · ⭐🔥 已 star + 热点推荐`
+超冷原子实验用高功率射频功放（GaN，CERN-OHL-P 开源硬件）
+> 热点推荐于 2026-10-12
+> 收录日期：2026-10-12
 
 ---
 

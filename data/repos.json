@@ -3642,7 +3642,14 @@
    "added_at": "2026-10-12",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "snstac/dronecot",
@@ -8561,7 +8568,14 @@
    "added_at": "2026-10-12",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "ckflight/CST-ADS-Simulations",
@@ -11580,7 +11594,14 @@
    "added_at": "2026-10-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "HASwitchPlate/openHASP",
@@ -15247,7 +15268,14 @@
    "added_at": "2026-10-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "john30/ebusd-esp32",
@@ -17578,7 +17606,14 @@
    "added_at": "2026-10-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "EIC-UESTC/aCoral",
@@ -21403,7 +21438,14 @@
    "added_at": "2026-10-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "amoslee2026/Babel",
@@ -21501,7 +21543,14 @@
    "added_at": "2026-10-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "haruto89610/rtl-nic",
@@ -21599,7 +21648,14 @@
    "added_at": "2026-10-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "easyeda/easyeda-simulation-engine",
@@ -21899,7 +21955,14 @@
    "added_at": "2026-10-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "10-X-eng/KiChad",
@@ -22322,6 +22385,27 @@
    ]
   },
   {
+   "full_name": "StrontiumGroup/GaN-RF-amplifier-",
+   "url": "https://github.com/StrontiumGroup/GaN-RF-amplifier-",
+   "description": "超冷原子实验用高功率射频功放（GaN，CERN-OHL-P 开源硬件）",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-12",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
+  },
+  {
    "full_name": "uchan-nos/prepare-ai-review-for-kicad",
    "url": "https://github.com/uchan-nos/prepare-ai-review-for-kicad",
    "description": "KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2026-08 新建）",
@@ -22730,7 +22814,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "Nuand/bladeRF",
@@ -22931,7 +23022,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "Evrytania/LTE-Cell-Scanner",
@@ -23239,7 +23337,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "radar-lab/ti_mmwave_rospkg",
@@ -23904,7 +24009,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "KylinC/mPose3D",
@@ -24393,7 +24505,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "byggemandboesen/H-line-software",
@@ -24596,7 +24715,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "greatscottgadgets/hackrf-pro",
@@ -24610,7 +24736,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "myriadrf/RASDR",
@@ -24624,7 +24757,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "mghojal/Localization-Algorithm",
@@ -24785,7 +24925,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "rookiepeng/arraybeam",
@@ -25051,7 +25198,14 @@
    "added_at": "2026-10-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
   },
   {
    "full_name": "vincenzo-afk/WIFI-based-human-presence-detection-system",
@@ -26011,7 +26165,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 277189,
+   "stars": 277191,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -26053,7 +26207,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 247480,
+   "stars": 247482,
    "topics": [
     "ai-agents",
     "cordis",
@@ -26320,7 +26474,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 89729,
+   "stars": 89732,
    "topics": [
     "ade",
     "agent-ide",
@@ -26487,7 +26641,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 82034,
+   "stars": 82036,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -28557,7 +28711,7 @@
    "url": "https://github.com/nullmoth/nvidia-macos-driver",
    "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
    "language": "Rust",
-   "stars": 2524,
+   "stars": 2526,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29437,7 +29591,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 85916,
+   "stars": 85917,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -29468,7 +29622,7 @@
    "url": "https://github.com/byoungd/up",
    "description": "韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。",
    "language": "JavaScript",
-   "stars": 68283,
+   "stars": 68284,
    "topics": [
     "ai-literacy",
     "chinese",
@@ -29552,7 +29706,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 59840,
+   "stars": 59841,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29565,7 +29719,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 53514,
+   "stars": 53515,
    "topics": [
     "agent",
     "agent-memory",
@@ -30051,7 +30205,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
    "language": "Python",
-   "stars": 63557,
+   "stars": 63558,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -32692,20 +32846,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "StrontiumGroup/GaN-RF-amplifier-",
-   "url": "https://github.com/StrontiumGroup/GaN-RF-amplifier-",
-   "description": "超冷原子实验用高功率射频功放（GaN，CERN-OHL-P 开源硬件）",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-12",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
