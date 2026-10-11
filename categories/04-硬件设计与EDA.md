@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 196 个项目 · 数据更新时间 2026-10-11 · [返回总览](../README.md)
+> 共 200 个项目 · 数据更新时间 2026-10-12 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,128 · C++ · ⭐ 已 star`
+`★34,170 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -123,18 +123,18 @@ RTL-to-GDS 开源数字芯片实现流程
 
 ---
 
+#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
+`★2,989 · C++ · ⭐ 已 star`
+Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+> 收录日期：2026-09-13
+
+---
+
 #### [LibrePCB/LibrePCB](https://github.com/LibrePCB/LibrePCB)
 `★2,988 · ⭐🔥 已 star + 热点推荐`
 独立开源 EDA 套件，自研原理图与版图工具链
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
-
----
-
-#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,983 · C++ · ⭐ 已 star`
-Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
-> 收录日期：2026-09-13
 
 ---
 
@@ -154,17 +154,17 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 
 ---
 
-#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,787 · Python · ⭐ 已 star`
-FreeCAD MCP(Model Context Protocol) server
-> 收录日期：2026-09-27
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★2,811 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
 
 ---
 
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,718 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★2,808 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
 
 ---
 
@@ -1204,6 +1204,13 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 
 ---
 
+#### [bg3mdo/budget_23cm_band_RF_power_amplifier](https://github.com/bg3mdo/budget_23cm_band_RF_power_amplifier)
+`★51 · 🔥 热点推荐`
+23cm 波段经济型射频功率放大器设计（业余无线电），含功放电路与 PCB
+> 收录日期：2026-10-12
+
+---
+
 #### [amoslee2026/Babel](https://github.com/amoslee2026/Babel)
 `★45 · ⭐🔥 已 star + 热点推荐`
 AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
@@ -1236,6 +1243,13 @@ Lean 4 中的可验证 GPU 编程框架
 
 ---
 
+#### [Breadstick-Innovations/22008-RP2040-Dev-Board](https://github.com/Breadstick-Innovations/22008-RP2040-Dev-Board)
+`★43 · 🔥 热点推荐`
+RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立创基础元件低成本贴片
+> 收录日期：2026-10-12
+
+---
+
 #### [haruto89610/rtl-nic](https://github.com/haruto89610/rtl-nic)
 `★39 · ⭐🔥 已 star + 热点推荐`
 自研 FPGA 以太网数据通路的 SystemVerilog RTL（ARP / IPv4 / UDP / TCP 传输控制）
@@ -1265,6 +1279,13 @@ Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正
 以 Rust crate 形式提供的版图设计自动化工具（Substrate 2），API 尚未稳定
 > 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
+
+---
+
+#### [marcoreps/low_noise_amplifier](https://github.com/marcoreps/low_noise_amplifier)
+`★36 · 🔥 热点推荐`
+低噪声放大器设计文件，射频前端小信号放大的电路与 PCB
+> 收录日期：2026-10-12
 
 ---
 
@@ -1376,6 +1397,13 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 > 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
+
+---
+
+#### [bgkatz/mc-psu-v3](https://github.com/bgkatz/mc-psu-v3)
+`★20 · 🔥 热点推荐`
+Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图
+> 收录日期：2026-10-12
 
 ---
 

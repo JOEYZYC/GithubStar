@@ -1372,3 +1372,23 @@
 {"url": "https://github.com/ningzichun/dtmb-sdr", "stars": 15, "desc": "中国地面数字电视 DTMB 标准的软件接收机（C++20/Python），含 LDPC/BCH 解码、64QAM、OFDM 解调与 GPU 加速", "date": "2026-10-11"}
 {"url": "https://github.com/luyii-code-1/dji-ocusync-droneid-research", "stars": 14, "desc": "大疆 OcuSync O2/O4 DroneID 物理层与数据包解析的可复现研究", "date": "2026-10-11"}
 {"url": "https://github.com/mergeos-bounties/ros2-mcp", "stars": 11, "desc": "让 AI agent 通过 MCP 检查和操控 ROS 2 系统的 MCP 服务器", "date": "2026-10-11"}
+{"url": "https://github.com/xmikos/qspectrumanalyzer", "stars": 1459, "desc": "跨 SDR 平台的频谱仪 GUI，后端支持 soapy_power/hackrf_sweep/rtl_power，用于射频信号频谱测量与扫描", "date": "2026-10-12"}
+{"url": "https://github.com/safijari/openpuck", "stars": 1026, "desc": "基于 nRF52840 的开源无线手柄固件（Steam Controller 2 复刻 + Xbox 模式），完整的 nRF52 嵌入式固件与射频收发实现", "date": "2026-10-12"}
+{"url": "https://github.com/pavels/spektrum", "stars": 705, "desc": "Processing 实现的 rtl-sdr 实时频谱仪，射频信号可视化与频谱观察的入门工具", "date": "2026-10-12"}
+{"url": "https://github.com/r4d10n/retrogram-rtlsdr", "stars": 316, "desc": "终端 ASCII 输出的 RTL-SDR 频谱仪，SSH 下也能实时观察射频频谱", "date": "2026-10-12"}
+{"url": "https://github.com/strath-sdr/rfsoc_qpsk", "stars": 122, "desc": "RFSoC 上的 QPSK 软件无线电收发机 PYNQ 例子，射频前端与数字基带协同设计参考", "date": "2026-10-12"}
+{"url": "https://github.com/hayatky/sdr-dtv-poc", "stars": 76, "desc": "实验性 SDR 数字电视接收 PoC，带网页 UI 做频道扫描、观看与 TS 录制", "date": "2026-10-12"}
+{"url": "https://github.com/strath-sdr/rfsoc_ofdm", "stars": 65, "desc": "RFSoC 上的 OFDM 收发机 PYNQ 例子，软件无线电基带与射频联合验证", "date": "2026-10-12"}
+{"url": "https://github.com/greatscottgadgets/hackrf-pro", "stars": 65, "desc": "HackRF Pro 的软件无线电硬件设计文件（CERN-OHL-P），从射频前端到收发链路的完整开源硬件", "date": "2026-10-12"}
+{"url": "https://github.com/myriadrf/RASDR", "stars": 62, "desc": "射电天文专用软件无线电收发机（硬件与驱动），窄带频谱观测前端", "date": "2026-10-12"}
+{"url": "https://github.com/krzychb/esp32-lna", "stars": 56, "desc": "ESP32 内置低噪声放大器（LNA）用法示例，含 Arduino 库与 ESP-IDF 组件，射频接收灵敏度调试参考", "date": "2026-10-12"}
+{"url": "https://github.com/bg3mdo/budget_23cm_band_RF_power_amplifier", "stars": 51, "desc": "23cm 波段经济型射频功率放大器设计（业余无线电），含功放电路与 PCB", "date": "2026-10-12"}
+{"url": "https://github.com/strath-sdr/rfsoc_radio", "stars": 46, "desc": "RFSoC 上 QPSK/BPSK 软件无线电收发机的 PYNQ 例子", "date": "2026-10-12"}
+{"url": "https://github.com/Breadstick-Innovations/22008-RP2040-Dev-Board", "stars": 43, "desc": "RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立创基础元件低成本贴片", "date": "2026-10-12"}
+{"url": "https://github.com/brandonhimpfen/awesome-uav-drone-ai", "stars": 41, "desc": "无人机自主飞行资源清单：感知、SLAM、飞控与边缘 AI 的资料与项目合集", "date": "2026-10-12"}
+{"url": "https://github.com/marcoreps/low_noise_amplifier", "stars": 36, "desc": "低噪声放大器设计文件，射频前端小信号放大的电路与 PCB", "date": "2026-10-12"}
+{"url": "https://github.com/jsammarco/FlipRSDR", "stars": 36, "desc": "USB/蓝牙的亚 GHz 软件无线电收发器，用于射频信号可视化与记录", "date": "2026-10-12"}
+{"url": "https://github.com/bgkatz/mc-psu-v3", "stars": 20, "desc": "Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图", "date": "2026-10-12"}
+{"url": "https://github.com/ismailakdag/fairbeam", "stars": 14, "desc": "基于 openEMS 的开源电磁工作台：天线设计与电磁仿真、文档一体化流程", "date": "2026-10-12"}
+{"url": "https://github.com/Amir7698/embedded-interview-prep", "stars": 12, "desc": "嵌入式面试实战练习：C 语言、RTOS、总线协议、Linux BSP 与系统设计题库", "date": "2026-10-12"}
+{"url": "https://github.com/StrontiumGroup/GaN-RF-amplifier-", "stars": 10, "desc": "超冷原子实验用高功率射频功放（GaN，CERN-OHL-P 开源硬件）", "date": "2026-10-12"}

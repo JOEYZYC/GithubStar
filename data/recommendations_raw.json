@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/zserge/grayskull",
-  "stars": 701,
-  "desc": "面向嵌入式系统、无人机与机器人的极小体积免依赖 C 计算机视觉库"
+  "url": "https://github.com/xmikos/qspectrumanalyzer",
+  "stars": 1459,
+  "desc": "跨 SDR 平台的频谱仪 GUI，后端支持 soapy_power/hackrf_sweep/rtl_power，用于射频信号频谱测量与扫描"
  },
  {
-  "url": "https://github.com/Evrytania/LTE-Cell-Scanner",
-  "stars": 673,
-  "desc": "针对低性能射频前端的 LTE 小区扫描器，8bit ADC、20dB 噪声系数下仍可工作"
+  "url": "https://github.com/safijari/openpuck",
+  "stars": 1026,
+  "desc": "基于 nRF52840 的开源无线手柄固件（Steam Controller 2 复刻 + Xbox 模式），完整的 nRF52 嵌入式固件与射频收发实现"
  },
  {
-  "url": "https://github.com/ekurtgl/FMCW-MIMO-Radar-Simulation",
-  "stars": 362,
-  "desc": "FMCW MIMO 毫米波雷达的 MATLAB 仿真实现（波形、阵列与信号处理链）"
+  "url": "https://github.com/pavels/spektrum",
+  "stars": 705,
+  "desc": "Processing 实现的 rtl-sdr 实时频谱仪，射频信号可视化与频谱观察的入门工具"
  },
  {
-  "url": "https://github.com/Ttl/fmcw3",
-  "stars": 320,
-  "desc": "双接收通道 6GHz FMCW 雷达的 VHDL 设计文件（含射频前端与数字处理）"
+  "url": "https://github.com/r4d10n/retrogram-rtlsdr",
+  "stars": 316,
+  "desc": "终端 ASCII 输出的 RTL-SDR 频谱仪，SSH 下也能实时观察射频频谱"
  },
  {
-  "url": "https://github.com/luni64/TeensyStep",
-  "stars": 298,
-  "desc": "Teensy 开发板上的高速步进电机驱动库，面向精确定位运动控制"
+  "url": "https://github.com/strath-sdr/rfsoc_qpsk",
+  "stars": 122,
+  "desc": "RFSoC 上的 QPSK 软件无线电收发机 PYNQ 例子，射频前端与数字基带协同设计参考"
  },
  {
-  "url": "https://github.com/strath-sdr/RFSoC-Book",
-  "stars": 288,
-  "desc": "《Software Defined Radio with RFSoC》配套 Jupyter Notebook，覆盖 RFSoC 软件无线电全流程"
+  "url": "https://github.com/hayatky/sdr-dtv-poc",
+  "stars": 76,
+  "desc": "实验性 SDR 数字电视接收 PoC，带网页 UI 做频道扫描、观看与 TS 录制"
  },
  {
-  "url": "https://github.com/XuWei9506/PKU-Millimeter-Wave-Radar-Tutorial",
-  "stars": 278,
-  "desc": "毫米波雷达系统教程：IWR1843 原始 ADC 数据处理、FMCW-MIMO 仿真、点云人体追踪、手势与生命体征检测"
+  "url": "https://github.com/strath-sdr/rfsoc_ofdm",
+  "stars": 65,
+  "desc": "RFSoC 上的 OFDM 收发机 PYNQ 例子，软件无线电基带与射频联合验证"
  },
  {
-  "url": "https://github.com/ncmreynolds/ld2410",
-  "stars": 221,
-  "desc": "海凌科 LD2410 24GHz FMCW 雷达传感器的 Arduino 驱动库，用于低成本存在感知识别"
+  "url": "https://github.com/greatscottgadgets/hackrf-pro",
+  "stars": 65,
+  "desc": "HackRF Pro 的软件无线电硬件设计文件（CERN-OHL-P），从射频前端到收发链路的完整开源硬件"
  },
  {
-  "url": "https://github.com/jLynx/BrowSDR",
-  "stars": 200,
-  "desc": "在浏览器中运行的软件无线电接收机，无需本地安装客户端"
+  "url": "https://github.com/myriadrf/RASDR",
+  "stars": 62,
+  "desc": "射电天文专用软件无线电收发机（硬件与驱动），窄带频谱观测前端"
  },
  {
-  "url": "https://github.com/davidscmx/radar-target-generation-and-detection",
-  "stars": 157,
-  "desc": "按系统指标配置 FMCW 波形，仿真目标距离/速度与位移的雷达信号处理链路"
+  "url": "https://github.com/krzychb/esp32-lna",
+  "stars": 56,
+  "desc": "ESP32 内置低噪声放大器（LNA）用法示例，含 Arduino 库与 ESP-IDF 组件，射频接收灵敏度调试参考"
  },
  {
-  "url": "https://github.com/KaliAssistant/rpi-sdr-tx",
-  "stars": 94,
-  "desc": "树莓派上的软件无线电发射工具链，把树莓派做成 SDR 发射端"
+  "url": "https://github.com/bg3mdo/budget_23cm_band_RF_power_amplifier",
+  "stars": 51,
+  "desc": "23cm 波段经济型射频功率放大器设计（业余无线电），含功放电路与 PCB"
  },
  {
-  "url": "https://github.com/strath-sdr/rfsoc_sam",
-  "stars": 93,
-  "desc": "基于 PYNQ 的 RFSoC 频谱分析模块（VHDL 实现），把 RFSoC 当频谱仪用"
+  "url": "https://github.com/strath-sdr/rfsoc_radio",
+  "stars": 46,
+  "desc": "RFSoC 上 QPSK/BPSK 软件无线电收发机的 PYNQ 例子"
  },
  {
-  "url": "https://github.com/srsran/zynq_timestamping",
-  "stars": 81,
-  "desc": "软件无线电基站用的 Zynq 时间戳实现，解决 SDR 收发链路的定时同步"
+  "url": "https://github.com/Breadstick-Innovations/22008-RP2040-Dev-Board",
+  "stars": 43,
+  "desc": "RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立创基础元件低成本贴片"
  },
  {
-  "url": "https://github.com/persistentcache/Lora-Wideband-Decoder",
-  "stars": 72,
-  "desc": "自托管的宽带 LoRa 侦收解码器，从 SDR IQ 数据近实时解析 Meshtastic/LoRaWAN/MeshCore 报文"
+  "url": "https://github.com/brandonhimpfen/awesome-uav-drone-ai",
+  "stars": 41,
+  "desc": "无人机自主飞行资源清单：感知、SLAM、飞控与边缘 AI 的资料与项目合集"
  },
  {
-  "url": "https://github.com/sinara-hw/RFSOC-AMC",
-  "stars": 44,
-  "desc": "集成 Xilinx RF-SoC 与两路模拟前端夹层板的 AMC 模块硬件设计，面向 SDR 与量子测控"
+  "url": "https://github.com/marcoreps/low_noise_amplifier",
+  "stars": 36,
+  "desc": "低噪声放大器设计文件，射频前端小信号放大的电路与 PCB"
  },
  {
-  "url": "https://github.com/dbourgoyne/rigflow",
-  "stars": 40,
-  "desc": "把多台 SDR 组织成网络化射频服务的软定义无线电网络服务器"
+  "url": "https://github.com/jsammarco/FlipRSDR",
+  "stars": 36,
+  "desc": "USB/蓝牙的亚 GHz 软件无线电收发器，用于射频信号可视化与记录"
  },
  {
-  "url": "https://github.com/NUS-CIR/ProtO-RU",
-  "stars": 35,
-  "desc": "符合 O-RAN 7.2 分割的软件无线电单元（RU）实现，用 SDR 搭 5G 射频前端"
+  "url": "https://github.com/bgkatz/mc-psu-v3",
+  "stars": 20,
+  "desc": "Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图"
  },
  {
-  "url": "https://github.com/ningzichun/dtmb-sdr",
-  "stars": 15,
-  "desc": "中国地面数字电视 DTMB 标准的软件接收机（C++20/Python），含 LDPC/BCH 解码、64QAM、OFDM 解调与 GPU 加速"
- },
- {
-  "url": "https://github.com/luyii-code-1/dji-ocusync-droneid-research",
+  "url": "https://github.com/ismailakdag/fairbeam",
   "stars": 14,
-  "desc": "大疆 OcuSync O2/O4 DroneID 物理层与数据包解析的可复现研究"
+  "desc": "基于 openEMS 的开源电磁工作台：天线设计与电磁仿真、文档一体化流程"
  },
  {
-  "url": "https://github.com/mergeos-bounties/ros2-mcp",
-  "stars": 11,
-  "desc": "让 AI agent 通过 MCP 检查和操控 ROS 2 系统的 MCP 服务器"
+  "url": "https://github.com/Amir7698/embedded-interview-prep",
+  "stars": 12,
+  "desc": "嵌入式面试实战练习：C 语言、RTOS、总线协议、Linux BSP 与系统设计题库"
+ },
+ {
+  "url": "https://github.com/StrontiumGroup/GaN-RF-amplifier-",
+  "stars": 10,
+  "desc": "超冷原子实验用高功率射频功放（GaN，CERN-OHL-P 开源硬件）"
  }
 ]
