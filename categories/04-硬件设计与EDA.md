@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 201 个项目 · 数据更新时间 2026-10-12 · [返回总览](../README.md)
+> 共 203 个项目 · 数据更新时间 2026-10-13 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,170 · C++ · ⭐ 已 star`
+`★34,209 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -124,7 +124,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★2,989 · C++ · ⭐ 已 star`
+`★2,994 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -155,14 +155,14 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,811 · Rust · ⭐ 已 star`
+`★2,895 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,808 · Python · ⭐ 已 star`
+`★2,824 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -504,18 +504,18 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
+`★572 · C · ⭐ 已 star`
+Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
+> 收录日期：2026-09-13
+
+---
+
 #### [librelane/librelane](https://github.com/librelane/librelane)
 `★571 · ⭐🔥 已 star + 热点推荐`
 ASIC 实现流程基础设施，OpenLane 的继任者
 > 热点推荐于 2026-10-05
 > 收录日期：2026-10-05
-
----
-
-#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★571 · C · ⭐ 已 star`
-Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
-> 收录日期：2026-09-13
 
 ---
 
@@ -834,6 +834,13 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 小体积可配置的 FPGA 片内逻辑分析仪，直接在 RTL 内插观测点
 > 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
+
+---
+
+#### [bigtreetech/BIGTREETECH-Stepper-Motor-Driver](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver)
+`★205 · 🔥 热点推荐`
+BIGTREETECH 步进电机驱动模块硬件设计文件（原理图 + PCB），TMC 步进驱动电路参考资料
+> 收录日期：2026-10-13
 
 ---
 
@@ -1432,6 +1439,13 @@ Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电�
 基于 CH32H417WEU6 的 16 通道 200MHz 逻辑分析仪工程，含原理图与 PCB 重画
 > 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
+
+---
+
+#### [siyuan-liu-research/100MSPS-ADC-Sampling-Board](https://github.com/siyuan-liu-research/100MSPS-ADC-Sampling-Board)
+`★19 · 🔥 热点推荐`
+100MSPS 高速 ADC 采样板：硬件电路设计 + FPGA 固件 + 开源性能测试脚本（本科创新项目）
+> 收录日期：2026-10-13
 
 ---
 

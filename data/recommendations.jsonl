@@ -1392,3 +1392,23 @@
 {"url": "https://github.com/ismailakdag/fairbeam", "stars": 14, "desc": "基于 openEMS 的开源电磁工作台：天线设计与电磁仿真、文档一体化流程", "date": "2026-10-12"}
 {"url": "https://github.com/Amir7698/embedded-interview-prep", "stars": 12, "desc": "嵌入式面试实战练习：C 语言、RTOS、总线协议、Linux BSP 与系统设计题库", "date": "2026-10-12"}
 {"url": "https://github.com/StrontiumGroup/GaN-RF-amplifier-", "stars": 10, "desc": "超冷原子实验用高功率射频功放（GaN，CERN-OHL-P 开源硬件）", "date": "2026-10-12"}
+{"url": "https://github.com/pavsa/hackrf-spectrum-analyzer", "stars": 852, "desc": "HackRF 软件无线电的射频频谱分析仪：频谱扫描与射频信号测量（仪器软件）", "date": "2026-10-13"}
+{"url": "https://github.com/jprochazka/adsb-receiver", "stars": 634, "desc": "自建 ADS-B 飞机信号接收站：树莓派 + RTL-SDR 软件无线电接收与解码全流程（接收机 + 天线 + 地图可视化）", "date": "2026-10-13"}
+{"url": "https://github.com/PantsForBirds/adsbee", "stars": 326, "desc": "开源嵌入式 ADS-B 接收机：自制射频前端与单片解码固件的硬件设计（FPGA/MCU 射频接收方案）", "date": "2026-10-13"}
+{"url": "https://github.com/machineinteractive/skies-adsb", "stars": 263, "desc": "浏览器实时 3D 空中交通显示，直接读取 RTL-SDR 软件无线电接收的 ADS-B 原始数据", "date": "2026-10-13"}
+{"url": "https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver", "stars": 205, "desc": "BIGTREETECH 步进电机驱动模块硬件设计文件（原理图 + PCB），TMC 步进驱动电路参考资料", "date": "2026-10-13"}
+{"url": "https://github.com/pronenewbits/Arduino_AHRS_System", "stars": 196, "desc": "Arduino 嵌入式 AHRS 姿态参考系统：磁力计递推最小二乘标定 + EKF/UKF 姿态融合，无人机飞控姿态解算样本", "date": "2026-10-13"}
+{"url": "https://github.com/benkrasnow/Temperature_sensing_stirbar", "stars": 167, "desc": "RFID 无线无源温度传感器：原理图 + PCB + 单片机固件（射频识别测温电路设计）", "date": "2026-10-13"}
+{"url": "https://github.com/gvanem/Dump1090", "stars": 165, "desc": "ADS-B 接收解码器与地图 web 服务：RTL-SDR/SDRplay 软件无线电接收航空信号", "date": "2026-10-13"}
+{"url": "https://github.com/quartiq/stabilizer", "stars": 147, "desc": "Sinara Stabilizer 模块固件：高速 ADC/DAC 数据通路与低延迟 DSP 算法，用于仪器级闭环控制（嵌入式 + 射频仪器）", "date": "2026-10-13"}
+{"url": "https://github.com/ICBizLabs/NyxScope", "stars": 77, "desc": "Windows 多协议软件无线电（SDR）接收机：P25/DMR 数字语音与 ADS-B 等解码器统一界面", "date": "2026-10-13"}
+{"url": "https://github.com/AndersBNielsen/PhaseLatchMini", "stars": 71, "desc": "STM32F103 双 ADC 交错 I/Q 连续采样，经 USB CDC 高速流式输出的软件无线电/信号采集前端（嵌入式固件）", "date": "2026-10-13"}
+{"url": "https://github.com/bitcraze/Bitcraze_PMW3901", "stars": 70, "desc": "PMW3901 光流传感器 Arduino 驱动（Crazyflie 无人机团队维护），用于无人机悬停与定位", "date": "2026-10-13"}
+{"url": "https://github.com/PineconePi/Pinecone_Pi_Nano", "stars": 69, "desc": "小巧低成本的 8051 单片机开发板（52×18mm），嵌入式入门硬件设计参考", "date": "2026-10-13"}
+{"url": "https://github.com/Sdr-Is-Fun/RTL_SDR_LBJ_RECEIVER", "stars": 47, "desc": "用 RTL-SDR 软件无线电接收并解调铁路 LBJ 报警系统射频信号（无线信号接收与解析）", "date": "2026-10-13"}
+{"url": "https://github.com/alayi/stm32f334-buck-boost", "stars": 45, "desc": "STM32F334 数字电源 buck-boost DC/DC 转换器，含 CC/CV 控制算法（单片机数字电源）", "date": "2026-10-13"}
+{"url": "https://github.com/DL5LZ/qrm-logger", "stars": 33, "desc": "基于 GNU Radio 的射频干扰（RFI）监测与记录软件无线电应用：无线频谱监测", "date": "2026-10-13"}
+{"url": "https://github.com/LeoDJ/USB-C_PD_PSU", "stars": 29, "desc": "5–60V 双向 buck-boost 电源板，支持 240W USB PD EPR（电源电路设计 + 嵌入式控制）", "date": "2026-10-13"}
+{"url": "https://github.com/siyuan-liu-research/100MSPS-ADC-Sampling-Board", "stars": 19, "desc": "100MSPS 高速 ADC 采样板：硬件电路设计 + FPGA 固件 + 开源性能测试脚本（本科创新项目）", "date": "2026-10-13"}
+{"url": "https://github.com/Cui-Zhao/RF-WISE", "stars": 13, "desc": "从 RFID 射频信号中提取类 CSI 细粒度感知特征，实现无需采集 CSI 的无线感知", "date": "2026-10-13"}
+{"url": "https://github.com/richcreations/imud", "stars": 12, "desc": "Linux 通用 IMU 守护进程（IMU 版的 gpsd）：为机器人/飞控统一管理惯性传感器实时数据", "date": "2026-10-13"}
