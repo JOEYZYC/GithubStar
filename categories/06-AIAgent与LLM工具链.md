@@ -5,7 +5,7 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★391,800 · TypeScript · ⭐ 已 star`
+`★391,801 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -20,7 +20,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★277,876 · JavaScript · ⭐ 已 star`
+`★277,879 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -42,7 +42,7 @@ DeepSeek Harness: Everything is a Plugin.
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★219,233 · ⭐ 已 star`
+`★219,234 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -140,7 +140,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★90,645 · TypeScript · ⭐ 已 star`
+`★90,646 · TypeScript · ⭐ 已 star`
 Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -289,7 +289,7 @@ Build resilient agents.
 ---
 
 #### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-`★41,335 · PowerShell · ⭐ 已 star`
+`★41,336 · PowerShell · ⭐ 已 star`
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 > 收录日期：2026-09-13
 
@@ -563,7 +563,7 @@ Obsidian 内的 AI 助手集成，把 LLM 直接放进笔记工作流
 ---
 
 #### [openai/math](https://github.com/openai/math)
-`★14,409 · Lean · ⭐ 已 star`
+`★14,411 · Lean · ⭐ 已 star`
 > 收录日期：2026-10-08
 
 ---
@@ -907,7 +907,7 @@ Anthropic 用 Claude Opus 4.6 从零生成的 C 编译器，Rust 实现含 SSA I
 ---
 
 #### [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
-`★2,730 · Rust · ⭐ 已 star`
+`★2,731 · Rust · ⭐ 已 star`
 Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.
 > 收录日期：2026-10-08
 

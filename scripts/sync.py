@@ -87,6 +87,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-13：本轮 20 条 + star 抓取新增，待归类 2 条 ----
+    # 无线通信与感知（GNU Radio 射频干扰监测，与 sdrmm/qrm 类同口径）
+    "DL5LZ/qrm-logger": "无线通信与感知",     # GNU Radio 的射频干扰（RFI）监测与记录
+    # 开发工具与系统资源（逆向工程工具，非嵌入式固件本体）
+    "NationalSecurityAgency/ghidra": "开发工具与系统资源",     # 软件逆向工程套件（GHIDRA）
     # ---- 2026-10-12：本轮 20 条，待归类 1 条（描述为中文简介，关键词表未覆盖）----
     # 硬件设计与 EDA（射频功放板设计文件，与 bg3mdo 23cm 功放 / marcoreps 低噪放同口径）
     "StrontiumGroup/GaN-RF-amplifier-": "硬件设计与 EDA",     # 超冷原子实验用 GaN 高功率射频功放

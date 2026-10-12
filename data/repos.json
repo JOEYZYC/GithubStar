@@ -2426,7 +2426,14 @@
    "added_at": "2026-10-13",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "zs6buj/AntTracker",
@@ -3343,7 +3350,14 @@
    "added_at": "2026-10-13",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "dronecz/ESP32-Reflow-Controller",
@@ -4599,7 +4613,14 @@
    "added_at": "2026-10-13",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "klever-coex/clover2",
@@ -12944,7 +12965,14 @@
    "added_at": "2026-10-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "janelia-arduino/TMC2209",
@@ -13852,7 +13880,14 @@
    "added_at": "2026-10-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "GalusPeres/HomeTiles",
@@ -14034,7 +14069,14 @@
    "added_at": "2026-10-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "ataradov/open-5012h",
@@ -15080,7 +15122,14 @@
    "added_at": "2026-10-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "WayV5/RK3588-STM32-ROS2-SLAM-Robot",
@@ -15115,7 +15164,14 @@
    "added_at": "2026-10-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "engneer-hamachan/area512",
@@ -15616,7 +15672,14 @@
    "added_at": "2026-10-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "ESPARGOS/SoapyESPSDR",
@@ -16219,7 +16282,14 @@
    "added_at": "2026-10-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "Gao-Den/rkos",
@@ -20626,7 +20696,14 @@
    "added_at": "2026-10-13",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "wokwi/kicad-jlcpcb-bom-plugin",
@@ -22219,7 +22296,14 @@
    "added_at": "2026-10-13",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "SanjayKumaran2805/8X8-Sequential-Multiplier-Using-Verilog",
@@ -23153,7 +23237,14 @@
    "added_at": "2026-10-13",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "semuconsulting/PyGPSClient",
@@ -23293,7 +23384,14 @@
    "added_at": "2026-10-13",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "mitgor/PLFM_RADAR",
@@ -23748,7 +23846,14 @@
    "added_at": "2026-10-13",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "KylinC/mmVital-Signs",
@@ -24014,7 +24119,14 @@
    "added_at": "2026-10-13",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "libing64/learning_rtklib",
@@ -24755,7 +24867,14 @@
    "added_at": "2026-10-13",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "hayatky/sdr-dtv-poc",
@@ -25189,7 +25308,14 @@
    "added_at": "2026-10-13",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "strath-sdr/rfsoc_radio",
@@ -25546,6 +25672,27 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "DL5LZ/qrm-logger",
+   "url": "https://github.com/DL5LZ/qrm-logger",
+   "description": "基于 GNU Radio 的射频干扰（RFI）监测与记录软件无线电应用：无线频谱监测",
+   "language": "",
+   "stars": 33,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-13",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
    ]
   },
   {
@@ -26169,7 +26316,14 @@
    "added_at": "2026-10-13",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
+   ]
   },
   {
    "full_name": "KI3P/VWS-SDR",
@@ -26407,7 +26561,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 391800,
+   "stars": 391801,
    "topics": [
     "ai",
     "assistant",
@@ -26457,7 +26611,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 277876,
+   "stars": 277879,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -26517,7 +26671,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 219233,
+   "stars": 219234,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -26779,7 +26933,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 90645,
+   "stars": 90646,
    "topics": [
     "ade",
     "agent-ide",
@@ -27254,7 +27408,7 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "language": "PowerShell",
-   "stars": 41335,
+   "stars": 41336,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -28024,7 +28178,7 @@
    "url": "https://github.com/openai/math",
    "description": "",
    "language": "Lean",
-   "stars": 14409,
+   "stars": 14411,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -28995,7 +29149,7 @@
    "url": "https://github.com/nullmoth/nvidia-macos-driver",
    "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
    "language": "Rust",
-   "stars": 2730,
+   "stars": 2731,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -30248,7 +30402,7 @@
    "url": "https://github.com/buchidonggua/dg-ai-notes",
    "description": "",
    "language": "MDX",
-   "stars": 3360,
+   "stars": 3361,
    "topics": [
     "ai-agent",
     "learning-notes",
@@ -32486,6 +32640,23 @@
    "note": ""
   },
   {
+   "full_name": "NationalSecurityAgency/ghidra",
+   "url": "https://github.com/NationalSecurityAgency/ghidra",
+   "description": "Ghidra is a software reverse engineering (SRE) framework",
+   "language": "Java",
+   "stars": 85155,
+   "topics": [
+    "disassembler",
+    "reverse-engineering",
+    "software-analysis"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-13",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "apple/container",
    "url": "https://github.com/apple/container",
    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
@@ -33169,37 +33340,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "NationalSecurityAgency/ghidra",
-   "url": "https://github.com/NationalSecurityAgency/ghidra",
-   "description": "Ghidra is a software reverse engineering (SRE) framework",
-   "language": "Java",
-   "stars": 85152,
-   "topics": [
-    "disassembler",
-    "reverse-engineering",
-    "software-analysis"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-13",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "DL5LZ/qrm-logger",
-   "url": "https://github.com/DL5LZ/qrm-logger",
-   "description": "基于 GNU Radio 的射频干扰（RFI）监测与记录软件无线电应用：无线频谱监测",
-   "language": "",
-   "stars": 33,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-13",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

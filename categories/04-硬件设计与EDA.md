@@ -838,8 +838,9 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 ---
 
 #### [bigtreetech/BIGTREETECH-Stepper-Motor-Driver](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver)
-`★205 · 🔥 热点推荐`
+`★205 · ⭐🔥 已 star + 热点推荐`
 BIGTREETECH 步进电机驱动模块硬件设计文件（原理图 + PCB），TMC 步进驱动电路参考资料
+> 热点推荐于 2026-10-13
 > 收录日期：2026-10-13
 
 ---
@@ -1443,8 +1444,9 @@ Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电�
 ---
 
 #### [siyuan-liu-research/100MSPS-ADC-Sampling-Board](https://github.com/siyuan-liu-research/100MSPS-ADC-Sampling-Board)
-`★19 · 🔥 热点推荐`
+`★19 · ⭐🔥 已 star + 热点推荐`
 100MSPS 高速 ADC 采样板：硬件电路设计 + FPGA 固件 + 开源性能测试脚本（本科创新项目）
+> 热点推荐于 2026-10-13
 > 收录日期：2026-10-13
 
 ---
