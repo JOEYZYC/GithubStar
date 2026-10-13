@@ -3415,6 +3415,27 @@
    "note": ""
   },
   {
+   "full_name": "JackJu-HIT/OctoPlanner3D-ROS2",
+   "url": "https://github.com/JackJu-HIT/OctoPlanner3D-ROS2",
+   "description": "把纯 C++ 的 OctoPlanner3D 三维规划算法封装成 ROS 2 节点，用于测试算法能力边界",
+   "language": "",
+   "stars": 58,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-14",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
+  },
+  {
    "full_name": "JackJu-HIT/SCAN-Planner-Pure-ROS2",
    "url": "https://github.com/JackJu-HIT/SCAN-Planner-Pure-ROS2",
    "description": "SCAN-Planner 轨迹优化器的精简版，便于集成进不同 ROS2 系统",
@@ -4214,7 +4235,14 @@
    "added_at": "2026-10-14",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "egekonuk/ExBEMT--An-Extended-Blade-Element-Momentum-Theory-Solver",
@@ -8374,6 +8402,27 @@
    ]
   },
   {
+   "full_name": "splithor1zon/hybrid-beamforming",
+   "url": "https://github.com/splithor1zon/hybrid-beamforming",
+   "description": "大规模天线阵列的混合（数字+模拟）波束成形算法实现（论文复现）",
+   "language": "",
+   "stars": 19,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-14",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
+  },
+  {
    "full_name": "zhaosih/ChatEM",
    "url": "https://github.com/zhaosih/ChatEM",
    "description": "电磁领域 LLM 问答机器人，域内知识检索加对话",
@@ -8889,7 +8938,14 @@
    "added_at": "2026-10-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "eye1patch/merlin",
@@ -8987,7 +9043,35 @@
    "added_at": "2026-10-14",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
+  },
+  {
+   "full_name": "snowztail/riscatter-unifying-backscatter-communication-and-reconfigurable-intelligent-surface",
+   "url": "https://github.com/snowztail/riscatter-unifying-backscatter-communication-and-reconfigurable-intelligent-surface",
+   "description": "RIScatter：把可重构智能表面（RIS）与反向散射通信统一的无源认知无线电，复用环境信号做调制与被动波束成形",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-14",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "hongwei1-c/RF-AIagent",
@@ -11159,7 +11243,14 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "nickrehm/dRehmFlight",
@@ -14377,7 +14468,35 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
+  },
+  {
+   "full_name": "SimeonSimeonovIvanov/FOC-Servo",
+   "url": "https://github.com/SimeonSimeonovIvanov/FOC-Servo",
+   "description": "永磁同步电机的磁场定向控制（FOC）交流伺服驱动，纯 C 实现电流环与速度环",
+   "language": "",
+   "stars": 121,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-14",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "smallerxuan/mvl",
@@ -14517,7 +14636,14 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "jelin-sh/VOFA-Protocol-Driver",
@@ -15017,7 +15143,14 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "cpldcpu/pico-faces",
@@ -15535,7 +15668,14 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "pyrite-project/pyrite-ide",
@@ -15595,7 +15735,14 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "john30/ebusd-esp32",
@@ -16021,7 +16168,14 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "OpenXiangShan/XiangShanLab",
@@ -16077,7 +16231,14 @@
    "added_at": "2026-10-14",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "lucaong/nerves_thermal_camera",
@@ -16119,6 +16280,27 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "IMS-AS-LUH/t41-ptp",
+   "url": "https://github.com/IMS-AS-LUH/t41-ptp",
+   "description": "Teensy 4.1 微控制器上的高精度 PTP（IEEE1588）时间同步实现",
+   "language": "",
+   "stars": 36,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-14",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
    ]
   },
   {
@@ -23246,7 +23428,14 @@
    "added_at": "2026-10-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "xmikos/qspectrumanalyzer",
@@ -25455,7 +25644,14 @@
    "added_at": "2026-10-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "ultrawidelock/ultrawidelock",
@@ -26036,7 +26232,14 @@
    "added_at": "2026-10-14",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
+   ]
   },
   {
    "full_name": "dkkmy/Midas",
@@ -26120,6 +26323,27 @@
    ],
    "hot_dates": [
     "2026-10-04"
+   ]
+  },
+  {
+   "full_name": "NTIA/scos-sensor",
+   "url": "https://github.com/NTIA/scos-sensor",
+   "description": "美国 NTIA/ITS 频谱监测传感器参考实现（SCOS 体系）",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-14",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-14"
    ]
   },
   {
@@ -26757,7 +26981,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 391903,
+   "stars": 391904,
    "topics": [
     "ai",
     "assistant",
@@ -26807,7 +27031,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 278577,
+   "stars": 278578,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -26880,7 +27104,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 213243,
+   "stars": 213244,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -26893,7 +27117,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 159877,
+   "stars": 159880,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -26958,7 +27182,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 141130,
+   "stars": 141131,
    "topics": [
     "ai",
     "copilot",
@@ -26992,7 +27216,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 135505,
+   "stars": 135506,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -27129,7 +27353,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 91583,
+   "stars": 91585,
    "topics": [
     "ade",
     "agent-ide",
@@ -27199,7 +27423,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 87329,
+   "stars": 87330,
    "topics": [
     "ai",
     "ai-scraping",
@@ -27448,7 +27672,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 56575,
+   "stars": 56578,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -27538,7 +27762,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 45970,
+   "stars": 45972,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -27805,7 +28029,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 35326,
+   "stars": 35327,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -28442,7 +28666,7 @@
    "url": "https://github.com/openchamber/openchamber",
    "description": "Agentic Development Environment based on OpenCode AI agent",
    "language": "TypeScript",
-   "stars": 11533,
+   "stars": 11534,
    "topics": [
     "agentic-engineering",
     "agents",
@@ -29386,7 +29610,7 @@
    "url": "https://github.com/duty1g/x64dbg-mcp-server",
    "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
    "language": "Zig",
-   "stars": 2488,
+   "stars": 2489,
    "topics": [
     "ai-agents",
     "ai-debugging",
@@ -30237,7 +30461,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 126189,
+   "stars": 126191,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -30302,7 +30526,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 68648,
+   "stars": 68649,
    "topics": [
     "agents",
     "ai",
@@ -30386,7 +30610,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 62013,
+   "stars": 62015,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -30426,7 +30650,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 41301,
+   "stars": 41302,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -31062,7 +31286,7 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "language": "Python",
-   "stars": 8865,
+   "stars": 8867,
    "topics": [
     "cli",
     "consumer-gpu",
@@ -32847,7 +33071,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 86287,
+   "stars": 86289,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -33002,7 +33226,7 @@
    "url": "https://github.com/Free-TV/IPTV",
    "description": "M3U Playlist for free TV channels",
    "language": "Python",
-   "stars": 21095,
+   "stars": 21097,
    "topics": [
     "help-wanted",
     "looking-for-contributors"
@@ -33145,7 +33369,7 @@
    "url": "https://github.com/vbskycn/iptv",
    "description": "iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。",
    "language": "HTML",
-   "stars": 9500,
+   "stars": 9501,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33543,90 +33767,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "SimeonSimeonovIvanov/FOC-Servo",
-   "url": "https://github.com/SimeonSimeonovIvanov/FOC-Servo",
-   "description": "永磁同步电机的磁场定向控制（FOC）交流伺服驱动，纯 C 实现电流环与速度环",
-   "language": "",
-   "stars": 121,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "JackJu-HIT/OctoPlanner3D-ROS2",
-   "url": "https://github.com/JackJu-HIT/OctoPlanner3D-ROS2",
-   "description": "把纯 C++ 的 OctoPlanner3D 三维规划算法封装成 ROS 2 节点，用于测试算法能力边界",
-   "language": "",
-   "stars": 58,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "IMS-AS-LUH/t41-ptp",
-   "url": "https://github.com/IMS-AS-LUH/t41-ptp",
-   "description": "Teensy 4.1 微控制器上的高精度 PTP（IEEE1588）时间同步实现",
-   "language": "",
-   "stars": 36,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "NTIA/scos-sensor",
-   "url": "https://github.com/NTIA/scos-sensor",
-   "description": "美国 NTIA/ITS 频谱监测传感器参考实现（SCOS 体系）",
-   "language": "",
-   "stars": 22,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "splithor1zon/hybrid-beamforming",
-   "url": "https://github.com/splithor1zon/hybrid-beamforming",
-   "description": "大规模天线阵列的混合（数字+模拟）波束成形算法实现（论文复现）",
-   "language": "",
-   "stars": 19,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-14",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "snowztail/riscatter-unifying-backscatter-communication-and-reconfigurable-intelligent-surface",
-   "url": "https://github.com/snowztail/riscatter-unifying-backscatter-communication-and-reconfigurable-intelligent-surface",
-   "description": "RIScatter：把可重构智能表面（RIS）与反向散射通信统一的无源认知无线电，复用环境信号做调制与被动波束成形",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-14",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

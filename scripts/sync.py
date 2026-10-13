@@ -87,6 +87,17 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-14：本轮 20 条，待归类 6 条（描述为中文简介/关键词表未覆盖）----
+    # 嵌入式与单片机（FOC 电机驱动固件、MCU 级精密时间同步固件）
+    "SimeonSimeonovIvanov/FOC-Servo": "嵌入式与单片机",        # PMSM 交流伺服 FOC 驱动（纯 C，电流环/速度环）
+    "IMS-AS-LUH/t41-ptp": "嵌入式与单片机",                    # Teensy 4.1 上的 IEEE1588 PTP 时间同步固件
+    # 飞控与无人机（三维路径规划算法的 ROS 2 封装，与 nav2 / openarm 同口径）
+    "JackJu-HIT/OctoPlanner3D-ROS2": "飞控与无人机",           # OctoPlanner3D 三维规划算法的 ROS 2 封装
+    # 无线通信与感知（频谱监测传感器，与 qrm-logger 同口径）
+    "NTIA/scos-sensor": "无线通信与感知",                      # NTIA 官方频谱监测传感器参考实现（SCOS）
+    # 电磁仿真与超表面（天线阵列波束成形、可重构智能表面，与 RIS 类同口径）
+    "splithor1zon/hybrid-beamforming": "电磁仿真与超表面",      # 大规模天线阵列混合（数字+模拟）波束成形
+    "snowztail/riscatter-unifying-backscatter-communication-and-reconfigurable-intelligent-surface": "电磁仿真与超表面",  # RIS + 反向散射统一建模
     # ---- 2026-10-13：本轮 20 条 + star 抓取新增，待归类 2 条 ----
     # 无线通信与感知（GNU Radio 射频干扰监测，与 sdrmm/qrm 类同口径）
     "DL5LZ/qrm-logger": "无线通信与感知",     # GNU Radio 的射频干扰（RFI）监测与记录
