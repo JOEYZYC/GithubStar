@@ -1412,3 +1412,23 @@
 {"url": "https://github.com/siyuan-liu-research/100MSPS-ADC-Sampling-Board", "stars": 19, "desc": "100MSPS 高速 ADC 采样板：硬件电路设计 + FPGA 固件 + 开源性能测试脚本（本科创新项目）", "date": "2026-10-13"}
 {"url": "https://github.com/Cui-Zhao/RF-WISE", "stars": 13, "desc": "从 RFID 射频信号中提取类 CSI 细粒度感知特征，实现无需采集 CSI 的无线感知", "date": "2026-10-13"}
 {"url": "https://github.com/richcreations/imud", "stars": 12, "desc": "Linux 通用 IMU 守护进程（IMU 版的 gpsd）：为机器人/飞控统一管理惯性传感器实时数据", "date": "2026-10-13"}
+{"url": "https://github.com/onehumanbeing/esp32-iphone-agent", "stars": 1493, "desc": "把 AI 模型接到真 iPhone 上的 ESP32 方案：用 AirPlay 当眼睛、USB HID 当手，纯 C/ESP-IDF 嵌入式外设控制", "date": "2026-10-14"}
+{"url": "https://github.com/Time-Appliances-Project/Time-Card", "stars": 1488, "desc": "OCP 精密时间参考卡开源硬件：GNSS 授时 + 硬件时间戳，为数据中心/仪器提供 PTP 级时间源", "date": "2026-10-14"}
+{"url": "https://github.com/SimeonSimeonovIvanov/FOC-Servo", "stars": 121, "desc": "永磁同步电机的磁场定向控制（FOC）交流伺服驱动，纯 C 实现电流环与速度环", "date": "2026-10-14"}
+{"url": "https://github.com/dtltljb/FOC-MOTOR-CONTROLLER", "stars": 121, "desc": "基于 STM32 的有感无刷电机 FOC 驱动控制程序，集成 CANopen 电机控制子集与 Modbus 协议", "date": "2026-10-14"}
+{"url": "https://github.com/teslabs/spinner", "stars": 111, "desc": "FOC 无刷电机控制固件，C 语言实现，面向自研伺服/驱动板", "date": "2026-10-14"}
+{"url": "https://github.com/uLipe/espFoC", "stars": 79, "desc": "ESP-IDF 组件：用 ESP32 对 PMSM/BLDC 做磁场定向（FOC）矢量控制", "date": "2026-10-14"}
+{"url": "https://github.com/kwarc93/audio-multieffect", "stars": 59, "desc": "STM32F746-DISCO 开发板上的吉他多重效果器，嵌入式音频 DSP 完整工程", "date": "2026-10-14"}
+{"url": "https://github.com/JackJu-HIT/OctoPlanner3D-ROS2", "stars": 58, "desc": "把纯 C++ 的 OctoPlanner3D 三维规划算法封装成 ROS 2 节点，用于测试算法能力边界", "date": "2026-10-14"}
+{"url": "https://github.com/gcallipo/RadioDSP-DNR-Stm32f407", "stars": 54, "desc": "STM32F407 短波接收机音频 DSP：谱减法数字降噪 + 滤波器 + 频谱/瀑布图显示", "date": "2026-10-14"}
+{"url": "https://github.com/rkarikari/9GRadio", "stars": 51, "desc": "安卓端 RTL-SDR App：频谱监测分析 + 模拟/业余/航空/海事电台解码", "date": "2026-10-14"}
+{"url": "https://github.com/ARM-software/CMSIS-Stream", "stars": 38, "desc": "ARM 官方 CMSIS 流式数据流框架，统一嵌入式音视频/DSP/AI 的图式处理管线", "date": "2026-10-14"}
+{"url": "https://github.com/perarnia/microdsp", "stars": 37, "desc": "Rust 写的 DSP 算法与工具库：面向嵌入式、no_std 可用", "date": "2026-10-14"}
+{"url": "https://github.com/IMS-AS-LUH/t41-ptp", "stars": 36, "desc": "Teensy 4.1 微控制器上的高精度 PTP（IEEE1588）时间同步实现", "date": "2026-10-14"}
+{"url": "https://github.com/balena-io-experimental/sdr-spectrum-monitor", "stars": 26, "desc": "用 balena 在树莓派上跑 OpenWebRX 做射频频谱监测与音频流", "date": "2026-10-14"}
+{"url": "https://github.com/NTIA/scos-sensor", "stars": 22, "desc": "美国 NTIA/ITS 频谱监测传感器参考实现（SCOS 体系）", "date": "2026-10-14"}
+{"url": "https://github.com/nicholasaleks/sikw00f", "stars": 20, "desc": "无人机 SiK 数传电台检测与 MAVLink 遥测监听分析工具", "date": "2026-10-14"}
+{"url": "https://github.com/splithor1zon/hybrid-beamforming", "stars": 19, "desc": "大规模天线阵列的混合（数字+模拟）波束成形算法实现（论文复现）", "date": "2026-10-14"}
+{"url": "https://github.com/obada-a/AntennaProject", "stars": 11, "desc": "贴片天线阵列设计：用 Python 做切比雪夫方向图综合与绘图", "date": "2026-10-14"}
+{"url": "https://github.com/harsh-hw-dev/2.4ghz-ifa-antenna", "stars": 10, "desc": "可复用的 2.4GHz 倒 F PCB 天线设计（50Ω 匹配，附 Altium 文件，适合 FR-4 板边布置）", "date": "2026-10-14"}
+{"url": "https://github.com/snowztail/riscatter-unifying-backscatter-communication-and-reconfigurable-intelligent-surface", "stars": 10, "desc": "RIScatter：把可重构智能表面（RIS）与反向散射通信统一的无源认知无线电，复用环境信号做调制与被动波束成形", "date": "2026-10-14"}
