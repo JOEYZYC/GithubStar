@@ -393,6 +393,27 @@
    ]
   },
   {
+   "full_name": "KingKongRobotics/jumper",
+   "url": "https://github.com/KingKongRobotics/jumper",
+   "description": "开源螃蟹形机器人 Jumper：整机软硬件与运动控制，机器人平台参考",
+   "language": "",
+   "stars": 2666,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-15",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
+  },
+  {
    "full_name": "OpenHD/OpenHD",
    "url": "https://github.com/OpenHD/OpenHD",
    "description": "OpenHD 开源数字图传系统（基于 WFB 的无人机高清视频链路）",
@@ -1971,6 +1992,48 @@
    ],
    "hot_dates": [
     "2026-09-22"
+   ]
+  },
+  {
+   "full_name": "Hebbian-Robotics/hflow",
+   "url": "https://github.com/Hebbian-Robotics/hflow",
+   "description": "机器人团队校验 AI 训练数据质量的 SDK，机器人数据管线工具",
+   "language": "",
+   "stars": 295,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-15",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
+  },
+  {
+   "full_name": "ManfredCh/Lyapunov",
+   "url": "https://github.com/ManfredCh/Lyapunov",
+   "description": "面向 LLM 的 3D 原生机器人与仿真工作台，机器人控制与仿真场景",
+   "language": "",
+   "stars": 280,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-15",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
    ]
   },
   {
@@ -3928,7 +3991,14 @@
    "added_at": "2026-10-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "ruvnet/ruv-drone",
@@ -5530,20 +5600,6 @@
    "hot_dates": [
     "2026-09-14"
    ]
-  },
-  {
-   "full_name": "ManfredCh/Lyapunov",
-   "url": "https://github.com/ManfredCh/Lyapunov",
-   "description": "面向 LLM 的 3D 原生机器人与仿真工作台，机器人控制与仿真场景",
-   "language": "",
-   "stars": 280,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-15",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "SiEPIC/SiEPIC-Tools",
@@ -8147,7 +8203,14 @@
    "added_at": "2026-10-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "adityarajIITj/adios",
@@ -8875,7 +8938,14 @@
    "added_at": "2026-10-15",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "witwin-ai/witwin-maxwell",
@@ -9128,20 +9198,6 @@
    "hot_dates": [
     "2026-10-14"
    ]
-  },
-  {
-   "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
-   "url": "https://github.com/caesar-empereur/esp32p4-2inch-amoled-lvgl",
-   "description": "ESP32-P4 + 2.1 寸 AMOLED 开发板示例工程：CO5300 MIPI-DSI 显示、LVGL 9 界面、CST9220 触摸，并带按键/蜂鸣器/TF 卡硬件自检页",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-15",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "hongwei1-c/RF-AIagent",
@@ -9715,7 +9771,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "meshtastic/firmware",
@@ -14922,7 +14985,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "fabriciowth/cozmo-esp32",
@@ -15472,7 +15542,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "WayV5/RK3588-STM32-ROS2-SLAM-Robot",
@@ -15910,7 +15987,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "chilly23/RP2040-and-ESP32-AI",
@@ -16000,7 +16084,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "cn0xroot/IFDA",
@@ -16119,7 +16210,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "cwu766485-ctrl/LumenRV32",
@@ -16343,7 +16441,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "OpenXiangShan/XiangShanLab",
@@ -16420,7 +16525,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "lucaong/nerves_thermal_camera",
@@ -16842,7 +16954,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "alexkid77/openlara_esp32p4",
@@ -17352,7 +17471,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -18018,7 +18144,14 @@
    "added_at": "2026-10-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "RTechAI/ForgeUI-P4",
@@ -18527,6 +18660,27 @@
    ],
    "hot_dates": [
     "2026-09-28"
+   ]
+  },
+  {
+   "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
+   "url": "https://github.com/caesar-empereur/esp32p4-2inch-amoled-lvgl",
+   "description": "ESP32-P4 + 2.1 寸 AMOLED 开发板示例工程：CO5300 MIPI-DSI 显示、LVGL 9 界面、CST9220 触摸，并带按键/蜂鸣器/TF 卡硬件自检页",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-15",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
    ]
   },
   {
@@ -23881,7 +24035,14 @@
    "added_at": "2026-10-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "AnthonySturdy/micro-radar",
@@ -24798,7 +24959,14 @@
    "added_at": "2026-10-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-15"
+   ]
   },
   {
    "full_name": "hardcoreerik/OrcSDR",
@@ -27283,7 +27451,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 279450,
+   "stars": 279451,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -27806,7 +27974,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "JavaScript",
-   "stars": 81205,
+   "stars": 81206,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -28014,7 +28182,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 46260,
+   "stars": 46261,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33352,7 +33520,7 @@
    "url": "https://github.com/zed-industries/zed",
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "language": "Rust",
-   "stars": 91718,
+   "stars": 91719,
    "topics": [
     "gpui",
     "rust-lang",
@@ -33370,7 +33538,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 87430,
+   "stars": 87434,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -34066,34 +34234,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "KingKongRobotics/jumper",
-   "url": "https://github.com/KingKongRobotics/jumper",
-   "description": "开源螃蟹形机器人 Jumper：整机软硬件与运动控制，机器人平台参考",
-   "language": "",
-   "stars": 2666,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-15",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Hebbian-Robotics/hflow",
-   "url": "https://github.com/Hebbian-Robotics/hflow",
-   "description": "机器人团队校验 AI 训练数据质量的 SDK，机器人数据管线工具",
-   "language": "",
-   "stars": 295,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-15",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

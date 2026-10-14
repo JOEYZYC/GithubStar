@@ -87,6 +87,13 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-15：本轮 20 条，待归类 2 条 + 2 条规则误判 ----
+    # 飞控与无人机（机器人域：整机平台与数据工具，与 navigation2 / OctoPlanner3D-ROS2 / openarm 同口径）
+    "KingKongRobotics/jumper": "飞控与无人机",             # 开源螃蟹形机器人整机软硬件
+    "Hebbian-Robotics/hflow": "飞控与无人机",              # 机器人 AI 训练数据质量校验 SDK
+    "ManfredCh/Lyapunov": "飞控与无人机",                  # 3D 原生机器人与仿真工作台（误命中「仿真」）
+    # 嵌入式与单片机（ESP32-P4 显示/触摸板级示例；误命中 CST9220 触摸芯片里的「cst」）
+    "caesar-empereur/esp32p4-2inch-amoled-lvgl": "嵌入式与单片机",  # ESP32-P4 + AMOLED + LVGL 9 示例工程
     # ---- 2026-10-14：本轮 20 条，待归类 6 条（描述为中文简介/关键词表未覆盖）----
     # 嵌入式与单片机（FOC 电机驱动固件、MCU 级精密时间同步固件）
     "SimeonSimeonovIvanov/FOC-Servo": "嵌入式与单片机",        # PMSM 交流伺服 FOC 驱动（纯 C，电流环/速度环）
