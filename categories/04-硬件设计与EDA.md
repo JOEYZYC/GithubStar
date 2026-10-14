@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 203 个项目 · 数据更新时间 2026-10-14 · [返回总览](../README.md)
+> 共 203 个项目 · 数据更新时间 2026-10-15 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,252 · C++ · ⭐ 已 star`
+`★34,292 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -123,8 +123,15 @@ RTL-to-GDS 开源数字芯片实现流程
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★3,037 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,004 · C++ · ⭐ 已 star`
+`★3,014 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -146,13 +153,6 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 
 ---
 
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★2,968 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
-
----
-
 #### [ghdl/ghdl](https://github.com/ghdl/ghdl)
 `★2,898 · ⭐🔥 已 star + 热点推荐`
 开源 VHDL 仿真器与综合前端，VHDL 语言的参考实现
@@ -162,7 +162,7 @@ A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-ac
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,842 · Python · ⭐ 已 star`
+`★2,862 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -759,17 +759,17 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★254 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [LeoDJ/P2Pro-Viewer](https://github.com/LeoDJ/P2Pro-Viewer)
 `★253 · ⭐🔥 已 star + 热点推荐`
 InfiRay P2 Pro 热像模块的查看器与 API
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★252 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 
