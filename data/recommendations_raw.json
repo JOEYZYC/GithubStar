@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/Next-Flip/Momentum-Firmware",
-  "stars": 9269,
-  "desc": "Flipper Zero 的社区定制固件：在官方固件之外扩展射频、红外、NFC 等硬件测试功能与自定义界面，嵌入式固件工程参考"
+  "url": "https://github.com/greatscottgadgets/hackrf",
+  "stars": 8157,
+  "desc": "低成本开源软件无线电平台（硬件本体 + 固件）：1MHz–6GHz 收发、USB 送主机处理，射频实验的基础硬件"
  },
  {
-  "url": "https://github.com/KingKongRobotics/jumper",
-  "stars": 2666,
-  "desc": "开源螃蟹形机器人 Jumper：整机软硬件与运动控制，机器人平台参考"
+  "url": "https://github.com/merbanan/rtl_433",
+  "stars": 7879,
+  "desc": "解码 ISM 频段各类无线设备（温湿度计、遥控、电表）的 C 程序，433/868MHz 无线传感器信号的接收与解析"
  },
  {
-  "url": "https://github.com/h0m3us3r/w1700k-sdr",
-  "stars": 745,
-  "desc": "把 Gemtek W1700K Wi-Fi 7 路由器改造成宽带软件无线电（SDR）接收机：MediaTek MT7996 射频直接输出 14-bit 原始 IQ（最高 320 Msps），经 10GbE 送 Linux 主机，浏览器里看实时频谱与瀑布图"
+  "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
+  "stars": 6439,
+  "desc": "跨平台软件无线电（SDR）软件：接入 RTL-SDR/HackRF 等硬件做频谱显示与 IQ 录制解调，射频接收实验的常用工作站"
  },
  {
-  "url": "https://github.com/Hebbian-Robotics/hflow",
-  "stars": 295,
-  "desc": "机器人团队校验 AI 训练数据质量的 SDK，机器人数据管线工具"
+  "url": "https://github.com/gnuradio/gnuradio",
+  "stars": 6294,
+  "desc": "GNU Radio 软件无线电信号处理生态：用模块化流图搭建收发链路，射频与通信信号处理的通用框架"
  },
  {
-  "url": "https://github.com/ManfredCh/Lyapunov",
-  "stars": 280,
-  "desc": "面向 LLM 的 3D 原生机器人与仿真工作台，机器人控制与仿真场景"
+  "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+  "stars": 5481,
+  "desc": "HackRF + PortaPack 便携式固件的社区版本：手持式射频收发与信号分析设备固件"
  },
  {
-  "url": "https://github.com/diddy-boy/OFFgrid-SDR",
-  "stars": 151,
-  "desc": "基于 RTL-SDR 的离线 HTML 网页 SDR 收音机：前端页面直接驱动 USB 射频接收机，无线接收与频谱查看"
+  "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
+  "stars": 627,
+  "desc": "开源双足机器鸭 XGO-Duck 的硬件资料：3D 打印结构 + Arduino UNO Q 驱动 15 个舵机，舵机机器人平台参考"
  },
  {
-  "url": "https://github.com/cyber-murmel/esp-sdr-zephyr",
-  "stars": 99,
-  "desc": "在 Zephyr RTOS 上实现 ESP32 2.4GHz 软件无线电：从 ESP32 无线射频取原始采样，嵌入式 RTOS 下的 SDR 实现"
+  "url": "https://github.com/wagiminator/Power-Boards",
+  "stars": 576,
+  "desc": "DC/DC 变换器、电池充电器与电源板合集：升压/降压/锂电充电的硬件电路设计参考"
  },
  {
-  "url": "https://github.com/ESPARGOS/esp-web-sdr",
-  "stars": 71,
-  "desc": "esp-sdr 的网页前端：浏览器里实时显示 ESP32 软件无线电的频谱与瀑布图（无线接收可视化）"
+  "url": "https://github.com/manankharwar/fusioncore",
+  "stars": 379,
+  "desc": "室外机器人定位的 ROS 2 节点：IMU、轮速与 GPS 在 100Hz 下用 23 状态 UKF 融合，传感器融合与定位估计"
  },
  {
-  "url": "https://github.com/z2labs/sdrpp-esp-sdr-source",
-  "stars": 53,
-  "desc": "SDR++ 的 ESP-SDR 原生源模块：ESP32-S3 直接经 USB 输出真实 IQ 数据、无需网桥，把 ESP32 射频前端接进通用 SDR 软件"
+  "url": "https://github.com/ICube-Robotics/ethercat_driver_ros2",
+  "stars": 338,
+  "desc": "EtherCAT 硬件接口与 ros2_control 集成：工业总线从站的实时控制接入"
  },
  {
-  "url": "https://github.com/munetomo-maruyama/mmRISC-2",
+  "url": "https://github.com/leggedrobotics/graph_msf",
+  "stars": 315,
+  "desc": "基于图优化的多传感器融合框架：把 IMU 与相对/绝对测量统一进因子图，机器人状态估计参考"
+ },
+ {
+  "url": "https://github.com/kubabuda/ecat_servo",
+  "stars": 282,
+  "desc": "开源 EtherCAT CiA402 伺服驱动器实现：工业伺服电机实时控制固件"
+ },
+ {
+  "url": "https://github.com/ZipCPU/dpll",
+  "stars": 123,
+  "desc": "FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟恢复的硬件实现参考"
+ },
+ {
+  "url": "https://github.com/cgro00/desk-robot",
+  "stars": 83,
+  "desc": "桌面小机器人：ESP32 做身体（脸、声音、摄像头）、Python 做主控，嵌入式与上位机分工的案例"
+ },
+ {
+  "url": "https://github.com/Auroranchen/-PCB",
+  "stars": 62,
+  "desc": "面向蓝桥杯单片机竞赛的 STM32G431RBT6 开发板：嘉立创 EDA 绘制的双层板（117 元件、已过 DRC），STM32 最小系统板设计参考"
+ },
+ {
+  "url": "https://github.com/drewsum/KiPI",
   "stars": 50,
-  "desc": "能在 Arty A7 FPGA 上启动 Linux 的 64 位 RISC-V（RV64GC）处理器核：规格、RTL、验证与文档齐全，FPGA 上的处理器设计参考"
+  "desc": "开源电源完整性（PI）分析工具：配合 KiCad 检查板级供电网络，硬件设计验证环节"
  },
  {
-  "url": "https://github.com/fotonik-sk/stm32n6-speech-recognition",
+  "url": "https://github.com/mmm1712/Local_AI_esp32",
   "stars": 42,
-  "desc": "STM32N6 单片机上用 NPU 跑离线英文语音识别，不依赖云端，嵌入式端侧 AI 推理与音频传感器处理案例"
+  "desc": "在 ESP32-S3 上从零训练并离线运行的语言模型，带触摸屏聊天界面，MCU 端侧推理实践"
  },
  {
-  "url": "https://github.com/SP8ESA/ESP32-DATV",
-  "stars": 38,
-  "desc": "用裸 ESP32-C3 做 DVB-S 数字业余电视发射机：13cm 波段最高 1 MSymbol/s 的 QPSK/8PSK/16APSK 调制，无需额外射频硬件，嵌入式无线收发实践"
+  "url": "https://github.com/lozaning/ESP32SDR",
+  "stars": 29,
+  "desc": "用两个 ESP32 搭全双工软件无线电：嵌入式平台上的射频收发实验"
  },
  {
-  "url": "https://github.com/TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit",
-  "stars": 37,
-  "desc": "面向 AI 编码代理的 STM32 闭环开发工具：自动编译、烧录、上板验证固件，崩溃可定位到源码行，嵌入式开发流程自动化"
+  "url": "https://github.com/garavitgabriel/agent-charm",
+  "stars": 16,
+  "desc": "ESP32-S3 AMOLED 便携挂饰：按住说话接入 AI 代理，嵌入式人机交互硬件"
  },
  {
-  "url": "https://github.com/mariohm1311/DroneRanger",
-  "stars": 31,
-  "desc": "无人机链路的射频覆盖规划工具：按地形、建筑与植被数据计算操作点周围控制/遥测/图像链路的视距与链路余量，飞控选型参考"
- },
- {
-  "url": "https://github.com/hey-its-brian/tab5-cyberdeck",
-  "stars": 27,
-  "desc": "M5Stack Tab5（ESP32-P4 + LVGL 9）的 cyberdeck 固件 DECK//OS：手持开发板的嵌入式 GUI 与固件工程"
- },
- {
-  "url": "https://github.com/skobkin/antenna-stats",
-  "stars": 25,
-  "desc": "一组天线实测数据与对比记录（业余无线电场景下的非精密测量），天线性能评估参考"
- },
- {
-  "url": "https://github.com/bubblebabyboi/museRISC",
-  "stars": 21,
-  "desc": "用 Muse 工具链全程开发的 RISC-V 处理器核（SystemVerilog），处理器设计参考"
- },
- {
-  "url": "https://github.com/VanillaNahida/lvgl_pinyin_ime",
-  "stars": 15,
-  "desc": "面向 ESP-IDF 上 LVGL 9 的中文拼音输入法组件：支持 26 键/9 键与全拼双拼，为嵌入式 GUI 补齐中文输入"
- },
- {
-  "url": "https://github.com/WT1W-Actual/antennacalc",
+  "url": "https://github.com/griffotron/MotionModuleSTM32R8",
   "stars": 13,
-  "desc": "跨平台业余无线射频暴露（FCC MPE）计算器：按发射功率与天线增益核算安全距离，射频与天线工程实用工具"
+  "desc": "STM32 驱动的 14 轴步进电机运动模块：PCB 设计与固件齐全的运动控制参考"
  },
  {
-  "url": "https://github.com/caesar-empereur/esp32p4-2inch-amoled-lvgl",
-  "stars": 10,
-  "desc": "ESP32-P4 + 2.1 寸 AMOLED 开发板示例工程：CO5300 MIPI-DSI 显示、LVGL 9 界面、CST9220 触摸，并带按键/蜂鸣器/TF 卡硬件自检页"
+  "url": "https://github.com/agentthink/lvgl-hmi-studio",
+  "stars": 11,
+  "desc": "基于 .NET 的开源 HMI 可视化设计工具：拖拽画面、变量绑定、Modbus/MQTT 通信，可生成 LVGL C 代码部署到嵌入式 Linux，嵌入式 GUI 开发流程"
  }
 ]

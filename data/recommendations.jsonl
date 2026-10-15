@@ -1452,3 +1452,23 @@
 {"url": "https://github.com/VanillaNahida/lvgl_pinyin_ime", "stars": 15, "desc": "面向 ESP-IDF 上 LVGL 9 的中文拼音输入法组件：支持 26 键/9 键与全拼双拼，为嵌入式 GUI 补齐中文输入", "date": "2026-10-15"}
 {"url": "https://github.com/WT1W-Actual/antennacalc", "stars": 13, "desc": "跨平台业余无线射频暴露（FCC MPE）计算器：按发射功率与天线增益核算安全距离，射频与天线工程实用工具", "date": "2026-10-15"}
 {"url": "https://github.com/caesar-empereur/esp32p4-2inch-amoled-lvgl", "stars": 10, "desc": "ESP32-P4 + 2.1 寸 AMOLED 开发板示例工程：CO5300 MIPI-DSI 显示、LVGL 9 界面、CST9220 触摸，并带按键/蜂鸣器/TF 卡硬件自检页", "date": "2026-10-15"}
+{"url": "https://github.com/greatscottgadgets/hackrf", "stars": 8157, "desc": "低成本开源软件无线电平台（硬件本体 + 固件）：1MHz–6GHz 收发、USB 送主机处理，射频实验的基础硬件", "date": "2026-10-16"}
+{"url": "https://github.com/merbanan/rtl_433", "stars": 7879, "desc": "解码 ISM 频段各类无线设备（温湿度计、遥控、电表）的 C 程序，433/868MHz 无线传感器信号的接收与解析", "date": "2026-10-16"}
+{"url": "https://github.com/AlexandreRouma/SDRPlusPlus", "stars": 6439, "desc": "跨平台软件无线电（SDR）软件：接入 RTL-SDR/HackRF 等硬件做频谱显示与 IQ 录制解调，射频接收实验的常用工作站", "date": "2026-10-16"}
+{"url": "https://github.com/gnuradio/gnuradio", "stars": 6294, "desc": "GNU Radio 软件无线电信号处理生态：用模块化流图搭建收发链路，射频与通信信号处理的通用框架", "date": "2026-10-16"}
+{"url": "https://github.com/portapack-mayhem/mayhem-firmware", "stars": 5481, "desc": "HackRF + PortaPack 便携式固件的社区版本：手持式射频收发与信号分析设备固件", "date": "2026-10-16"}
+{"url": "https://github.com/LuwuDynamics/xgoduck_hardware", "stars": 627, "desc": "开源双足机器鸭 XGO-Duck 的硬件资料：3D 打印结构 + Arduino UNO Q 驱动 15 个舵机，舵机机器人平台参考", "date": "2026-10-16"}
+{"url": "https://github.com/wagiminator/Power-Boards", "stars": 576, "desc": "DC/DC 变换器、电池充电器与电源板合集：升压/降压/锂电充电的硬件电路设计参考", "date": "2026-10-16"}
+{"url": "https://github.com/manankharwar/fusioncore", "stars": 379, "desc": "室外机器人定位的 ROS 2 节点：IMU、轮速与 GPS 在 100Hz 下用 23 状态 UKF 融合，传感器融合与定位估计", "date": "2026-10-16"}
+{"url": "https://github.com/ICube-Robotics/ethercat_driver_ros2", "stars": 338, "desc": "EtherCAT 硬件接口与 ros2_control 集成：工业总线从站的实时控制接入", "date": "2026-10-16"}
+{"url": "https://github.com/leggedrobotics/graph_msf", "stars": 315, "desc": "基于图优化的多传感器融合框架：把 IMU 与相对/绝对测量统一进因子图，机器人状态估计参考", "date": "2026-10-16"}
+{"url": "https://github.com/kubabuda/ecat_servo", "stars": 282, "desc": "开源 EtherCAT CiA402 伺服驱动器实现：工业伺服电机实时控制固件", "date": "2026-10-16"}
+{"url": "https://github.com/ZipCPU/dpll", "stars": 123, "desc": "FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟恢复的硬件实现参考", "date": "2026-10-16"}
+{"url": "https://github.com/cgro00/desk-robot", "stars": 83, "desc": "桌面小机器人：ESP32 做身体（脸、声音、摄像头）、Python 做主控，嵌入式与上位机分工的案例", "date": "2026-10-16"}
+{"url": "https://github.com/Auroranchen/-PCB", "stars": 62, "desc": "面向蓝桥杯单片机竞赛的 STM32G431RBT6 开发板：嘉立创 EDA 绘制的双层板（117 元件、已过 DRC），STM32 最小系统板设计参考", "date": "2026-10-16"}
+{"url": "https://github.com/drewsum/KiPI", "stars": 50, "desc": "开源电源完整性（PI）分析工具：配合 KiCad 检查板级供电网络，硬件设计验证环节", "date": "2026-10-16"}
+{"url": "https://github.com/mmm1712/Local_AI_esp32", "stars": 42, "desc": "在 ESP32-S3 上从零训练并离线运行的语言模型，带触摸屏聊天界面，MCU 端侧推理实践", "date": "2026-10-16"}
+{"url": "https://github.com/lozaning/ESP32SDR", "stars": 29, "desc": "用两个 ESP32 搭全双工软件无线电：嵌入式平台上的射频收发实验", "date": "2026-10-16"}
+{"url": "https://github.com/garavitgabriel/agent-charm", "stars": 16, "desc": "ESP32-S3 AMOLED 便携挂饰：按住说话接入 AI 代理，嵌入式人机交互硬件", "date": "2026-10-16"}
+{"url": "https://github.com/griffotron/MotionModuleSTM32R8", "stars": 13, "desc": "STM32 驱动的 14 轴步进电机运动模块：PCB 设计与固件齐全的运动控制参考", "date": "2026-10-16"}
+{"url": "https://github.com/agentthink/lvgl-hmi-studio", "stars": 11, "desc": "基于 .NET 的开源 HMI 可视化设计工具：拖拽画面、变量绑定、Modbus/MQTT 通信，可生成 LVGL C 代码部署到嵌入式 Linux，嵌入式 GUI 开发流程", "date": "2026-10-16"}

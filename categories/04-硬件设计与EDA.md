@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 203 个项目 · 数据更新时间 2026-10-15 · [返回总览](../README.md)
+> 共 206 个项目 · 数据更新时间 2026-10-16 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,292 · C++ · ⭐ 已 star`
+`★34,334 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -124,14 +124,14 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,037 · Rust · ⭐ 已 star`
+`★3,086 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,014 · C++ · ⭐ 已 star`
+`★3,020 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -162,9 +162,16 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,862 · Python · ⭐ 已 star`
+`★2,885 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
+
+---
+
+#### [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft)
+`★2,711 · Rust · ⭐ 已 star`
+SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+> 收录日期：2026-10-16
 
 ---
 
@@ -504,6 +511,13 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards)
+`★576 · 🔥 热点推荐`
+DC/DC 变换器、电池充电器与电源板合集：升压/降压/锂电充电的硬件电路设计参考
+> 收录日期：2026-10-16
+
+---
+
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
 `★572 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
@@ -760,7 +774,7 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★254 · C++ · ⭐ 已 star`
+`★255 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1217,6 +1231,13 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 23cm 波段经济型射频功率放大器设计（业余无线电），含功放电路与 PCB
 > 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
+
+---
+
+#### [drewsum/KiPI](https://github.com/drewsum/KiPI)
+`★50 · 🔥 热点推荐`
+开源电源完整性（PI）分析工具：配合 KiCad 检查板级供电网络，硬件设计验证环节
+> 收录日期：2026-10-16
 
 ---
 
