@@ -10044,7 +10044,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "warmcat/libwebsockets",
@@ -12524,7 +12531,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "xtoolbox/TeenyUSB",
@@ -13276,6 +13290,27 @@
    ]
   },
   {
+   "full_name": "ICube-Robotics/ethercat_driver_ros2",
+   "url": "https://github.com/ICube-Robotics/ethercat_driver_ros2",
+   "description": "EtherCAT 硬件接口与 ros2_control 集成：工业总线从站的实时控制接入",
+   "language": "",
+   "stars": 338,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-16",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
+  },
+  {
    "full_name": "PantsForBirds/adsbee",
    "url": "https://github.com/PantsForBirds/adsbee",
    "description": "开源嵌入式 ADS-B 接收机：自制射频前端与单片解码固件的硬件设计（FPGA/MCU 射频接收方案）",
@@ -13630,6 +13665,27 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "kubabuda/ecat_servo",
+   "url": "https://github.com/kubabuda/ecat_servo",
+   "description": "开源 EtherCAT CiA402 伺服驱动器实现：工业伺服电机实时控制固件",
+   "language": "",
+   "stars": 282,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-16",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
    ]
   },
   {
@@ -15286,7 +15342,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "Mr-Mika/M-Gauge",
@@ -15773,7 +15836,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "espressif/esp-emulator",
@@ -16287,7 +16357,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "cwu766485-ctrl/LumenRV32",
@@ -17003,7 +17080,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "Gao-Den/rkos",
@@ -18081,7 +18165,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "chibios-upstream/chibios",
@@ -18452,7 +18543,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -18786,7 +18884,14 @@
    "added_at": "2026-10-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -19763,7 +19868,7 @@
    "url": "https://github.com/bherbruck/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 2711,
+   "stars": 2714,
    "topics": [
     "3d-modeling",
     "brep",
@@ -20694,7 +20799,14 @@
    "added_at": "2026-10-16",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "mercedes-benz/ardep",
@@ -22024,6 +22136,27 @@
    ]
   },
   {
+   "full_name": "ZipCPU/dpll",
+   "url": "https://github.com/ZipCPU/dpll",
+   "description": "FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟恢复的硬件实现参考",
+   "language": "",
+   "stars": 123,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-16",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
+  },
+  {
    "full_name": "lcapossio/fpgacapZero",
    "url": "https://github.com/lcapossio/fpgacapZero",
    "description": "跨厂商 FPGA 调试核：JTAG 上的嵌入式逻辑分析仪与 IO，可导出 VCD/CSV，替代 ChipScope/SignalTap",
@@ -22593,7 +22726,14 @@
    "added_at": "2026-10-16",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "amoslee2026/Babel",
@@ -23718,7 +23858,35 @@
    "added_at": "2026-10-16",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
+  },
+  {
+   "full_name": "merbanan/rtl_433",
+   "url": "https://github.com/merbanan/rtl_433",
+   "description": "解码 ISM 频段各类无线设备（温湿度计、遥控、电表）的 C 程序，433/868MHz 无线传感器信号的接收与解析",
+   "language": "",
+   "stars": 7879,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-16",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "ClemensElflein/OpenMower",
@@ -23753,7 +23921,35 @@
    "added_at": "2026-10-16",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
+  },
+  {
+   "full_name": "gnuradio/gnuradio",
+   "url": "https://github.com/gnuradio/gnuradio",
+   "description": "GNU Radio 软件无线电信号处理生态：用模块化流图搭建收发链路，射频与通信信号处理的通用框架",
+   "language": "",
+   "stars": 6294,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-16",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "sgoudelis/ground-station",
@@ -24513,7 +24709,14 @@
    "added_at": "2026-10-16",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "u-blox/ubxlib",
@@ -24653,7 +24856,14 @@
    "added_at": "2026-10-16",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-16"
+   ]
   },
   {
    "full_name": "radar-lab/ti_mmwave_rospkg",
@@ -27684,7 +27894,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 280323,
+   "stars": 280325,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -27726,7 +27936,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 250421,
+   "stars": 250422,
    "topics": [
     "ai-agents",
     "cordis",
@@ -28006,7 +28216,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 93438,
+   "stars": 93439,
    "topics": [
     "ade",
     "agent-ide",
@@ -28481,7 +28691,7 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "language": "PowerShell",
-   "stars": 42144,
+   "stars": 42147,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -28802,7 +29012,7 @@
    "url": "https://github.com/trycua/cua",
    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
    "language": "Rust",
-   "stars": 29869,
+   "stars": 29870,
    "topics": [
     "agent",
     "ai-agent",
@@ -31146,7 +31356,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 126895,
+   "stars": 126896,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -31211,7 +31421,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 69761,
+   "stars": 69762,
    "topics": [
     "agents",
     "ai",
@@ -31294,7 +31504,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 63844,
+   "stars": 63845,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33753,7 +33963,7 @@
    "url": "https://github.com/zed-industries/zed",
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "language": "Rust",
-   "stars": 91778,
+   "stars": 91779,
    "topics": [
     "gpui",
     "rust-lang",
@@ -33771,7 +33981,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 88697,
+   "stars": 88699,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -33986,7 +34196,7 @@
    "url": "https://github.com/playcanvas/engine",
    "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
    "language": "JavaScript",
-   "stars": 17054,
+   "stars": 17055,
    "topics": [
     "3d-gaussian-splatting",
     "3dgs",
@@ -34467,76 +34677,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "merbanan/rtl_433",
-   "url": "https://github.com/merbanan/rtl_433",
-   "description": "解码 ISM 频段各类无线设备（温湿度计、遥控、电表）的 C 程序，433/868MHz 无线传感器信号的接收与解析",
-   "language": "",
-   "stars": 7879,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "gnuradio/gnuradio",
-   "url": "https://github.com/gnuradio/gnuradio",
-   "description": "GNU Radio 软件无线电信号处理生态：用模块化流图搭建收发链路，射频与通信信号处理的通用框架",
-   "language": "",
-   "stars": 6294,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ICube-Robotics/ethercat_driver_ros2",
-   "url": "https://github.com/ICube-Robotics/ethercat_driver_ros2",
-   "description": "EtherCAT 硬件接口与 ros2_control 集成：工业总线从站的实时控制接入",
-   "language": "",
-   "stars": 338,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "kubabuda/ecat_servo",
-   "url": "https://github.com/kubabuda/ecat_servo",
-   "description": "开源 EtherCAT CiA402 伺服驱动器实现：工业伺服电机实时控制固件",
-   "language": "",
-   "stars": 282,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ZipCPU/dpll",
-   "url": "https://github.com/ZipCPU/dpll",
-   "description": "FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟恢复的硬件实现参考",
-   "language": "",
-   "stars": 123,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-16",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

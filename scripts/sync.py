@@ -87,6 +87,15 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-16：本轮 20 条，待归类 5 条（描述为中文简介，关键词表未覆盖）----
+    # 无线通信与感知（SDR/ISM 频段接收与信号处理，与 sdrmm / liquid-dsp 同口径）
+    "gnuradio/gnuradio": "无线通信与感知",                    # GNU Radio 软件无线电信号处理生态
+    "merbanan/rtl_433": "无线通信与感知",                     # ISM 频段（433/868MHz）无线设备信号解码
+    # 嵌入式与单片机（工业总线伺服驱动固件与实时控制接入，与 FOC-Servo 同口径）
+    "kubabuda/ecat_servo": "嵌入式与单片机",                  # 开源 EtherCAT CiA402 伺服驱动器固件
+    "ICube-Robotics/ethercat_driver_ros2": "嵌入式与单片机",   # EtherCAT 从站接入 ros2_control 硬件接口
+    # 硬件设计与 EDA（FPGA/Verilog 数字电路设计，与 gaelco-fpga 同口径）
+    "ZipCPU/dpll": "硬件设计与 EDA",                          # FPGA 上的数字锁相环（PLL）Verilog 项目集
     # ---- 2026-10-15：本轮 20 条，待归类 2 条 + 2 条规则误判 ----
     # 飞控与无人机（机器人域：整机平台与数据工具，与 navigation2 / OctoPlanner3D-ROS2 / openarm 同口径）
     "KingKongRobotics/jumper": "飞控与无人机",             # 开源螃蟹形机器人整机软硬件

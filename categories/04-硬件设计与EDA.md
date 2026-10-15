@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 206 个项目 · 数据更新时间 2026-10-16 · [返回总览](../README.md)
+> 共 207 个项目 · 数据更新时间 2026-10-16 · [返回总览](../README.md)
 
 ---
 
@@ -169,7 +169,7 @@ FreeCAD MCP(Model Context Protocol) server
 ---
 
 #### [bherbruck/solidcraft](https://github.com/bherbruck/solidcraft)
-`★2,711 · Rust · ⭐ 已 star`
+`★2,714 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-16
 
@@ -512,8 +512,9 @@ KiCad 插件与资源精选清单
 ---
 
 #### [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards)
-`★576 · 🔥 热点推荐`
+`★576 · ⭐🔥 已 star + 热点推荐`
 DC/DC 变换器、电池充电器与电源板合集：升压/降压/锂电充电的硬件电路设计参考
+> 热点推荐于 2026-10-16
 > 收录日期：2026-10-16
 
 ---
@@ -1027,6 +1028,14 @@ Verilator、GHDL、Yosys、nextpnr 等开源 EDA 的容器镜像与部署脚本�
 
 ---
 
+#### [ZipCPU/dpll](https://github.com/ZipCPU/dpll)
+`★123 · ⭐🔥 已 star + 热点推荐`
+FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟恢复的硬件实现参考
+> 热点推荐于 2026-10-16
+> 收录日期：2026-10-16
+
+---
+
 #### [lcapossio/fpgacapZero](https://github.com/lcapossio/fpgacapZero)
 `★121 · ⭐🔥 已 star + 热点推荐`
 跨厂商 FPGA 调试核：JTAG 上的嵌入式逻辑分析仪与 IO，可导出 VCD/CSV，替代 ChipScope/SignalTap
@@ -1235,8 +1244,9 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 ---
 
 #### [drewsum/KiPI](https://github.com/drewsum/KiPI)
-`★50 · 🔥 热点推荐`
+`★50 · ⭐🔥 已 star + 热点推荐`
 开源电源完整性（PI）分析工具：配合 KiCad 检查板级供电网络，硬件设计验证环节
+> 热点推荐于 2026-10-16
 > 收录日期：2026-10-16
 
 ---
