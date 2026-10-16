@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/greatscottgadgets/hackrf",
-  "stars": 8157,
-  "desc": "低成本开源软件无线电平台（硬件本体 + 固件）：1MHz–6GHz 收发、USB 送主机处理，射频实验的基础硬件"
+  "url": "https://github.com/Klipper3d/klipper",
+  "stars": 11968,
+  "desc": "3D 打印机固件（GPL-3.0，活跃）：主机跑 Python 做运动规划、MCU 只执行步进脉冲，是「主机+固件」分层的经典嵌入式架构"
  },
  {
-  "url": "https://github.com/merbanan/rtl_433",
-  "stars": 7879,
-  "desc": "解码 ISM 频段各类无线设备（温湿度计、遥控、电表）的 C 程序，433/868MHz 无线传感器信号的接收与解析"
+  "url": "https://github.com/grbl/grbl",
+  "stars": 6295,
+  "desc": "经典 CNC/运动控制固件：Arduino 上用优化 C 实现 G-code 解析与步进电机加减速规划，嵌入式运动控制入门必读"
  },
  {
-  "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
-  "stars": 6439,
-  "desc": "跨平台软件无线电（SDR）软件：接入 RTL-SDR/HackRF 等硬件做频谱显示与 IQ 录制解调，射频接收实验的常用工作站"
+  "url": "https://github.com/RfidResearchGroup/proxmark3",
+  "stars": 6149,
+  "desc": "Proxmark3 Iceman 分支（GPL-3.0，活跃）：RFID/NFC 读写与嗅探的硬件+固件平台"
  },
  {
-  "url": "https://github.com/gnuradio/gnuradio",
-  "stars": 6294,
-  "desc": "GNU Radio 软件无线电信号处理生态：用模块化流图搭建收发链路，射频与通信信号处理的通用框架"
+  "url": "https://github.com/Vector-Wangel/XLeRobot",
+  "stars": 5605,
+  "desc": "XLeRobot 双机械臂移动家庭机器人（Apache-2.0，约 660 美元）：完整硬件清单与运动控制"
  },
  {
-  "url": "https://github.com/portapack-mayhem/mayhem-firmware",
-  "stars": 5481,
-  "desc": "HackRF + PortaPack 便携式固件的社区版本：手持式射频收发与信号分析设备固件"
+  "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
+  "stars": 5459,
+  "desc": "开源四足机器人框架 OpenCat（MIT）：舵机驱动、步态与 ESP32/Arduino 板级代码，STEM 与足式机器人入门"
  },
  {
-  "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
-  "stars": 627,
-  "desc": "开源双足机器鸭 XGO-Duck 的硬件资料：3D 打印结构 + Arduino UNO Q 驱动 15 个舵机，舵机机器人平台参考"
+  "url": "https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm",
+  "stars": 3376,
+  "desc": "PAROL6 桌面六轴机械臂（GPL-3.0）：BOM、3D 打印件与装配说明齐全"
  },
  {
-  "url": "https://github.com/wagiminator/Power-Boards",
-  "stars": 576,
-  "desc": "DC/DC 变换器、电池充电器与电源板合集：升压/降压/锂电充电的硬件电路设计参考"
+  "url": "https://github.com/miguelbalboa/rfid",
+  "stars": 3039,
+  "desc": "Arduino MFRC522 RFID 库（Unlicense）：最常用的 13.56MHz 读卡器驱动，嵌入式 RFID 入门"
  },
  {
-  "url": "https://github.com/manankharwar/fusioncore",
-  "stars": 379,
-  "desc": "室外机器人定位的 ROS 2 节点：IMU、轮速与 GPS 在 100Hz 下用 23 状态 UKF 融合，传感器融合与定位估计"
+  "url": "https://github.com/luc-github/ESP3D",
+  "stars": 1999,
+  "desc": "ESP8266/ESP32 上的 3D 打印机与 CNC 固件：给 8 位机控制器加 WiFi 网页界面与串口桥"
  },
  {
-  "url": "https://github.com/ICube-Robotics/ethercat_driver_ros2",
-  "stars": 338,
-  "desc": "EtherCAT 硬件接口与 ros2_control 集成：工业总线从站的实时控制接入"
+  "url": "https://github.com/Wren6991/Hazard3",
+  "stars": 1126,
+  "desc": "三阶段 RV32IMAC 的 RISC-V 处理器核（SystemVerilog，Apache-2.0）：带调试模块，可直接综合到 FPGA"
  },
  {
-  "url": "https://github.com/leggedrobotics/graph_msf",
-  "stars": 315,
-  "desc": "基于图优化的多传感器融合框架：把 IMU 与相对/绝对测量统一进因子图，机器人状态估计参考"
+  "url": "https://github.com/rene-dev/stmbl",
+  "stars": 983,
+  "desc": "STM32F4 上的交流伺服驱动器固件（GPL-3.0）：电流环/PID/位置控制，含原理图"
  },
  {
-  "url": "https://github.com/kubabuda/ecat_servo",
-  "stars": 282,
-  "desc": "开源 EtherCAT CiA402 伺服驱动器实现：工业伺服电机实时控制固件"
+  "url": "https://github.com/grandideastudio/jtagulator",
+  "stars": 814,
+  "desc": "JTAG 接口自动探测工具（硬件+固件）：扫出板上未知的 JTAG/SWD/UART 引脚，硬件逆向与调试用"
  },
  {
-  "url": "https://github.com/ZipCPU/dpll",
-  "stars": 123,
-  "desc": "FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟恢复的硬件实现参考"
+  "url": "https://github.com/LibreSolar/charge-controller-firmware",
+  "stars": 190,
+  "desc": "Libre Solar 的 MPPT/PWM 充电控制器固件（Apache-2.0）：嵌入式电源控制与电池管理"
  },
  {
-  "url": "https://github.com/cgro00/desk-robot",
-  "stars": 83,
-  "desc": "桌面小机器人：ESP32 做身体（脸、声音、摄像头）、Python 做主控，嵌入式与上位机分工的案例"
+  "url": "https://github.com/andrisgauracs/wifi-sensing-kit",
+  "stars": 166,
+  "desc": "用三块 ESP32-S3 做 WiFi 感知训练：摄像头当老师，教会设备从 WiFi CSI 变化识别人体动作（MIT）"
  },
  {
-  "url": "https://github.com/Auroranchen/-PCB",
-  "stars": 62,
-  "desc": "面向蓝桥杯单片机竞赛的 STM32G431RBT6 开发板：嘉立创 EDA 绘制的双层板（117 元件、已过 DRC），STM32 最小系统板设计参考"
+  "url": "https://github.com/Clear492g/ServoMotorDriver-STM32",
+  "stars": 165,
+  "desc": "STM32 伺服电机驱动与控制，含编码器采集与 PID 调速，中文注释的电机控制参考"
  },
  {
-  "url": "https://github.com/drewsum/KiPI",
-  "stars": 50,
-  "desc": "开源电源完整性（PI）分析工具：配合 KiCad 检查板级供电网络，硬件设计验证环节"
+  "url": "https://github.com/haqishen/MFNet-pytorch",
+  "stars": 152,
+  "desc": "RGB-热红外双光融合的语义分割网络（PyTorch 实现）：多光谱图像融合与分割的经典基线"
  },
  {
-  "url": "https://github.com/mmm1712/Local_AI_esp32",
-  "stars": 42,
-  "desc": "在 ESP32-S3 上从零训练并离线运行的语言模型，带触摸屏聊天界面，MCU 端侧推理实践"
+  "url": "https://github.com/openwch/usb-jtag-spi",
+  "stars": 129,
+  "desc": "基于 RISC-V MCU（CH32V30x）的单芯片 USB2.0 高速 JTAG/SPI 调试器（Apache-2.0），可作自制调试探针参考"
  },
  {
-  "url": "https://github.com/lozaning/ESP32SDR",
-  "stars": 29,
-  "desc": "用两个 ESP32 搭全双工软件无线电：嵌入式平台上的射频收发实验"
+  "url": "https://github.com/wagiminator/CH552-DAPLink",
+  "stars": 53,
+  "desc": "CH552 做的 CMSIS-DAP 调试探针：支持 SWD/JTAG/VCP，成本极低的 OpenOCD 兼容下载器"
  },
  {
-  "url": "https://github.com/garavitgabriel/agent-charm",
-  "stars": 16,
-  "desc": "ESP32-S3 AMOLED 便携挂饰：按住说话接入 AI 代理，嵌入式人机交互硬件"
+  "url": "https://github.com/MattSpot10/STM32F303RE-USB-Oscilloscope",
+  "stars": 40,
+  "desc": "STM32F303RE 自制 USB 示波器：全部硬件资料与固件，含 ADC 采样与 USB 传输链路"
  },
  {
-  "url": "https://github.com/griffotron/MotionModuleSTM32R8",
+  "url": "https://github.com/bhachauk/patch-antenna-util",
+  "stars": 35,
+  "desc": "微带贴片天线参数设计与理论合集（网页工具 + 教材）：贴片尺寸估算的快速参考"
+ },
+ {
+  "url": "https://github.com/ntnu-arl/PX4-CBF",
   "stars": 13,
-  "desc": "STM32 驱动的 14 轴步进电机运动模块：PCB 设计与固件齐全的运动控制参考"
- },
- {
-  "url": "https://github.com/agentthink/lvgl-hmi-studio",
-  "stars": 11,
-  "desc": "基于 .NET 的开源 HMI 可视化设计工具：拖拽画面、变量绑定、Modbus/MQTT 通信，可生成 LVGL C 代码部署到嵌入式 Linux，嵌入式 GUI 开发流程"
+  "desc": "PX4 控制屏障函数（CBF）安全滤波器模块文档：给飞控加避障/安全约束的官方接口说明"
  }
 ]

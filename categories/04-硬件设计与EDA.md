@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 207 个项目 · 数据更新时间 2026-10-16 · [返回总览](../README.md)
+> 共 209 个项目 · 数据更新时间 2026-10-17 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,334 · C++ · ⭐ 已 star`
+`★34,386 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -107,6 +107,20 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 
 ---
 
+#### [Source-Robotics/PAROL6-Desktop-robot-arm](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm)
+`★3,376 · 🔥 热点推荐`
+PAROL6 桌面六轴机械臂（GPL-3.0）：BOM、3D 打印件与装配说明齐全
+> 收录日期：2026-10-17
+
+---
+
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★3,128 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [alexforencich/verilog-ethernet](https://github.com/alexforencich/verilog-ethernet)
 `★3,114 · ⭐🔥 已 star + 热点推荐`
 Verilog 实现的以太网 MAC/PHY 组件集，覆盖 1G/10G/25G，FPGA 网络设计常用 IP
@@ -123,15 +137,15 @@ RTL-to-GDS 开源数字芯片实现流程
 
 ---
 
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,086 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
+#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+`★3,089 · Rust · ⭐ 已 star`
+SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+> 收录日期：2026-10-17
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,020 · C++ · ⭐ 已 star`
+`★3,024 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -153,18 +167,18 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 
 ---
 
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★2,904 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
+
+---
+
 #### [ghdl/ghdl](https://github.com/ghdl/ghdl)
 `★2,898 · ⭐🔥 已 star + 热点推荐`
 开源 VHDL 仿真器与综合前端，VHDL 语言的参考实现
 > 热点推荐于 2026-10-03
 > 收录日期：2026-10-03
-
----
-
-#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,885 · Python · ⭐ 已 star`
-FreeCAD MCP(Model Context Protocol) server
-> 收录日期：2026-09-27
 
 ---
 
@@ -511,18 +525,18 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
+`★579 · C · ⭐ 已 star`
+Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
+> 收录日期：2026-09-13
+
+---
+
 #### [wagiminator/Power-Boards](https://github.com/wagiminator/Power-Boards)
 `★576 · ⭐🔥 已 star + 热点推荐`
 DC/DC 变换器、电池充电器与电源板合集：升压/降压/锂电充电的硬件电路设计参考
 > 热点推荐于 2026-10-16
 > 收录日期：2026-10-16
-
----
-
-#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★572 · C · ⭐ 已 star`
-Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
-> 收录日期：2026-09-13
 
 ---
 
@@ -775,7 +789,7 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★255 · C++ · ⭐ 已 star`
+`★256 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
