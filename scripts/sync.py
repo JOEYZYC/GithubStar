@@ -87,6 +87,16 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-17：本轮 20 条，待归类 4 条 + 规则误判 1 条 ----
+    # 无线通信与感知（RFID/NFC 射频读写与嗅探平台，与 RF-WISE 的 RFID 感知同口径）
+    "RfidResearchGroup/proxmark3": "无线通信与感知",          # Proxmark3 Iceman：RFID/NFC 读写嗅探硬件 + 固件
+    # 飞控与无人机（机器人域整机平台，与 jumper / openarm 同口径）
+    "Vector-Wangel/XLeRobot": "飞控与无人机",                 # 双机械臂 + 移动底盘家庭机器人（约 660 美元）
+    "Source-Robotics/PAROL6-Desktop-robot-arm": "飞控与无人机",  # 桌面六轴机械臂（误命中「3d printing」进 EDA）
+    # 嵌入式与单片机（调试探针工具，与 openocd / probe-rs 同口径）
+    "grandideastudio/jtagulator": "嵌入式与单片机",           # JTAG/SWD/UART 引脚自动探测工具
+    # AI 模型与视觉（RGB-T 视觉模型，与 sRGB-TIR 同口径）
+    "haqishen/MFNet-pytorch": "AI 模型与视觉",                # RGB-热红外双光融合语义分割网络
     # ---- 2026-10-16：本轮 20 条，待归类 5 条（描述为中文简介，关键词表未覆盖）----
     # 无线通信与感知（SDR/ISM 频段接收与信号处理，与 sdrmm / liquid-dsp 同口径）
     "gnuradio/gnuradio": "无线通信与感知",                    # GNU Radio 软件无线电信号处理生态

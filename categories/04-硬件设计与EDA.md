@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 209 个项目 · 数据更新时间 2026-10-17 · [返回总览](../README.md)
+> 共 208 个项目 · 数据更新时间 2026-10-17 · [返回总览](../README.md)
 
 ---
 
@@ -107,13 +107,6 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 
 ---
 
-#### [Source-Robotics/PAROL6-Desktop-robot-arm](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm)
-`★3,376 · 🔥 热点推荐`
-PAROL6 桌面六轴机械臂（GPL-3.0）：BOM、3D 打印件与装配说明齐全
-> 收录日期：2026-10-17
-
----
-
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
 `★3,128 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
@@ -138,7 +131,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★3,089 · Rust · ⭐ 已 star`
+`★3,090 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
