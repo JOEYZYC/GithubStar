@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 211 个项目 · 数据更新时间 2026-10-18 · [返回总览](../README.md)
+> 共 214 个项目 · 数据更新时间 2026-10-18 · [返回总览](../README.md)
 
 ---
 
@@ -28,8 +28,9 @@ Give your agent CAD superpowers.
 ---
 
 #### [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card)
-`★7,640 · 🔥 热点推荐`
+`★7,640 · ⭐🔥 已 star + 热点推荐`
 带墨水屏的智能 NFC 卡片，含 PCB、低功耗固件与刷卡显示方案
+> 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
 
 ---
@@ -67,8 +68,9 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm)
-`★4,392 · 🔥 热点推荐`
+`★4,392 · ⭐🔥 已 star + 热点推荐`
 面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件
+> 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
 
 ---
@@ -731,6 +733,14 @@ eFPGA 生成器与配套 CAD 工具链
 
 ---
 
+#### [Xilinx/XilinxVirtualCable](https://github.com/Xilinx/XilinxVirtualCable)
+`★292 · ⭐🔥 已 star + 热点推荐`
+Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
+> 热点推荐于 2026-10-18
+> 收录日期：2026-10-18
+
+---
+
 #### [Chanchaldhiman/CANviz](https://github.com/Chanchaldhiman/CANviz)
 `★289 · ⭐🔥 已 star + 热点推荐`
 浏览器里的 CAN 总线分析仪，pip 安装即可用，兼容任意 USB CAN 适配器与 J1939/CANopen
@@ -918,6 +928,14 @@ Nordic 全系列芯片 KiCad 元件库
 基于国产 CH32X035（RISC-V）的 USB PD 协议测试设备兼可调电源
 > 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
+
+---
+
+#### [viveris/jtag-boundary-scanner](https://github.com/viveris/jtag-boundary-scanner)
+`★181 · ⭐🔥 已 star + 热点推荐`
+JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试
+> 热点推荐于 2026-10-18
+> 收录日期：2026-10-18
 
 ---
 
@@ -1472,8 +1490,9 @@ Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电�
 ---
 
 #### [jyg9/microduck-community-kit](https://github.com/jyg9/microduck-community-kit)
-`★20 · 🔥 热点推荐`
+`★20 · ⭐🔥 已 star + 热点推荐`
 补齐 microduck 开源四足机器人的硬件电路与固件，含 IMU 转 Dynamixel 与 PCB 复刻
+> 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
 
 ---
@@ -1515,6 +1534,14 @@ Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电�
 8x8 时序乘法器的 RTL-to-GDSII 完整 ASIC 流程示例，含低功耗 FSM 设计
 > 热点推荐于 2026-09-24
 > 收录日期：2026-09-24
+
+---
+
+#### [Si7li/MNIST-Neural-Network-On-FPGA](https://github.com/Si7li/MNIST-Neural-Network-On-FPGA)
+`★18 · ⭐🔥 已 star + 热点推荐`
+用 VHDL 在 FPGA 上实现的 MNIST 神经网络推理，含定点量化与时序设计
+> 热点推荐于 2026-10-18
+> 收录日期：2026-10-18
 
 ---
 

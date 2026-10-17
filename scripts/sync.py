@@ -87,6 +87,15 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-18：本轮 20 条，待归类 3 条（描述为中文简介，关键词表未覆盖）+ star 新增 3 条 ----
+    # 硬件设计与 EDA（FPGA/JTAG 调试与数字电路设计，与 gaelco-fpga / jtagulator 同口径）
+    "Xilinx/XilinxVirtualCable": "硬件设计与 EDA",            # XVC 协议：TCP/IP 远程 JTAG 线缆
+    "viveris/jtag-boundary-scanner": "硬件设计与 EDA",         # JTAG 边界扫描 / BSDL 板级互连测试
+    "Si7li/MNIST-Neural-Network-On-FPGA": "硬件设计与 EDA",    # VHDL 实现的 FPGA 神经网络推理
+    # 开发工具与系统资源（用户自有仓库：个人站点/README 卡片/本清单仓库）
+    "JOEYZYC/joeych-readme-cards": "开发工具与系统资源",
+    "JOEYZYC/joeych-pages": "开发工具与系统资源",
+    "JOEYZYC/GithubStar": "开发工具与系统资源",
     # ---- 2026-10-17：本轮 20 条，待归类 4 条 + 规则误判 1 条 ----
     # 无线通信与感知（RFID/NFC 射频读写与嗅探平台，与 RF-WISE 的 RFID 感知同口径）
     "RfidResearchGroup/proxmark3": "无线通信与感知",          # Proxmark3 Iceman：RFID/NFC 读写嗅探硬件 + 固件

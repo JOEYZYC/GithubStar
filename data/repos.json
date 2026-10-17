@@ -78,40 +78,6 @@
    ]
   },
   {
-   "full_name": "gyroflow/gyroflow",
-   "url": "https://github.com/gyroflow/gyroflow",
-   "description": "Video stabilization using gyroscope data",
-   "language": "Rust",
-   "stars": 9553,
-   "topics": [
-    "fpv",
-    "gopro",
-    "gpu",
-    "gpu-computing",
-    "gyroscope",
-    "insta360",
-    "rolling-shutter-undistortion",
-    "rust",
-    "sony-alpha-cameras",
-    "stabilization",
-    "video",
-    "video-processing"
-   ],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-02",
-   "category": "飞控与无人机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-02"
-   ]
-  },
-  {
    "full_name": "OpenDroneMap/ODM",
    "url": "https://github.com/OpenDroneMap/ODM",
    "description": "无人机影像摄影测量与正射成图全流程工具链",
@@ -3565,7 +3531,14 @@
    "added_at": "2026-10-18",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "JackJu-HIT/SCAN-Planner-Pure-ROS2",
@@ -3921,7 +3894,14 @@
    "added_at": "2026-10-18",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "Den41k92/crsf-link-tester",
@@ -4179,7 +4159,14 @@
    "added_at": "2026-10-18",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "sverk-tech/sverk-ros2",
@@ -5135,7 +5122,14 @@
    "added_at": "2026-10-18",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "Skythinker616/foc-wheel-legged-robot",
@@ -10000,7 +9994,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "rust-embedded/awesome-embedded-rust",
@@ -12900,7 +12901,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "xtoolbox/TeenyUSB",
@@ -13432,7 +13440,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "jamro/tiny-engineer",
@@ -15117,7 +15132,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "Liwuyuee/xiaozhi-esp32-local",
@@ -15459,7 +15481,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "notownblues/SHS-Z2M-Presence",
@@ -16517,7 +16546,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "krzychb/esp32-lna",
@@ -17447,7 +17483,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "artfulbytes/i_kept_coding_until_an_rtos_was_inevitable",
@@ -18218,7 +18261,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -18695,7 +18745,14 @@
    "added_at": "2026-10-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -20068,7 +20125,14 @@
    "added_at": "2026-10-18",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "gusmanb/logicanalyzer",
@@ -20166,7 +20230,14 @@
    "added_at": "2026-10-18",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "tangency-labs/solidcraft",
@@ -21941,6 +22012,27 @@
    ]
   },
   {
+   "full_name": "Xilinx/XilinxVirtualCable",
+   "url": "https://github.com/Xilinx/XilinxVirtualCable",
+   "description": "Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC",
+   "language": "",
+   "stars": 292,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-18",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
+  },
+  {
    "full_name": "Chanchaldhiman/CANviz",
    "url": "https://github.com/Chanchaldhiman/CANviz",
    "description": "浏览器里的 CAN 总线分析仪，pip 安装即可用，兼容任意 USB CAN 适配器与 J1939/CANopen",
@@ -22434,6 +22526,27 @@
    ],
    "hot_dates": [
     "2026-09-25"
+   ]
+  },
+  {
+   "full_name": "viveris/jtag-boundary-scanner",
+   "url": "https://github.com/viveris/jtag-boundary-scanner",
+   "description": "JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试",
+   "language": "",
+   "stars": 181,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-18",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
    ]
   },
   {
@@ -23901,7 +24014,14 @@
    "added_at": "2026-10-18",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "10-X-eng/KiChad",
@@ -24006,6 +24126,27 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "Si7li/MNIST-Neural-Network-On-FPGA",
+   "url": "https://github.com/Si7li/MNIST-Neural-Network-On-FPGA",
+   "description": "用 VHDL 在 FPGA 上实现的 MNIST 神经网络推理，含定点量化与时序设计",
+   "language": "",
+   "stars": 18,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-18",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
    ]
   },
   {
@@ -26452,7 +26593,14 @@
    "added_at": "2026-10-18",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
+   ]
   },
   {
    "full_name": "globsky/greta-oto",
@@ -28622,7 +28770,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 252122,
+   "stars": 252124,
    "topics": [
     "ai-agents",
     "cordis",
@@ -28653,7 +28801,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 215255,
+   "stars": 215257,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -28666,7 +28814,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 160889,
+   "stars": 160890,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -28902,7 +29050,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 95365,
+   "stars": 95369,
    "topics": [
     "ade",
     "agent-ide",
@@ -29029,7 +29177,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 84869,
+   "stars": 84870,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -34648,7 +34796,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 489772,
+   "stars": 489773,
    "topics": [
     "api",
     "apis",
@@ -34711,7 +34859,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 90243,
+   "stars": 90245,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -34728,7 +34876,7 @@
    "url": "https://github.com/apple/container",
    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
    "language": "Swift",
-   "stars": 50758,
+   "stars": 50759,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35009,7 +35157,7 @@
    "url": "https://github.com/vbskycn/iptv",
    "description": "iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。",
    "language": "HTML",
-   "stars": 9577,
+   "stars": 9578,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35410,48 +35558,6 @@
    "note": ""
   },
   {
-   "full_name": "Xilinx/XilinxVirtualCable",
-   "url": "https://github.com/Xilinx/XilinxVirtualCable",
-   "description": "Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC",
-   "language": "",
-   "stars": 292,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "viveris/jtag-boundary-scanner",
-   "url": "https://github.com/viveris/jtag-boundary-scanner",
-   "description": "JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试",
-   "language": "",
-   "stars": 181,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Si7li/MNIST-Neural-Network-On-FPGA",
-   "url": "https://github.com/Si7li/MNIST-Neural-Network-On-FPGA",
-   "description": "用 VHDL 在 FPGA 上实现的 MNIST 神经网络推理，含定点量化与时序设计",
-   "language": "",
-   "stars": 18,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "JOEYZYC/joeych-readme-cards",
    "url": "https://github.com/JOEYZYC/joeych-readme-cards",
    "description": "Terminal-style GitHub profile SVG cards for JOEYZYC",
@@ -35461,7 +35567,7 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-10-18",
-   "category": "待归类",
+   "category": "开发工具与系统资源",
    "note": ""
   },
   {
@@ -35474,7 +35580,7 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-10-18",
-   "category": "待归类",
+   "category": "开发工具与系统资源",
    "note": ""
   },
   {
@@ -35487,8 +35593,42 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-10-18",
-   "category": "待归类",
+   "category": "开发工具与系统资源",
    "note": ""
+  },
+  {
+   "full_name": "gyroflow/gyroflow",
+   "url": "https://github.com/gyroflow/gyroflow",
+   "description": "Video stabilization using gyroscope data",
+   "language": "Rust",
+   "stars": 9553,
+   "topics": [
+    "fpv",
+    "gopro",
+    "gpu",
+    "gpu-computing",
+    "gyroscope",
+    "insta360",
+    "rolling-shutter-undistortion",
+    "rust",
+    "sony-alpha-cameras",
+    "stabilization",
+    "video",
+    "video-processing"
+   ],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-02",
+   "category": "待归类",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
   }
  ]
 }
