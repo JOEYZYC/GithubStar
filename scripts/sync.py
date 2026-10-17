@@ -96,6 +96,8 @@ OVERRIDES: dict[str, str] = {
     "JOEYZYC/joeych-readme-cards": "开发工具与系统资源",
     "JOEYZYC/joeych-pages": "开发工具与系统资源",
     "JOEYZYC/GithubStar": "开发工具与系统资源",
+    # 飞控与无人机（陀螺仪数据视频增稳，FPV/运动相机后处理，与 fpv / 图传线同口径）
+    "gyroflow/gyroflow": "飞控与无人机",
     # ---- 2026-10-17：本轮 20 条，待归类 4 条 + 规则误判 1 条 ----
     # 无线通信与感知（RFID/NFC 射频读写与嗅探平台，与 RF-WISE 的 RFID 感知同口径）
     "RfidResearchGroup/proxmark3": "无线通信与感知",          # Proxmark3 Iceman：RFID/NFC 读写嗅探硬件 + 固件

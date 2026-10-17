@@ -78,6 +78,40 @@
    ]
   },
   {
+   "full_name": "gyroflow/gyroflow",
+   "url": "https://github.com/gyroflow/gyroflow",
+   "description": "Video stabilization using gyroscope data",
+   "language": "Rust",
+   "stars": 9553,
+   "topics": [
+    "fpv",
+    "gopro",
+    "gpu",
+    "gpu-computing",
+    "gyroscope",
+    "insta360",
+    "rolling-shutter-undistortion",
+    "rust",
+    "sony-alpha-cameras",
+    "stabilization",
+    "video",
+    "video-processing"
+   ],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-02",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-02"
+   ]
+  },
+  {
    "full_name": "OpenDroneMap/ODM",
    "url": "https://github.com/OpenDroneMap/ODM",
    "description": "无人机影像摄影测量与正射成图全流程工具链",
@@ -32277,7 +32311,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 70668,
+   "stars": 70669,
    "topics": [
     "agents",
     "ai",
@@ -34796,7 +34830,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 489773,
+   "stars": 489774,
    "topics": [
     "api",
     "apis",
@@ -34823,7 +34857,7 @@
    "url": "https://github.com/521xueweihan/HelloGitHub",
    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
-   "stars": 182718,
+   "stars": 182719,
    "topics": [
     "awesome",
     "github",
@@ -35595,40 +35629,6 @@
    "added_at": "2026-10-18",
    "category": "开发工具与系统资源",
    "note": ""
-  },
-  {
-   "full_name": "gyroflow/gyroflow",
-   "url": "https://github.com/gyroflow/gyroflow",
-   "description": "Video stabilization using gyroscope data",
-   "language": "Rust",
-   "stars": 9553,
-   "topics": [
-    "fpv",
-    "gopro",
-    "gpu",
-    "gpu-computing",
-    "gyroscope",
-    "insta360",
-    "rolling-shutter-undistortion",
-    "rust",
-    "sony-alpha-cameras",
-    "stabilization",
-    "video",
-    "video-processing"
-   ],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-02",
-   "category": "待归类",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-02"
-   ]
   }
  ]
 }
