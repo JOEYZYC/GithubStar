@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 208 个项目 · 数据更新时间 2026-10-17 · [返回总览](../README.md)
+> 共 211 个项目 · 数据更新时间 2026-10-18 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,386 · C++ · ⭐ 已 star`
+`★34,423 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -24,6 +24,13 @@ Give your agent CAD superpowers.
 用 Verilog 从零实现的极简 GPU，学习 GPU 架构与 RTL 设计的完整教程项目
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
+
+---
+
+#### [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card)
+`★7,640 · 🔥 热点推荐`
+带墨水屏的智能 NFC 卡片，含 PCB、低功耗固件与刷卡显示方案
+> 收录日期：2026-10-18
 
 ---
 
@@ -56,6 +63,20 @@ Chisel：用 Scala 写硬件描述语言的现代 HDL 框架，生成 Verilog �
 KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm)
+`★4,392 · 🔥 热点推荐`
+面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件
+> 收录日期：2026-10-18
+
+---
+
+#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+`★4,258 · Rust · ⭐ 已 star`
+SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+> 收录日期：2026-10-17
 
 ---
 
@@ -108,7 +129,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,128 · Rust · ⭐ 已 star`
+`★3,174 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -130,15 +151,8 @@ RTL-to-GDS 开源数字芯片实现流程
 
 ---
 
-#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★3,090 · Rust · ⭐ 已 star`
-SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
-> 收录日期：2026-10-17
-
----
-
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,024 · C++ · ⭐ 已 star`
+`★3,027 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -161,7 +175,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,904 · Python · ⭐ 已 star`
+`★2,925 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -1454,6 +1468,13 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图
 > 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
+
+---
+
+#### [jyg9/microduck-community-kit](https://github.com/jyg9/microduck-community-kit)
+`★20 · 🔥 热点推荐`
+补齐 microduck 开源四足机器人的硬件电路与固件，含 IMU 转 Dynamixel 与 PCB 复刻
+> 收录日期：2026-10-18
 
 ---
 
