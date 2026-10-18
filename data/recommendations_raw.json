@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/kitspace/awesome-electronics",
-  "stars": 8240,
-  "desc": "电子工程师资源清单：EDA 工具、元器件库、PCB 设计与嵌入式开发资料索引"
+  "url": "https://github.com/prusa3d/Prusa-Firmware",
+  "stars": 2119,
+  "desc": "Prusa i3 3D 打印机开源固件（AVR），含步进电机运动控制与温度环"
  },
  {
-  "url": "https://github.com/peng-zhihui/L-ink_Card",
-  "stars": 7640,
-  "desc": "带墨水屏的智能 NFC 卡片，含 PCB、低功耗固件与刷卡显示方案"
+  "url": "https://github.com/MiczFlor/RPi-Jukebox-RFID",
+  "stars": 1813,
+  "desc": "树莓派 + RFID 读卡器的点唱机：刷卡触发音乐/播客，含 Web 前端"
  },
  {
-  "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-  "stars": 4392,
-  "desc": "面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件"
+  "url": "https://github.com/Bambu-Research-Group/RFID-Tag-Guide",
+  "stars": 1729,
+  "desc": "读取 Bambu Lab 耗材 NFC/RFID 标签的说明与工具，含标签数据结构逆向"
  },
  {
-  "url": "https://github.com/emsec/ChameleonMini",
-  "stars": 1876,
-  "desc": "兼容 NFC 的多功能无接触智能卡仿真器开源硬件与固件"
+  "url": "https://github.com/Source-Robotics/Faze4-Robotic-arm",
+  "stars": 911,
+  "desc": "六轴机械臂全套开源：摆线针轮减速器、结构件与电机驱动"
  },
  {
-  "url": "https://github.com/laurb9/StepperDriver",
-  "stars": 624,
-  "desc": "Arduino 步进电机驱动库，支持 A4988、DRV8825/8834/8880 等驱动芯片"
+  "url": "https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library",
+  "stars": 548,
+  "desc": "Adafruit PCA9685 十六路 PWM/伺服驱动芯片的 Arduino 库"
  },
  {
-  "url": "https://github.com/Adolanium/hermes-gadget-sdk",
-  "stars": 402,
-  "desc": "为 Hermes Agent 打造语音/文字硬件设备的 SDK，含 ESP32 固件、Linux 客户端与桌面模拟器"
+  "url": "https://github.com/eez-open/psu-hw",
+  "stars": 501,
+  "desc": "EEZ H24005 可编程台式电源硬件，Arduino Due 控制，原理图与 PCB 全套开源"
  },
  {
-  "url": "https://github.com/Xilinx/XilinxVirtualCable",
-  "stars": 292,
-  "desc": "Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC"
+  "url": "https://github.com/softwarecrash/Solar2MQTT-ESP8266",
+  "stars": 302,
+  "desc": "ESP8266 把 MPPT 太阳能充电控制器（WatchPower 协议）数据接入 MQTT，配合 Home Assistant 监控光伏发电"
  },
  {
-  "url": "https://github.com/viveris/jtag-boundary-scanner",
-  "stars": 181,
-  "desc": "JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试"
+  "url": "https://github.com/botletics/Reflowduino",
+  "stars": 218,
+  "desc": "Arduino 无线回流焊炉控制器：热电偶测温 + 固态继电器控温，含 PCB 与固件"
  },
  {
-  "url": "https://github.com/dukeduck1984/uReflowOven-Esp32-Micropython",
-  "stars": 128,
-  "desc": "基于 ESP32 的回流焊炉控制器，MicroPython 固件 + LVGL 图形界面"
+  "url": "https://github.com/eez-open/psu-firmware",
+  "stars": 182,
+  "desc": "EEZ H24005 台式电源固件：电压/电流环控制、SCPI 远程控制与前面板 UI"
  },
  {
-  "url": "https://github.com/raullenchai/esp32-thinks",
-  "stars": 103,
-  "desc": "ESP32 上的个人 AI 语音助手固件：唤醒词/旋钮触发，接任意 OpenAI 兼容模型做 STT/对话/TTS"
+  "url": "https://github.com/jzkmath/Arduino-MIDI-Stepper-Motor-Instrument",
+  "stars": 114,
+  "desc": "Arduino + A4988 驱动的 MIDI 乐器，把步进电机当发声执行器"
  },
  {
-  "url": "https://github.com/luigifcruz/BirriaSDR",
-  "stars": 93,
-  "desc": "开源软件无线电 SDR 项目，面向低成本射频收发与信号采集"
+  "url": "https://github.com/manuelbl/usb-pd-arduino",
+  "stars": 111,
+  "desc": "Arduino 上的 USB Power Delivery 协议库，可写 USB PD 受电/供电端固件"
  },
  {
-  "url": "https://github.com/merckhung/nt51_xfce4_embedded",
-  "stars": 57,
-  "desc": "嵌入式平台上用 Windows XP 内核 + Linux 用户态（musl/busybox/Xfce）跑起桌面系统的嵌入式实验"
+  "url": "https://github.com/tobychui/PD-Adjustable-DC-Power-Supply",
+  "stars": 111,
+  "desc": "USB PD 供电的口袋型可调直流电源，含固件、PCB 与外壳设计"
  },
  {
-  "url": "https://github.com/YongLD/Multi-UAV-JEV",
-  "stars": 54,
-  "desc": "MuJoCo 里的多无人机视觉追捕仿真，含 RGB/深度可视化与回合采集"
+  "url": "https://github.com/makerbase-motor/MKS-SERVO42D-57D",
+  "stars": 102,
+  "desc": "MKS SERVO42D/57D 闭环步进电机驱动板，FOC 控制、RS485/CAN 接口，含固件与硬件资料"
  },
  {
-  "url": "https://github.com/beianchuqing111/drone-fire-platform",
-  "stars": 38,
-  "desc": "面向无人机机场的实时视频 AI 火情检测服务：Kafka 任务调度 → 直播流检测 → 地理定位 → MQTT 报警"
+  "url": "https://github.com/liynjy/FMCW-Radar-Simulator",
+  "stars": 100,
+  "desc": "MATLAB FMCW 雷达信号仿真器：生成 chirp 级原始数据，供雷达信号处理算法开发"
  },
  {
-  "url": "https://github.com/MykolaBohomaz/MiniOscilloscope",
-  "stars": 32,
-  "desc": "自制迷你数字示波器项目，含模拟前端电路与单片机固件"
+  "url": "https://github.com/Shallot-2009/Ketupa_v0.0.3",
+  "stars": 87,
+  "desc": "把 HFSS 天线建模、电磁仿真与数据存储自动化的 Python 工具，用于贴片天线参数扫描"
  },
  {
-  "url": "https://github.com/Steeod/RF-traffic-monitor",
-  "stars": 27,
-  "desc": "Windows 上的多协议 SDR 监听工具，覆盖飞机、船舶、无人机与探空仪信号"
+  "url": "https://github.com/aplavins/Arduino-MPPT",
+  "stars": 79,
+  "desc": "Arduino 实现的 MPPT 太阳能充电控制器，含 Boost 变换电路与扰动观察法算法"
  },
  {
-  "url": "https://github.com/ji10me/ESP32_C5_Wifi_spectrum_analyzer",
-  "stars": 21,
-  "desc": "基于 ESP32-C5 与 esp-sdr 固件的 2.4/5GHz WiFi 频谱分析仪"
+  "url": "https://github.com/GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection",
+  "stars": 39,
+  "desc": "基于红外相机与人脸检测的体温监测告警系统（Python）"
  },
  {
-  "url": "https://github.com/jyg9/microduck-community-kit",
-  "stars": 20,
-  "desc": "补齐 microduck 开源四足机器人的硬件电路与固件，含 IMU 转 Dynamixel 与 PCB 复刻"
- },
- {
-  "url": "https://github.com/Si7li/MNIST-Neural-Network-On-FPGA",
-  "stars": 18,
-  "desc": "用 VHDL 在 FPGA 上实现的 MNIST 神经网络推理，含定点量化与时序设计"
- },
- {
-  "url": "https://github.com/codingard/esp32-fpv-receiver",
+  "url": "https://github.com/wayri/SPIKE",
   "stars": 17,
-  "desc": "ESP32-C5 模拟 FPV 接收机：接线方案、源码固件与 USB 串口调试台"
+  "desc": "面向 PCB 的多物理场仿真：PI/SI、电路、热、EM/RF 与结构，从单板到整机装配"
+ },
+ {
+  "url": "https://github.com/muki01/Car-Dashboard-ESP32-CYD",
+  "stars": 11,
+  "desc": "ESP32 Cheap Yellow Display 车载仪表盘：LVGL 9 触摸 UI、OBD2 数据与仪表组"
+ },
+ {
+  "url": "https://github.com/matthewoots/px4-path-planner",
+  "stars": 10,
+  "desc": "PX4 路径规划模块：MAVROS offboard + B 样条轨迹与相互避障"
  }
 ]

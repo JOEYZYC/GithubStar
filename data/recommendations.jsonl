@@ -1512,3 +1512,23 @@
 {"url": "https://github.com/jyg9/microduck-community-kit", "stars": 20, "desc": "补齐 microduck 开源四足机器人的硬件电路与固件，含 IMU 转 Dynamixel 与 PCB 复刻", "date": "2026-10-18"}
 {"url": "https://github.com/Si7li/MNIST-Neural-Network-On-FPGA", "stars": 18, "desc": "用 VHDL 在 FPGA 上实现的 MNIST 神经网络推理，含定点量化与时序设计", "date": "2026-10-18"}
 {"url": "https://github.com/codingard/esp32-fpv-receiver", "stars": 17, "desc": "ESP32-C5 模拟 FPV 接收机：接线方案、源码固件与 USB 串口调试台", "date": "2026-10-18"}
+{"url": "https://github.com/prusa3d/Prusa-Firmware", "stars": 2119, "desc": "Prusa i3 3D 打印机开源固件（AVR），含步进电机运动控制与温度环", "date": "2026-10-19"}
+{"url": "https://github.com/MiczFlor/RPi-Jukebox-RFID", "stars": 1813, "desc": "树莓派 + RFID 读卡器的点唱机：刷卡触发音乐/播客，含 Web 前端", "date": "2026-10-19"}
+{"url": "https://github.com/Bambu-Research-Group/RFID-Tag-Guide", "stars": 1729, "desc": "读取 Bambu Lab 耗材 NFC/RFID 标签的说明与工具，含标签数据结构逆向", "date": "2026-10-19"}
+{"url": "https://github.com/Source-Robotics/Faze4-Robotic-arm", "stars": 911, "desc": "六轴机械臂全套开源：摆线针轮减速器、结构件与电机驱动", "date": "2026-10-19"}
+{"url": "https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library", "stars": 548, "desc": "Adafruit PCA9685 十六路 PWM/伺服驱动芯片的 Arduino 库", "date": "2026-10-19"}
+{"url": "https://github.com/eez-open/psu-hw", "stars": 501, "desc": "EEZ H24005 可编程台式电源硬件，Arduino Due 控制，原理图与 PCB 全套开源", "date": "2026-10-19"}
+{"url": "https://github.com/softwarecrash/Solar2MQTT-ESP8266", "stars": 302, "desc": "ESP8266 把 MPPT 太阳能充电控制器（WatchPower 协议）数据接入 MQTT，配合 Home Assistant 监控光伏发电", "date": "2026-10-19"}
+{"url": "https://github.com/botletics/Reflowduino", "stars": 218, "desc": "Arduino 无线回流焊炉控制器：热电偶测温 + 固态继电器控温，含 PCB 与固件", "date": "2026-10-19"}
+{"url": "https://github.com/eez-open/psu-firmware", "stars": 182, "desc": "EEZ H24005 台式电源固件：电压/电流环控制、SCPI 远程控制与前面板 UI", "date": "2026-10-19"}
+{"url": "https://github.com/jzkmath/Arduino-MIDI-Stepper-Motor-Instrument", "stars": 114, "desc": "Arduino + A4988 驱动的 MIDI 乐器，把步进电机当发声执行器", "date": "2026-10-19"}
+{"url": "https://github.com/manuelbl/usb-pd-arduino", "stars": 111, "desc": "Arduino 上的 USB Power Delivery 协议库，可写 USB PD 受电/供电端固件", "date": "2026-10-19"}
+{"url": "https://github.com/tobychui/PD-Adjustable-DC-Power-Supply", "stars": 111, "desc": "USB PD 供电的口袋型可调直流电源，含固件、PCB 与外壳设计", "date": "2026-10-19"}
+{"url": "https://github.com/makerbase-motor/MKS-SERVO42D-57D", "stars": 102, "desc": "MKS SERVO42D/57D 闭环步进电机驱动板，FOC 控制、RS485/CAN 接口，含固件与硬件资料", "date": "2026-10-19"}
+{"url": "https://github.com/liynjy/FMCW-Radar-Simulator", "stars": 100, "desc": "MATLAB FMCW 雷达信号仿真器：生成 chirp 级原始数据，供雷达信号处理算法开发", "date": "2026-10-19"}
+{"url": "https://github.com/Shallot-2009/Ketupa_v0.0.3", "stars": 87, "desc": "把 HFSS 天线建模、电磁仿真与数据存储自动化的 Python 工具，用于贴片天线参数扫描", "date": "2026-10-19"}
+{"url": "https://github.com/aplavins/Arduino-MPPT", "stars": 79, "desc": "Arduino 实现的 MPPT 太阳能充电控制器，含 Boost 变换电路与扰动观察法算法", "date": "2026-10-19"}
+{"url": "https://github.com/GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection", "stars": 39, "desc": "基于红外相机与人脸检测的体温监测告警系统（Python）", "date": "2026-10-19"}
+{"url": "https://github.com/wayri/SPIKE", "stars": 17, "desc": "面向 PCB 的多物理场仿真：PI/SI、电路、热、EM/RF 与结构，从单板到整机装配", "date": "2026-10-19"}
+{"url": "https://github.com/muki01/Car-Dashboard-ESP32-CYD", "stars": 11, "desc": "ESP32 Cheap Yellow Display 车载仪表盘：LVGL 9 触摸 UI、OBD2 数据与仪表组", "date": "2026-10-19"}
+{"url": "https://github.com/matthewoots/px4-path-planner", "stars": 10, "desc": "PX4 路径规划模块：MAVROS offboard + B 样条轨迹与相互避障", "date": "2026-10-19"}

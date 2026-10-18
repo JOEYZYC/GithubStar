@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 214 个项目 · 数据更新时间 2026-10-18 · [返回总览](../README.md)
+> 共 215 个项目 · 数据更新时间 2026-10-19 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,423 · C++ · ⭐ 已 star`
+`★34,478 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -32,6 +32,13 @@ Give your agent CAD superpowers.
 带墨水屏的智能 NFC 卡片，含 PCB、低功耗固件与刷卡显示方案
 > 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
+
+---
+
+#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+`★5,622 · Rust · ⭐ 已 star`
+SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+> 收录日期：2026-10-17
 
 ---
 
@@ -72,13 +79,6 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件
 > 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
-
----
-
-#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★4,258 · Rust · ⭐ 已 star`
-SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
-> 收录日期：2026-10-17
 
 ---
 
@@ -131,7 +131,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,174 · Rust · ⭐ 已 star`
+`★3,273 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -154,7 +154,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,027 · C++ · ⭐ 已 star`
+`★3,031 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -177,7 +177,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,925 · Python · ⭐ 已 star`
+`★2,938 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -1104,6 +1104,13 @@ FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟
 BLDC 无刷电机驱动板设计（兼容 ODrive 接口），含原理图与 PCB，自制驱动器参考
 > 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
+
+---
+
+#### [tobychui/PD-Adjustable-DC-Power-Supply](https://github.com/tobychui/PD-Adjustable-DC-Power-Supply)
+`★111 · 🔥 热点推荐`
+USB PD 供电的口袋型可调直流电源，含固件、PCB 与外壳设计
+> 收录日期：2026-10-19
 
 ---
 
