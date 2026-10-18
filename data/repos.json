@@ -976,6 +976,27 @@
    ]
   },
   {
+   "full_name": "Source-Robotics/Faze4-Robotic-arm",
+   "url": "https://github.com/Source-Robotics/Faze4-Robotic-arm",
+   "description": "六轴机械臂全套开源：摆线针轮减速器、结构件与电机驱动",
+   "language": "",
+   "stars": 911,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-19",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
+  },
+  {
    "full_name": "PegasusSimulator/PegasusSimulator",
    "url": "https://github.com/PegasusSimulator/PegasusSimulator",
    "description": "基于 NVIDIA Isaac Sim 的无人机仿真框架，原生支持 PX4",
@@ -5004,7 +5025,14 @@
    "added_at": "2026-10-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "012345kxy/ch32v307-multirotor-flight-controller",
@@ -6692,20 +6720,6 @@
    ]
   },
   {
-   "full_name": "liynjy/FMCW-Radar-Simulator",
-   "url": "https://github.com/liynjy/FMCW-Radar-Simulator",
-   "description": "MATLAB FMCW 雷达信号仿真器：生成 chirp 级原始数据，供雷达信号处理算法开发",
-   "language": "",
-   "stars": 100,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-19",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "youxch/Inverse-design-of-metasurfaces",
    "url": "https://github.com/youxch/Inverse-design-of-metasurfaces",
    "description": "机器学习辅助的多波束超表面加速设计与综合方法",
@@ -6822,7 +6836,14 @@
    "added_at": "2026-10-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "Shallot-2009/Ketupa",
@@ -8838,7 +8859,14 @@
    "added_at": "2026-10-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "NedaEmami123/hfss-mcp",
@@ -11315,7 +11343,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "Neroued/ninfer",
@@ -11514,6 +11549,27 @@
    ],
    "hot_dates": [
     "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "MiczFlor/RPi-Jukebox-RFID",
+   "url": "https://github.com/MiczFlor/RPi-Jukebox-RFID",
+   "description": "树莓派 + RFID 读卡器的点唱机：刷卡触发音乐/播客，含 Web 前端",
+   "language": "",
+   "stars": 1813,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
    ]
   },
   {
@@ -13196,7 +13252,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "fbiego/esp32-c3-mini",
@@ -13293,7 +13356,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "maksimdrachov/zephyr-rtos-tutorial",
@@ -14055,7 +14125,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "walmis/blackmagic-espidf",
@@ -14460,7 +14537,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "rh1tech/frank-386",
@@ -14620,7 +14704,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "mx3353672833-debug/moto-gps-waveshare",
@@ -15537,7 +15628,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "teslabs/spinner",
@@ -15572,7 +15670,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "jelin-sh/VOFA-Protocol-Driver",
@@ -15690,6 +15795,27 @@
    ],
    "hot_dates": [
     "2026-10-18"
+   ]
+  },
+  {
+   "full_name": "makerbase-motor/MKS-SERVO42D-57D",
+   "url": "https://github.com/makerbase-motor/MKS-SERVO42D-57D",
+   "description": "MKS SERVO42D/57D 闭环步进电机驱动板，FOC 控制、RS485/CAN 接口，含固件与硬件资料",
+   "language": "",
+   "stars": 102,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-19",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
    ]
   },
   {
@@ -16156,7 +16282,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "cpldcpu/pico-faces",
@@ -19764,7 +19897,14 @@
    "added_at": "2026-10-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -20369,7 +20509,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 5622,
+   "stars": 5623,
    "topics": [
     "3d-modeling",
     "brep",
@@ -23232,7 +23372,14 @@
    "added_at": "2026-10-19",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
   },
   {
    "full_name": "DavidClawson/OpenScope-2C53T",
@@ -25211,6 +25358,27 @@
    ]
   },
   {
+   "full_name": "Bambu-Research-Group/RFID-Tag-Guide",
+   "url": "https://github.com/Bambu-Research-Group/RFID-Tag-Guide",
+   "description": "读取 Bambu Lab 耗材 NFC/RFID 标签的说明与工具，含标签数据结构逆向",
+   "language": "",
+   "stars": 1729,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-19",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
+  },
+  {
    "full_name": "ghostop14/sparrow-wifi",
    "url": "https://github.com/ghostop14/sparrow-wifi",
    "description": "下一代 WiFi/蓝牙分析 GUI，Linux 下的频谱与信道分析工具",
@@ -26739,6 +26907,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "liynjy/FMCW-Radar-Simulator",
+   "url": "https://github.com/liynjy/FMCW-Radar-Simulator",
+   "description": "MATLAB FMCW 雷达信号仿真器：生成 chirp 级原始数据，供雷达信号处理算法开发",
+   "language": "",
+   "stars": 100,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-19",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
    ]
   },
   {
@@ -28922,7 +29111,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 392394,
+   "stars": 392395,
    "topics": [
     "ai",
     "assistant",
@@ -29014,7 +29203,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 253049,
+   "stars": 253050,
    "topics": [
     "ai-agents",
     "cordis",
@@ -29032,7 +29221,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 220956,
+   "stars": 220957,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29252,7 +29441,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 96573,
+   "stars": 96575,
    "topics": [
     "ade",
     "agent-ide",
@@ -29972,7 +30161,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 35849,
+   "stars": 35850,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -32456,7 +32645,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 128396,
+   "stars": 128397,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -32837,20 +33026,6 @@
    "source": "star",
    "added_at": "2026-09-13",
    "category": "知识管理与笔记",
-   "note": ""
-  },
-  {
-   "full_name": "Bambu-Research-Group/RFID-Tag-Guide",
-   "url": "https://github.com/Bambu-Research-Group/RFID-Tag-Guide",
-   "description": "读取 Bambu Lab 耗材 NFC/RFID 标签的说明与工具，含标签数据结构逆向",
-   "language": "",
-   "stars": 1729,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-19",
-   "category": "知识管理与笔记",
-   "applicable": "",
    "note": ""
   },
   {
@@ -34608,6 +34783,27 @@
    ]
   },
   {
+   "full_name": "GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection",
+   "url": "https://github.com/GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection",
+   "description": "基于红外相机与人脸检测的体温监测告警系统（Python）",
+   "language": "",
+   "stars": 39,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-19",
+   "category": "AI 模型与视觉",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-19"
+   ]
+  },
+  {
    "full_name": "bociic/FusionRegister",
    "url": "https://github.com/bociic/FusionRegister",
    "description": "CVPR 2026 官方实现：红外-可见光图像融合前的配准方法，指出「输入已对齐」是不成立的隐含假设",
@@ -35054,7 +35250,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 490085,
+   "stars": 490086,
    "topics": [
     "api",
     "apis",
@@ -35855,62 +36051,6 @@
    "note": ""
   },
   {
-   "full_name": "MiczFlor/RPi-Jukebox-RFID",
-   "url": "https://github.com/MiczFlor/RPi-Jukebox-RFID",
-   "description": "树莓派 + RFID 读卡器的点唱机：刷卡触发音乐/播客，含 Web 前端",
-   "language": "",
-   "stars": 1813,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Source-Robotics/Faze4-Robotic-arm",
-   "url": "https://github.com/Source-Robotics/Faze4-Robotic-arm",
-   "description": "六轴机械臂全套开源：摆线针轮减速器、结构件与电机驱动",
-   "language": "",
-   "stars": 911,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "makerbase-motor/MKS-SERVO42D-57D",
-   "url": "https://github.com/makerbase-motor/MKS-SERVO42D-57D",
-   "description": "MKS SERVO42D/57D 闭环步进电机驱动板，FOC 控制、RS485/CAN 接口，含固件与硬件资料",
-   "language": "",
-   "stars": 102,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection",
-   "url": "https://github.com/GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection",
-   "description": "基于红外相机与人脸检测的体温监测告警系统（Python）",
-   "language": "",
-   "stars": 39,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-19",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "JOEYZYC/VibNode",
    "url": "https://github.com/JOEYZYC/VibNode",
    "description": "",
@@ -35920,7 +36060,7 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-10-19",
-   "category": "待归类",
+   "category": "开发工具与系统资源",
    "note": ""
   },
   {
@@ -35933,7 +36073,7 @@
    "archived": true,
    "source": "star",
    "added_at": "2026-10-19",
-   "category": "待归类",
+   "category": "开发工具与系统资源",
    "note": ""
   }
  ]

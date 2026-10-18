@@ -5,7 +5,7 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★392,394 · TypeScript · ⭐ 已 star`
+`★392,395 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -35,14 +35,14 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★253,049 · TypeScript · ⭐ 已 star`
+`★253,050 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★220,956 · ⭐ 已 star`
+`★220,957 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -124,7 +124,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★96,573 · TypeScript · ⭐ 已 star`
+`★96,575 · TypeScript · ⭐ 已 star`
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -358,7 +358,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 ---
 
 #### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-`★35,849 · TypeScript · ⭐ 已 star`
+`★35,850 · TypeScript · ⭐ 已 star`
 ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 > 收录日期：2026-09-13
 

@@ -36,7 +36,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★5,622 · Rust · ⭐ 已 star`
+`★5,623 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -1108,8 +1108,9 @@ BLDC 无刷电机驱动板设计（兼容 ODrive 接口），含原理图与 PCB
 ---
 
 #### [tobychui/PD-Adjustable-DC-Power-Supply](https://github.com/tobychui/PD-Adjustable-DC-Power-Supply)
-`★111 · 🔥 热点推荐`
+`★111 · ⭐🔥 已 star + 热点推荐`
 USB PD 供电的口袋型可调直流电源，含固件、PCB 与外壳设计
+> 热点推荐于 2026-10-19
 > 收录日期：2026-10-19
 
 ---

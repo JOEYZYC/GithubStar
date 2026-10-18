@@ -87,6 +87,22 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-19：本轮 20 条，待归类 4 条 + 规则误判 3 条 + star 新增 2 条 ----
+    # 嵌入式与单片机（树莓派 + RFID 读卡整机，与 miguelbalboa/rfid 同口径）
+    "MiczFlor/RPi-Jukebox-RFID": "嵌入式与单片机",
+    # 嵌入式与单片机（闭环步进驱动板硬件 + 固件，与 FOC-Servo / StepperDriver 同口径）
+    "makerbase-motor/MKS-SERVO42D-57D": "嵌入式与单片机",
+    # 飞控与无人机（机器人域整机：六轴机械臂，与 PAROL6 / XLeRobot 同口径）
+    "Source-Robotics/Faze4-Robotic-arm": "飞控与无人机",
+    # AI 模型与视觉（红外测温 + 人脸 ROI 检测，与 MFNet-pytorch 同口径）
+    "GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection": "AI 模型与视觉",
+    # 无线通信与感知（RFID/NFC 标签读取与逆向，与 proxmark3 同口径）
+    "Bambu-Research-Group/RFID-Tag-Guide": "无线通信与感知",
+    # 无线通信与感知（雷达信号仿真，与 Ttl/fmcw3 同口径；误命中「仿真」进电磁）
+    "liynjy/FMCW-Radar-Simulator": "无线通信与感知",
+    # 开发工具与系统资源（用户自有仓库）
+    "JOEYZYC/VibNode": "开发工具与系统资源",
+    "JOEYZYC/Hello": "开发工具与系统资源",
     # ---- 2026-10-18：本轮 20 条，待归类 3 条（描述为中文简介，关键词表未覆盖）+ star 新增 3 条 ----
     # 硬件设计与 EDA（FPGA/JTAG 调试与数字电路设计，与 gaelco-fpga / jtagulator 同口径）
     "Xilinx/XilinxVirtualCable": "硬件设计与 EDA",            # XVC 协议：TCP/IP 远程 JTAG 线缆
