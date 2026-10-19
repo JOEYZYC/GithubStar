@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 215 个项目 · 数据更新时间 2026-10-19 · [返回总览](../README.md)
+> 共 218 个项目 · 数据更新时间 2026-10-20 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,478 · C++ · ⭐ 已 star`
+`★34,538 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -36,7 +36,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★5,623 · Rust · ⭐ 已 star`
+`★7,236 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -79,6 +79,13 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件
 > 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
+
+---
+
+#### [samyk/magspoof](https://github.com/samyk/magspoof)
+`★4,155 · 🔥 热点推荐`
+便携式磁条卡模拟器（MagSpoof）：无线模拟任意磁条卡，含硬件电路与固件
+> 收录日期：2026-10-20
 
 ---
 
@@ -131,7 +138,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,273 · Rust · ⭐ 已 star`
+`★3,321 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -154,7 +161,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,031 · C++ · ⭐ 已 star`
+`★3,036 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -177,7 +184,7 @@ KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,938 · Python · ⭐ 已 star`
+`★2,958 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -411,6 +418,13 @@ Python 芯片与 PCB 版图生成库，支持光子/模拟/量子/MEMS 与三维
 RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [tinfever/FW-Dyson-BMS](https://github.com/tinfever/FW-Dyson-BMS)
+`★941 · 🔥 热点推荐`
+逆向戴森 V6/V7 吸尘器电池管理系统的固件升级方案，含电池管理电路与固件分析
+> 收录日期：2026-10-20
 
 ---
 
@@ -806,7 +820,7 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★256 · C++ · ⭐ 已 star`
+`★257 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1438,6 +1452,13 @@ AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
 Gaelco 街机基板的 FPGA 复刻核心（Verilog），可作 HDL 逆向与总线时序的学习样本
 > 热点推荐于 2026-10-09
 > 收录日期：2026-10-09
+
+---
+
+#### [ChengminLi/AI-PCB-layout](https://github.com/ChengminLi/AI-PCB-layout)
+`★25 · 🔥 热点推荐`
+面向电力电子 PCB 设计的 AI 智能体技能：自动布局与评审，每一步保留人工确认关卡
+> 收录日期：2026-10-20
 
 ---
 
