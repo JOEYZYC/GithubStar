@@ -36,7 +36,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★7,236 · Rust · ⭐ 已 star`
+`★7,238 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -83,8 +83,9 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [samyk/magspoof](https://github.com/samyk/magspoof)
-`★4,155 · 🔥 热点推荐`
+`★4,155 · ⭐🔥 已 star + 热点推荐`
 便携式磁条卡模拟器（MagSpoof）：无线模拟任意磁条卡，含硬件电路与固件
+> 热点推荐于 2026-10-20
 > 收录日期：2026-10-20
 
 ---
@@ -422,8 +423,9 @@ RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 ---
 
 #### [tinfever/FW-Dyson-BMS](https://github.com/tinfever/FW-Dyson-BMS)
-`★941 · 🔥 热点推荐`
+`★941 · ⭐🔥 已 star + 热点推荐`
 逆向戴森 V6/V7 吸尘器电池管理系统的固件升级方案，含电池管理电路与固件分析
+> 热点推荐于 2026-10-20
 > 收录日期：2026-10-20
 
 ---
@@ -1456,8 +1458,9 @@ Gaelco 街机基板的 FPGA 复刻核心（Verilog），可作 HDL 逆向与总�
 ---
 
 #### [ChengminLi/AI-PCB-layout](https://github.com/ChengminLi/AI-PCB-layout)
-`★25 · 🔥 热点推荐`
+`★25 · ⭐🔥 已 star + 热点推荐`
 面向电力电子 PCB 设计的 AI 智能体技能：自动布局与评审，每一步保留人工确认关卡
+> 热点推荐于 2026-10-20
 > 收录日期：2026-10-20
 
 ---

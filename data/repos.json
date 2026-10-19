@@ -768,6 +768,27 @@
    "note": ""
   },
   {
+   "full_name": "SkyentificGit/SmallRobotArm",
+   "url": "https://github.com/SkyentificGit/SmallRobotArm",
+   "description": "六自由度步进电机机械臂开源项目，含机械结构、电机驱动与控制代码，常作入门基准",
+   "language": "",
+   "stars": 1480,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-20",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
+  },
+  {
    "full_name": "pixhawk/Hardware",
    "url": "https://github.com/pixhawk/Hardware",
    "description": "PX4 与 Pixhawk 飞控硬件设计资料，含原理图与布局",
@@ -11406,7 +11427,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "CANopenNode/CANopenNode",
@@ -11787,7 +11815,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "cnlohr/ch32fun",
@@ -13552,7 +13587,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "SuperPixelElectronics/Embedded_Core_Boards",
@@ -15239,6 +15281,27 @@
    ]
   },
   {
+   "full_name": "cyrils/renogy-bt",
+   "url": "https://github.com/cyrils/renogy-bt",
+   "description": "通过蓝牙读取 Renogy 太阳能充电控制器与电池数据的 Python 库，用于光伏电源系统监控",
+   "language": "",
+   "stars": 143,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-20",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
+  },
+  {
    "full_name": "citysu/csiread",
    "url": "https://github.com/citysu/csiread",
    "description": "高速 CSI 解析库，支持 Intel、Atheros、Nexmon、ESP32 与 PicoScenes",
@@ -16912,7 +16975,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "pyrite-project/pyrite-ide",
@@ -17804,7 +17874,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "lalitshankarch/rvcore",
@@ -18701,7 +18778,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -19010,7 +19094,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "alexex1993/mcu-skills",
@@ -19213,7 +19304,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -19681,7 +19779,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -20275,7 +20380,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "Adithyachatla/esp32-command-center",
@@ -20289,7 +20401,14 @@
    "added_at": "2026-10-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -20663,7 +20782,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 7236,
+   "stars": 7238,
    "topics": [
     "3d-modeling",
     "brep",
@@ -20798,7 +20917,14 @@
    "added_at": "2026-10-20",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "enjoy-digital/litex",
@@ -21730,7 +21856,14 @@
    "added_at": "2026-10-20",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "komar007/gh60",
@@ -24440,7 +24573,14 @@
    "added_at": "2026-10-20",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "senolgulgonul/verisim",
@@ -26109,7 +26249,14 @@
    "added_at": "2026-10-20",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "codyd51/gypsum",
@@ -28908,7 +29055,14 @@
    "added_at": "2026-10-20",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "hardcoreerik/esp-rtl-sdr",
@@ -29132,7 +29286,14 @@
    "added_at": "2026-10-20",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "tientruongminh/rf-worldpose",
@@ -29349,7 +29510,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 392564,
+   "stars": 392566,
    "topics": [
     "ai",
     "assistant",
@@ -29441,7 +29602,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 254431,
+   "stars": 254432,
    "topics": [
     "ai-agents",
     "cordis",
@@ -29459,7 +29620,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 221211,
+   "stars": 221212,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29472,7 +29633,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 217756,
+   "stars": 217759,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29485,7 +29646,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 161737,
+   "stars": 161738,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29679,7 +29840,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 98211,
+   "stars": 98212,
    "topics": [
     "ade",
     "agent-ide",
@@ -29755,7 +29916,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 88676,
+   "stars": 88677,
    "topics": [
     "ai",
     "ai-scraping",
@@ -30042,7 +30203,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 58499,
+   "stars": 58500,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -32161,7 +32322,14 @@
    "added_at": "2026-10-20",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
+   ]
   },
   {
    "full_name": "tianma-if/edgeever",
@@ -35502,7 +35670,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 490499,
+   "stars": 490500,
    "topics": [
     "api",
     "apis",
@@ -35654,7 +35822,7 @@
    "url": "https://github.com/hmjz100/LinkSwift",
    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
    "language": "JavaScript",
-   "stars": 26038,
+   "stars": 26039,
    "topics": [
     "123pan",
     "aliyun-drive",
@@ -36326,34 +36494,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "SkyentificGit/SmallRobotArm",
-   "url": "https://github.com/SkyentificGit/SmallRobotArm",
-   "description": "六自由度步进电机机械臂开源项目，含机械结构、电机驱动与控制代码，常作入门基准",
-   "language": "",
-   "stars": 1480,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-20",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "cyrils/renogy-bt",
-   "url": "https://github.com/cyrils/renogy-bt",
-   "description": "通过蓝牙读取 Renogy 太阳能充电控制器与电池数据的 Python 库，用于光伏电源系统监控",
-   "language": "",
-   "stars": 143,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-20",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

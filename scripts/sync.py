@@ -87,6 +87,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-20：本轮 20 条，待归类 2 条 ----
+    # 飞控与无人机（步进电机六轴机械臂，与 Faze4 / PAROL6 机器人域整机同口径）
+    "SkyentificGit/SmallRobotArm": "飞控与无人机",
+    # 嵌入式与单片机（太阳能充电控制器蓝牙取数，与 Solar2MQTT-ESP8266 同口径）
+    "cyrils/renogy-bt": "嵌入式与单片机",
     # ---- 2026-10-19：本轮 20 条，待归类 4 条 + 规则误判 3 条 + star 新增 2 条 ----
     # 嵌入式与单片机（树莓派 + RFID 读卡整机，与 miguelbalboa/rfid 同口径）
     "MiczFlor/RPi-Jukebox-RFID": "嵌入式与单片机",
