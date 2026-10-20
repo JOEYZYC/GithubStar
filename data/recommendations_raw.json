@@ -1,102 +1,92 @@
 [
  {
-  "url": "https://github.com/samyk/magspoof",
-  "stars": 4155,
-  "desc": "便携式磁条卡模拟器（MagSpoof）：无线模拟任意磁条卡，含硬件电路与固件"
+  "url": "https://github.com/alibaba/AliOS-Things",
+  "stars": 4631,
+  "desc": "阿里 IoT 操作系统 AliOS Things：面向 MCU 的物联网 OS，含内核、协议栈与云端接入"
  },
  {
-  "url": "https://github.com/imKeYan/EmbedBooks",
-  "stars": 2046,
-  "desc": "嵌入式经典书籍与 C 程序员书单合集：电子基础、ARM 架构、Linux、网络，附下载地址"
+  "url": "https://github.com/mriscoc/Ender3V2S1",
+  "stars": 3188,
+  "desc": "Creality Ender-3 V2/S1 的优化版 Marlin 固件（Professional Firmware），加自动调平、断电续打与自定义屏幕菜单，3D 打印机固件参考"
  },
  {
-  "url": "https://github.com/AngelLM/Thor",
-  "stars": 1622,
-  "desc": "可 3D 打印的 DIY 六轴机械臂：结构件、步进电机驱动与控制软件全套开源"
+  "url": "https://github.com/cncjs/cncjs",
+  "stars": 2658,
+  "desc": "基于浏览器的 CNC 铣床控制界面，支持 Grbl、Marlin、Smoothieware、TinyG 控制器，可远程跑 G-code"
  },
  {
-  "url": "https://github.com/prusa3d/Prusa-Firmware-Buddy",
-  "stars": 1621,
-  "desc": "Prusa MINI/MK4/XL 与 CORE One 3D 打印机的 32 位主控固件，含步进电机运动规划与温度控制"
+  "url": "https://github.com/Nate711/StanfordDoggoProject",
+  "stars": 2568,
+  "desc": "Stanford Doggo 开源四足跳跃机器人：机械 CAD、无刷电机驱动器与控制固件全套开放"
  },
  {
-  "url": "https://github.com/SkyentificGit/SmallRobotArm",
-  "stars": 1480,
-  "desc": "六自由度步进电机机械臂开源项目，含机械结构、电机驱动与控制代码，常作入门基准"
+  "url": "https://github.com/GEIGEIGEIST/TOTEM",
+  "stars": 2059,
+  "desc": "38 键列错位分体键盘，主控用 Seeed XIAO BLE 或 RP2040，含开源 KiCad 工程与 QMK 固件"
  },
  {
-  "url": "https://github.com/tinfever/FW-Dyson-BMS",
-  "stars": 941,
-  "desc": "逆向戴森 V6/V7 吸尘器电池管理系统的固件升级方案，含电池管理电路与固件分析"
+  "url": "https://github.com/BCN3D/BCN3D-Moveo",
+  "stars": 2007,
+  "desc": "BCN3D 开源的 3D 打印六轴机械臂教学项目：结构件、步进电机驱动与控制固件"
  },
  {
-  "url": "https://github.com/mikroverk/esp32sim",
-  "stars": 433,
-  "desc": "开源 ESP32 模拟器：本地或浏览器里直接跑真实固件，无需硬件即可调试嵌入式程序"
+  "url": "https://github.com/ToanTech/py-apple-quadruped-robot",
+  "stars": 1340,
+  "desc": "低成本大型四足机器人 py-apple 的软硬件全套开源：机械结构、电机驱动与运动控制"
  },
  {
-  "url": "https://github.com/knaufinator/6DOF-Rotary-Stewart-Motion-Simulator",
-  "stars": 385,
-  "desc": "六自由度 Stewart 旋转运动平台：交流伺服电机 + AASD15A 驱动器，含运动学与控制实现"
+  "url": "https://github.com/jschuh/klipper-macros",
+  "stars": 1276,
+  "desc": "Klipper 3D 打印固件的实用宏合集：调平、换料、床网与常用 G-code 片段"
  },
  {
-  "url": "https://github.com/cyrils/renogy-bt",
-  "stars": 143,
-  "desc": "通过蓝牙读取 Renogy 太阳能充电控制器与电池数据的 Python 库，用于光伏电源系统监控"
+  "url": "https://github.com/Frix-x/klippain",
+  "stars": 1205,
+  "desc": "模块化的 Klipper 打印机配置框架，把配置拆成可复用模块，含输入整形与校准宏"
  },
  {
-  "url": "https://github.com/podonoghue/usbdm-firmware",
-  "stars": 58,
-  "desc": "USBDM 系列 BDM/SWD 调试器固件，用于飞思卡尔与 ARM 单片机的底层烧录与调试"
+  "url": "https://github.com/bassamanator/Sovol-SV06-firmware",
+  "stars": 1088,
+  "desc": "Sovol SV06 系列 3D 打印机的完整 Klipper 配置与固件升级包，含安装说明与宏"
  },
  {
-  "url": "https://github.com/yanxuceo/knoedel-watch",
-  "stars": 34,
-  "desc": "ESP32-S3（M5Stack StopWatch）开发板上的动画单词卡应用，用于语言学习"
+  "url": "https://github.com/liyiteng/AlohaMini",
+  "stars": 1087,
+  "desc": "带电动升降的双臂移动机器人 AlohaMini：开源软硬件，面向模仿学习数据采集"
  },
  {
-  "url": "https://github.com/ChengminLi/AI-PCB-layout",
-  "stars": 25,
-  "desc": "面向电力电子 PCB 设计的 AI 智能体技能：自动布局与评审，每一步保留人工确认关卡"
+  "url": "https://github.com/syssi/esphome-jk-bms",
+  "stars": 1040,
+  "desc": "ESPHome 组件：用 ESP32 经 UART 或 BLE 读 JK-BMS 电池管理系统的电压电流温度，接入 Home Assistant"
  },
  {
-  "url": "https://github.com/whstudio123/esp32-iq-tx",
-  "stars": 21,
-  "desc": "ESP32-S3 基于 SRAM 的任意 IQ 波形发射，可选采样率、QPSK/16QAM OFDM，配频谱与星座图观测"
+  "url": "https://github.com/svenhb/GRBL-Plotter",
+  "stars": 901,
+  "desc": "GRBL 控制器的 GCode 上位机：SVG/DXF/HPGL 导入、双控制器支持、6 轴 DRO，用于激光与绘图仪"
  },
  {
-  "url": "https://github.com/ok1cdj/ESP32-ATV",
-  "stars": 18,
-  "desc": "ESP32-C3 单机 DVB-S2 信标与 ATV 接收（13cm 业余电视频段），另含 ESP32-S3 + Android 接收端"
+  "url": "https://github.com/UnifiedEngineering/T-962-improvements",
+  "stars": 868,
+  "desc": "改造廉价 T-962 回流焊炉：保留原有控制器硬件，重写固件做温度曲线与安全保护"
  },
  {
-  "url": "https://github.com/alphafox02/openwrt-one-sdr",
-  "stars": 17,
-  "desc": "OpenWrt One 路由器（MediaTek MT7981 无线芯片）上做宽带 IQ 采集的软件无线电：40 MSps/14 bit VITA 49 流经 2.5GbE，带实时频谱查看器"
+  "url": "https://github.com/Nikolay-Kha/PyCNC",
+  "stars": 651,
+  "desc": "树莓派上的 Python CNC 运动控制器：解析 G-code 并直接输出步进/伺服脉冲"
  },
  {
-  "url": "https://github.com/andrisgauracs/whistle-esp32",
-  "stars": 17,
-  "desc": "ESP32-S3 上完全本地运行的关键词识别，离线 TinyML 语音转文字演示"
+  "url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply",
+  "stars": 579,
+  "desc": "口袋大小的电池供电台式电源：开源硬件（KiCad）+ 固件，输出可调，适合随身实验"
  },
  {
-  "url": "https://github.com/merckhung/darwin_embedded",
-  "stars": 13,
-  "desc": "把 Apple XNU/Darwin 内核移植到嵌入式 ARM64/x86_64 平台的工程，可作操作系统移植参考"
+  "url": "https://github.com/HighCodeh/TentacleOS",
+  "stars": 496,
+  "desc": "High Boy 手持多功能平台的 ESP-IDF 固件（BETA）：面向 ESP32-P4/C5，模块化组件，覆盖 RF、NFC、IR、BLE、WiFi 与 BadUSB"
  },
  {
-  "url": "https://github.com/fractional-n/adsbrx",
-  "stars": 12,
-  "desc": "Python 实现的 ADS-B（1090 MHz Mode S）接收机，配 RTL-SDR 做航空信号接收"
- },
- {
-  "url": "https://github.com/afrazali722/stm32f407-terminal-baremetal",
-  "stars": 10,
-  "desc": "STM32F407 裸机开发全流程：macOS 终端 + ARM GCC + OpenOCD + ST-LINK + GDB，不用 IDE 也不用 HAL 写固件"
- },
- {
-  "url": "https://github.com/Adithyachatla/esp32-command-center",
-  "stars": 10,
-  "desc": "ESP32 自带 WiFi 热点上跑的终端风格 Web 控制台（PlatformIO + LittleFS + ESPAsyncWebServer）"
+  "url": "https://github.com/zengxiong111/Foundation_of_Embodied_AI",
+  "stars": 67,
+  "desc": "具身智能课程材料：机器人动力学、Isaac Sim/Lab、MuJoCo 的中英双语教程"
  }
 ]

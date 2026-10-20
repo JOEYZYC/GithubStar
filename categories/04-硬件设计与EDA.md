@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 218 个项目 · 数据更新时间 2026-10-20 · [返回总览](../README.md)
+> 共 222 个项目 · 数据更新时间 2026-10-21 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,538 · C++ · ⭐ 已 star`
+`★34,583 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -27,18 +27,18 @@ Give your agent CAD superpowers.
 
 ---
 
+#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+`★8,244 · Rust · ⭐ 已 star`
+SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+> 收录日期：2026-10-17
+
+---
+
 #### [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card)
 `★7,640 · ⭐🔥 已 star + 热点推荐`
 带墨水屏的智能 NFC 卡片，含 PCB、低功耗固件与刷卡显示方案
 > 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
-
----
-
-#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★7,238 · Rust · ⭐ 已 star`
-SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
-> 收录日期：2026-10-17
 
 ---
 
@@ -139,7 +139,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,321 · Rust · ⭐ 已 star`
+`★3,361 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -162,7 +162,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,036 · C++ · ⭐ 已 star`
+`★3,044 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -176,18 +176,18 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 
 ---
 
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★2,976 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
+
+---
+
 #### [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)
 `★2,970 · ⭐🔥 已 star + 热点推荐`
 KiCad EDA 主线开发分支的 GitHub 镜像（跟踪上游进度）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
-
----
-
-#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,958 · Python · ⭐ 已 star`
-FreeCAD MCP(Model Context Protocol) server
-> 收录日期：2026-09-27
 
 ---
 
@@ -211,6 +211,13 @@ SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Des
 用 TypeScript/React 定义并生成真实电子产品（电路即代码）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject)
+`★2,568 · 🔥 热点推荐`
+Stanford Doggo 开源四足跳跃机器人：机械 CAD、无刷电机驱动器与控制固件全套开放
+> 收录日期：2026-10-21
 
 ---
 
@@ -251,6 +258,13 @@ KiCAD MCP is a Model Context Protocol (MCP) implementation that enables Large La
 KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM)
+`★2,059 · 🔥 热点推荐`
+38 键列错位分体键盘，主控用 Seeed XIAO BLE 或 RP2040，含开源 KiCad 工程与 QMK 固件
+> 收录日期：2026-10-21
 
 ---
 
@@ -430,6 +444,13 @@ RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 
 ---
 
+#### [svenhb/GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter)
+`★901 · 🔥 热点推荐`
+GRBL 控制器的 GCode 上位机：SVG/DXF/HPGL 导入、双控制器支持、6 轴 DRO，用于激光与绘图仪
+> 收录日期：2026-10-21
+
+---
+
 #### [komar007/gh60](https://github.com/komar007/gh60)
 `★872 · ⭐🔥 已 star + 热点推荐`
 GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
@@ -551,9 +572,16 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★579 · C · ⭐ 已 star`
+`★580 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
+
+---
+
+#### [BenMakesEverything/Pocket-Lab-Power-Supply](https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply)
+`★579 · 🔥 热点推荐`
+口袋大小的电池供电台式电源：开源硬件（KiCad）+ 固件，输出可调，适合随身实验
+> 收录日期：2026-10-21
 
 ---
 
@@ -822,7 +850,7 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★257 · C++ · ⭐ 已 star`
+`★259 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
