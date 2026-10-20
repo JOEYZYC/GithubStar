@@ -44,6 +44,7 @@ RULES: dict[str, list[str]] = {
         "ardupilot", "px4", "crazyflie", "drone", "quadrotor", "multicopter", "uav",
         "flight controller", "飞控", "无人机", "ego-planner", "dronebridge", "langostino",
         "swiftwing", "图传遥控", "bittensor", "lime", "nano quadcopter", "mission planner",
+        "quadruped", "robotic arm", "robot arm", "机械臂", "四足",
     ],
     "嵌入式与单片机": [
         "embedded", "mcu", "microcontroller", "micro-python", "micropython", "rtos",
@@ -51,6 +52,7 @@ RULES: dict[str, list[str]] = {
         "bouffalo", "bl702", "rt-thread", "arduino", "firmware", "tinyml", "lvgl", "littlevgl",
         "toit", "renode", "eide", "openmv", "camera module", "单片机", "嵌入式", "m0sense",
         "probe-rs", "openocd", "hardware-in-the-loop", "real board", "liet", "i2c", "spi",
+        "cnc", "grbl", "gcode", "g-code", "klipper", "marlin", "stepper", "数控", "3d printer",
     ],
     "硬件设计与 EDA": [
         "kicad", "altium", "pcb", "eda", "easyeda", "嘉立创", "schematic", "bom",
@@ -87,6 +89,20 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-21：本轮 18 条，待归类 8 条（描述为中文简介，关键词表未覆盖 CNC/Klipper 类） ----
+    # 嵌入式与单片机（CNC/3D 打印运动控制上位机与配置层，与 Klipper3d/klipper、Prusa-Firmware 同口径）
+    "cncjs/cncjs": "嵌入式与单片机",
+    "jschuh/klipper-macros": "嵌入式与单片机",
+    "Frix-x/klippain": "嵌入式与单片机",
+    "Nikolay-Kha/PyCNC": "嵌入式与单片机",
+    # 嵌入式与单片机（老仪器固件重写：回流焊炉温控固件，与 Reflow-Oven-Controller 同口径）
+    "UnifiedEngineering/T-962-improvements": "嵌入式与单片机",
+    # 飞控与无人机（机器人域整机：四足/双臂，与 XLeRobot / PAROL6 同口径）
+    "ToanTech/py-apple-quadruped-robot": "飞控与无人机",
+    "BCN3D/BCN3D-Moveo": "飞控与无人机",
+    "liyiteng/AlohaMini": "飞控与无人机",
+    # 硬件设计与 EDA（示波器厂商固件数据解析工具，仪器侧同口径）
+    "zelea2/rigol_vendor_bin": "硬件设计与 EDA",
     # ---- 2026-10-20：本轮 20 条，待归类 2 条 ----
     # 飞控与无人机（步进电机六轴机械臂，与 Faze4 / PAROL6 机器人域整机同口径）
     "SkyentificGit/SmallRobotArm": "飞控与无人机",

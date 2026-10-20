@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 222 个项目 · 数据更新时间 2026-10-21 · [返回总览](../README.md)
+> 共 216 个项目 · 数据更新时间 2026-10-21 · [返回总览](../README.md)
 
 ---
 
@@ -28,7 +28,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★8,244 · Rust · ⭐ 已 star`
+`★8,252 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -71,14 +71,6 @@ Chisel：用 Scala 写硬件描述语言的现代 HDL 框架，生成 Verilog �
 KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
-
----
-
-#### [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm)
-`★4,392 · ⭐🔥 已 star + 热点推荐`
-面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件
-> 热点推荐于 2026-10-18
-> 收录日期：2026-10-18
 
 ---
 
@@ -214,13 +206,6 @@ SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Des
 
 ---
 
-#### [Nate711/StanfordDoggoProject](https://github.com/Nate711/StanfordDoggoProject)
-`★2,568 · 🔥 热点推荐`
-Stanford Doggo 开源四足跳跃机器人：机械 CAD、无刷电机驱动器与控制固件全套开放
-> 收录日期：2026-10-21
-
----
-
 #### [cocotb/cocotb](https://github.com/cocotb/cocotb)
 `★2,529 · ⭐🔥 已 star + 热点推荐`
 Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准，替代一大半 SystemVerilog testbench
@@ -262,8 +247,9 @@ KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 ---
 
 #### [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM)
-`★2,059 · 🔥 热点推荐`
+`★2,059 · ⭐🔥 已 star + 热点推荐`
 38 键列错位分体键盘，主控用 Seeed XIAO BLE 或 RP2040，含开源 KiCad 工程与 QMK 固件
+> 热点推荐于 2026-10-21
 > 收录日期：2026-10-21
 
 ---
@@ -380,14 +366,6 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 
 ---
 
-#### [CarlosGS/Cyclone-PCB-Factory](https://github.com/CarlosGS/Cyclone-PCB-Factory)
-`★1,186 · ⭐🔥 已 star + 热点推荐`
-参数化 CNC 铣床设计，用于自制 PCB（电路克隆机）
-> 热点推荐于 2026-09-17
-> 收录日期：2026-09-17
-
----
-
 #### [MikePopoloski/slang](https://github.com/MikePopoloski/slang)
 `★1,154 · ⭐🔥 已 star + 热点推荐`
 SystemVerilog 编译器与语言服务前端，支撑 lint、格式化与 IDE 补全，开源 RTL 基建的核心组件
@@ -441,13 +419,6 @@ RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 逆向戴森 V6/V7 吸尘器电池管理系统的固件升级方案，含电池管理电路与固件分析
 > 热点推荐于 2026-10-20
 > 收录日期：2026-10-20
-
----
-
-#### [svenhb/GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter)
-`★901 · 🔥 热点推荐`
-GRBL 控制器的 GCode 上位机：SVG/DXF/HPGL 导入、双控制器支持、6 轴 DRO，用于激光与绘图仪
-> 收录日期：2026-10-21
 
 ---
 
@@ -579,8 +550,9 @@ Software and Hardware Production Files of the Automotive Rapid DEvelopment Platf
 ---
 
 #### [BenMakesEverything/Pocket-Lab-Power-Supply](https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply)
-`★579 · 🔥 热点推荐`
+`★579 · ⭐🔥 已 star + 热点推荐`
 口袋大小的电池供电台式电源：开源硬件（KiCad）+ 固件，输出可调，适合随身实验
+> 热点推荐于 2026-10-21
 > 收录日期：2026-10-21
 
 ---
@@ -887,6 +859,12 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 
 ---
 
+#### [zelea2/rigol_vendor_bin](https://github.com/zelea2/rigol_vendor_bin)
+`★220 · C · ⭐ 已 star`
+> 收录日期：2026-10-21
+
+---
+
 #### [upnalab/SonicSurface](https://github.com/upnalab/SonicSurface)
 `★214 · ⭐🔥 已 star + 热点推荐`
 开源相控阵硬件（VHDL）生成空气超声振幅图案
@@ -924,14 +902,6 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 小体积可配置的 FPGA 片内逻辑分析仪，直接在 RTL 内插观测点
 > 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
-
----
-
-#### [bigtreetech/BIGTREETECH-Stepper-Motor-Driver](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver)
-`★205 · ⭐🔥 已 star + 热点推荐`
-BIGTREETECH 步进电机驱动模块硬件设计文件（原理图 + PCB），TMC 步进驱动电路参考资料
-> 热点推荐于 2026-10-13
-> 收录日期：2026-10-13
 
 ---
 
@@ -1538,22 +1508,6 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 > 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
-
----
-
-#### [bgkatz/mc-psu-v3](https://github.com/bgkatz/mc-psu-v3)
-`★20 · ⭐🔥 已 star + 热点推荐`
-Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图
-> 热点推荐于 2026-10-12
-> 收录日期：2026-10-12
-
----
-
-#### [jyg9/microduck-community-kit](https://github.com/jyg9/microduck-community-kit)
-`★20 · ⭐🔥 已 star + 热点推荐`
-补齐 microduck 开源四足机器人的硬件电路与固件，含 IMU 转 Dynamixel 与 PCB 复刻
-> 热点推荐于 2026-10-18
-> 收录日期：2026-10-18
 
 ---
 

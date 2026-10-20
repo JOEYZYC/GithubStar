@@ -175,6 +175,27 @@
    ]
   },
   {
+   "full_name": "PetoiCamp/OpenCat-Quadruped-Robot",
+   "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
+   "description": "开源四足机器人框架 OpenCat（MIT）：舵机驱动、步态与 ESP32/Arduino 板级代码，STEM 与足式机器人入门",
+   "language": "",
+   "stars": 5459,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-17",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-17"
+   ]
+  },
+  {
    "full_name": "ExpressLRS/ExpressLRS",
    "url": "https://github.com/ExpressLRS/ExpressLRS",
    "description": "高性能开源无线电遥控链路（ELRS）主仓：固件、协议与配置器",
@@ -256,6 +277,48 @@
    ],
    "hot_dates": [
     "2026-10-08"
+   ]
+  },
+  {
+   "full_name": "dorianborian/sesame-robot",
+   "url": "https://github.com/dorianborian/sesame-robot",
+   "description": "基于 ESP32 的低成本开源迷你四足机器人，含结构件与固件",
+   "language": "",
+   "stars": 4483,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-23",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-23"
+   ]
+  },
+  {
+   "full_name": "Seeed-Projects/reBot-DevArm",
+   "url": "https://github.com/Seeed-Projects/reBot-DevArm",
+   "description": "面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件",
+   "language": "",
+   "stars": 4392,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-18",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
    ]
   },
   {
@@ -490,6 +553,27 @@
    ]
   },
   {
+   "full_name": "Nate711/StanfordDoggoProject",
+   "url": "https://github.com/Nate711/StanfordDoggoProject",
+   "description": "Stanford Doggo 开源四足跳跃机器人：机械 CAD、无刷电机驱动器与控制固件全套开放",
+   "language": "",
+   "stars": 2568,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "full_name": "VisDrone/VisDrone-Dataset",
    "url": "https://github.com/VisDrone/VisDrone-Dataset",
    "description": "无人机视角目标检测与跟踪权威数据集，含图像/视频与标注",
@@ -713,6 +797,27 @@
    ]
   },
   {
+   "full_name": "BCN3D/BCN3D-Moveo",
+   "url": "https://github.com/BCN3D/BCN3D-Moveo",
+   "description": "BCN3D 开源的 3D 打印六轴机械臂教学项目：结构件、步进电机驱动与控制固件",
+   "language": "",
+   "stars": 2007,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "full_name": "dronekit/dronekit-python",
    "url": "https://github.com/dronekit/dronekit-python",
    "description": "通过 MAVLink 与无人机通信的 Python 库，地面站与自动化脚本常用",
@@ -752,6 +857,27 @@
    ],
    "hot_dates": [
     "2026-10-01"
+   ]
+  },
+  {
+   "full_name": "AngelLM/Thor",
+   "url": "https://github.com/AngelLM/Thor",
+   "description": "可 3D 打印的 DIY 六轴机械臂：结构件、步进电机驱动与控制软件全套开源",
+   "language": "",
+   "stars": 1622,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-20",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-20"
    ]
   },
   {
@@ -807,6 +933,27 @@
    ],
    "hot_dates": [
     "2026-09-14"
+   ]
+  },
+  {
+   "full_name": "ToanTech/py-apple-quadruped-robot",
+   "url": "https://github.com/ToanTech/py-apple-quadruped-robot",
+   "description": "低成本大型四足机器人 py-apple 的软硬件全套开源：机械结构、电机驱动与运动控制",
+   "language": "",
+   "stars": 1340,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -889,6 +1036,27 @@
    ],
    "hot_dates": [
     "2026-09-14"
+   ]
+  },
+  {
+   "full_name": "liyiteng/AlohaMini",
+   "url": "https://github.com/liyiteng/AlohaMini",
+   "description": "带电动升降的双臂移动机器人 AlohaMini：开源软硬件，面向模仿学习数据采集",
+   "language": "",
+   "stars": 1087,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -4486,6 +4654,48 @@
    ],
    "hot_dates": [
     "2026-10-14"
+   ]
+  },
+  {
+   "full_name": "bgkatz/mc-psu-v3",
+   "url": "https://github.com/bgkatz/mc-psu-v3",
+   "description": "Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图",
+   "language": "",
+   "stars": 20,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-12",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-12"
+   ]
+  },
+  {
+   "full_name": "jyg9/microduck-community-kit",
+   "url": "https://github.com/jyg9/microduck-community-kit",
+   "description": "补齐 microduck 开源四足机器人的硬件电路与固件，含 IMU 转 Dynamixel 与 PCB 复刻",
+   "language": "",
+   "stars": 20,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-18",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-18"
    ]
   },
   {
@@ -10416,27 +10626,6 @@
    ]
   },
   {
-   "full_name": "PetoiCamp/OpenCat-Quadruped-Robot",
-   "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
-   "description": "开源四足机器人框架 OpenCat（MIT）：舵机驱动、步态与 ESP32/Arduino 板级代码，STEM 与足式机器人入门",
-   "language": "",
-   "stars": 5459,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-17",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-17"
-   ]
-  },
-  {
    "full_name": "warmcat/libwebsockets",
    "url": "https://github.com/warmcat/libwebsockets",
    "description": "C 语言事件驱动网络库，覆盖 HTTP/WebSocket/MQTT，嵌入式与 IoT 设备通信常用",
@@ -10532,7 +10721,14 @@
    "added_at": "2026-10-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "OAID/Tengine",
@@ -10574,27 +10770,6 @@
    ],
    "hot_dates": [
     "2026-09-14"
-   ]
-  },
-  {
-   "full_name": "dorianborian/sesame-robot",
-   "url": "https://github.com/dorianborian/sesame-robot",
-   "description": "基于 ESP32 的低成本开源迷你四足机器人，含结构件与固件",
-   "language": "",
-   "stars": 4483,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-23",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-23"
    ]
   },
   {
@@ -10966,7 +11141,14 @@
    "added_at": "2026-10-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "openhwfoundation/cva6",
@@ -11189,6 +11371,27 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "cncjs/cncjs",
+   "url": "https://github.com/cncjs/cncjs",
+   "description": "基于浏览器的 CNC 铣床控制界面，支持 Grbl、Marlin、Smoothieware、TinyG 控制器，可远程跑 G-code",
+   "language": "",
+   "stars": 2658,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -12134,6 +12337,27 @@
    ]
   },
   {
+   "full_name": "jschuh/klipper-macros",
+   "url": "https://github.com/jschuh/klipper-macros",
+   "description": "Klipper 3D 打印固件的实用宏合集：调平、换料、床网与常用 G-code 片段",
+   "language": "",
+   "stars": 1276,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "full_name": "okalachev/flix",
    "url": "https://github.com/okalachev/flix",
    "description": "从零用 ESP32 打造四轴飞行器的完整工程记录，支持 MAVLink",
@@ -12236,6 +12460,48 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "Frix-x/klippain",
+   "url": "https://github.com/Frix-x/klippain",
+   "description": "模块化的 Klipper 打印机配置框架，把配置拆成可复用模块，含输入整形与校准宏",
+   "language": "",
+   "stars": 1205,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "full_name": "CarlosGS/Cyclone-PCB-Factory",
+   "url": "https://github.com/CarlosGS/Cyclone-PCB-Factory",
+   "description": "参数化 CNC 铣床设计，用于自制 PCB（电路克隆机）",
+   "language": "",
+   "stars": 1186,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
    ]
   },
   {
@@ -12418,7 +12684,14 @@
    "added_at": "2026-10-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "sipeed/TinyMaix",
@@ -12536,7 +12809,14 @@
    "added_at": "2026-10-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "gigwegbe/tinyml-papers-and-projects",
@@ -12791,6 +13071,27 @@
    ]
   },
   {
+   "full_name": "svenhb/GRBL-Plotter",
+   "url": "https://github.com/svenhb/GRBL-Plotter",
+   "description": "GRBL 控制器的 GCode 上位机：SVG/DXF/HPGL 导入、双控制器支持、6 轴 DRO，用于激光与绘图仪",
+   "language": "",
+   "stars": 901,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "full_name": "ecubus/EcuBus-Pro",
    "url": "https://github.com/ecubus/EcuBus-Pro",
    "description": "汽车 ECU 开发工具，覆盖 UDS、CAN-TP、DoIP、LIN、类 CAPL 脚本与 HIL 测试",
@@ -12809,6 +13110,27 @@
    ],
    "hot_dates": [
     "2026-09-21"
+   ]
+  },
+  {
+   "full_name": "UnifiedEngineering/T-962-improvements",
+   "url": "https://github.com/UnifiedEngineering/T-962-improvements",
+   "description": "改造廉价 T-962 回流焊炉：保留原有控制器硬件，重写固件做温度曲线与安全保护",
+   "language": "",
+   "stars": 868,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -13103,6 +13425,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "Nikolay-Kha/PyCNC",
+   "url": "https://github.com/Nikolay-Kha/PyCNC",
+   "description": "树莓派上的 Python CNC 运动控制器：解析 G-code 并直接输出步进/伺服脉冲",
+   "language": "",
+   "stars": 651,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -13499,7 +13842,14 @@
    "added_at": "2026-10-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "maksimdrachov/zephyr-rtos-tutorial",
@@ -14701,6 +15051,27 @@
    ],
    "hot_dates": [
     "2026-10-19"
+   ]
+  },
+  {
+   "full_name": "bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
+   "url": "https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
+   "description": "BIGTREETECH 步进电机驱动模块硬件设计文件（原理图 + PCB），TMC 步进驱动电路参考资料",
+   "language": "",
+   "stars": 205,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-13",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-13"
    ]
   },
   {
@@ -20834,7 +21205,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 8244,
+   "stars": 8252,
    "topics": [
     "3d-modeling",
     "brep",
@@ -20955,27 +21326,6 @@
    ],
    "hot_dates": [
     "2026-09-16"
-   ]
-  },
-  {
-   "full_name": "Seeed-Projects/reBot-DevArm",
-   "url": "https://github.com/Seeed-Projects/reBot-DevArm",
-   "description": "面向开发者的开源六轴机械臂，含结构、驱动电路与运动控制固件",
-   "language": "",
-   "stars": 4392,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-18",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-18"
    ]
   },
   {
@@ -21353,20 +21703,6 @@
    ]
   },
   {
-   "full_name": "Nate711/StanfordDoggoProject",
-   "url": "https://github.com/Nate711/StanfordDoggoProject",
-   "description": "Stanford Doggo 开源四足跳跃机器人：机械 CAD、无刷电机驱动器与控制固件全套开放",
-   "language": "",
-   "stars": 2568,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "cocotb/cocotb",
    "url": "https://github.com/cocotb/cocotb",
    "description": "Python 写 RTL 测试平台的协同仿真框架，芯片验证的事实标准，替代一大半 SystemVerilog testbench",
@@ -21482,7 +21818,14 @@
    "added_at": "2026-10-21",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "SpinalHDL/SpinalHDL",
@@ -21799,27 +22142,6 @@
    ]
   },
   {
-   "full_name": "CarlosGS/Cyclone-PCB-Factory",
-   "url": "https://github.com/CarlosGS/Cyclone-PCB-Factory",
-   "description": "参数化 CNC 铣床设计，用于自制 PCB（电路克隆机）",
-   "language": "",
-   "stars": 1186,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-17"
-   ]
-  },
-  {
    "full_name": "MikePopoloski/slang",
    "url": "https://github.com/MikePopoloski/slang",
    "description": "SystemVerilog 编译器与语言服务前端，支撑 lint、格式化与 IDE 补全，开源 RTL 基建的核心组件",
@@ -21965,20 +22287,6 @@
    "hot_dates": [
     "2026-10-20"
    ]
-  },
-  {
-   "full_name": "svenhb/GRBL-Plotter",
-   "url": "https://github.com/svenhb/GRBL-Plotter",
-   "description": "GRBL 控制器的 GCode 上位机：SVG/DXF/HPGL 导入、双控制器支持、6 轴 DRO，用于激光与绘图仪",
-   "language": "",
-   "stars": 901,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "komar007/gh60",
@@ -22320,7 +22628,14 @@
    "added_at": "2026-10-21",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "wagiminator/Power-Boards",
@@ -23112,6 +23427,19 @@
    ]
   },
   {
+   "full_name": "zelea2/rigol_vendor_bin",
+   "url": "https://github.com/zelea2/rigol_vendor_bin",
+   "description": "",
+   "language": "C",
+   "stars": 220,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-21",
+   "category": "硬件设计与 EDA",
+   "note": ""
+  },
+  {
    "full_name": "upnalab/SonicSurface",
    "url": "https://github.com/upnalab/SonicSurface",
    "description": "开源相控阵硬件（VHDL）生成空气超声振幅图案",
@@ -23214,27 +23542,6 @@
    ],
    "hot_dates": [
     "2026-09-21"
-   ]
-  },
-  {
-   "full_name": "bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
-   "url": "https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
-   "description": "BIGTREETECH 步进电机驱动模块硬件设计文件（原理图 + PCB），TMC 步进驱动电路参考资料",
-   "language": "",
-   "stars": 205,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-13",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-13"
    ]
   },
   {
@@ -24835,48 +25142,6 @@
    ],
    "hot_dates": [
     "2026-09-20"
-   ]
-  },
-  {
-   "full_name": "bgkatz/mc-psu-v3",
-   "url": "https://github.com/bgkatz/mc-psu-v3",
-   "description": "Mini Cheetah 四足机器人的电源设计文件，机器人电机驱动供电的电源板原理图与版图",
-   "language": "",
-   "stars": 20,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-12",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-12"
-   ]
-  },
-  {
-   "full_name": "jyg9/microduck-community-kit",
-   "url": "https://github.com/jyg9/microduck-community-kit",
-   "description": "补齐 microduck 开源四足机器人的硬件电路与固件，含 IMU 转 Dynamixel 与 PCB 复刻",
-   "language": "",
-   "stars": 20,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-18",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-18"
    ]
   },
   {
@@ -29639,7 +29904,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 392677,
+   "stars": 392678,
    "topics": [
     "ai",
     "assistant",
@@ -29689,7 +29954,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 284881,
+   "stars": 284883,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -29731,7 +29996,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 255741,
+   "stars": 255748,
    "topics": [
     "ai-agents",
     "cordis",
@@ -29749,7 +30014,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 221523,
+   "stars": 221525,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29762,7 +30027,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 218869,
+   "stars": 218877,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29775,7 +30040,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 162303,
+   "stars": 162309,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29840,7 +30105,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 142138,
+   "stars": 142140,
    "topics": [
     "ai",
     "copilot",
@@ -29894,7 +30159,7 @@
    "url": "https://github.com/garrytan/gstack",
    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "language": "TypeScript",
-   "stars": 137072,
+   "stars": 137073,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -29969,7 +30234,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 99678,
+   "stars": 99682,
    "topics": [
     "ade",
     "agent-ide",
@@ -30138,7 +30403,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 86416,
+   "stars": 86418,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -30172,7 +30437,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "Rust",
-   "stars": 83811,
+   "stars": 83817,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -30332,7 +30597,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 58888,
+   "stars": 58890,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -30422,7 +30687,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 48039,
+   "stars": 48040,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -30618,7 +30883,7 @@
    "url": "https://github.com/lightpanda-io/browser",
    "description": "Lightpanda: the headless browser designed for AI and automation",
    "language": "Zig",
-   "stars": 36793,
+   "stars": 36794,
    "topics": [
     "browser",
     "browser-automation",
@@ -30661,7 +30926,7 @@
    "url": "https://github.com/VoltAgent/awesome-agent-skills",
    "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
    "language": "",
-   "stars": 36070,
+   "stars": 36071,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -31088,7 +31353,7 @@
    "url": "https://github.com/op7418/Humanizer-zh",
    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
    "language": "Python",
-   "stars": 20207,
+   "stars": 20206,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -31164,7 +31429,7 @@
    "url": "https://github.com/NVIDIA/OpenShell",
    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
    "language": "Rust",
-   "stars": 16824,
+   "stars": 16825,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -32440,27 +32705,6 @@
    ]
   },
   {
-   "full_name": "AngelLM/Thor",
-   "url": "https://github.com/AngelLM/Thor",
-   "description": "可 3D 打印的 DIY 六轴机械臂：结构件、步进电机驱动与控制软件全套开源",
-   "language": "",
-   "stars": 1622,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-20",
-   "category": "AI Agent 与 LLM 工具链",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-10-20"
-   ]
-  },
-  {
    "full_name": "tianma-if/edgeever",
    "url": "https://github.com/tianma-if/edgeever",
    "description": "AI 原生知识库（Evernote 替代），原生支持 MCP，可零成本跑在 Cloudflare 或 Docker",
@@ -32638,7 +32882,7 @@
    "url": "https://github.com/Gen-Verse/RSI-Anything",
    "description": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
    "language": "HTML",
-   "stars": 810,
+   "stars": 811,
    "topics": [
     "jepa",
     "llm-agents",
@@ -33221,7 +33465,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 130180,
+   "stars": 130186,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -33255,7 +33499,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 87244,
+   "stars": 87247,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -33286,7 +33530,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 71785,
+   "stars": 71786,
    "topics": [
     "agents",
     "ai",
@@ -33370,7 +33614,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 67061,
+   "stars": 67063,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33454,7 +33698,7 @@
    "url": "https://github.com/firecrawl/anydoc",
    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
    "language": "Rust",
-   "stars": 22994,
+   "stars": 22995,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33755,7 +33999,14 @@
    "added_at": "2026-10-21",
    "category": "知识管理与笔记",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-21"
+   ]
   },
   {
    "full_name": "hangli-hl/AI-Articles",
@@ -35867,7 +36118,7 @@
    "url": "https://github.com/521xueweihan/HelloGitHub",
    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
-   "stars": 183317,
+   "stars": 183318,
    "topics": [
     "awesome",
     "github",
@@ -35885,7 +36136,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 92120,
+   "stars": 92121,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -35967,7 +36218,7 @@
    "url": "https://github.com/subframe7536/maple-font",
    "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
    "language": "Python",
-   "stars": 29411,
+   "stars": 29412,
    "topics": [
     "coding-font",
     "font",
@@ -36664,131 +36915,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "cncjs/cncjs",
-   "url": "https://github.com/cncjs/cncjs",
-   "description": "基于浏览器的 CNC 铣床控制界面，支持 Grbl、Marlin、Smoothieware、TinyG 控制器，可远程跑 G-code",
-   "language": "",
-   "stars": 2658,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "BCN3D/BCN3D-Moveo",
-   "url": "https://github.com/BCN3D/BCN3D-Moveo",
-   "description": "BCN3D 开源的 3D 打印六轴机械臂教学项目：结构件、步进电机驱动与控制固件",
-   "language": "",
-   "stars": 2007,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ToanTech/py-apple-quadruped-robot",
-   "url": "https://github.com/ToanTech/py-apple-quadruped-robot",
-   "description": "低成本大型四足机器人 py-apple 的软硬件全套开源：机械结构、电机驱动与运动控制",
-   "language": "",
-   "stars": 1340,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jschuh/klipper-macros",
-   "url": "https://github.com/jschuh/klipper-macros",
-   "description": "Klipper 3D 打印固件的实用宏合集：调平、换料、床网与常用 G-code 片段",
-   "language": "",
-   "stars": 1276,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Frix-x/klippain",
-   "url": "https://github.com/Frix-x/klippain",
-   "description": "模块化的 Klipper 打印机配置框架，把配置拆成可复用模块，含输入整形与校准宏",
-   "language": "",
-   "stars": 1205,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "liyiteng/AlohaMini",
-   "url": "https://github.com/liyiteng/AlohaMini",
-   "description": "带电动升降的双臂移动机器人 AlohaMini：开源软硬件，面向模仿学习数据采集",
-   "language": "",
-   "stars": 1087,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "UnifiedEngineering/T-962-improvements",
-   "url": "https://github.com/UnifiedEngineering/T-962-improvements",
-   "description": "改造廉价 T-962 回流焊炉：保留原有控制器硬件，重写固件做温度曲线与安全保护",
-   "language": "",
-   "stars": 868,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Nikolay-Kha/PyCNC",
-   "url": "https://github.com/Nikolay-Kha/PyCNC",
-   "description": "树莓派上的 Python CNC 运动控制器：解析 G-code 并直接输出步进/伺服脉冲",
-   "language": "",
-   "stars": 651,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "zelea2/rigol_vendor_bin",
-   "url": "https://github.com/zelea2/rigol_vendor_bin",
-   "description": "",
-   "language": "C",
-   "stars": 220,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-21",
-   "category": "待归类",
    "note": ""
   }
  ]

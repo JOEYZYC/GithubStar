@@ -1,11 +1,11 @@
 # AI Agent 与 LLM 工具链
 
-> 共 165 个项目 · 数据更新时间 2026-10-21 · [返回总览](../README.md)
+> 共 164 个项目 · 数据更新时间 2026-10-21 · [返回总览](../README.md)
 
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★392,677 · TypeScript · ⭐ 已 star`
+`★392,678 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -20,7 +20,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★284,881 · JavaScript · ⭐ 已 star`
+`★284,883 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -35,28 +35,28 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★255,741 · TypeScript · ⭐ 已 star`
+`★255,748 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★221,523 · ⭐ 已 star`
+`★221,525 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★218,869 · TypeScript · ⭐ 已 star`
+`★218,877 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★162,303 · Shell · ⭐ 已 star`
+`★162,309 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -79,7 +79,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★142,138 · Python · ⭐ 已 star`
+`★142,140 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -93,7 +93,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 ---
 
 #### [garrytan/gstack](https://github.com/garrytan/gstack)
-`★137,072 · TypeScript · ⭐ 已 star`
+`★137,073 · TypeScript · ⭐ 已 star`
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 > 收录日期：2026-10-13
 
@@ -124,7 +124,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★99,678 · TypeScript · ⭐ 已 star`
+`★99,682 · TypeScript · ⭐ 已 star`
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -170,14 +170,14 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★86,416 · JavaScript · ⭐ 已 star`
+`★86,418 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★83,811 · Rust · ⭐ 已 star`
+`★83,817 · Rust · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
@@ -238,7 +238,7 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★58,888 · Python · ⭐ 已 star`
+`★58,890 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
@@ -267,7 +267,7 @@ Build infinite canvas apps in React with the tldraw SDK. World's best, top-most 
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★48,039 · Markdown · ⭐ 已 star`
+`★48,040 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -336,7 +336,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 ---
 
 #### [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-`★36,793 · Zig · ⭐ 已 star`
+`★36,794 · Zig · ⭐ 已 star`
 Lightpanda: the headless browser designed for AI and automation
 > 收录日期：2026-09-13
 
@@ -351,7 +351,7 @@ Lightpanda: the headless browser designed for AI and automation
 ---
 
 #### [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
-`★36,070 · ⭐ 已 star`
+`★36,071 · ⭐ 已 star`
 A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 > 收录日期：2026-09-13
 
@@ -494,7 +494,7 @@ Google 官方出品的 Agent Skills 集合，用技能包让 agent 操作自家�
 ---
 
 #### [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
-`★20,207 · Python · ⭐ 已 star`
+`★20,206 · Python · ⭐ 已 star`
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 > 收录日期：2026-09-25
 
@@ -525,7 +525,7 @@ AI agent skill 安全扫描器，检测提示注入、数据外泄与供应链�
 ---
 
 #### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-`★16,824 · Rust · ⭐ 已 star`
+`★16,825 · Rust · ⭐ 已 star`
 OpenShell is the safe, private runtime for autonomous AI agents.
 > 收录日期：2026-10-04
 
@@ -974,14 +974,6 @@ playwright for windows computer use
 
 ---
 
-#### [AngelLM/Thor](https://github.com/AngelLM/Thor)
-`★1,622 · ⭐🔥 已 star + 热点推荐`
-可 3D 打印的 DIY 六轴机械臂：结构件、步进电机驱动与控制软件全套开源
-> 热点推荐于 2026-10-20
-> 收录日期：2026-10-20
-
----
-
 #### [tianma-if/edgeever](https://github.com/tianma-if/edgeever)
 `★1,471 · ⭐🔥 已 star + 热点推荐`
 AI 原生知识库（Evernote 替代），原生支持 MCP，可零成本跑在 Cloudflare 或 Docker
@@ -1043,7 +1035,7 @@ Vibe code with pi in a lightweight, real IDE that customises itself around the w
 ---
 
 #### [Gen-Verse/RSI-Anything](https://github.com/Gen-Verse/RSI-Anything)
-`★810 · HTML · ⭐ 已 star`
+`★811 · HTML · ⭐ 已 star`
 RSI-Anything: Unlocking Recursive Self-Improvement with World Models
 > 收录日期：2026-10-13
 
