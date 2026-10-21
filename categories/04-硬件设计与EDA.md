@@ -669,13 +669,6 @@ ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3
 
 ---
 
-#### [shamansystems/Cheap-FOCer-2](https://github.com/shamansystems/Cheap-FOCer-2)
-`★406 · 🔥 热点推荐`
-基于 VESC 6 的低成本 FOC 无刷电机控制器，含原理图、PCB 与固件，自制电调参考
-> 收录日期：2026-10-22
-
----
-
 #### [American-Embedded/kistack](https://github.com/American-Embedded/kistack)
 `★383 · Python · ⭐🔥 已 star + 热点推荐`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
@@ -1017,8 +1010,9 @@ sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR �
 ---
 
 #### [Ashlixy17/PCB_lightgraph_Portable](https://github.com/Ashlixy17/PCB_lightgraph_Portable)
-`★148 · 🔥 热点推荐`
+`★148 · ⭐🔥 已 star + 热点推荐`
 PCB 光绘可视化工具的网页移植版，浏览器里直接看 Gerber 与板层叠构
+> 热点推荐于 2026-10-22
 > 收录日期：2026-10-22
 
 ---
@@ -1438,8 +1432,9 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [gamebub/gamebub-pcb](https://github.com/gamebub/gamebub-pcb)
-`★30 · 🔥 热点推荐`
+`★30 · ⭐🔥 已 star + 热点推荐`
 开源掌机的 PCB 设计文件，含原理图与可直接打样的制造文件
+> 热点推荐于 2026-10-22
 > 收录日期：2026-10-22
 
 ---
@@ -1713,6 +1708,14 @@ Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 
 超冷原子实验用高功率射频功放（GaN，CERN-OHL-P 开源硬件）
 > 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
+
+---
+
+#### [sercanarga/fpga-dma-multi-tool](https://github.com/sercanarga/fpga-dma-multi-tool)
+`★10 · ⭐🔥 已 star + 热点推荐`
+FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输
+> 热点推荐于 2026-10-22
+> 收录日期：2026-10-22
 
 ---
 

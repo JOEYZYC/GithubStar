@@ -89,6 +89,17 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-22：本轮 20 条，待归类 4 条 + 规则误判 2 条 ----
+    # 嵌入式与单片机（FOC/BLDC 电机驱动固件，与 VESC / ODrive 同口径）
+    "motionlayer/Tinymovr": "嵌入式与单片机",
+    "dukelec/cdfoc": "嵌入式与单片机",
+    "mark-belbin/motor-controller": "嵌入式与单片机",
+    "shamansystems/Cheap-FOCer-2": "嵌入式与单片机",
+    "shamansystems/Cheap-FOCer": "嵌入式与单片机",
+    # 硬件设计与 EDA（FPGA DMA 调试工具，非电磁仿真）
+    "sercanarga/fpga-dma-multi-tool": "硬件设计与 EDA",
+    # 开发工具与系统资源（开源贡献培养计划，非硬件项目）
+    "processmission-intern/mission-forge": "开发工具与系统资源",
     # ---- 2026-10-21：本轮 18 条，待归类 8 条（描述为中文简介，关键词表未覆盖 CNC/Klipper 类） ----
     # 嵌入式与单片机（CNC/3D 打印运动控制上位机与配置层，与 Klipper3d/klipper、Prusa-Firmware 同口径）
     "cncjs/cncjs": "嵌入式与单片机",

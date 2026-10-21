@@ -144,7 +144,14 @@
    "added_at": "2026-10-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "ros2/ros2",
@@ -4809,7 +4816,14 @@
    "added_at": "2026-10-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "trey-copeland/uavsim",
@@ -5201,7 +5215,14 @@
    "added_at": "2026-10-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "klever-coex/clover2",
@@ -6047,7 +6068,14 @@
    "added_at": "2026-10-22",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "tmolteno/necpp",
@@ -10631,7 +10659,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "grbl/grbl",
@@ -13489,7 +13524,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "CreativeLau/Mini-DSO",
@@ -14223,6 +14265,27 @@
    ]
   },
   {
+   "full_name": "shamansystems/Cheap-FOCer-2",
+   "url": "https://github.com/shamansystems/Cheap-FOCer-2",
+   "description": "基于 VESC 6 的低成本 FOC 无刷电机控制器，含原理图、PCB 与固件，自制电调参考",
+   "language": "",
+   "stars": 406,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
+  },
+  {
    "full_name": "swiftlang/swift-matter-examples",
    "url": "https://github.com/swiftlang/swift-matter-examples",
    "description": "苹果官方 Embedded Swift 示例：ESP32-C6 上跑 Matter 应用",
@@ -14556,6 +14619,27 @@
    ],
    "hot_dates": [
     "2026-10-09"
+   ]
+  },
+  {
+   "full_name": "motionlayer/Tinymovr",
+   "url": "https://github.com/motionlayer/Tinymovr",
+   "description": "紧凑型 BLDC 伺服驱动板，集成 FOC 与绝对角度传感器，CAN 总线接口",
+   "language": "",
+   "stars": 321,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -15073,6 +15157,27 @@
    ],
    "hot_dates": [
     "2026-10-01"
+   ]
+  },
+  {
+   "full_name": "dukelec/cdfoc",
+   "url": "https://github.com/dukelec/cdfoc",
+   "description": "开源 FOC 无刷电机控制器，硬件与固件同仓，带 CAN 接口与位置环",
+   "language": "",
+   "stars": 223,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -17273,7 +17378,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "Evil-Project-Team/ESP32-C5-J4CK3D",
@@ -17920,6 +18032,27 @@
    ],
    "hot_dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "full_name": "mark-belbin/motor-controller",
+   "url": "https://github.com/mark-belbin/motor-controller",
+   "description": "为水下机器人自制的 FOC 电机控制器，含驱动板硬件设计与固件",
+   "language": "",
+   "stars": 43,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -19952,7 +20085,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "chibios-upstream/chibios",
@@ -20134,7 +20274,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "RTechAI/ForgeUI-P4",
@@ -20392,7 +20539,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "GamzeAkcay/stm32-uds-bootloader",
@@ -20406,7 +20560,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -20769,7 +20930,14 @@
    "added_at": "2026-10-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -23122,20 +23290,6 @@
    ]
   },
   {
-   "full_name": "shamansystems/Cheap-FOCer-2",
-   "url": "https://github.com/shamansystems/Cheap-FOCer-2",
-   "description": "基于 VESC 6 的低成本 FOC 无刷电机控制器，含原理图、PCB 与固件，自制电调参考",
-   "language": "",
-   "stars": 406,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-22",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "American-Embedded/kistack",
    "url": "https://github.com/American-Embedded/kistack",
    "description": "KiStack is a HUMAN WRITTEN bunch of skills for KiCad",
@@ -24033,7 +24187,14 @@
    "added_at": "2026-10-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "RTimothyEdwards/XCircuit",
@@ -25143,7 +25304,14 @@
    "added_at": "2026-10-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "RuihongY/axi-compliance-skill",
@@ -25857,6 +26025,27 @@
    ],
    "hot_dates": [
     "2026-10-12"
+   ]
+  },
+  {
+   "full_name": "sercanarga/fpga-dma-multi-tool",
+   "url": "https://github.com/sercanarga/fpga-dma-multi-tool",
+   "description": "FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -27400,7 +27589,14 @@
    "added_at": "2026-10-22",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-22"
+   ]
   },
   {
    "full_name": "jLynx/BrowSDR",
@@ -30273,7 +30469,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 219653,
+   "stars": 219654,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -30286,7 +30482,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 162926,
+   "stars": 162928,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -30480,7 +30676,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 101184,
+   "stars": 101186,
    "topics": [
     "ade",
     "agent-ide",
@@ -30649,7 +30845,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 87050,
+   "stars": 87051,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -30933,7 +31129,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 48411,
+   "stars": 48412,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33733,7 +33929,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 131575,
+   "stars": 131576,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -36404,7 +36600,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 92617,
+   "stars": 92618,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -37108,6 +37304,21 @@
    "note": ""
   },
   {
+   "full_name": "processmission-intern/mission-forge",
+   "url": "https://github.com/processmission-intern/mission-forge",
+   "description": "A contributor development program by Process Mission, combining open-source learning, mentorship, contribution assessments, and performance-based incentives.",
+   "language": "JavaScript",
+   "stars": 8,
+   "topics": [
+    "mfcp"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-22",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "hongquan-prog/usbipd",
    "url": "https://github.com/hongquan-prog/usbipd",
    "description": "",
@@ -37183,77 +37394,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "motionlayer/Tinymovr",
-   "url": "https://github.com/motionlayer/Tinymovr",
-   "description": "紧凑型 BLDC 伺服驱动板，集成 FOC 与绝对角度传感器，CAN 总线接口",
-   "language": "",
-   "stars": 321,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "dukelec/cdfoc",
-   "url": "https://github.com/dukelec/cdfoc",
-   "description": "开源 FOC 无刷电机控制器，硬件与固件同仓，带 CAN 接口与位置环",
-   "language": "",
-   "stars": 223,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "mark-belbin/motor-controller",
-   "url": "https://github.com/mark-belbin/motor-controller",
-   "description": "为水下机器人自制的 FOC 电机控制器，含驱动板硬件设计与固件",
-   "language": "",
-   "stars": 43,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "sercanarga/fpga-dma-multi-tool",
-   "url": "https://github.com/sercanarga/fpga-dma-multi-tool",
-   "description": "FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "processmission-intern/mission-forge",
-   "url": "https://github.com/processmission-intern/mission-forge",
-   "description": "A contributor development program by Process Mission, combining open-source learning, mentorship, contribution assessments, and performance-based incentives.",
-   "language": "JavaScript",
-   "stars": 8,
-   "topics": [
-    "mfcp"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-22",
-   "category": "待归类",
    "note": ""
   }
  ]
