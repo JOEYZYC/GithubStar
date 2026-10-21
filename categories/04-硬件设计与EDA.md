@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 216 个项目 · 数据更新时间 2026-10-21 · [返回总览](../README.md)
+> 共 219 个项目 · 数据更新时间 2026-10-22 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,583 · C++ · ⭐ 已 star`
+`★34,628 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★8,252 · Rust · ⭐ 已 star`
+`★8,874 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -131,7 +131,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,361 · Rust · ⭐ 已 star`
+`★3,420 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -154,9 +154,16 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,044 · C++ · ⭐ 已 star`
+`★3,046 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
+
+---
+
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★2,996 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
 
 ---
 
@@ -165,13 +172,6 @@ Open CASCADE Technology (OCCT) is an open-source software development platform f
 独立开源 EDA 套件，自研原理图与版图工具链
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
-
----
-
-#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,976 · Python · ⭐ 已 star`
-FreeCAD MCP(Model Context Protocol) server
-> 收录日期：2026-09-27
 
 ---
 
@@ -543,7 +543,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★580 · C · ⭐ 已 star`
+`★581 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -666,6 +666,13 @@ OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3D 打印外壳
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
+
+---
+
+#### [shamansystems/Cheap-FOCer-2](https://github.com/shamansystems/Cheap-FOCer-2)
+`★406 · 🔥 热点推荐`
+基于 VESC 6 的低成本 FOC 无刷电机控制器，含原理图、PCB 与固件，自制电调参考
+> 收录日期：2026-10-22
 
 ---
 
@@ -1006,6 +1013,13 @@ KiCad 插件：从嘉立创/LCSC 导入符号、封装与 3D 模型，含插件/
 sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR 表等测量设备
 > 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
+
+---
+
+#### [Ashlixy17/PCB_lightgraph_Portable](https://github.com/Ashlixy17/PCB_lightgraph_Portable)
+`★148 · 🔥 热点推荐`
+PCB 光绘可视化工具的网页移植版，浏览器里直接看 Gerber 与板层叠构
+> 收录日期：2026-10-22
 
 ---
 
@@ -1420,6 +1434,13 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 命令行批量导出立创商城元件为 Altium Designer / KiCad 可用格式（Rust）
 > 热点推荐于 2026-09-27
 > 收录日期：2026-09-27
+
+---
+
+#### [gamebub/gamebub-pcb](https://github.com/gamebub/gamebub-pcb)
+`★30 · 🔥 热点推荐`
+开源掌机的 PCB 设计文件，含原理图与可直接打样的制造文件
+> 收录日期：2026-10-22
 
 ---
 

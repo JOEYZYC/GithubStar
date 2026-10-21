@@ -1570,3 +1570,23 @@
 {"url": "https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply", "stars": 579, "desc": "口袋大小的电池供电台式电源：开源硬件（KiCad）+ 固件，输出可调，适合随身实验", "date": "2026-10-21"}
 {"url": "https://github.com/HighCodeh/TentacleOS", "stars": 496, "desc": "High Boy 手持多功能平台的 ESP-IDF 固件（BETA）：面向 ESP32-P4/C5，模块化组件，覆盖 RF、NFC、IR、BLE、WiFi 与 BadUSB", "date": "2026-10-21"}
 {"url": "https://github.com/zengxiong111/Foundation_of_Embodied_AI", "stars": 67, "desc": "具身智能课程材料：机器人动力学、Isaac Sim/Lab、MuJoCo 的中英双语教程", "date": "2026-10-21"}
+{"url": "https://github.com/FASTSHIFT/X-TRACK", "stars": 6310, "desc": "开源 GPS 单车码表固件，LVGL 图形界面加离线地图与轨迹记录，嵌入式软硬件完整方案", "date": "2026-10-22"}
+{"url": "https://github.com/PlotJuggler/PlotJuggler", "stars": 6261, "desc": "时间序列可视化工具，直接解析 PX4 ULog、ROS bag 与 CSV，飞控调试和传感器数据回放主力", "date": "2026-10-22"}
+{"url": "https://github.com/i2cjak/Backplane", "stars": 679, "desc": "面向 AI agent 的硬件开发环境，内置确定性的 KiCad 与 STEP 原理图/PCB 查看器", "date": "2026-10-22"}
+{"url": "https://github.com/shamansystems/Cheap-FOCer-2", "stars": 406, "desc": "基于 VESC 6 的低成本 FOC 无刷电机控制器，含原理图、PCB 与固件，自制电调参考", "date": "2026-10-22"}
+{"url": "https://github.com/motionlayer/Tinymovr", "stars": 321, "desc": "紧凑型 BLDC 伺服驱动板，集成 FOC 与绝对角度传感器，CAN 总线接口", "date": "2026-10-22"}
+{"url": "https://github.com/EA1FUO/AntennaSim", "stars": 307, "desc": "浏览器里的天线仿真器，基于 NEC2 算方向图、SWR 与阻抗，实时三维辐射图可视化", "date": "2026-10-22"}
+{"url": "https://github.com/dukelec/cdfoc", "stars": 223, "desc": "开源 FOC 无刷电机控制器，硬件与固件同仓，带 CAN 接口与位置环", "date": "2026-10-22"}
+{"url": "https://github.com/flappyimi/Radar-Basic-Algorithm", "stars": 207, "desc": "雷达信号处理基础算法集：脉冲压缩、CFAR、单脉冲测角、卡尔曼滤波与阵列天线设计", "date": "2026-10-22"}
+{"url": "https://github.com/Ashlixy17/PCB_lightgraph_Portable", "stars": 148, "desc": "PCB 光绘可视化工具的网页移植版，浏览器里直接看 Gerber 与板层叠构", "date": "2026-10-22"}
+{"url": "https://github.com/varna9000/micropython-reticulum", "stars": 66, "desc": "Reticulum 组网协议的 MicroPython 移植，面向 LoRa 等低带宽链路的嵌入式无线通信", "date": "2026-10-22"}
+{"url": "https://github.com/mark-belbin/motor-controller", "stars": 43, "desc": "为水下机器人自制的 FOC 电机控制器，含驱动板硬件设计与固件", "date": "2026-10-22"}
+{"url": "https://github.com/gamebub/gamebub-pcb", "stars": 30, "desc": "开源掌机的 PCB 设计文件，含原理图与可直接打样的制造文件", "date": "2026-10-22"}
+{"url": "https://github.com/OpenDrone-hw/OpenAIO", "stars": 16, "desc": "2-6S 穿越机 AIO 主板：飞控 + 四合一 AM32 电调 + ELRS 接收机，25.5x25.5mm", "date": "2026-10-22"}
+{"url": "https://github.com/embeddedos-org/eos", "stars": 16, "desc": "EoS 嵌入式实时操作系统，面向 MCU 的轻量 RTOS 内核", "date": "2026-10-22"}
+{"url": "https://github.com/Openchip-Software/turbo", "stars": 15, "desc": "RISC-V 基准测试与性能调优工具集，面向 RISC-V 芯片与 SoC 评估", "date": "2026-10-22"}
+{"url": "https://github.com/zephyrproject-rtos/CANopenNodeZephyr", "stars": 13, "desc": "CANopenNode 协议栈的 Zephyr RTOS 移植，工业 CAN 总线通信参考", "date": "2026-10-22"}
+{"url": "https://github.com/GamzeAkcay/stm32-uds-bootloader", "stars": 13, "desc": "STM32 上的 CAN 总线 UDS/ISO-TP 引导程序，带 CRC32 校验与掉电恢复", "date": "2026-10-22"}
+{"url": "https://github.com/OpenDrone-hw/OpenAIO-Whoop", "stars": 12, "desc": "1S 微型穿越机 AIO 板：飞控 + 四路无刷电调 + ELRS 接收机 + 模拟图传", "date": "2026-10-22"}
+{"url": "https://github.com/embeddedci-com/kicad-plugins", "stars": 11, "desc": "EmbeddedCI 的 KiCad 插件集合，接入 KiCad 插件与内容管理器", "date": "2026-10-22"}
+{"url": "https://github.com/sercanarga/fpga-dma-multi-tool", "stars": 10, "desc": "FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输", "date": "2026-10-22"}
