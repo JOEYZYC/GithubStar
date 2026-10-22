@@ -89,6 +89,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-23：本轮 19 条，待归类 2 条（名称不含分类关键词表里的词） ----
+    # 硬件设计与 EDA（开源 FPGA 布局布线，与 yosys/verilator 同口径）
+    "YosysHQ/nextpnr": "硬件设计与 EDA",
+    # 嵌入式与单片机（FPGA 侧 FOC 电机控制，与其它 FOC 驱动同口径）
+    "Xilinx/foc-motor-ctrl": "嵌入式与单片机",
     # ---- 2026-10-22：本轮 20 条，待归类 4 条 + 规则误判 2 条 ----
     # 嵌入式与单片机（FOC/BLDC 电机驱动固件，与 VESC / ODrive 同口径）
     "motionlayer/Tinymovr": "嵌入式与单片机",

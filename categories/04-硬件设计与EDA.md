@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 220 个项目 · 数据更新时间 2026-10-23 · [返回总览](../README.md)
+> 共 221 个项目 · 数据更新时间 2026-10-23 · [返回总览](../README.md)
 
 ---
 
@@ -291,6 +291,14 @@ KiCad 自动化工具集：拼板面板化、BOM 与装配图
 CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式化器与语言服务
 > 热点推荐于 2026-10-03
 > 收录日期：2026-10-03
+
+---
+
+#### [YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr)
+`★1,779 · ⭐🔥 已 star + 热点推荐`
+nextpnr 便携式 FPGA 布局布线工具，配合 yosys 组成完整开源 FPGA 综合流程
+> 热点推荐于 2026-10-23
+> 收录日期：2026-10-23
 
 ---
 
@@ -1273,8 +1281,9 @@ X-Laser，一款小型的矢量激光投影仪
 ---
 
 #### [icamaster/picothermal](https://github.com/icamaster/picothermal)
-`★63 · 🔥 热点推荐`
+`★63 · ⭐🔥 已 star + 热点推荐`
 RP2040 + FLIR Lepton 的 USB-C 红外热像仪开源硬件，含原理图与固件，自制双光融合前端
+> 热点推荐于 2026-10-23
 > 收录日期：2026-10-23
 
 ---

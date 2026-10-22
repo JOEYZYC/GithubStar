@@ -2251,7 +2251,14 @@
    "added_at": "2026-10-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "cyber-defence-campus/RemoteIDReceiver",
@@ -2937,7 +2944,14 @@
    "added_at": "2026-10-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "robustini/eXploraVTOL",
@@ -4697,7 +4711,14 @@
    "added_at": "2026-10-23",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "Ly041021/TIO-Former",
@@ -9154,7 +9175,14 @@
    "added_at": "2026-10-23",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "splithor1zon/hybrid-beamforming",
@@ -9504,7 +9532,14 @@
    "added_at": "2026-10-23",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "ckflight/CST-ADS-Simulations",
@@ -10414,7 +10449,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "embassy-rs/embassy",
@@ -10932,7 +10974,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "alibaba/AliOS-Things",
@@ -11051,7 +11100,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "xiaowenxia/embedded-notes",
@@ -11359,7 +11415,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "SpinalHDL/VexRiscv",
@@ -11827,7 +11890,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "martin-ger/esp32_nat_router",
@@ -12539,7 +12609,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "EEVengers/ThunderScope",
@@ -13007,7 +13084,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "BojanJurca/Esp32_oscilloscope",
@@ -16199,7 +16283,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "x1958075990h-pixel/RuView_Radar_Lite",
@@ -17476,7 +17567,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "WayV5/RK3588-STM32-ROS2-SLAM-Robot",
@@ -18305,7 +18403,14 @@
    "added_at": "2026-10-23",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "cwu766485-ctrl/LumenRV32",
@@ -19112,6 +19217,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "Xilinx/foc-motor-ctrl",
+   "url": "https://github.com/Xilinx/foc-motor-ctrl",
+   "description": "Xilinx Kria 平台电机控制库，FPGA 侧实现 FOC 电流环，硬实时电机驱动方案",
+   "language": "",
+   "stars": 28,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-23",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
    ]
   },
   {
@@ -22501,6 +22627,27 @@
    ]
   },
   {
+   "full_name": "YosysHQ/nextpnr",
+   "url": "https://github.com/YosysHQ/nextpnr",
+   "description": "nextpnr 便携式 FPGA 布局布线工具，配合 yosys 组成完整开源 FPGA 综合流程",
+   "language": "",
+   "stars": 1779,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-23",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
+  },
+  {
    "full_name": "pulp-platform/axi",
    "url": "https://github.com/pulp-platform/axi",
    "description": "AXI4 可综合总线 IP 库与配套验证 IP（SystemVerilog）",
@@ -25102,7 +25249,14 @@
    "added_at": "2026-10-23",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "commaai/PCBGolf",
@@ -26973,7 +27127,14 @@
    "added_at": "2026-10-23",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-23"
+   ]
   },
   {
    "full_name": "pavsa/hackrf-spectrum-analyzer",
@@ -32109,7 +32270,7 @@
    "url": "https://github.com/NVIDIA/OpenShell",
    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
    "language": "Rust",
-   "stars": 17695,
+   "stars": 17696,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -34167,7 +34328,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 132897,
+   "stars": 132898,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -34329,7 +34490,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 55479,
+   "stars": 55480,
    "topics": [
     "agent",
     "agent-memory",
@@ -37632,34 +37793,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "YosysHQ/nextpnr",
-   "url": "https://github.com/YosysHQ/nextpnr",
-   "description": "nextpnr 便携式 FPGA 布局布线工具，配合 yosys 组成完整开源 FPGA 综合流程",
-   "language": "",
-   "stars": 1779,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-23",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Xilinx/foc-motor-ctrl",
-   "url": "https://github.com/Xilinx/foc-motor-ctrl",
-   "description": "Xilinx Kria 平台电机控制库，FPGA 侧实现 FOC 电流环，硬实时电机驱动方案",
-   "language": "",
-   "stars": 28,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-23",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

@@ -525,7 +525,7 @@ AI agent skill 安全扫描器，检测提示注入、数据外泄与供应链�
 ---
 
 #### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-`★17,695 · Rust · ⭐ 已 star`
+`★17,696 · Rust · ⭐ 已 star`
 OpenShell is the safe, private runtime for autonomous AI agents.
 > 收录日期：2026-10-04
 
