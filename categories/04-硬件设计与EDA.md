@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 219 个项目 · 数据更新时间 2026-10-22 · [返回总览](../README.md)
+> 共 220 个项目 · 数据更新时间 2026-10-23 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,628 · C++ · ⭐ 已 star`
+`★34,677 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★8,874 · Rust · ⭐ 已 star`
+`★9,310 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -131,7 +131,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,420 · Rust · ⭐ 已 star`
+`★3,451 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -154,14 +154,14 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,046 · C++ · ⭐ 已 star`
+`★3,052 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★2,996 · Python · ⭐ 已 star`
+`★3,008 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -543,7 +543,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★581 · C · ⭐ 已 star`
+`★580 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -1269,6 +1269,13 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 `★64 · C · ⭐ 已 star`
 X-Laser，一款小型的矢量激光投影仪
 > 收录日期：2026-09-13
+
+---
+
+#### [icamaster/picothermal](https://github.com/icamaster/picothermal)
+`★63 · 🔥 热点推荐`
+RP2040 + FLIR Lepton 的 USB-C 红外热像仪开源硬件，含原理图与固件，自制双光融合前端
+> 收录日期：2026-10-23
 
 ---
 

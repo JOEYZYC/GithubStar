@@ -1590,3 +1590,22 @@
 {"url": "https://github.com/OpenDrone-hw/OpenAIO-Whoop", "stars": 12, "desc": "1S 微型穿越机 AIO 板：飞控 + 四路无刷电调 + ELRS 接收机 + 模拟图传", "date": "2026-10-22"}
 {"url": "https://github.com/embeddedci-com/kicad-plugins", "stars": 11, "desc": "EmbeddedCI 的 KiCad 插件集合，接入 KiCad 插件与内容管理器", "date": "2026-10-22"}
 {"url": "https://github.com/sercanarga/fpga-dma-multi-tool", "stars": 10, "desc": "FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输", "date": "2026-10-22"}
+{"url": "https://github.com/xinnan-tech/xiaozhi-esp32-server", "stars": 10992, "desc": "小智 ESP32 语音助手的后端服务，WebSocket 音频流 + ASR/LLM/TTS 全链路，可自建私有语音终端", "date": "2026-10-23"}
+{"url": "https://github.com/riscv-collab/riscv-gnu-toolchain", "stars": 4651, "desc": "RISC-V 官方 GNU 工具链（GCC/binutils/glibc/newlib），裸机固件与 Linux 交叉编译的底座", "date": "2026-10-23"}
+{"url": "https://github.com/cifertech/ESP32-DIV", "stars": 4223, "desc": "ESP32 多功能无线攻防工具包，WiFi/蓝牙扫描与干扰实验，射频安全教学的现成固件", "date": "2026-10-23"}
+{"url": "https://github.com/riscv-software-src/riscv-isa-sim", "stars": 3261, "desc": "Spike：RISC-V 官方 ISA 模拟器，跑裸机固件与验证自定义指令的标准参考实现", "date": "2026-10-23"}
+{"url": "https://github.com/fastmachinelearning/hls4ml", "stars": 2191, "desc": "把 Keras/PyTorch 模型编译成 FPGA 固件（HLS 后端），TinyML 与低延迟推理的落地路径", "date": "2026-10-23"}
+{"url": "https://github.com/YosysHQ/nextpnr", "stars": 1779, "desc": "nextpnr 便携式 FPGA 布局布线工具，配合 yosys 组成完整开源 FPGA 综合流程", "date": "2026-10-23"}
+{"url": "https://github.com/STMicroelectronics/STM32CubeF4", "stars": 1357, "desc": "STM32F4 系列官方固件包（HAL/LL 驱动 + CMSIS + 中间件 + 例程），STM32 开发的标准起点", "date": "2026-10-23"}
+{"url": "https://github.com/akospasztor/stm32-bootloader", "stars": 1071, "desc": "STM32 可定制 Bootloader 示例，演示应用内编程（IAP）升级固件，量产 OTA 的入门模板", "date": "2026-10-23"}
+{"url": "https://github.com/open-sdr/openwifi-hw", "stars": 913, "desc": "openwifi 开源 IEEE 802.11 WiFi 基带 FPGA 设计，可在 SDR 平台上收发 WiFi 帧，做 CSI 感知的硬件基础", "date": "2026-10-23"}
+{"url": "https://github.com/PX4/PX4-Bootloader", "stars": 319, "desc": "PX4 飞控 Bootloader，负责 PX4FMU/PX4IO/PX4FLOW 的固件加载与升级，刷机与自研板适配必看", "date": "2026-10-23"}
+{"url": "https://github.com/PX4/NuttX", "stars": 173, "desc": "带 PX4 补丁的 NuttX RTOS 分支，PX4 飞控固件的实时内核底座", "date": "2026-10-23"}
+{"url": "https://github.com/grblHAL/ESP32", "stars": 134, "desc": "grblHAL 的 ESP32/ESP32-S3 驱动，把 GRBL 数控固件搬到 ESP32，自制 CNC/激光雕刻控制板", "date": "2026-10-23"}
+{"url": "https://github.com/NachtRaveVL/Lepton-FLiR-Arduino", "stars": 71, "desc": "Arduino 驱动 FLIR Lepton 红外热像模块的库，双光融合与测温热像仪的常用底层", "date": "2026-10-23"}
+{"url": "https://github.com/icamaster/picothermal", "stars": 63, "desc": "RP2040 + FLIR Lepton 的 USB-C 红外热像仪开源硬件，含原理图与固件，自制双光融合前端", "date": "2026-10-23"}
+{"url": "https://github.com/super1207/FOC", "stars": 42, "desc": "STM32 无感 FOC 定点实现：SMO 滑模观测器 + PLL 估角，无刷电机驱动固件，低成本驱动器参考", "date": "2026-10-23"}
+{"url": "https://github.com/Xilinx/foc-motor-ctrl", "stars": 28, "desc": "Xilinx Kria 平台电机控制库，FPGA 侧实现 FOC 电流环，硬实时电机驱动方案", "date": "2026-10-23"}
+{"url": "https://github.com/r-u-t-r-A/STM32-ELRS-Handset", "stars": 21, "desc": "基于 STM32 的 DIY 遥控手柄固件，支持 ELRS 与 NRF24 链路，自制飞控遥控器的完整代码", "date": "2026-10-23"}
+{"url": "https://github.com/elanovin/Metasurface-Modelling-DL", "stars": 20, "desc": "神经网络代理多层超表面 S 参数计算，训练数据由精确传输矩阵求解器生成，用于电磁仿真加速", "date": "2026-10-23"}
+{"url": "https://github.com/admin-2026/kicad_ems_plugin_pub", "stars": 14, "desc": "KiCad pcbnew 插件：直接在真实 PCB 上仿真并调谐天线，自动配置仿真并输出报告", "date": "2026-10-23"}
