@@ -1609,3 +1609,23 @@
 {"url": "https://github.com/r-u-t-r-A/STM32-ELRS-Handset", "stars": 21, "desc": "基于 STM32 的 DIY 遥控手柄固件，支持 ELRS 与 NRF24 链路，自制飞控遥控器的完整代码", "date": "2026-10-23"}
 {"url": "https://github.com/elanovin/Metasurface-Modelling-DL", "stars": 20, "desc": "神经网络代理多层超表面 S 参数计算，训练数据由精确传输矩阵求解器生成，用于电磁仿真加速", "date": "2026-10-23"}
 {"url": "https://github.com/admin-2026/kicad_ems_plugin_pub", "stars": 14, "desc": "KiCad pcbnew 插件：直接在真实 PCB 上仿真并调谐天线，自动配置仿真并输出报告", "date": "2026-10-23"}
+{"url": "https://github.com/littlekernel/lk", "stars": 3705, "desc": "轻量嵌入式内核兼引导加载程序（bootloader），面向手机与开发板的 bare-metal 启动，代码精简易读", "date": "2026-10-24"}
+{"url": "https://github.com/eclipse-threadx/threadx", "stars": 3552, "desc": "Eclipse ThreadX 深度嵌入式实时操作系统（RTOS），picokernel 架构，支持 Cortex-M 与 RISC-V 多核 SMP，可替换裸机固件里的调度层", "date": "2026-10-24"}
+{"url": "https://github.com/FPGAwars/icestudio", "stars": 1943, "desc": "面向开源 FPGA 开发板的图形化 EDA 工具，拖拽连线生成 Verilog，可直接综合烧写到 ice40 开发板", "date": "2026-10-24"}
+{"url": "https://github.com/trabucayre/openFPGALoader", "stars": 1767, "desc": "跨平台 FPGA 烧写工具，通过 JTAG 与 SPI Flash 给 Xilinx/Altera/Lattice/Gowin 器件下载固件，常用于开源开发板批量烧录", "date": "2026-10-24"}
+{"url": "https://github.com/riscv-software-src/opensbi", "stars": 1553, "desc": "RISC-V 开放监督者二进制接口（SBI）固件，为操作系统提供 M 态运行环境与平台抽象", "date": "2026-10-24"}
+{"url": "https://github.com/Sguan-ZhouQing/SguanFOC_Library", "stars": 1107, "desc": "国产有/无感 PMSM 磁场定向控制（FOC）库，SVPWM 多模式、位置/速度/电流三环串级，含 PID 与 LADRC 控制器，面向嵌入式电机驱动固件开发，带编码器接口", "date": "2026-10-24"}
+{"url": "https://github.com/RTEMS/rtems", "stars": 771, "desc": "RTEMS 实时操作系统（RTOS），面向航天、军工与嵌入式控制，支持多处理器与 POSIX 接口，可跑在 RISC-V/ARM 开发板", "date": "2026-10-24"}
+{"url": "https://github.com/Firmament-Autopilot/FMT-Firmware", "stars": 732, "desc": "FMT 开源无人机飞控固件，基于模型设计（MBD）的嵌入式飞控，支持多旋翼与固定翼", "date": "2026-10-24"}
+{"url": "https://github.com/analogdevicesinc/iio-oscilloscope", "stars": 345, "desc": "基于 GTK 的示波器与 IIO 设备上位机，可图形化配置 ADC/DAC 并采集、分析波形", "date": "2026-10-24"}
+{"url": "https://github.com/Sukecz/esp32-birdnet-mic", "stars": 217, "desc": "ESP32 Wi-Fi RTSP 麦克风固件，支持 XIAO C3/S3/C5/C6 与 I2S/PDM 数字麦克风，用于鸟类声学监测", "date": "2026-10-24"}
+{"url": "https://github.com/kendryte/canmv_k230", "stars": 124, "desc": "K230 RISC-V 视觉开发板的 CanMV 固件，提供 MicroPython 与 OpenMV 风格 API、RT-Smart 内核", "date": "2026-10-24"}
+{"url": "https://github.com/OLIMEX/KiCAD", "stars": 85, "desc": "Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连接器模型", "date": "2026-10-24"}
+{"url": "https://github.com/Seeed-Projects/Seeed-mmWave-library", "stars": 63, "desc": "面向 XIAO ESP32-C6 的 60GHz 毫米波人体存在/跌倒传感模块 Arduino 库，串口解析雷达数据", "date": "2026-10-24"}
+{"url": "https://github.com/John-owo/pcb-agent-workflow", "stars": 33, "desc": "Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，含生产稿比对脚本", "date": "2026-10-24"}
+{"url": "https://github.com/liujycode/awesome-FOC-motor-control", "stars": 23, "desc": "FOC 电机控制资源精选清单：开源固件、教程论文、调试测量经验与技能树、在线学习路径", "date": "2026-10-24"}
+{"url": "https://github.com/SeanWong17/Infrared-Image-Enhancement", "stars": 22, "desc": "红外热像 DDE 风格细节增强工具箱，面向 12/14/16bit 热像在 8bit 屏上显示", "date": "2026-10-24"}
+{"url": "https://github.com/ardchain/esp32-fpv-receiver", "stars": 17, "desc": "ESP32-C5 模拟 FPV 图传接收机固件，含 C5VRX 接线说明与实机 USB 控制台", "date": "2026-10-24"}
+{"url": "https://github.com/WiFiZTE2025/ZTE_WiFi_Sensing", "stars": 16, "desc": "中兴 WiFi CSI 感知工具与配套文档（待发布），用于无线信道状态信息采集", "date": "2026-10-24"}
+{"url": "https://github.com/bejaouihamza/bldc-foc-pcb", "stars": 15, "desc": "BLDC 无刷电机 FOC 驱动板 PCB 设计，含原理图与固件脚手架", "date": "2026-10-24"}
+{"url": "https://github.com/fangzh5/hfss-harness", "stars": 10, "desc": "HFSS/AEDT 自动化工作流封装，做参数扫描、优化、结果校验与仿真看板", "date": "2026-10-24"}

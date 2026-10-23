@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 221 个项目 · 数据更新时间 2026-10-23 · [返回总览](../README.md)
+> 共 224 个项目 · 数据更新时间 2026-10-24 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,677 · C++ · ⭐ 已 star`
+`★34,713 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★9,310 · Rust · ⭐ 已 star`
+`★9,705 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -131,7 +131,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,451 · Rust · ⭐ 已 star`
+`★3,478 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -154,14 +154,14 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,052 · C++ · ⭐ 已 star`
+`★3,058 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,008 · Python · ⭐ 已 star`
+`★3,023 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -291,6 +291,13 @@ KiCad 自动化工具集：拼板面板化、BOM 与装配图
 CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式化器与语言服务
 > 热点推荐于 2026-10-03
 > 收录日期：2026-10-03
+
+---
+
+#### [FPGAwars/icestudio](https://github.com/FPGAwars/icestudio)
+`★1,943 · 🔥 热点推荐`
+面向开源 FPGA 开发板的图形化 EDA 工具，拖拽连线生成 Verilog，可直接综合烧写到 ice40 开发板
+> 收录日期：2026-10-24
 
 ---
 
@@ -830,7 +837,7 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★259 · C++ · ⭐ 已 star`
+`★260 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1439,6 +1446,13 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 
 ---
 
+#### [John-owo/pcb-agent-workflow](https://github.com/John-owo/pcb-agent-workflow)
+`★33 · 🔥 热点推荐`
+Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，含生产稿比对脚本
+> 收录日期：2026-10-24
+
+---
+
 #### [ref42/npnp](https://github.com/ref42/npnp)
 `★31 · ⭐🔥 已 star + 热点推荐`
 命令行批量导出立创商城元件为 Altium Designer / KiCad 可用格式（Rust）
@@ -1612,6 +1626,13 @@ MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-
 AS02MC04（XCKU3P）FPGA 的 PCILeech 兼容移植，SFP1 上跑 25G RawUDP 传输（2026-09 新建，SystemVerilog）
 > 热点推荐于 2026-09-27
 > 收录日期：2026-09-27
+
+---
+
+#### [bejaouihamza/bldc-foc-pcb](https://github.com/bejaouihamza/bldc-foc-pcb)
+`★15 · 🔥 热点推荐`
+BLDC 无刷电机 FOC 驱动板 PCB 设计，含原理图与固件脚手架
+> 收录日期：2026-10-24
 
 ---
 
