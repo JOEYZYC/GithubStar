@@ -1387,7 +1387,14 @@
    "added_at": "2026-10-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "betaflight/betaflight-tx-lua-scripts",
@@ -3638,20 +3645,6 @@
    "hot_dates": [
     "2026-09-16"
    ]
-  },
-  {
-   "full_name": "OLIMEX/KiCAD",
-   "url": "https://github.com/OLIMEX/KiCAD",
-   "description": "Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连接器模型",
-   "language": "",
-   "stars": 85,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-24",
-   "category": "飞控与无人机",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "pfeerick/USB_ELRS_Receiver",
@@ -9972,7 +9965,14 @@
    "added_at": "2026-10-24",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "hongwei1-c/RF-AIagent",
@@ -11268,7 +11268,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "rcore-os/rCore",
@@ -11345,7 +11352,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "vedderb/bldc",
@@ -12369,7 +12383,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "sekigon-gonnoc/Pico-PIO-USB",
@@ -12572,7 +12593,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "onehumanbeing/esp32-iphone-agent",
@@ -13077,7 +13105,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "pico-coder/sigrok-pico",
@@ -13741,7 +13776,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "21cncstudio/project_aura",
@@ -14916,6 +14958,27 @@
    ]
   },
   {
+   "full_name": "analogdevicesinc/iio-oscilloscope",
+   "url": "https://github.com/analogdevicesinc/iio-oscilloscope",
+   "description": "基于 GTK 的示波器与 IIO 设备上位机，可图形化配置 ADC/DAC 并采集、分析波形",
+   "language": "",
+   "stars": 345,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
+  },
+  {
    "full_name": "cpldcpu/BitNetMCU",
    "url": "https://github.com/cpldcpu/BitNetMCU",
    "description": "在 CH32V003 等低端 32 位 MCU 上跑低位宽权重神经网络",
@@ -15654,7 +15717,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
@@ -16612,7 +16682,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "w4ysonch/embedmq",
@@ -17910,7 +17987,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "Gypsy-Server/RadioMCU",
@@ -20526,7 +20610,14 @@
    "added_at": "2026-10-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -22820,7 +22911,14 @@
    "added_at": "2026-10-24",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "YosysHQ/nextpnr",
@@ -25337,6 +25435,27 @@
    ]
   },
   {
+   "full_name": "OLIMEX/KiCAD",
+   "url": "https://github.com/OLIMEX/KiCAD",
+   "description": "Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连接器模型",
+   "language": "",
+   "stars": 85,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
+  },
+  {
    "full_name": "loganwilliams/thermografree",
    "url": "https://github.com/loganwilliams/thermografree",
    "description": "开源中分辨率、宽带热成像相机（传感器到成像链路自研）",
@@ -25857,7 +25976,14 @@
    "added_at": "2026-10-24",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "ref42/npnp",
@@ -26333,7 +26459,14 @@
    "added_at": "2026-10-24",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "AskStr/kicad_CoilForge_plugin",
@@ -30619,7 +30752,14 @@
    "added_at": "2026-10-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "Stevee87/Lidar-Radar-combination-Raspberry",
@@ -30983,7 +31123,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 392882,
+   "stars": 392883,
    "topics": [
     "ai",
     "assistant",
@@ -31033,7 +31173,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 287297,
+   "stars": 287298,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -31106,7 +31246,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 220605,
+   "stars": 220606,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -31119,7 +31259,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 163502,
+   "stars": 163504,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -31205,7 +31345,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 139425,
+   "stars": 139426,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -31389,7 +31529,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 89345,
+   "stars": 89346,
    "topics": [
     "ai",
     "ai-scraping",
@@ -31461,7 +31601,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 88279,
+   "stars": 88280,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -32153,7 +32293,7 @@
    "url": "https://github.com/trycua/cua",
    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
    "language": "Rust",
-   "stars": 30803,
+   "stars": 30804,
    "topics": [
     "agent",
     "ai-agent",
@@ -32466,7 +32606,7 @@
    "url": "https://github.com/NVIDIA/OpenShell",
    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
    "language": "Rust",
-   "stars": 18749,
+   "stars": 18750,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -34699,7 +34839,7 @@
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
    "language": "JavaScript",
-   "stars": 67493,
+   "stars": 67492,
    "topics": [
     "agent-computer",
     "agent-harness",
@@ -34755,7 +34895,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 42284,
+   "stars": 42285,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -35176,7 +35316,14 @@
    "added_at": "2026-10-24",
    "category": "知识管理与笔记",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "pavel-kirienko/ragrag",
@@ -36961,7 +37108,14 @@
    "added_at": "2026-10-24",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-24"
+   ]
   },
   {
    "full_name": "KRoszyk/YOLOv4-Middle_detector",
@@ -37220,7 +37374,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 491670,
+   "stars": 491671,
    "topics": [
     "api",
     "apis",
@@ -37265,7 +37419,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 93632,
+   "stars": 93633,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -37282,7 +37436,7 @@
    "url": "https://github.com/zed-industries/zed",
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "language": "Rust",
-   "stars": 92101,
+   "stars": 92102,
    "topics": [
     "gpui",
     "rust-lang",
@@ -38059,20 +38213,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "analogdevicesinc/iio-oscilloscope",
-   "url": "https://github.com/analogdevicesinc/iio-oscilloscope",
-   "description": "基于 GTK 的示波器与 IIO 设备上位机，可图形化配置 ADC/DAC 并采集、分析波形",
-   "language": "",
-   "stars": 345,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-24",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

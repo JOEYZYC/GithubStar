@@ -89,6 +89,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-24：本轮 20 条，待归类 1 条 + 规则误判 1 条 ----
+    # 硬件设计与 EDA（厂商元件符号/封装库，与 kicad-footprints 同口径；规则误判进「飞控与无人机」）
+    "OLIMEX/KiCAD": "硬件设计与 EDA",
+    # 嵌入式与单片机（IIO 设备的示波器上位机，与仪器侧固件/上位机同口径）
+    "analogdevicesinc/iio-oscilloscope": "嵌入式与单片机",
     # ---- 2026-10-23：本轮 19 条，待归类 2 条（名称不含分类关键词表里的词） ----
     # 硬件设计与 EDA（开源 FPGA 布局布线，与 yosys/verilator 同口径）
     "YosysHQ/nextpnr": "硬件设计与 EDA",

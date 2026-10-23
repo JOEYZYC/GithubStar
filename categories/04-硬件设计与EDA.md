@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 224 个项目 · 数据更新时间 2026-10-24 · [返回总览](../README.md)
+> 共 225 个项目 · 数据更新时间 2026-10-24 · [返回总览](../README.md)
 
 ---
 
@@ -295,8 +295,9 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [FPGAwars/icestudio](https://github.com/FPGAwars/icestudio)
-`★1,943 · 🔥 热点推荐`
+`★1,943 · ⭐🔥 已 star + 热点推荐`
 面向开源 FPGA 开发板的图形化 EDA 工具，拖拽连线生成 Verilog，可直接综合烧写到 ice40 开发板
+> 热点推荐于 2026-10-24
 > 收录日期：2026-10-24
 
 ---
@@ -1248,6 +1249,14 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 
 ---
 
+#### [OLIMEX/KiCAD](https://github.com/OLIMEX/KiCAD)
+`★85 · ⭐🔥 已 star + 热点推荐`
+Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连接器模型
+> 热点推荐于 2026-10-24
+> 收录日期：2026-10-24
+
+---
+
 #### [loganwilliams/thermografree](https://github.com/loganwilliams/thermografree)
 `★81 · ⭐🔥 已 star + 热点推荐`
 开源中分辨率、宽带热成像相机（传感器到成像链路自研）
@@ -1447,8 +1456,9 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [John-owo/pcb-agent-workflow](https://github.com/John-owo/pcb-agent-workflow)
-`★33 · 🔥 热点推荐`
+`★33 · ⭐🔥 已 star + 热点推荐`
 Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，含生产稿比对脚本
+> 热点推荐于 2026-10-24
 > 收录日期：2026-10-24
 
 ---
@@ -1630,8 +1640,9 @@ AS02MC04（XCKU3P）FPGA 的 PCILeech 兼容移植，SFP1 上跑 25G RawUDP 传�
 ---
 
 #### [bejaouihamza/bldc-foc-pcb](https://github.com/bejaouihamza/bldc-foc-pcb)
-`★15 · 🔥 热点推荐`
+`★15 · ⭐🔥 已 star + 热点推荐`
 BLDC 无刷电机 FOC 驱动板 PCB 设计，含原理图与固件脚手架
+> 热点推荐于 2026-10-24
 > 收录日期：2026-10-24
 
 ---

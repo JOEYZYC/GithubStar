@@ -5,7 +5,7 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★392,882 · TypeScript · ⭐ 已 star`
+`★392,883 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -20,7 +20,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★287,297 · JavaScript · ⭐ 已 star`
+`★287,298 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -49,14 +49,14 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★220,605 · TypeScript · ⭐ 已 star`
+`★220,606 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★163,502 · Shell · ⭐ 已 star`
+`★163,504 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -86,7 +86,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★139,425 · Python · ⭐ 已 star`
+`★139,426 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -147,7 +147,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 ---
 
 #### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-`★89,345 · Python · ⭐ 已 star`
+`★89,346 · Python · ⭐ 已 star`
 🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 > 收录日期：2026-09-13
 
@@ -162,7 +162,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★88,279 · JavaScript · ⭐ 已 star`
+`★88,280 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -396,7 +396,7 @@ OfficeCLI is the first and best Office suite  purpose-built for AI agents to rea
 ---
 
 #### [trycua/cua](https://github.com/trycua/cua)
-`★30,803 · Rust · ⭐ 已 star`
+`★30,804 · Rust · ⭐ 已 star`
 Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 > 收录日期：2026-09-30
 
@@ -509,7 +509,7 @@ Allen AI 的 PDF 线性化工具包，把文档转成适合 LLM 数据集与训�
 ---
 
 #### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-`★18,749 · Rust · ⭐ 已 star`
+`★18,750 · Rust · ⭐ 已 star`
 OpenShell is the safe, private runtime for autonomous AI agents.
 > 收录日期：2026-10-04
 
