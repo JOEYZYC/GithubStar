@@ -1629,3 +1629,23 @@
 {"url": "https://github.com/WiFiZTE2025/ZTE_WiFi_Sensing", "stars": 16, "desc": "中兴 WiFi CSI 感知工具与配套文档（待发布），用于无线信道状态信息采集", "date": "2026-10-24"}
 {"url": "https://github.com/bejaouihamza/bldc-foc-pcb", "stars": 15, "desc": "BLDC 无刷电机 FOC 驱动板 PCB 设计，含原理图与固件脚手架", "date": "2026-10-24"}
 {"url": "https://github.com/fangzh5/hfss-harness", "stars": 10, "desc": "HFSS/AEDT 自动化工作流封装，做参数扫描、优化、结果校验与仿真看板", "date": "2026-10-24"}
+{"url": "https://github.com/letscontrolit/ESPEasy", "stars": 3620, "desc": "ESP8266/ESP32 多传感器固件平台，内置上百种传感器驱动与 MQTT、规则引擎，刷上就能搭嵌入式采集节点", "date": "2026-10-25"}
+{"url": "https://github.com/winder/Universal-G-Code-Sender", "stars": 2274, "desc": "跨平台 CNC 上位机，给 GRBL/Smoothieware/TinyG 做 G-code 流式发送与手动控制", "date": "2026-10-25"}
+{"url": "https://github.com/aws/aws-fpga", "stars": 1690, "desc": "AWS EC2 F1 FPGA 硬件开发套件与 shell 接口，含 SystemVerilog 参考设计与驱动", "date": "2026-10-25"}
+{"url": "https://github.com/luc-github/ESP3D-WEBUI", "stars": 899, "desc": "跑在 ESP32/ESP8266 上的 3D 打印机与 CNC 网页控制界面", "date": "2026-10-25"}
+{"url": "https://github.com/VUnit/vunit", "stars": 853, "desc": "VHDL/SystemVerilog 单元测试框架，自动扫描 test bench 并并行仿真", "date": "2026-10-25"}
+{"url": "https://github.com/zhoushoujianwork/easyeda-agent", "stars": 814, "desc": "嘉立创 EDA 专业版自动化：typed 原理图/PCB 动作，CLI、Agent Skill、stdio MCP 三种接入，让 AI 直接画板", "date": "2026-10-25"}
+{"url": "https://github.com/peterhinch/micropython-mqtt", "stars": 687, "desc": "MicroPython 异步 MQTT 驱动，断网或 broker 掉线后自动重连", "date": "2026-10-25"}
+{"url": "https://github.com/copperheadhq/copperhead", "stars": 627, "desc": "「电路板界的 Cursor」：AI agent 直接读写 KiCad 仓库，从需求生成原理图、布局、Gerber 与固件骨架", "date": "2026-10-25"}
+{"url": "https://github.com/mavlink-router/mavlink-router", "stars": 622, "desc": "MAVLink 报文路由器，把串口/UDP/TCP 上的飞控数据汇聚转发", "date": "2026-10-25"}
+{"url": "https://github.com/ArduPilot/MAVProxy", "stars": 600, "desc": "ArduPilot 的 MAVLink 命令行地面站与代理，支持多机与脚本扩展", "date": "2026-10-25"}
+{"url": "https://github.com/wokwi/rp2040js", "stars": 533, "desc": "JavaScript 实现的 RP2040 仿真器，可在浏览器与 Node 里跑 Pico 固件", "date": "2026-10-25"}
+{"url": "https://github.com/VHDL-LS/rust_hdl", "stars": 515, "desc": "Rust 写的 VHDL 语言服务器与分析库，提供跳转、补全与 lint", "date": "2026-10-25"}
+{"url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot", "stars": 509, "desc": "ESP32 开源四足机器人框架，含步态、IMU 姿态解算与舵机控制", "date": "2026-10-25"}
+{"url": "https://github.com/Schildkroet/GRBL-Advanced", "stars": 299, "desc": "跑在 STM32F411 上的高性能 Grbl CNC 固件，步进频率更高", "date": "2026-10-25"}
+{"url": "https://github.com/EBiCS/EBiCS_Firmware", "stars": 224, "desc": "电动自行车控制器的 FOC 无刷电机固件", "date": "2026-10-25"}
+{"url": "https://github.com/grblHAL/STM32F4xx", "stars": 162, "desc": "grblHAL 的 STM32F4xx 驱动，支持 Nucleo、Blackpill 与 CNC 主板", "date": "2026-10-25"}
+{"url": "https://github.com/PX4/PX4-GPSDrivers", "stars": 109, "desc": "PX4 跨平台 GPS 驱动库，可独立用于其他飞控项目", "date": "2026-10-25"}
+{"url": "https://github.com/okhsunrog/oxifoc", "stars": 25, "desc": "Rust + Embassy 实现的 STM32 FOC 无刷电机固件", "date": "2026-10-25"}
+{"url": "https://github.com/i-am-grub/vrxc_elrs", "stars": 21, "desc": "把 ExpressLRS Backpack 集成进 RotorHazard 计时系统", "date": "2026-10-25"}
+{"url": "https://github.com/jackwang988/kicad-pcb-ai-workflow", "stars": 10, "desc": "KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计意图、AI 评审与制造门禁", "date": "2026-10-25"}

@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 225 个项目 · 数据更新时间 2026-10-24 · [返回总览](../README.md)
+> 共 228 个项目 · 数据更新时间 2026-10-25 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,713 · C++ · ⭐ 已 star`
+`★34,741 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★9,705 · Rust · ⭐ 已 star`
+`★10,071 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -131,7 +131,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,478 · Rust · ⭐ 已 star`
+`★3,504 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -154,14 +154,14 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,058 · C++ · ⭐ 已 star`
+`★3,060 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,023 · Python · ⭐ 已 star`
+`★3,038 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -446,6 +446,13 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 
 ---
 
+#### [zhoushoujianwork/easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent)
+`★814 · 🔥 热点推荐`
+嘉立创 EDA 专业版自动化：typed 原理图/PCB 动作，CLI、Agent Skill、stdio MCP 三种接入，让 AI 直接画板
+> 收录日期：2026-10-25
+
+---
+
 #### [wuxx/nanoDLA](https://github.com/wuxx/nanoDLA)
 `★805 · ⭐🔥 已 star + 热点推荐`
 基于 fx2lafw 的 24MHz 采样率逻辑分析仪开源硬件
@@ -542,6 +549,13 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 
 ---
 
+#### [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead)
+`★627 · 🔥 热点推荐`
+「电路板界的 Cursor」：AI agent 直接读写 KiCad 仓库，从需求生成原理图、布局、Gerber 与固件骨架
+> 收录日期：2026-10-25
+
+---
+
 #### [joanbono/awesome-kicad](https://github.com/joanbono/awesome-kicad)
 `★613 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件与资源精选清单
@@ -559,7 +573,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★580 · C · ⭐ 已 star`
+`★581 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -838,7 +852,7 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★260 · C++ · ⭐ 已 star`
+`★261 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1764,6 +1778,13 @@ Zynq-7020（PlutoSky R1 / Fishball7020）板卡的可构建固件与 PL 侧 HDL 
 FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输
 > 热点推荐于 2026-10-22
 > 收录日期：2026-10-22
+
+---
+
+#### [jackwang988/kicad-pcb-ai-workflow](https://github.com/jackwang988/kicad-pcb-ai-workflow)
+`★10 · 🔥 热点推荐`
+KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计意图、AI 评审与制造门禁
+> 收录日期：2026-10-25
 
 ---
 
