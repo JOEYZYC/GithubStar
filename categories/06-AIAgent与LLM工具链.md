@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★163,707 · Shell · ⭐ 已 star`
+`★163,708 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -124,7 +124,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★104,934 · TypeScript · ⭐ 已 star`
+`★104,936 · TypeScript · ⭐ 已 star`
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 

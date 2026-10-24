@@ -1618,7 +1618,14 @@
    "added_at": "2026-10-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "olliw42/mLRS",
@@ -1653,7 +1660,14 @@
    "added_at": "2026-10-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "JacopoPan/aerial-autonomy-stack",
@@ -1814,7 +1828,14 @@
    "added_at": "2026-10-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "betaflight/blackbox-log-viewer",
@@ -3469,7 +3490,14 @@
    "added_at": "2026-10-25",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "TIERS/uwb-drone-dataset",
@@ -4798,6 +4826,27 @@
    ]
   },
   {
+   "full_name": "i-am-grub/vrxc_elrs",
+   "url": "https://github.com/i-am-grub/vrxc_elrs",
+   "description": "把 ExpressLRS Backpack 集成进 RotorHazard 计时系统",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-25",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
+  },
+  {
    "full_name": "Ly041021/TIO-Former",
    "url": "https://github.com/Ly041021/TIO-Former",
    "description": "面向纳米无人机的超轻量六向 ToF-惯性里程计，极低算力下做位姿估计",
@@ -5893,7 +5942,14 @@
    "added_at": "2026-10-25",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "jdesbonnet/RCWL-0516",
@@ -6075,7 +6131,14 @@
    "added_at": "2026-10-25",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "qiskit-community/qiskit-metal",
@@ -11436,7 +11499,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "eclipse-threadx/threadx",
@@ -12051,7 +12121,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "o-gs/dji-firmware-tools",
@@ -13741,7 +13818,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "ecubus/EcuBus-Pro",
@@ -14062,7 +14146,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "ringtailsoftware/uvm32",
@@ -15437,7 +15528,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "walmis/blackmagic-espidf",
@@ -15779,7 +15877,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "dukelec/cdfoc",
@@ -16422,7 +16527,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "FreakStudioCN/micropythonos-ai-app-builder",
@@ -19796,7 +19908,14 @@
    "added_at": "2026-10-25",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "ruvnet/rvcsi",
@@ -23172,6 +23291,27 @@
    ]
   },
   {
+   "full_name": "aws/aws-fpga",
+   "url": "https://github.com/aws/aws-fpga",
+   "description": "AWS EC2 F1 FPGA 硬件开发套件与 shell 接口，含 SystemVerilog 参考设计与驱动",
+   "language": "",
+   "stars": 1690,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-25",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
+  },
+  {
    "full_name": "clash-lang/clash-compiler",
    "url": "https://github.com/clash-lang/clash-compiler",
    "description": "把 Haskell 编译为 VHDL/Verilog 的宿主语言 HDL 编译器",
@@ -23539,7 +23679,14 @@
    "added_at": "2026-10-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "wuxx/nanoDLA",
@@ -23805,7 +23952,14 @@
    "added_at": "2026-10-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "joanbono/awesome-kicad",
@@ -24028,6 +24182,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "VHDL-LS/rust_hdl",
+   "url": "https://github.com/VHDL-LS/rust_hdl",
+   "description": "Rust 写的 VHDL 语言服务器与分析库，提供跳转、补全与 lint",
+   "language": "",
+   "stars": 515,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-25",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
    ]
   },
   {
@@ -27032,7 +27207,14 @@
    "added_at": "2026-10-25",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-25"
+   ]
   },
   {
    "full_name": "uchan-nos/prepare-ai-review-for-kicad",
@@ -31510,7 +31692,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 163707,
+   "stars": 163708,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -31704,7 +31886,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 104934,
+   "stars": 104936,
    "topics": [
     "ade",
     "agent-ide",
@@ -37687,7 +37869,7 @@
    "url": "https://github.com/zed-industries/zed",
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "language": "Rust",
-   "stars": 92145,
+   "stars": 92146,
    "topics": [
     "gpui",
     "rust-lang",
@@ -38004,6 +38186,25 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-09-13",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
+   "full_name": "bwya77/vscode-dark-islands",
+   "url": "https://github.com/bwya77/vscode-dark-islands",
+   "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+   "language": "Shell",
+   "stars": 8525,
+   "topics": [
+    "easemate",
+    "jetbrains",
+    "visual-studio-code",
+    "vscode",
+    "vscode-theme"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-25",
    "category": "开发工具与系统资源",
    "note": ""
   },
@@ -38464,67 +38665,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "bwya77/vscode-dark-islands",
-   "url": "https://github.com/bwya77/vscode-dark-islands",
-   "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-   "language": "Shell",
-   "stars": 8525,
-   "topics": [
-    "easemate",
-    "jetbrains",
-    "visual-studio-code",
-    "vscode",
-    "vscode-theme"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-25",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "aws/aws-fpga",
-   "url": "https://github.com/aws/aws-fpga",
-   "description": "AWS EC2 F1 FPGA 硬件开发套件与 shell 接口，含 SystemVerilog 参考设计与驱动",
-   "language": "",
-   "stars": 1690,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-25",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "VHDL-LS/rust_hdl",
-   "url": "https://github.com/VHDL-LS/rust_hdl",
-   "description": "Rust 写的 VHDL 语言服务器与分析库，提供跳转、补全与 lint",
-   "language": "",
-   "stars": 515,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-25",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "i-am-grub/vrxc_elrs",
-   "url": "https://github.com/i-am-grub/vrxc_elrs",
-   "description": "把 ExpressLRS Backpack 集成进 RotorHazard 计时系统",
-   "language": "",
-   "stars": 21,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-25",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

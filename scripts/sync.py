@@ -89,6 +89,14 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-25：本轮 20 条，待归类 3 条 + 旧 star 件 1 条 ----
+    # 硬件设计与 EDA（云端 FPGA 开发套件与 VHDL 语言服务器，与 yosys/verilator 同口径）
+    "aws/aws-fpga": "硬件设计与 EDA",
+    "VHDL-LS/rust_hdl": "硬件设计与 EDA",
+    # 飞控与无人机（ELRS Backpack 与竞速计时系统的联动，属遥控链路生态）
+    "i-am-grub/vrxc_elrs": "飞控与无人机",
+    # 开发工具与系统资源（VS Code 主题扩展，非硬件项目）
+    "bwya77/vscode-dark-islands": "开发工具与系统资源",
     # ---- 2026-10-24：本轮 20 条，待归类 1 条 + 规则误判 1 条 ----
     # 硬件设计与 EDA（厂商元件符号/封装库，与 kicad-footprints 同口径；规则误判进「飞控与无人机」）
     "OLIMEX/KiCAD": "硬件设计与 EDA",

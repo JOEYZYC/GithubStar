@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 228 个项目 · 数据更新时间 2026-10-25 · [返回总览](../README.md)
+> 共 230 个项目 · 数据更新时间 2026-10-25 · [返回总览](../README.md)
 
 ---
 
@@ -318,6 +318,14 @@ AXI4 可综合总线 IP 库与配套验证 IP（SystemVerilog）
 
 ---
 
+#### [aws/aws-fpga](https://github.com/aws/aws-fpga)
+`★1,690 · ⭐🔥 已 star + 热点推荐`
+AWS EC2 F1 FPGA 硬件开发套件与 shell 接口，含 SystemVerilog 参考设计与驱动
+> 热点推荐于 2026-10-25
+> 收录日期：2026-10-25
+
+---
+
 #### [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler)
 `★1,619 · ⭐🔥 已 star + 热点推荐`
 把 Haskell 编译为 VHDL/Verilog 的宿主语言 HDL 编译器
@@ -447,8 +455,9 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 ---
 
 #### [zhoushoujianwork/easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent)
-`★814 · 🔥 热点推荐`
+`★814 · ⭐🔥 已 star + 热点推荐`
 嘉立创 EDA 专业版自动化：typed 原理图/PCB 动作，CLI、Agent Skill、stdio MCP 三种接入，让 AI 直接画板
+> 热点推荐于 2026-10-25
 > 收录日期：2026-10-25
 
 ---
@@ -550,8 +559,9 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 ---
 
 #### [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead)
-`★627 · 🔥 热点推荐`
+`★627 · ⭐🔥 已 star + 热点推荐`
 「电路板界的 Cursor」：AI agent 直接读写 KiCad 仓库，从需求生成原理图、布局、Gerber 与固件骨架
+> 热点推荐于 2026-10-25
 > 收录日期：2026-10-25
 
 ---
@@ -640,6 +650,14 @@ Mac 原生 PCB 设计工具，个人与商业使用均免费
 KiCad 键盘按键自动布局工具
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
+
+---
+
+#### [VHDL-LS/rust_hdl](https://github.com/VHDL-LS/rust_hdl)
+`★515 · ⭐🔥 已 star + 热点推荐`
+Rust 写的 VHDL 语言服务器与分析库，提供跳转、补全与 lint
+> 热点推荐于 2026-10-25
+> 收录日期：2026-10-25
 
 ---
 
@@ -1782,8 +1800,9 @@ FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输
 ---
 
 #### [jackwang988/kicad-pcb-ai-workflow](https://github.com/jackwang988/kicad-pcb-ai-workflow)
-`★10 · 🔥 热点推荐`
+`★10 · ⭐🔥 已 star + 热点推荐`
 KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计意图、AI 评审与制造门禁
+> 热点推荐于 2026-10-25
 > 收录日期：2026-10-25
 
 ---
