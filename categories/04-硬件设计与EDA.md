@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 230 个项目 · 数据更新时间 2026-10-25 · [返回总览](../README.md)
+> 共 232 个项目 · 数据更新时间 2026-10-26 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,741 · C++ · ⭐ 已 star`
+`★34,775 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★10,071 · Rust · ⭐ 已 star`
+`★10,467 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -131,7 +131,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,504 · Rust · ⭐ 已 star`
+`★3,527 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -154,14 +154,14 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,060 · C++ · ⭐ 已 star`
+`★3,062 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,038 · Python · ⭐ 已 star`
+`★3,053 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -845,6 +845,13 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 
 ---
 
+#### [salitronic/eda-agent](https://github.com/salitronic/eda-agent)
+`★275 · 🔥 热点推荐`
+用 AI（MCP）驱动 Altium Designer 与 KiCad 实时会话，直接改原理图与 PCB
+> 收录日期：2026-10-26
+
+---
+
 #### [lepton-eda/lepton-eda](https://github.com/lepton-eda/lepton-eda)
 `★265 · ⭐🔥 已 star + 热点推荐`
 gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表生成与 PCB 工具链
@@ -908,7 +915,7 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 ---
 
 #### [zelea2/rigol_vendor_bin](https://github.com/zelea2/rigol_vendor_bin)
-`★220 · C · ⭐ 已 star`
+`★221 · C · ⭐ 已 star`
 > 收录日期：2026-10-21
 
 ---
@@ -1289,6 +1296,13 @@ Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连
 
 ---
 
+#### [eskiyerli/revolution-eda](https://github.com/eskiyerli/revolution-eda)
+`★83 · 🔥 热点推荐`
+从原理图到 GDS 的集成电路设计环境
+> 收录日期：2026-10-26
+
+---
+
 #### [loganwilliams/thermografree](https://github.com/loganwilliams/thermografree)
 `★81 · ⭐🔥 已 star + 热点推荐`
 开源中分辨率、宽带热成像相机（传感器到成像链路自研）
@@ -1456,18 +1470,18 @@ Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正
 
 ---
 
+#### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
+`★37 · C++ · ⭐ 已 star`
+嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
+> 收录日期：2026-09-13
+
+---
+
 #### [marcoreps/low_noise_amplifier](https://github.com/marcoreps/low_noise_amplifier)
 `★36 · ⭐🔥 已 star + 热点推荐`
 低噪声放大器设计文件，射频前端小信号放大的电路与 PCB
 > 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
-
----
-
-#### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★35 · C++ · ⭐ 已 star`
-嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
-> 收录日期：2026-09-13
 
 ---
 

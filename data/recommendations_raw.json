@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/letscontrolit/ESPEasy",
-  "stars": 3620,
-  "desc": "ESP8266/ESP32 多传感器固件平台，内置上百种传感器驱动与 MQTT、规则引擎，刷上就能搭嵌入式采集节点"
+  "url": "https://github.com/analogdevicesinc/hdl",
+  "stars": 2040,
+  "desc": "ADI 官方 HDL 库，含 ADC/DAC 器件的 FPGA 参考设计"
  },
  {
-  "url": "https://github.com/winder/Universal-G-Code-Sender",
-  "stars": 2274,
-  "desc": "跨平台 CNC 上位机，给 GRBL/Smoothieware/TinyG 做 G-code 流式发送与手动控制"
+  "url": "https://github.com/MicroPythonOS/MicroPythonOS",
+  "stars": 778,
+  "desc": "面向 ESP32 等单片机的完整类 Android 操作系统固件"
  },
  {
-  "url": "https://github.com/aws/aws-fpga",
-  "stars": 1690,
-  "desc": "AWS EC2 F1 FPGA 硬件开发套件与 shell 接口，含 SystemVerilog 参考设计与驱动"
+  "url": "https://github.com/ArduPilot/pymavlink",
+  "stars": 739,
+  "desc": "Python 的 MAVLink 接口与工具集，地面站脚本标配"
  },
  {
-  "url": "https://github.com/luc-github/ESP3D-WEBUI",
-  "stars": 899,
-  "desc": "跑在 ESP32/ESP8266 上的 3D 打印机与 CNC 网页控制界面"
+  "url": "https://github.com/TNY-Robotics/TNY-360",
+  "stars": 353,
+  "desc": "TNY-360 机器人的源码与 3D 模型"
  },
  {
-  "url": "https://github.com/VUnit/vunit",
-  "stars": 853,
-  "desc": "VHDL/SystemVerilog 单元测试框架，自动扫描 test bench 并并行仿真"
+  "url": "https://github.com/pybricks/pybricks-micropython",
+  "stars": 352,
+  "desc": "Pybricks 设备的 MicroPython 固件，聚焦电机闭环控制"
  },
  {
-  "url": "https://github.com/zhoushoujianwork/easyeda-agent",
-  "stars": 814,
-  "desc": "嘉立创 EDA 专业版自动化：typed 原理图/PCB 动作，CLI、Agent Skill、stdio MCP 三种接入，让 AI 直接画板"
+  "url": "https://github.com/STMicroelectronics/STM32CubeWB",
+  "stars": 287,
+  "desc": "STM32WB 系列官方固件包，含 HAL/LL 驱动、BLE 协议栈与示例工程"
  },
  {
-  "url": "https://github.com/peterhinch/micropython-mqtt",
-  "stars": 687,
-  "desc": "MicroPython 异步 MQTT 驱动，断网或 broker 掉线后自动重连"
+  "url": "https://github.com/salitronic/eda-agent",
+  "stars": 275,
+  "desc": "用 AI（MCP）驱动 Altium Designer 与 KiCad 实时会话，直接改原理图与 PCB"
  },
  {
-  "url": "https://github.com/copperheadhq/copperhead",
-  "stars": 627,
-  "desc": "「电路板界的 Cursor」：AI agent 直接读写 KiCad 仓库，从需求生成原理图、布局、Gerber 与固件骨架"
- },
- {
-  "url": "https://github.com/mavlink-router/mavlink-router",
-  "stars": 622,
-  "desc": "MAVLink 报文路由器，把串口/UDP/TCP 上的飞控数据汇聚转发"
- },
- {
-  "url": "https://github.com/ArduPilot/MAVProxy",
-  "stars": 600,
-  "desc": "ArduPilot 的 MAVLink 命令行地面站与代理，支持多机与脚本扩展"
- },
- {
-  "url": "https://github.com/wokwi/rp2040js",
-  "stars": 533,
-  "desc": "JavaScript 实现的 RP2040 仿真器，可在浏览器与 Node 里跑 Pico 固件"
- },
- {
-  "url": "https://github.com/VHDL-LS/rust_hdl",
-  "stars": 515,
-  "desc": "Rust 写的 VHDL 语言服务器与分析库，提供跳转、补全与 lint"
- },
- {
-  "url": "https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot",
-  "stars": 509,
-  "desc": "ESP32 开源四足机器人框架，含步态、IMU 姿态解算与舵机控制"
- },
- {
-  "url": "https://github.com/Schildkroet/GRBL-Advanced",
-  "stars": 299,
-  "desc": "跑在 STM32F411 上的高性能 Grbl CNC 固件，步进频率更高"
- },
- {
-  "url": "https://github.com/EBiCS/EBiCS_Firmware",
+  "url": "https://github.com/flipperdevices/flipperone-mcu-firmware",
   "stars": 224,
-  "desc": "电动自行车控制器的 FOC 无刷电机固件"
+  "desc": "Flipper One 的 RP2350 低功耗协处理器固件"
  },
  {
-  "url": "https://github.com/grblHAL/STM32F4xx",
-  "stars": 162,
-  "desc": "grblHAL 的 STM32F4xx 驱动，支持 Nucleo、Blackpill 与 CNC 主板"
+  "url": "https://github.com/betaflight/firmware-presets",
+  "stars": 145,
+  "desc": "Betaflight 飞控配置片段集，常用机型参数直接套用"
  },
  {
-  "url": "https://github.com/PX4/PX4-GPSDrivers",
-  "stars": 109,
-  "desc": "PX4 跨平台 GPS 驱动库，可独立用于其他飞控项目"
+  "url": "https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-2.06",
+  "stars": 129,
+  "desc": "微雪 ESP32-S3 2.06 寸 AMOLED 触摸开发板，含 ESP-IDF/Arduino 示例与硬件资料"
  },
  {
-  "url": "https://github.com/okhsunrog/oxifoc",
-  "stars": 25,
-  "desc": "Rust + Embassy 实现的 STM32 FOC 无刷电机固件"
+  "url": "https://github.com/wagiminator/MCU-Templates",
+  "stars": 114,
+  "desc": "入门级单片机裸机固件开发模板集"
  },
  {
-  "url": "https://github.com/i-am-grub/vrxc_elrs",
-  "stars": 21,
-  "desc": "把 ExpressLRS Backpack 集成进 RotorHazard 计时系统"
+  "url": "https://github.com/puzrin/reflow_micro",
+  "stars": 93,
+  "desc": "蓝牙控制的小型回流焊台，含固件与硬件"
  },
  {
-  "url": "https://github.com/jackwang988/kicad-pcb-ai-workflow",
-  "stars": 10,
-  "desc": "KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计意图、AI 评审与制造门禁"
+  "url": "https://github.com/eskiyerli/revolution-eda",
+  "stars": 83,
+  "desc": "从原理图到 GDS 的集成电路设计环境"
+ },
+ {
+  "url": "https://github.com/waveshareteam/ESP32-S3-RLCD-4.2",
+  "stars": 81,
+  "desc": "微雪 ESP32-S3 4.2 寸反射式 LCD 开发板，低功耗 AIoT 场景"
+ },
+ {
+  "url": "https://github.com/NetKit-Labs/memkit",
+  "stars": 56,
+  "desc": "C++26 嵌入式容器库（环形缓冲等），面向裸机 MCU 与 RTOS 固件"
+ },
+ {
+  "url": "https://github.com/intel/cpp-baremetal-concurrency",
+  "stars": 47,
+  "desc": "单核单片机裸机固件的基础并发原语实现"
+ },
+ {
+  "url": "https://github.com/bkuschak/cmsis_dap_tcp_esp32",
+  "stars": 42,
+  "desc": "ESP32 上的 CMSIS-DAP 调试器，走 TCP 接 OpenOCD"
+ },
+ {
+  "url": "https://github.com/Klievan/jlink-mcp",
+  "stars": 39,
+  "desc": "给 AI 操作 SEGGER J-Link、OpenOCD 探针的 MCP 服务器"
+ },
+ {
+  "url": "https://github.com/tomrodinger/servomotor",
+  "stars": 15,
+  "desc": "开源 NEMA-17 一体化伺服电机（闭环驱动+编码器+RS-485）"
+ },
+ {
+  "url": "https://github.com/andreimagic/ESP32_C6_Touch_LCD_1_47_LVGL_Animated_Clock",
+  "stars": 14,
+  "desc": "ESP32-C6 触摸屏上跑 LVGL v9 的动画时钟"
  }
 ]

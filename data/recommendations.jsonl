@@ -1649,3 +1649,23 @@
 {"url": "https://github.com/okhsunrog/oxifoc", "stars": 25, "desc": "Rust + Embassy 实现的 STM32 FOC 无刷电机固件", "date": "2026-10-25"}
 {"url": "https://github.com/i-am-grub/vrxc_elrs", "stars": 21, "desc": "把 ExpressLRS Backpack 集成进 RotorHazard 计时系统", "date": "2026-10-25"}
 {"url": "https://github.com/jackwang988/kicad-pcb-ai-workflow", "stars": 10, "desc": "KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计意图、AI 评审与制造门禁", "date": "2026-10-25"}
+{"url": "https://github.com/analogdevicesinc/hdl", "stars": 2040, "desc": "ADI 官方 HDL 库，含 ADC/DAC 器件的 FPGA 参考设计", "date": "2026-10-26"}
+{"url": "https://github.com/MicroPythonOS/MicroPythonOS", "stars": 778, "desc": "面向 ESP32 等单片机的完整类 Android 操作系统固件", "date": "2026-10-26"}
+{"url": "https://github.com/ArduPilot/pymavlink", "stars": 739, "desc": "Python 的 MAVLink 接口与工具集，地面站脚本标配", "date": "2026-10-26"}
+{"url": "https://github.com/TNY-Robotics/TNY-360", "stars": 353, "desc": "TNY-360 机器人的源码与 3D 模型", "date": "2026-10-26"}
+{"url": "https://github.com/pybricks/pybricks-micropython", "stars": 352, "desc": "Pybricks 设备的 MicroPython 固件，聚焦电机闭环控制", "date": "2026-10-26"}
+{"url": "https://github.com/STMicroelectronics/STM32CubeWB", "stars": 287, "desc": "STM32WB 系列官方固件包，含 HAL/LL 驱动、BLE 协议栈与示例工程", "date": "2026-10-26"}
+{"url": "https://github.com/salitronic/eda-agent", "stars": 275, "desc": "用 AI（MCP）驱动 Altium Designer 与 KiCad 实时会话，直接改原理图与 PCB", "date": "2026-10-26"}
+{"url": "https://github.com/flipperdevices/flipperone-mcu-firmware", "stars": 224, "desc": "Flipper One 的 RP2350 低功耗协处理器固件", "date": "2026-10-26"}
+{"url": "https://github.com/betaflight/firmware-presets", "stars": 145, "desc": "Betaflight 飞控配置片段集，常用机型参数直接套用", "date": "2026-10-26"}
+{"url": "https://github.com/waveshareteam/ESP32-S3-Touch-AMOLED-2.06", "stars": 129, "desc": "微雪 ESP32-S3 2.06 寸 AMOLED 触摸开发板，含 ESP-IDF/Arduino 示例与硬件资料", "date": "2026-10-26"}
+{"url": "https://github.com/wagiminator/MCU-Templates", "stars": 114, "desc": "入门级单片机裸机固件开发模板集", "date": "2026-10-26"}
+{"url": "https://github.com/puzrin/reflow_micro", "stars": 93, "desc": "蓝牙控制的小型回流焊台，含固件与硬件", "date": "2026-10-26"}
+{"url": "https://github.com/eskiyerli/revolution-eda", "stars": 83, "desc": "从原理图到 GDS 的集成电路设计环境", "date": "2026-10-26"}
+{"url": "https://github.com/waveshareteam/ESP32-S3-RLCD-4.2", "stars": 81, "desc": "微雪 ESP32-S3 4.2 寸反射式 LCD 开发板，低功耗 AIoT 场景", "date": "2026-10-26"}
+{"url": "https://github.com/NetKit-Labs/memkit", "stars": 56, "desc": "C++26 嵌入式容器库（环形缓冲等），面向裸机 MCU 与 RTOS 固件", "date": "2026-10-26"}
+{"url": "https://github.com/intel/cpp-baremetal-concurrency", "stars": 47, "desc": "单核单片机裸机固件的基础并发原语实现", "date": "2026-10-26"}
+{"url": "https://github.com/bkuschak/cmsis_dap_tcp_esp32", "stars": 42, "desc": "ESP32 上的 CMSIS-DAP 调试器，走 TCP 接 OpenOCD", "date": "2026-10-26"}
+{"url": "https://github.com/Klievan/jlink-mcp", "stars": 39, "desc": "给 AI 操作 SEGGER J-Link、OpenOCD 探针的 MCP 服务器", "date": "2026-10-26"}
+{"url": "https://github.com/tomrodinger/servomotor", "stars": 15, "desc": "开源 NEMA-17 一体化伺服电机（闭环驱动+编码器+RS-485）", "date": "2026-10-26"}
+{"url": "https://github.com/andreimagic/ESP32_C6_Touch_LCD_1_47_LVGL_Animated_Clock", "stars": 14, "desc": "ESP32-C6 触摸屏上跑 LVGL v9 的动画时钟", "date": "2026-10-26"}
