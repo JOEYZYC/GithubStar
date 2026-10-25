@@ -1387,7 +1387,14 @@
    "added_at": "2026-10-26",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "Firmament-Autopilot/FMT-Firmware",
@@ -2230,6 +2237,27 @@
    ],
    "hot_dates": [
     "2026-10-07"
+   ]
+  },
+  {
+   "full_name": "TNY-Robotics/TNY-360",
+   "url": "https://github.com/TNY-Robotics/TNY-360",
+   "description": "TNY-360 机器人的源码与 3D 模型",
+   "language": "",
+   "stars": 353,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-26",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
    ]
   },
   {
@@ -3273,7 +3301,14 @@
    "added_at": "2026-10-26",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "MohammadAdib/ELRS-433",
@@ -5843,35 +5878,6 @@
    ],
    "hot_dates": [
     "2026-09-14"
-   ]
-  },
-  {
-   "full_name": "ESPARGOS/pyespargos",
-   "url": "https://github.com/ESPARGOS/pyespargos",
-   "description": "The python library for the ESPARGOS digital phased array",
-   "language": "Python",
-   "stars": 1003,
-   "topics": [
-    "angle-of-arrival",
-    "esp32",
-    "phased-array",
-    "python",
-    "radar",
-    "wifi",
-    "wifi-csi"
-   ],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-18",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-18"
    ]
   },
   {
@@ -13625,6 +13631,35 @@
    ]
   },
   {
+   "full_name": "ESPARGOS/pyespargos",
+   "url": "https://github.com/ESPARGOS/pyespargos",
+   "description": "The python library for the ESPARGOS digital phased array",
+   "language": "Python",
+   "stars": 1003,
+   "topics": [
+    "angle-of-arrival",
+    "esp32",
+    "phased-array",
+    "python",
+    "radar",
+    "wifi",
+    "wifi-csi"
+   ],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-18",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-18"
+   ]
+  },
+  {
    "full_name": "rene-dev/stmbl",
    "url": "https://github.com/rene-dev/stmbl",
    "description": "STM32F4 上的交流伺服驱动器固件（GPL-3.0）：电流环/PID/位置控制，含原理图",
@@ -13993,7 +14028,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "skiars/SerialTool",
@@ -15234,7 +15276,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "lvgl/lv_port_pc_eclipse",
@@ -15689,7 +15738,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "Makerfabs/Makerfabs-ESP32-UWB",
@@ -15968,7 +16024,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "dukelec/cdfoc",
@@ -17031,7 +17094,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "dukeduck1984/uReflowOven-Esp32-Micropython",
@@ -17318,7 +17388,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "teslabs/spinner",
@@ -17912,7 +17989,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "Twotoz/C5VRX",
@@ -18731,7 +18815,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "gcallipo/RadioDSP-DNR-Stm32f407",
@@ -18976,7 +19067,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "Mazin-O3/cpm-neo",
@@ -19137,7 +19235,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "cwu766485-ctrl/LumenRV32",
@@ -19298,7 +19403,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "lvgl/lvgl_project_creator",
@@ -21403,6 +21515,27 @@
    ]
   },
   {
+   "full_name": "tomrodinger/servomotor",
+   "url": "https://github.com/tomrodinger/servomotor",
+   "description": "开源 NEMA-17 一体化伺服电机（闭环驱动+编码器+RS-485）",
+   "language": "",
+   "stars": 15,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-26",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "full_name": "RTechAI/ForgeUI-P4",
    "url": "https://github.com/RTechAI/ForgeUI-P4",
    "description": "ESP32-P4 嵌入式 LVGL UI 框架与硬件基线",
@@ -21469,7 +21602,14 @@
    "added_at": "2026-10-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -23340,6 +23480,27 @@
    ]
   },
   {
+   "full_name": "analogdevicesinc/hdl",
+   "url": "https://github.com/analogdevicesinc/hdl",
+   "description": "ADI 官方 HDL 库，含 ADC/DAC 器件的 FPGA 参考设计",
+   "language": "",
+   "stars": 2040,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-26",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "full_name": "yaqwsx/KiKit",
    "url": "https://github.com/yaqwsx/KiKit",
    "description": "KiCad 自动化工具集：拼板面板化、BOM 与装配图",
@@ -24895,7 +25056,14 @@
    "added_at": "2026-10-26",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "lepton-eda/lepton-eda",
@@ -26057,6 +26225,27 @@
    ]
   },
   {
+   "full_name": "puzrin/reflow_micro",
+   "url": "https://github.com/puzrin/reflow_micro",
+   "description": "蓝牙控制的小型回流焊台，含固件与硬件",
+   "language": "",
+   "stars": 93,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-26",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "full_name": "OLIMEX/KiCAD",
    "url": "https://github.com/OLIMEX/KiCAD",
    "description": "Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连接器模型",
@@ -26089,7 +26278,14 @@
    "added_at": "2026-10-26",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-26"
+   ]
   },
   {
    "full_name": "loganwilliams/thermografree",
@@ -32002,7 +32198,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 140369,
+   "stars": 140370,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -32110,7 +32306,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 105753,
+   "stars": 105754,
    "topics": [
     "ade",
     "agent-ide",
@@ -32292,7 +32488,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "Rust",
-   "stars": 87629,
+   "stars": 87630,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -32473,7 +32669,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 60570,
+   "stars": 60571,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -35428,7 +35624,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 73794,
+   "stars": 73795,
    "topics": [
     "agents",
     "ai",
@@ -38889,62 +39085,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "analogdevicesinc/hdl",
-   "url": "https://github.com/analogdevicesinc/hdl",
-   "description": "ADI 官方 HDL 库，含 ADC/DAC 器件的 FPGA 参考设计",
-   "language": "",
-   "stars": 2040,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-26",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "TNY-Robotics/TNY-360",
-   "url": "https://github.com/TNY-Robotics/TNY-360",
-   "description": "TNY-360 机器人的源码与 3D 模型",
-   "language": "",
-   "stars": 353,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-26",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "puzrin/reflow_micro",
-   "url": "https://github.com/puzrin/reflow_micro",
-   "description": "蓝牙控制的小型回流焊台，含固件与硬件",
-   "language": "",
-   "stars": 93,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-26",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "tomrodinger/servomotor",
-   "url": "https://github.com/tomrodinger/servomotor",
-   "description": "开源 NEMA-17 一体化伺服电机（闭环驱动+编码器+RS-485）",
-   "language": "",
-   "stars": 15,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-26",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

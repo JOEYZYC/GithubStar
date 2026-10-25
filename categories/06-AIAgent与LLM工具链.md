@@ -86,7 +86,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★140,369 · Python · ⭐ 已 star`
+`★140,370 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -124,7 +124,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★105,753 · TypeScript · ⭐ 已 star`
+`★105,754 · TypeScript · ⭐ 已 star`
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -169,7 +169,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★87,629 · Rust · ⭐ 已 star`
+`★87,630 · Rust · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
@@ -238,7 +238,7 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★60,570 · Python · ⭐ 已 star`
+`★60,571 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 

@@ -89,6 +89,15 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-26：本轮 20 条，待归类 4 条（名称与描述都不含分类关键词表里的词）----
+    # 硬件设计与 EDA（原厂 FPGA HDL 参考设计，与 verilator/yosys/OpenFPGA 同口径）
+    "analogdevicesinc/hdl": "硬件设计与 EDA",
+    # 硬件设计与 EDA（回流焊台属硬件制造工具，与 soldering/PCB 打样同口径）
+    "puzrin/reflow_micro": "硬件设计与 EDA",
+    # 嵌入式与单片机（一体化伺服电机＝电机+驱动+编码器固件，与 FOC 驱动同口径）
+    "tomrodinger/servomotor": "嵌入式与单片机",
+    # 飞控与无人机（轮式/全向机器人平台，本仓无机器人分类，与其他 quadruped/rover 同落此格）
+    "TNY-Robotics/TNY-360": "飞控与无人机",
     # ---- 2026-10-25：本轮 20 条，待归类 3 条 + 旧 star 件 1 条 ----
     # 硬件设计与 EDA（云端 FPGA 开发套件与 VHDL 语言服务器，与 yosys/verilator 同口径）
     "aws/aws-fpga": "硬件设计与 EDA",

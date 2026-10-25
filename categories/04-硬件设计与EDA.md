@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 232 个项目 · 数据更新时间 2026-10-26 · [返回总览](../README.md)
+> 共 234 个项目 · 数据更新时间 2026-10-26 · [返回总览](../README.md)
 
 ---
 
@@ -259,6 +259,14 @@ KiCad 插件：生成嘉立创 BOM/CPL 并分配 LCSC 料号
 基于 Scala 的硬件描述语言，用元编程生成参数化 Verilog/VHDL，比 Chisel 更贴近 RTL 语义
 > 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
+
+---
+
+#### [analogdevicesinc/hdl](https://github.com/analogdevicesinc/hdl)
+`★2,040 · ⭐🔥 已 star + 热点推荐`
+ADI 官方 HDL 库，含 ADC/DAC 器件的 FPGA 参考设计
+> 热点推荐于 2026-10-26
+> 收录日期：2026-10-26
 
 ---
 
@@ -846,8 +854,9 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [salitronic/eda-agent](https://github.com/salitronic/eda-agent)
-`★275 · 🔥 热点推荐`
+`★275 · ⭐🔥 已 star + 热点推荐`
 用 AI（MCP）驱动 Altium Designer 与 KiCad 实时会话，直接改原理图与 PCB
+> 热点推荐于 2026-10-26
 > 收录日期：2026-10-26
 
 ---
@@ -1288,6 +1297,14 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 
 ---
 
+#### [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro)
+`★93 · ⭐🔥 已 star + 热点推荐`
+蓝牙控制的小型回流焊台，含固件与硬件
+> 热点推荐于 2026-10-26
+> 收录日期：2026-10-26
+
+---
+
 #### [OLIMEX/KiCAD](https://github.com/OLIMEX/KiCAD)
 `★85 · ⭐🔥 已 star + 热点推荐`
 Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连接器模型
@@ -1297,8 +1314,9 @@ Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连
 ---
 
 #### [eskiyerli/revolution-eda](https://github.com/eskiyerli/revolution-eda)
-`★83 · 🔥 热点推荐`
+`★83 · ⭐🔥 已 star + 热点推荐`
 从原理图到 GDS 的集成电路设计环境
+> 热点推荐于 2026-10-26
 > 收录日期：2026-10-26
 
 ---
