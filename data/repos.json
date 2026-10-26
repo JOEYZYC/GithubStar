@@ -2755,7 +2755,14 @@
    "added_at": "2026-10-27",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "techwinder/flow5",
@@ -3546,7 +3553,14 @@
    "added_at": "2026-10-27",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "AeroRust/nmea",
@@ -3770,7 +3784,14 @@
    "added_at": "2026-10-27",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "yidrone/AstraDroneOpen",
@@ -4719,7 +4740,14 @@
    "added_at": "2026-10-27",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "sverk-tech/sverk-ros2",
@@ -10464,7 +10492,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "espressif/esp-idf",
@@ -11267,7 +11302,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "riscv-collab/riscv-gnu-toolchain",
@@ -14091,7 +14133,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "lvgl/lv_port_pc_visual_studio",
@@ -14771,7 +14820,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "micro-ROS/micro_ros_setup",
@@ -14829,7 +14885,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "eez-open/psu-hw",
@@ -14990,7 +15053,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "Seeed-Studio/ModelAssistant",
@@ -15521,7 +15591,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "PantsForBirds/adsbee",
@@ -15913,7 +15990,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "Makerfabs/Makerfabs-ESP32-UWB",
@@ -18073,7 +18157,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "tarikbc/hotspot-arcade",
@@ -18136,6 +18227,27 @@
    ],
    "hot_dates": [
     "2026-10-16"
+   ]
+  },
+  {
+   "full_name": "BrianLChen/nRF52840-2.4GKeyboard",
+   "url": "https://github.com/BrianLChen/nRF52840-2.4GKeyboard",
+   "description": "nRF52840 的 2.4G 无线键盘固件",
+   "language": "",
+   "stars": 83,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-27",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
    ]
   },
   {
@@ -19543,7 +19655,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "pavlov-net/hub75-studio",
@@ -19725,7 +19844,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "OpenXiangShan/XiangShanLab",
@@ -20378,7 +20504,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "sipeed/M0sense_BL702_example",
@@ -20960,7 +21093,14 @@
    "added_at": "2026-10-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -24961,6 +25101,27 @@
    "note": ""
   },
   {
+   "full_name": "mshr-h/vscode-verilog-hdl-support",
+   "url": "https://github.com/mshr-h/vscode-verilog-hdl-support",
+   "description": "VS Code 的 Verilog/SystemVerilog 语法高亮、跳转与 lint 支持",
+   "language": "",
+   "stars": 388,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-27",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
+   ]
+  },
+  {
    "full_name": "American-Embedded/kistack",
    "url": "https://github.com/American-Embedded/kistack",
    "description": "KiStack is a HUMAN WRITTEN bunch of skills for KiCad",
@@ -26494,6 +26655,27 @@
    ],
    "hot_dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "full_name": "TinyTapeout/ttihp-verilog-template",
+   "url": "https://github.com/TinyTapeout/ttihp-verilog-template",
+   "description": "Tiny Tapeout IHP 流片批次的 Verilog 提交模板，芯片设计入门",
+   "language": "",
+   "stars": 86,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-27",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-27"
    ]
   },
   {
@@ -32277,7 +32459,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 289799,
+   "stars": 289800,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -32319,7 +32501,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 262543,
+   "stars": 262544,
    "topics": [
     "ai-agents",
     "cordis",
@@ -32701,7 +32883,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "Rust",
-   "stars": 89124,
+   "stars": 89125,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -32920,7 +33102,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 61018,
+   "stars": 61019,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -32990,7 +33172,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 50093,
+   "stars": 50094,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33689,7 +33871,7 @@
    "url": "https://github.com/NVIDIA/OpenShell",
    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
    "language": "Rust",
-   "stars": 20084,
+   "stars": 20083,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35810,7 +35992,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 136109,
+   "stars": 136108,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -36659,7 +36841,7 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "language": "Python",
-   "stars": 9696,
+   "stars": 9697,
    "topics": [
     "cli",
     "consumer-gpu",
@@ -38605,7 +38787,7 @@
    "url": "https://github.com/hmjz100/LinkSwift",
    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
    "language": "JavaScript",
-   "stars": 29936,
+   "stars": 29938,
    "topics": [
     "123pan",
     "aliyun-drive",
@@ -39336,48 +39518,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "mshr-h/vscode-verilog-hdl-support",
-   "url": "https://github.com/mshr-h/vscode-verilog-hdl-support",
-   "description": "VS Code 的 Verilog/SystemVerilog 语法高亮、跳转与 lint 支持",
-   "language": "",
-   "stars": 388,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-27",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "TinyTapeout/ttihp-verilog-template",
-   "url": "https://github.com/TinyTapeout/ttihp-verilog-template",
-   "description": "Tiny Tapeout IHP 流片批次的 Verilog 提交模板，芯片设计入门",
-   "language": "",
-   "stars": 86,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-27",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "BrianLChen/nRF52840-2.4GKeyboard",
-   "url": "https://github.com/BrianLChen/nRF52840-2.4GKeyboard",
-   "description": "nRF52840 的 2.4G 无线键盘固件",
-   "language": "",
-   "stars": 83,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-27",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

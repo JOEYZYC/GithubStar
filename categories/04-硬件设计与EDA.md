@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 235 个项目 · 数据更新时间 2026-10-27 · [返回总览](../README.md)
+> 共 237 个项目 · 数据更新时间 2026-10-27 · [返回总览](../README.md)
 
 ---
 
@@ -732,6 +732,14 @@ KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 
 ---
 
+#### [mshr-h/vscode-verilog-hdl-support](https://github.com/mshr-h/vscode-verilog-hdl-support)
+`★388 · ⭐🔥 已 star + 热点推荐`
+VS Code 的 Verilog/SystemVerilog 语法高亮、跳转与 lint 支持
+> 热点推荐于 2026-10-27
+> 收录日期：2026-10-27
+
+---
+
 #### [American-Embedded/kistack](https://github.com/American-Embedded/kistack)
 `★383 · Python · ⭐🔥 已 star + 热点推荐`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
@@ -1309,6 +1317,14 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 蓝牙控制的小型回流焊台，含固件与硬件
 > 热点推荐于 2026-10-26
 > 收录日期：2026-10-26
+
+---
+
+#### [TinyTapeout/ttihp-verilog-template](https://github.com/TinyTapeout/ttihp-verilog-template)
+`★86 · ⭐🔥 已 star + 热点推荐`
+Tiny Tapeout IHP 流片批次的 Verilog 提交模板，芯片设计入门
+> 热点推荐于 2026-10-27
+> 收录日期：2026-10-27
 
 ---
 

@@ -89,6 +89,12 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-27：本轮 20 条，待归类 3 条（名称与描述都不含分类关键词表里的词）----
+    # 硬件设计与 EDA（Verilog/SystemVerilog 编辑器支持 + 流片提交模板，与 verilator/yosys 同口径）
+    "mshr-h/vscode-verilog-hdl-support": "硬件设计与 EDA",
+    "TinyTapeout/ttihp-verilog-template": "硬件设计与 EDA",
+    # 嵌入式与单片机（nRF52840 私有 2.4G 键盘固件，与其它无线外设固件同口径）
+    "BrianLChen/nRF52840-2.4GKeyboard": "嵌入式与单片机",
     # ---- 2026-10-26：本轮 20 条，待归类 4 条（名称与描述都不含分类关键词表里的词）----
     # 硬件设计与 EDA（原厂 FPGA HDL 参考设计，与 verilator/yosys/OpenFPGA 同口径）
     "analogdevicesinc/hdl": "硬件设计与 EDA",

@@ -20,7 +20,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★289,799 · JavaScript · ⭐ 已 star`
+`★289,800 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -35,7 +35,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★262,543 · TypeScript · ⭐ 已 star`
+`★262,544 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -161,7 +161,7 @@ Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent 
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★89,124 · Rust · ⭐ 已 star`
+`★89,125 · Rust · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
@@ -238,7 +238,7 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★61,018 · Python · ⭐ 已 star`
+`★61,019 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
@@ -259,7 +259,7 @@ Build infinite canvas apps in React with the tldraw SDK. World's best, top-most 
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★50,093 · Markdown · ⭐ 已 star`
+`★50,094 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -501,7 +501,7 @@ Google 官方出品的 Agent Skills 集合，用技能包让 agent 操作自家�
 ---
 
 #### [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-`★20,084 · Rust · ⭐ 已 star`
+`★20,083 · Rust · ⭐ 已 star`
 OpenShell is the safe, private runtime for autonomous AI agents.
 > 收录日期：2026-10-04
 
