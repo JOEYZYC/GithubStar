@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 234 个项目 · 数据更新时间 2026-10-26 · [返回总览](../README.md)
+> 共 235 个项目 · 数据更新时间 2026-10-27 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,775 · C++ · ⭐ 已 star`
+`★34,818 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Give your agent CAD superpowers.
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★10,467 · Rust · ⭐ 已 star`
+`★10,810 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -131,7 +131,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,527 · Rust · ⭐ 已 star`
+`★3,572 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -153,17 +153,17 @@ RTL-to-GDS 开源数字芯片实现流程
 
 ---
 
-#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,062 · C++ · ⭐ 已 star`
-Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
-> 收录日期：2026-09-13
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★3,076 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
 
 ---
 
-#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,053 · Python · ⭐ 已 star`
-FreeCAD MCP(Model Context Protocol) server
-> 收录日期：2026-09-27
+#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
+`★3,070 · C++ · ⭐ 已 star`
+Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+> 收录日期：2026-09-13
 
 ---
 
@@ -725,6 +725,13 @@ ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3
 
 ---
 
+#### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
+`★412 · Python · ⭐ 已 star`
+KiStack is a HUMAN WRITTEN bunch of skills for KiCad
+> 收录日期：2026-10-27
+
+---
+
 #### [American-Embedded/kistack](https://github.com/American-Embedded/kistack)
 `★383 · Python · ⭐🔥 已 star + 热点推荐`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
@@ -869,6 +876,12 @@ gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表�
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★263 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [LibreSolar/bms-c1](https://github.com/LibreSolar/bms-c1)
 `★262 · ⭐🔥 已 star + 热点推荐`
 16 串 100A 开源电池管理系统，KiCad 原理图与 PCB 齐全，大电流 BMS 硬件设计参考
@@ -882,12 +895,6 @@ gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表�
 KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩包，免手工转换
 > 热点推荐于 2026-10-07
 > 收录日期：2026-10-07
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★261 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 

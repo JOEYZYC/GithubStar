@@ -1669,3 +1669,23 @@
 {"url": "https://github.com/Klievan/jlink-mcp", "stars": 39, "desc": "给 AI 操作 SEGGER J-Link、OpenOCD 探针的 MCP 服务器", "date": "2026-10-26"}
 {"url": "https://github.com/tomrodinger/servomotor", "stars": 15, "desc": "开源 NEMA-17 一体化伺服电机（闭环驱动+编码器+RS-485）", "date": "2026-10-26"}
 {"url": "https://github.com/andreimagic/ESP32_C6_Touch_LCD_1_47_LVGL_Animated_Clock", "stars": 14, "desc": "ESP32-C6 触摸屏上跑 LVGL v9 的动画时钟", "date": "2026-10-26"}
+{"url": "https://github.com/micropython/micropython", "stars": 22154, "desc": "MicroPython 官方解释器与固件源码，覆盖 ESP32/STM32/RP2040 等端口，嵌入式 Python 底座", "date": "2026-10-27"}
+{"url": "https://github.com/riscv/riscv-isa-manual", "stars": 4866, "desc": "RISC-V 指令集架构官方手册（非特权与特权规范）", "date": "2026-10-27"}
+{"url": "https://github.com/riscv/sail-riscv", "stars": 784, "desc": "RISC-V 的 Sail 形式化模型，可执行规范与 ISA 一致性验证", "date": "2026-10-27"}
+{"url": "https://github.com/schreibfaul1/ESP32-MiniWebRadio", "stars": 520, "desc": "ESP32-S3/P4 网络收音机固件，含 I2S DAC 与 SPI/RGB/DSI 触摸屏驱动", "date": "2026-10-27"}
+{"url": "https://github.com/v923z/micropython-ulab", "stars": 502, "desc": "MicroPython 上的 numpy 风格向量与矩阵运算模块，MCU 上跑 TinyML 常用", "date": "2026-10-27"}
+{"url": "https://github.com/Paciente8159/uCNC", "stars": 458, "desc": "面向单片机的通用 CNC 固件，GRBL 的替代实现", "date": "2026-10-27"}
+{"url": "https://github.com/mshr-h/vscode-verilog-hdl-support", "stars": 388, "desc": "VS Code 的 Verilog/SystemVerilog 语法高亮、跳转与 lint 支持", "date": "2026-10-27"}
+{"url": "https://github.com/Heerkog/MicroPythonBLEHID", "stars": 329, "desc": "MicroPython 的 BLE HID（键盘/鼠标）GATT 库", "date": "2026-10-27"}
+{"url": "https://github.com/beegee-tokyo/SX126x-Arduino", "stars": 287, "desc": "Semtech SX126x LoRa 芯片的 Arduino 库", "date": "2026-10-27"}
+{"url": "https://github.com/ArduPilot/ardupilot_gazebo", "stars": 238, "desc": "ArduPilot SITL 的 Gazebo 仿真插件与模型", "date": "2026-10-27"}
+{"url": "https://github.com/PX4/PX4-gazebo-models", "stars": 111, "desc": "PX4 的 Gazebo 仿真模型库", "date": "2026-10-27"}
+{"url": "https://github.com/fiveages-sim/robot_descriptions", "stars": 95, "desc": "人形/四足/机械臂的 ROS2 模型描述包（URDF），仿真与运动规划用", "date": "2026-10-27"}
+{"url": "https://github.com/TinyTapeout/ttihp-verilog-template", "stars": 86, "desc": "Tiny Tapeout IHP 流片批次的 Verilog 提交模板，芯片设计入门", "date": "2026-10-27"}
+{"url": "https://github.com/embedded-society/altium-designer-mcp", "stars": 85, "desc": "用 MCP 让 AI 管理 Altium Designer 元件库，原理图与 PCB 器件检索", "date": "2026-10-27"}
+{"url": "https://github.com/BrianLChen/nRF52840-2.4GKeyboard", "stars": 83, "desc": "nRF52840 的 2.4G 无线键盘固件", "date": "2026-10-27"}
+{"url": "https://github.com/zephyrproject-rtos/jlink-zephyr", "stars": 40, "desc": "Zephyr RTOS 的 J-Link 调试插件，直接读线程与内核对象", "date": "2026-10-27"}
+{"url": "https://github.com/STMicroelectronics/stm32-mw-freertos", "stars": 38, "desc": "ST 官方 STM32Cube 的 FreeRTOS 中间件包，全系列 STM32 通用", "date": "2026-10-27"}
+{"url": "https://github.com/OLIMEX/ESP32-C6-EVB", "stars": 27, "desc": "OLIMEX ESP32-C6 评估板，支持 WiFi6/BLE/Zigbee Matter", "date": "2026-10-27"}
+{"url": "https://github.com/SuperPixelElectronics/stm32_FreeRTOS_Game", "stars": 26, "desc": "STM32 + FreeRTOS 的小游戏机工程，任务划分与显示刷新参考", "date": "2026-10-27"}
+{"url": "https://github.com/SiliconLabsSoftware/zephyr-silabs", "stars": 21, "desc": "Silicon Labs（EFR32）的 Zephyr 支持包与 Simplicity SDK 集成", "date": "2026-10-27"}
