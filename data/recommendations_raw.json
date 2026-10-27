@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/micropython/micropython",
-  "stars": 22154,
-  "desc": "MicroPython 官方解释器与固件源码，覆盖 ESP32/STM32/RP2040 等端口，嵌入式 Python 底座"
+  "url": "https://github.com/robot-descriptions/awesome-robot-descriptions",
+  "stars": 1695,
+  "desc": "URDF 与 MJCF 机器人描述文件清单，仿真建模直接取用"
  },
  {
-  "url": "https://github.com/riscv/riscv-isa-manual",
-  "stars": 4866,
-  "desc": "RISC-V 指令集架构官方手册（非特权与特权规范）"
+  "url": "https://github.com/arkhipenko/TaskScheduler",
+  "stars": 1659,
+  "desc": "面向 Arduino、ESP32/ESP8266、STM32、nRF 的协作式多任务调度库，裸机固件不必上 RTOS 也能分时跑任务"
  },
  {
-  "url": "https://github.com/riscv/sail-riscv",
-  "stars": 784,
-  "desc": "RISC-V 的 Sail 形式化模型，可执行规范与 ISA 一致性验证"
+  "url": "https://github.com/riscv-non-isa/riscv-asm-manual",
+  "stars": 1655,
+  "desc": "RISC-V 汇编程序员手册，指令语义、伪指令与调用约定的权威参考"
  },
  {
-  "url": "https://github.com/schreibfaul1/ESP32-MiniWebRadio",
-  "stars": 520,
-  "desc": "ESP32-S3/P4 网络收音机固件，含 I2S DAC 与 SPI/RGB/DSI 触摸屏驱动"
+  "url": "https://github.com/rust-embedded/book",
+  "stars": 1356,
+  "desc": "Rust 裸机嵌入式开发官方书，讲如何用 Rust 在 Cortex-M 微控制器上写固件、管内存与中断"
  },
  {
-  "url": "https://github.com/v923z/micropython-ulab",
-  "stars": 502,
-  "desc": "MicroPython 上的 numpy 风格向量与矩阵运算模块，MCU 上跑 TinyML 常用"
+  "url": "https://github.com/curieuxjy/Awesome_Quadrupedal_Robots",
+  "stars": 1174,
+  "desc": "四足机器人资源清单，汇总开源机型、论文与仿真环境"
  },
  {
-  "url": "https://github.com/Paciente8159/uCNC",
-  "stars": 458,
-  "desc": "面向单片机的通用 CNC 固件，GRBL 的替代实现"
+  "url": "https://github.com/riscv/riscv-opcodes",
+  "stars": 887,
+  "desc": "RISC-V 指令编码表，生成汇编器/反汇编器与验证模型所需的 opcode 定义"
  },
  {
-  "url": "https://github.com/mshr-h/vscode-verilog-hdl-support",
-  "stars": 388,
-  "desc": "VS Code 的 Verilog/SystemVerilog 语法高亮、跳转与 lint 支持"
+  "url": "https://github.com/CANopenNode/CanOpenSTM32",
+  "stars": 529,
+  "desc": "STM32 上的 CANopen 协议栈移植，工业总线节点固件直接用"
  },
  {
-  "url": "https://github.com/Heerkog/MicroPythonBLEHID",
-  "stars": 329,
-  "desc": "MicroPython 的 BLE HID（键盘/鼠标）GATT 库"
+  "url": "https://github.com/ghdl/ghdl-yosys-plugin",
+  "stars": 370,
+  "desc": "GHDL 的 VHDL 综合插件，让 yosys 能吃 VHDL 做开源 FPGA 流程"
  },
  {
-  "url": "https://github.com/beegee-tokyo/SX126x-Arduino",
-  "stars": 287,
-  "desc": "Semtech SX126x LoRa 芯片的 Arduino 库"
+  "url": "https://github.com/damienmaguire/Stm32-vcu",
+  "stars": 264,
+  "desc": "电动车改装用的整车控制器固件，基于 STM32F107 与 Openinverter 项目"
  },
  {
-  "url": "https://github.com/ArduPilot/ardupilot_gazebo",
-  "stars": 238,
-  "desc": "ArduPilot SITL 的 Gazebo 仿真插件与模型"
+  "url": "https://github.com/m5stack/uiflow-micropython",
+  "stars": 214,
+  "desc": "M5Stack 的 UIFlow MicroPython 固件工程，ESP32 系列开发板的图形化编程运行时"
  },
  {
-  "url": "https://github.com/PX4/PX4-gazebo-models",
-  "stars": 111,
-  "desc": "PX4 的 Gazebo 仿真模型库"
+  "url": "https://github.com/HelTecAutomation/Heltec_nRF52",
+  "stars": 32,
+  "desc": "Heltec nRF52 系列开发板的 Arduino 源码与工具链配置"
  },
  {
-  "url": "https://github.com/fiveages-sim/robot_descriptions",
-  "stars": 95,
-  "desc": "人形/四足/机械臂的 ROS2 模型描述包（URDF），仿真与运动规划用"
+  "url": "https://github.com/ArminJo/Arduino-RobotCar",
+  "stars": 25,
+  "desc": "Arduino 超声避障小车，舵机扫测加电机差速控制"
  },
  {
-  "url": "https://github.com/TinyTapeout/ttihp-verilog-template",
-  "stars": 86,
-  "desc": "Tiny Tapeout IHP 流片批次的 Verilog 提交模板，芯片设计入门"
+  "url": "https://github.com/deepanshutanwar/embedded-firmware-interview-prep",
+  "stars": 18,
+  "desc": "嵌入式固件面试题库，覆盖 C 指针、内存、位操作、寄存器与中断"
  },
  {
-  "url": "https://github.com/embedded-society/altium-designer-mcp",
-  "stars": 85,
-  "desc": "用 MCP 让 AI 管理 Altium Designer 元件库，原理图与 PCB 器件检索"
+  "url": "https://github.com/RobotPilots-SZU/breeze",
+  "stars": 17,
+  "desc": "基于 Zephyr RTOS 的机器人嵌入式框架，大疆 RoboMaster 战队自用，含电机/遥控/裁判系统驱动"
  },
  {
-  "url": "https://github.com/BrianLChen/nRF52840-2.4GKeyboard",
-  "stars": 83,
-  "desc": "nRF52840 的 2.4G 无线键盘固件"
+  "url": "https://github.com/janelia-arduino/TMC51X0",
+  "stars": 13,
+  "desc": "TMC5130/TMC5160 步进电机控制器与驱动芯片的 Arduino 库，含加减速与 StallGuard"
  },
  {
-  "url": "https://github.com/zephyrproject-rtos/jlink-zephyr",
-  "stars": 40,
-  "desc": "Zephyr RTOS 的 J-Link 调试插件，直接读线程与内核对象"
+  "url": "https://github.com/Atmosic/openair",
+  "stars": 12,
+  "desc": "Atmosic 基于 Zephyr RTOS 的开源 SDK，低功耗蓝牙 SoC 的固件开发基座"
  },
  {
-  "url": "https://github.com/STMicroelectronics/stm32-mw-freertos",
-  "stars": 38,
-  "desc": "ST 官方 STM32Cube 的 FreeRTOS 中间件包，全系列 STM32 通用"
+  "url": "https://github.com/embedded-pro/e-foc",
+  "stars": 11,
+  "desc": "嵌入式电机控制工具包，演示 FOC 与 PID 在直流、BLDC、PMSM 电机上的实现"
  },
  {
-  "url": "https://github.com/OLIMEX/ESP32-C6-EVB",
-  "stars": 27,
-  "desc": "OLIMEX ESP32-C6 评估板，支持 WiFi6/BLE/Zigbee Matter"
+  "url": "https://github.com/DeepDynaSim/Servo-Motors-and-Motion-Control-Systems",
+  "stars": 11,
+  "desc": "MATLAB/Simulink 的电机驱动与运动控制教学资源，含 FOC 与自适应 PID"
  },
  {
-  "url": "https://github.com/SuperPixelElectronics/stm32_FreeRTOS_Game",
-  "stars": 26,
-  "desc": "STM32 + FreeRTOS 的小游戏机工程，任务划分与显示刷新参考"
+  "url": "https://github.com/Gedankenn/ESP32-FOC",
+  "stars": 10,
+  "desc": "ESP32 上的 FOC 算法实现，驱动 BLDC 无刷电机做闭环"
  },
  {
-  "url": "https://github.com/SiliconLabsSoftware/zephyr-silabs",
-  "stars": 21,
-  "desc": "Silicon Labs（EFR32）的 Zephyr 支持包与 Simplicity SDK 集成"
+  "url": "https://github.com/afrazali722/STM32F407-Terminal-BareMetal",
+  "stars": 10,
+  "desc": "在 macOS 终端里裸机开发 STM32F407：ARM GCC 编译、OpenOCD 烧写、GDB 调试，不依赖 IDE 与 HAL"
  }
 ]
