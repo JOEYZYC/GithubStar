@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★164,524 · Shell · ⭐ 已 star`
+`★164,525 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -147,7 +147,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★90,450 · Rust · ⭐ 已 star`
+`★90,451 · Rust · ⭐ 已 star`
 The design language that makes your AI harness better at design.
 > 收录日期：2026-09-13
 
@@ -860,7 +860,7 @@ GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. I
 ---
 
 #### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
-`★3,938 · TypeScript · ⭐ 已 star`
+`★3,940 · TypeScript · ⭐ 已 star`
 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 > 收录日期：2026-10-21
 

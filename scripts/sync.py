@@ -89,6 +89,13 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-28：本轮 20 条，待归类 1 条 + 旧 star 件 3 条 ----
+    # 硬件设计与 EDA（GHDL 的 VHDL 综合插件，与 yosys/verilator 同口径）
+    "ghdl/ghdl-yosys-plugin": "硬件设计与 EDA",
+    # 硬件设计与 EDA（三件分体/一体键盘 PCB 工程，与 gh60/keyboard-pcb 同口径）
+    "Bastardkb/Charybdis": "硬件设计与 EDA",
+    "sekigon-gonnoc/torabo-tsuki-lp": "硬件设计与 EDA",
+    "cormoran/dya-dash-keyboard": "硬件设计与 EDA",
     # ---- 2026-10-27：本轮 20 条，待归类 3 条（名称与描述都不含分类关键词表里的词）----
     # 硬件设计与 EDA（Verilog/SystemVerilog 编辑器支持 + 流片提交模板，与 verilator/yosys 同口径）
     "mshr-h/vscode-verilog-hdl-support": "硬件设计与 EDA",

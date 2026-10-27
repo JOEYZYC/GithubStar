@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 238 个项目 · 数据更新时间 2026-10-28 · [返回总览](../README.md)
+> 共 242 个项目 · 数据更新时间 2026-10-28 · [返回总览](../README.md)
 
 ---
 
@@ -307,6 +307,12 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 面向开源 FPGA 开发板的图形化 EDA 工具，拖拽连线生成 Verilog，可直接综合烧写到 ice40 开发板
 > 热点推荐于 2026-10-24
 > 收录日期：2026-10-24
+
+---
+
+#### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
+`★1,870 · ⭐ 已 star`
+> 收录日期：2026-10-28
 
 ---
 
@@ -752,6 +758,14 @@ VS Code 的 Verilog/SystemVerilog 语法高亮、跳转与 lint 支持
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 热点推荐于 2026-09-15
 > 收录日期：2026-09-13
+
+---
+
+#### [ghdl/ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)
+`★370 · ⭐🔥 已 star + 热点推荐`
+GHDL 的 VHDL 综合插件，让 yosys 能吃 VHDL 做开源 FPGA 流程
+> 热点推荐于 2026-10-28
+> 收录日期：2026-10-28
 
 ---
 
@@ -1239,6 +1253,13 @@ FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开�
 
 ---
 
+#### [sekigon-gonnoc/torabo-tsuki-lp](https://github.com/sekigon-gonnoc/torabo-tsuki-lp)
+`★109 · JavaScript · ⭐ 已 star`
+torabo-tsuki lp is low profile split keyboard with trackball(s)
+> 收录日期：2026-10-28
+
+---
+
 #### [way2pramil/awesome-kicad-projects](https://github.com/way2pramil/awesome-kicad-projects)
 `★108 · ⭐🔥 已 star + 热点推荐`
 用 KiCad 完成的项目精选清单
@@ -1395,6 +1416,13 @@ X-Laser，一款小型的矢量激光投影仪
 RP2040 + FLIR Lepton 的 USB-C 红外热像仪开源硬件，含原理图与固件，自制双光融合前端
 > 热点推荐于 2026-10-23
 > 收录日期：2026-10-23
+
+---
+
+#### [cormoran/dya-dash-keyboard](https://github.com/cormoran/dya-dash-keyboard)
+`★57 · C · ⭐ 已 star`
+DYA Dash portable wireless split keyboard with 25mm trackball
+> 收录日期：2026-10-28
 
 ---
 

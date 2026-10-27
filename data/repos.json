@@ -1011,7 +1011,14 @@
    "added_at": "2026-10-28",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "yrlu/quadrotor",
@@ -5927,7 +5934,14 @@
    "added_at": "2026-10-28",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "GENIVI/CANdevStudio",
@@ -12887,7 +12901,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "riscv-non-isa/riscv-asm-manual",
@@ -12901,7 +12922,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "prusa3d/Prusa-Firmware-Buddy",
@@ -13183,7 +13211,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "EEVengers/ThunderScope",
@@ -14120,7 +14155,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "ecubus/EcuBus-Pro",
@@ -14905,7 +14947,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "TheMaxMur/RS-Key",
@@ -16215,7 +16264,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "rh1tech/frank-os",
@@ -16557,7 +16613,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
@@ -20379,7 +20442,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "artfulbytes/i_kept_coding_until_an_rtos_was_inevitable",
@@ -20742,7 +20812,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "ruvnet/rvcsi",
@@ -21576,7 +21653,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "alexex1993/mcu-skills",
@@ -21821,7 +21905,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -22436,7 +22527,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -22639,7 +22737,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "EIC-UESTC/aCoral",
@@ -22834,7 +22939,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -23121,7 +23233,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "afrazali722/STM32F407-Terminal-BareMetal",
@@ -23135,7 +23254,14 @@
    "added_at": "2026-10-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -24256,6 +24382,19 @@
    "hot_dates": [
     "2026-10-24"
    ]
+  },
+  {
+   "full_name": "Bastardkb/Charybdis",
+   "url": "https://github.com/Bastardkb/Charybdis",
+   "description": "",
+   "language": "",
+   "stars": 1870,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-28",
+   "category": "硬件设计与 EDA",
+   "note": ""
   },
   {
    "full_name": "YosysHQ/nextpnr",
@@ -25430,6 +25569,27 @@
    ],
    "hot_dates": [
     "2026-09-15"
+   ]
+  },
+  {
+   "full_name": "ghdl/ghdl-yosys-plugin",
+   "url": "https://github.com/ghdl/ghdl-yosys-plugin",
+   "description": "GHDL 的 VHDL 综合插件，让 yosys 能吃 VHDL 做开源 FPGA 流程",
+   "language": "",
+   "stars": 370,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-28",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
    ]
   },
   {
@@ -26698,6 +26858,19 @@
    ]
   },
   {
+   "full_name": "sekigon-gonnoc/torabo-tsuki-lp",
+   "url": "https://github.com/sekigon-gonnoc/torabo-tsuki-lp",
+   "description": "torabo-tsuki lp is low profile split keyboard with trackball(s)",
+   "language": "JavaScript",
+   "stars": 109,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-28",
+   "category": "硬件设计与 EDA",
+   "note": ""
+  },
+  {
    "full_name": "way2pramil/awesome-kicad-projects",
    "url": "https://github.com/way2pramil/awesome-kicad-projects",
    "description": "用 KiCad 完成的项目精选清单",
@@ -27128,6 +27301,19 @@
    "hot_dates": [
     "2026-10-23"
    ]
+  },
+  {
+   "full_name": "cormoran/dya-dash-keyboard",
+   "url": "https://github.com/cormoran/dya-dash-keyboard",
+   "description": "DYA Dash portable wireless split keyboard with 25mm trackball",
+   "language": "C",
+   "stars": 57,
+   "topics": [],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-28",
+   "category": "硬件设计与 EDA",
+   "note": ""
   },
   {
    "full_name": "commaai/PCBGolf",
@@ -32581,7 +32767,14 @@
    "added_at": "2026-10-28",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-28"
+   ]
   },
   {
    "full_name": "ganghui0/dcs-thz-mimo-ce",
@@ -32850,7 +33043,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 164524,
+   "stars": 164525,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33120,7 +33313,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design language that makes your AI harness better at design.",
    "language": "Rust",
-   "stars": 90450,
+   "stars": 90451,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35165,7 +35358,7 @@
    "url": "https://github.com/JetBrains/thinkrail",
    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
    "language": "TypeScript",
-   "stars": 3938,
+   "stars": 3940,
    "topics": [
     "agent",
     "agent-skills",
@@ -36297,7 +36490,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 136939,
+   "stars": 136940,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -39823,59 +40016,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "Bastardkb/Charybdis",
-   "url": "https://github.com/Bastardkb/Charybdis",
-   "description": "",
-   "language": "",
-   "stars": 1870,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-28",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "ghdl/ghdl-yosys-plugin",
-   "url": "https://github.com/ghdl/ghdl-yosys-plugin",
-   "description": "GHDL 的 VHDL 综合插件，让 yosys 能吃 VHDL 做开源 FPGA 流程",
-   "language": "",
-   "stars": 370,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-28",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "sekigon-gonnoc/torabo-tsuki-lp",
-   "url": "https://github.com/sekigon-gonnoc/torabo-tsuki-lp",
-   "description": "torabo-tsuki lp is low profile split keyboard with trackball(s)",
-   "language": "JavaScript",
-   "stars": 109,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-28",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "cormoran/dya-dash-keyboard",
-   "url": "https://github.com/cormoran/dya-dash-keyboard",
-   "description": "DYA Dash portable wireless split keyboard with 25mm trackball",
-   "language": "C",
-   "stars": 57,
-   "topics": [],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-28",
-   "category": "待归类",
    "note": ""
   }
  ]
