@@ -1709,3 +1709,23 @@
 {"url": "https://github.com/DeepDynaSim/Servo-Motors-and-Motion-Control-Systems", "stars": 11, "desc": "MATLAB/Simulink 的电机驱动与运动控制教学资源，含 FOC 与自适应 PID", "date": "2026-10-28"}
 {"url": "https://github.com/Gedankenn/ESP32-FOC", "stars": 10, "desc": "ESP32 上的 FOC 算法实现，驱动 BLDC 无刷电机做闭环", "date": "2026-10-28"}
 {"url": "https://github.com/afrazali722/STM32F407-Terminal-BareMetal", "stars": 10, "desc": "在 macOS 终端里裸机开发 STM32F407：ARM GCC 编译、OpenOCD 烧写、GDB 调试，不依赖 IDE 与 HAL", "date": "2026-10-28"}
+{"url": "https://github.com/fpgasystems/fpga-network-stack", "stars": 976, "desc": "FPGA 上的可扩展网络协议栈（TCP/IP、RoCEv2），HDL 实现", "date": "2026-10-29"}
+{"url": "https://github.com/ArduPilot/ardupilot_wiki", "stars": 680, "desc": "ArduPilot 飞控文档仓库与 wiki 站点源码", "date": "2026-10-29"}
+{"url": "https://github.com/mavlink/rust-mavlink", "stars": 295, "desc": "MAVLink 协议的 Rust 实现，用于飞控与地面站通信", "date": "2026-10-29"}
+{"url": "https://github.com/FreeRTOS/FreeRTOS-Plus-TCP", "stars": 216, "desc": "FreeRTOS 官方 TCP/IP 协议栈，嵌入式网络栈实现", "date": "2026-10-29"}
+{"url": "https://github.com/grblHAL/RP2040", "stars": 176, "desc": "grblHAL 的 RP2040/RP2350 驱动，CNC 运动控制固件", "date": "2026-10-29"}
+{"url": "https://github.com/ngxson/esp32-usb-to-airprint", "stars": 170, "desc": "用 ESP32-S3 给老打印机加 AirPrint/AirScan 支持", "date": "2026-10-29"}
+{"url": "https://github.com/PX4/px4_msgs", "stars": 161, "desc": "与 PX4 固件 uORB 消息对应的 ROS 2 消息包", "date": "2026-10-29"}
+{"url": "https://github.com/Tinkerforge/kicad-libraries", "stars": 131, "desc": "Tinkerforge 硬件的 KiCad 元件库", "date": "2026-10-29"}
+{"url": "https://github.com/01studio-lab/pyDrone", "stars": 112, "desc": "01Studio 的 MicroPython 四轴无人机，ESP32-S3 主控", "date": "2026-10-29"}
+{"url": "https://github.com/openthread/ot-nrf528xx", "stars": 90, "desc": "nRF528xx 上的 OpenThread 例程，Thread 无线组网", "date": "2026-10-29"}
+{"url": "https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support", "stars": 89, "desc": "给 nRF52 Supermini 开发板补 PlatformIO 支持", "date": "2026-10-29"}
+{"url": "https://github.com/VHDL/pyVHDLModel", "stars": 66, "desc": "VHDL 的 Python 抽象语言模型，用于 HDL 工具链", "date": "2026-10-29"}
+{"url": "https://github.com/TinyTapeout/ttsky-verilog-template", "stars": 65, "desc": "Tiny Tapeout SKY130 流片提交模板，Verilog HDL 项目", "date": "2026-10-29"}
+{"url": "https://github.com/waveshareteam/ESP32-S3-PhotoPainter", "stars": 58, "desc": "微雪 7.3 寸电子纸相框，ESP32-S3 驱动与固件", "date": "2026-10-29"}
+{"url": "https://github.com/ArthFink/nrf52840-OpenThread", "stars": 57, "desc": "nRF52840 的 OpenThread 无线组网示例", "date": "2026-10-29"}
+{"url": "https://github.com/RoboJackets/robocup-pcb", "stars": 32, "desc": "RoboCup 小型组足球机器人的 KiCad 电路设计文件", "date": "2026-10-29"}
+{"url": "https://github.com/nguyenquanicd/VLSIT_ASIC_SOC_AI_SKILLS", "stars": 21, "desc": "ASIC/FPGA 设计用的 AI 技能集", "date": "2026-10-29"}
+{"url": "https://github.com/niyeradori/QuickSmith-Web", "stars": 16, "desc": "浏览器版 Smith 圆图，做阻抗匹配与匹配网络设计，支持 Touchstone 导入", "date": "2026-10-29"}
+{"url": "https://github.com/fprime-community/fprime-zephyr", "stars": 11, "desc": "F' 飞控框架的 Zephyr RTOS 包", "date": "2026-10-29"}
+{"url": "https://github.com/eiefirmware/eie_nrf52840", "stars": 10, "desc": "基于 nRF52840 DK 的嵌入式固件平台", "date": "2026-10-29"}
