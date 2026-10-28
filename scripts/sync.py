@@ -89,6 +89,17 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-29：本轮 20 条，待归类 6 条（名称与描述都不含分类关键词表里的词）----
+    # 硬件设计与 EDA（FPGA 网络协议栈 HDL + VHDL 的 Python AST 模型，与 yosys/verilator 同口径）
+    "fpgasystems/fpga-network-stack": "硬件设计与 EDA",
+    "VHDL/pyVHDLModel": "硬件设计与 EDA",
+    # 无线通信与感知（Thread 组网例程 + nRF52 OpenThread 最小工程）
+    "openthread/ot-nrf528xx": "无线通信与感知",
+    "ArthFink/nrf52840-OpenThread": "无线通信与感知",
+    # 嵌入式与单片机（开源小板补 PlatformIO board 定义，属嵌入式工具链）
+    "ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support": "嵌入式与单片机",
+    # 电磁仿真与超表面（Smith 圆图阻抗匹配/S 参数工具，与 openEMS/HFSS 同口径）
+    "niyeradori/QuickSmith-Web": "电磁仿真与超表面",
     # ---- 2026-10-28：本轮 20 条，待归类 1 条 + 旧 star 件 3 条 ----
     # 硬件设计与 EDA（GHDL 的 VHDL 综合插件，与 yosys/verilator 同口径）
     "ghdl/ghdl-yosys-plugin": "硬件设计与 EDA",

@@ -86,7 +86,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★142,064 · Python · ⭐ 已 star`
+`★142,065 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -124,7 +124,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★108,986 · TypeScript · ⭐ 已 star`
+`★108,987 · TypeScript · ⭐ 已 star`
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -532,7 +532,7 @@ AI agent skill 安全扫描器，检测提示注入、数据外泄与供应链�
 ---
 
 #### [openai/math](https://github.com/openai/math)
-`★16,611 · Lean · ⭐ 已 star`
+`★16,612 · Lean · ⭐ 已 star`
 > 收录日期：2026-10-08
 
 ---
@@ -591,7 +591,7 @@ Cloudflare 出品的多阶段代码/系统安全审计 agent skill，输出机�
 ---
 
 #### [openchamber/openchamber](https://github.com/openchamber/openchamber)
-`★12,290 · TypeScript · ⭐ 已 star`
+`★12,291 · TypeScript · ⭐ 已 star`
 Agentic Development Environment based on OpenCode AI agent
 > 收录日期：2026-09-13
 
@@ -1227,8 +1227,9 @@ MinerU MCP Server - 完整的文档处理解决方案。支持PDF/PPTX/DOCX/图�
 ---
 
 #### [nguyenquanicd/VLSIT_ASIC_SOC_AI_SKILLS](https://github.com/nguyenquanicd/VLSIT_ASIC_SOC_AI_SKILLS)
-`★21 · 🔥 热点推荐`
+`★21 · ⭐🔥 已 star + 热点推荐`
 ASIC/FPGA 设计用的 AI 技能集
+> 热点推荐于 2026-10-29
 > 收录日期：2026-10-29
 
 ---

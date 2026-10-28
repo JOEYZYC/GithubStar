@@ -1597,7 +1597,14 @@
    "added_at": "2026-10-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "INAVFlights/inav",
@@ -2517,7 +2524,14 @@
    "added_at": "2026-10-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "ManfredCh/Lyapunov",
@@ -3266,7 +3280,14 @@
    "added_at": "2026-10-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "HKUST-Aerial-Robotics/ublox_driver",
@@ -3616,7 +3637,14 @@
    "added_at": "2026-10-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "PX4/PX4-gazebo-models",
@@ -5730,7 +5758,14 @@
    "added_at": "2026-10-29",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "RustedBytes/mavsim",
@@ -9808,6 +9843,27 @@
    ],
    "hot_dates": [
     "2026-10-03"
+   ]
+  },
+  {
+   "full_name": "niyeradori/QuickSmith-Web",
+   "url": "https://github.com/niyeradori/QuickSmith-Web",
+   "description": "浏览器版 Smith 圆图，做阻抗匹配与匹配网络设计，支持 Touchstone 导入",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-29",
+   "category": "电磁仿真与超表面",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
    ]
   },
   {
@@ -16718,7 +16774,14 @@
    "added_at": "2026-10-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "m5stack/uiflow-micropython",
@@ -17025,7 +17088,14 @@
    "added_at": "2026-10-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "simonw/micropython-wasm",
@@ -17165,7 +17235,14 @@
    "added_at": "2026-10-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "benkrasnow/Temperature_sensing_stirbar",
@@ -18420,6 +18497,27 @@
    ]
   },
   {
+   "full_name": "ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support",
+   "url": "https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support",
+   "description": "给 nRF52 Supermini 开发板补 PlatformIO 支持",
+   "language": "",
+   "stars": 89,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-29",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "full_name": "scavenrage/PCIe-PC-Power-Control-ESP32-H2",
    "url": "https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2",
    "description": "插在 PCIe 槽、由 ESP32-H2 通过 Zigbee/Home Assistant 远程开关机的控制卡",
@@ -19400,7 +19498,14 @@
    "added_at": "2026-10-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "pyrite-project/pyrite-ide",
@@ -23456,7 +23561,14 @@
    "added_at": "2026-10-29",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -24990,6 +25102,27 @@
    ],
    "hot_dates": [
     "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "fpgasystems/fpga-network-stack",
+   "url": "https://github.com/fpgasystems/fpga-network-stack",
+   "description": "FPGA 上的可扩展网络协议栈（TCP/IP、RoCEv2），HDL 实现",
+   "language": "",
+   "stars": 976,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-29",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
    ]
   },
   {
@@ -26882,7 +27015,14 @@
    "added_at": "2026-10-29",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "jcyrax/pcbmodelgen",
@@ -27506,6 +27646,27 @@
    ]
   },
   {
+   "full_name": "VHDL/pyVHDLModel",
+   "url": "https://github.com/VHDL/pyVHDLModel",
+   "description": "VHDL 的 Python 抽象语言模型，用于 HDL 工具链",
+   "language": "",
+   "stars": 66,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-29",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "full_name": "zrrraa/X-Laser",
    "url": "https://github.com/zrrraa/X-Laser",
    "description": "X-Laser，一款小型的矢量激光投影仪",
@@ -27976,7 +28137,14 @@
    "added_at": "2026-10-29",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "ref42/npnp",
@@ -31083,6 +31251,27 @@
    ]
   },
   {
+   "full_name": "openthread/ot-nrf528xx",
+   "url": "https://github.com/openthread/ot-nrf528xx",
+   "description": "nRF528xx 上的 OpenThread 例程，Thread 无线组网",
+   "language": "",
+   "stars": 90,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-29",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "full_name": "socquique/capsule-radar",
    "url": "https://github.com/socquique/capsule-radar",
    "description": "信息聚合类时间胶囊雷达小工具",
@@ -31639,6 +31828,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "ArthFink/nrf52840-OpenThread",
+   "url": "https://github.com/ArthFink/nrf52840-OpenThread",
+   "description": "nRF52840 的 OpenThread 无线组网示例",
+   "language": "",
+   "stars": 57,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-29",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
    ]
   },
   {
@@ -33380,7 +33590,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 142064,
+   "stars": 142065,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -33488,7 +33698,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 108986,
+   "stars": 108987,
    "topics": [
     "ade",
     "agent-ide",
@@ -34702,7 +34912,7 @@
    "url": "https://github.com/openai/math",
    "description": "",
    "language": "Lean",
-   "stars": 16611,
+   "stars": 16612,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -34851,7 +35061,7 @@
    "url": "https://github.com/openchamber/openchamber",
    "description": "Agentic Development Environment based on OpenCode AI agent",
    "language": "TypeScript",
-   "stars": 12290,
+   "stars": 12291,
    "topics": [
     "agentic-engineering",
     "agents",
@@ -36658,7 +36868,14 @@
    "added_at": "2026-10-29",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "prasetyarobert205-jpg/codex-fpga-engineering-workflow",
@@ -38847,7 +39064,14 @@
    "added_at": "2026-10-29",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-29"
+   ]
   },
   {
    "full_name": "AydinAdnan/PulseVAD",
@@ -40301,90 +40525,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "fpgasystems/fpga-network-stack",
-   "url": "https://github.com/fpgasystems/fpga-network-stack",
-   "description": "FPGA 上的可扩展网络协议栈（TCP/IP、RoCEv2），HDL 实现",
-   "language": "",
-   "stars": 976,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "openthread/ot-nrf528xx",
-   "url": "https://github.com/openthread/ot-nrf528xx",
-   "description": "nRF528xx 上的 OpenThread 例程，Thread 无线组网",
-   "language": "",
-   "stars": 90,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support",
-   "url": "https://github.com/ICantMakeThings/Nicenano-NRF52-Supermini-PlatformIO-Support",
-   "description": "给 nRF52 Supermini 开发板补 PlatformIO 支持",
-   "language": "",
-   "stars": 89,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "VHDL/pyVHDLModel",
-   "url": "https://github.com/VHDL/pyVHDLModel",
-   "description": "VHDL 的 Python 抽象语言模型，用于 HDL 工具链",
-   "language": "",
-   "stars": 66,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ArthFink/nrf52840-OpenThread",
-   "url": "https://github.com/ArthFink/nrf52840-OpenThread",
-   "description": "nRF52840 的 OpenThread 无线组网示例",
-   "language": "",
-   "stars": 57,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-29",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "niyeradori/QuickSmith-Web",
-   "url": "https://github.com/niyeradori/QuickSmith-Web",
-   "description": "浏览器版 Smith 圆图，做阻抗匹配与匹配网络设计，支持 Touchstone 导入",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-29",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

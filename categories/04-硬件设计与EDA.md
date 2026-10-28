@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 244 个项目 · 数据更新时间 2026-10-29 · [返回总览](../README.md)
+> 共 246 个项目 · 数据更新时间 2026-10-29 · [返回总览](../README.md)
 
 ---
 
@@ -448,6 +448,14 @@ ATmega 驱动的 T12 快速加热焊接台，电路极简，低成本入门方�
 Python 芯片与 PCB 版图生成库，支持光子/模拟/量子/MEMS 与三维打印件设计
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
+
+---
+
+#### [fpgasystems/fpga-network-stack](https://github.com/fpgasystems/fpga-network-stack)
+`★976 · ⭐🔥 已 star + 热点推荐`
+FPGA 上的可扩展网络协议栈（TCP/IP、RoCEv2），HDL 实现
+> 热点推荐于 2026-10-29
+> 收录日期：2026-10-29
 
 ---
 
@@ -1174,8 +1182,9 @@ AI 驱动 PCB 设计自动化：元件布局、布线优化与信号完整性检
 ---
 
 #### [Tinkerforge/kicad-libraries](https://github.com/Tinkerforge/kicad-libraries)
-`★131 · 🔥 热点推荐`
+`★131 · ⭐🔥 已 star + 热点推荐`
 Tinkerforge 硬件的 KiCad 元件库
+> 热点推荐于 2026-10-29
 > 收录日期：2026-10-29
 
 ---
@@ -1411,6 +1420,14 @@ Olimex 官方 KiCad 元件符号与封装库，含其开发板常用器件与连
 
 ---
 
+#### [VHDL/pyVHDLModel](https://github.com/VHDL/pyVHDLModel)
+`★66 · ⭐🔥 已 star + 热点推荐`
+VHDL 的 Python 抽象语言模型，用于 HDL 工具链
+> 热点推荐于 2026-10-29
+> 收录日期：2026-10-29
+
+---
+
 #### [zrrraa/X-Laser](https://github.com/zrrraa/X-Laser)
 `★64 · C · ⭐ 已 star`
 X-Laser，一款小型的矢量激光投影仪
@@ -1593,8 +1610,9 @@ Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，
 ---
 
 #### [RoboJackets/robocup-pcb](https://github.com/RoboJackets/robocup-pcb)
-`★32 · 🔥 热点推荐`
+`★32 · ⭐🔥 已 star + 热点推荐`
 RoboCup 小型组足球机器人的 KiCad 电路设计文件
+> 热点推荐于 2026-10-29
 > 收录日期：2026-10-29
 
 ---
