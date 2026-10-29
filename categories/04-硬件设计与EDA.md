@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 246 个项目 · 数据更新时间 2026-10-29 · [返回总览](../README.md)
+> 共 249 个项目 · 数据更新时间 2026-10-30 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,895 · C++ · ⭐ 已 star`
+`★34,926 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★11,640 · Rust · ⭐ 已 star`
+`★12,030 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -123,7 +123,7 @@ SkyWater 130nm 开源工艺库，开源芯片设计底座
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,655 · Rust · ⭐ 已 star`
+`★3,685 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -134,6 +134,13 @@ A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-ac
 Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 RTL 验证
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
+
+---
+
+#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
+`★3,117 · Python · ⭐ 已 star`
+FreeCAD MCP(Model Context Protocol) server
+> 收录日期：2026-09-27
 
 ---
 
@@ -153,15 +160,8 @@ RTL-to-GDS 开源数字芯片实现流程
 
 ---
 
-#### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,102 · Python · ⭐ 已 star`
-FreeCAD MCP(Model Context Protocol) server
-> 收录日期：2026-09-27
-
----
-
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,086 · C++ · ⭐ 已 star`
+`★3,090 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -397,7 +397,7 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
-`★1,206 · ⭐ 已 star`
+`★1,205 · ⭐ 已 star`
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.
 > 收录日期：2026-10-28
 
@@ -612,7 +612,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★581 · C · ⭐ 已 star`
+`★583 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -747,7 +747,7 @@ ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3
 ---
 
 #### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★413 · Python · ⭐ 已 star`
+`★415 · Python · ⭐ 已 star`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 收录日期：2026-10-27
 
@@ -905,17 +905,17 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★267 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [lepton-eda/lepton-eda](https://github.com/lepton-eda/lepton-eda)
 `★265 · ⭐🔥 已 star + 热点推荐`
 gEDA 分支延续的 GPL 全套电子设计自动化：原理图捕获、网表生成与 PCB 工具链
 > 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★265 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 
@@ -994,6 +994,13 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 控制/状态寄存器（CSR）代码生成工具链
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [alplabai/signex](https://github.com/alplabai/signex)
+`★211 · 🔥 热点推荐`
+Rust 写的开源 EDA 原理图/PCB 编辑器，兼容业界工具格式
+> 收录日期：2026-10-30
 
 ---
 
@@ -1237,6 +1244,13 @@ FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟
 
 ---
 
+#### [parisxmas/fastroute](https://github.com/parisxmas/fastroute)
+`★115 · 🔥 热点推荐`
+Rust 实现的 KiCad 开源 PCB 自动布线器，支持阻抗控制与差分对
+> 收录日期：2026-10-30
+
+---
+
 #### [azmat-bilal/bldc_motor_controller_pcb](https://github.com/azmat-bilal/bldc_motor_controller_pcb)
 `★112 · ⭐🔥 已 star + 热点推荐`
 BLDC 无刷电机驱动板设计（兼容 ODrive 接口），含原理图与 PCB，自制驱动器参考
@@ -1270,7 +1284,7 @@ FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开�
 ---
 
 #### [sekigon-gonnoc/torabo-tsuki-lp](https://github.com/sekigon-gonnoc/torabo-tsuki-lp)
-`★109 · JavaScript · ⭐ 已 star`
+`★110 · JavaScript · ⭐ 已 star`
 torabo-tsuki lp is low profile split keyboard with trackball(s)
 > 收录日期：2026-10-28
 
@@ -1463,6 +1477,13 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 可直接投产的风暴追踪器开源硬件，设计文件、BOM 与制造包齐全
 > 热点推荐于 2026-09-23
 > 收录日期：2026-09-23
+
+---
+
+#### [ZiroEDA/ziro-designer](https://github.com/ZiroEDA/ziro-designer)
+`★54 · 🔥 热点推荐`
+浏览器里的 KiCad 10：在线打开、编辑、分享原理图与 PCB 工程
+> 收录日期：2026-10-30
 
 ---
 
