@@ -5,14 +5,14 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★393,381 · TypeScript · ⭐ 已 star`
+`★393,380 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★292,670 · JavaScript · ⭐ 已 star`
+`★292,673 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -35,14 +35,14 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★265,764 · TypeScript · ⭐ 已 star`
+`★265,765 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★226,411 · ⭐ 已 star`
+`★226,412 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -79,14 +79,14 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★143,907 · Python · ⭐ 已 star`
+`★143,910 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★142,525 · Python · ⭐ 已 star`
+`★142,529 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -116,7 +116,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★110,147 · TypeScript · ⭐ 已 star`
+`★110,151 · TypeScript · ⭐ 已 star`
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -147,14 +147,14 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★95,226 · Rust · ⭐ 已 star`
+`★95,233 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★91,421 · JavaScript · ⭐ 已 star`
+`★91,422 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -238,14 +238,14 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★62,340 · Python · ⭐ 已 star`
+`★62,343 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★51,424 · Markdown · ⭐ 已 star`
+`★51,425 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -784,7 +784,7 @@ Agent OS：自我改进的 agent 运行时，含面试门控、分阶段评估�
 ---
 
 #### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
-`★5,970 · TypeScript · ⭐ 已 star`
+`★5,972 · TypeScript · ⭐ 已 star`
 Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 > 收录日期：2026-10-21
 

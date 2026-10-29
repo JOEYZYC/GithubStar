@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 249 个项目 · 数据更新时间 2026-10-30 · [返回总览](../README.md)
+> 共 251 个项目 · 数据更新时间 2026-10-30 · [返回总览](../README.md)
 
 ---
 
@@ -28,7 +28,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★12,030 · Rust · ⭐ 已 star`
+`★12,033 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -998,8 +998,9 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 ---
 
 #### [alplabai/signex](https://github.com/alplabai/signex)
-`★211 · 🔥 热点推荐`
+`★211 · ⭐🔥 已 star + 热点推荐`
 Rust 写的开源 EDA 原理图/PCB 编辑器，兼容业界工具格式
+> 热点推荐于 2026-10-30
 > 收录日期：2026-10-30
 
 ---
@@ -1049,6 +1050,14 @@ Nordic 全系列芯片 KiCad 元件库
 用开源硬件做的无线热像仪，用于监测轮胎温度分布
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [hdl4fpga/hdl4fpga](https://github.com/hdl4fpga/hdl4fpga)
+`★187 · ⭐🔥 已 star + 热点推荐`
+面向 FPGA 的 VHDL 库，含示波器/仪器类 IP
+> 热点推荐于 2026-10-30
+> 收录日期：2026-10-30
 
 ---
 
@@ -1245,8 +1254,9 @@ FPGA 上锁相环（PLL）相关项目集合（Verilog）：数字 PLL 与时钟
 ---
 
 #### [parisxmas/fastroute](https://github.com/parisxmas/fastroute)
-`★115 · 🔥 热点推荐`
+`★115 · ⭐🔥 已 star + 热点推荐`
 Rust 实现的 KiCad 开源 PCB 自动布线器，支持阻抗控制与差分对
+> 热点推荐于 2026-10-30
 > 收录日期：2026-10-30
 
 ---
@@ -1481,8 +1491,9 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 ---
 
 #### [ZiroEDA/ziro-designer](https://github.com/ZiroEDA/ziro-designer)
-`★54 · 🔥 热点推荐`
+`★54 · ⭐🔥 已 star + 热点推荐`
 浏览器里的 KiCad 10：在线打开、编辑、分享原理图与 PCB 工程
+> 热点推荐于 2026-10-30
 > 收录日期：2026-10-30
 
 ---
@@ -1819,6 +1830,14 @@ AS02MC04（XCKU3P）FPGA 的 PCILeech 兼容移植，SFP1 上跑 25G RawUDP 传�
 BLDC 无刷电机 FOC 驱动板 PCB 设计，含原理图与固件脚手架
 > 热点推荐于 2026-10-24
 > 收录日期：2026-10-24
+
+---
+
+#### [mohammed-gweaa/compressed-cache-fpga](https://github.com/mohammed-gweaa/compressed-cache-fpga)
+`★15 · ⭐🔥 已 star + 热点推荐`
+FPGA 上的流水线压缩缓存架构，运行时可变相联度
+> 热点推荐于 2026-10-30
+> 收录日期：2026-10-30
 
 ---
 

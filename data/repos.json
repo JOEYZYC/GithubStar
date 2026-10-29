@@ -3458,6 +3458,27 @@
    ]
   },
   {
+   "full_name": "mavlink/mavlink2rest",
+   "url": "https://github.com/mavlink/mavlink2rest",
+   "description": "把 MAVLink 数据暴露为 REST 接口的服务",
+   "language": "",
+   "stars": 133,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-30",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
+  },
+  {
    "full_name": "SpikeCalls/FlyDrones",
    "url": "https://github.com/SpikeCalls/FlyDrones",
    "description": "用果蝇连接组驱动无人机，神经元读数转为摇杆指令",
@@ -4346,7 +4367,14 @@
    "added_at": "2026-10-30",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "Pouya-Mansournia/ros2-zero-to-robot",
@@ -6575,7 +6603,14 @@
    "added_at": "2026-10-30",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "UNIC-Lab/RadioDiff",
@@ -12442,7 +12477,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "No-Chicken/OV-Watch",
@@ -13075,7 +13117,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "pikasTech/PikaPython",
@@ -14000,7 +14049,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "MatthewKuKanich/CAN_Commander",
@@ -15794,7 +15850,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "EFeru/bldc-motor-control-FOC",
@@ -16724,7 +16787,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "EBiCS/EBiCS_Firmware",
@@ -17563,6 +17633,27 @@
    ],
    "hot_dates": [
     "2026-09-22"
+   ]
+  },
+  {
+   "full_name": "PXLogic/PXView",
+   "url": "https://github.com/PXLogic/PXView",
+   "description": "基于 sigrok 的仪器上位机 GUI，支持逻辑分析仪与示波器",
+   "language": "",
+   "stars": 152,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-30",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -19949,7 +20040,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "Bellman281/esp32-tinyLLM",
@@ -20812,7 +20910,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "WangTingMan/Bluethread",
@@ -21120,7 +21225,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "alexkid77/openlara_esp32p4",
@@ -21793,6 +21905,27 @@
    ],
    "hot_dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "full_name": "rosenrot00/OpenScope-2C23T",
+   "url": "https://github.com/rosenrot00/OpenScope-2C23T",
+   "description": "F2C23T 手持示波器/万用表/信号源的开源自定义固件",
+   "language": "",
+   "stars": 21,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-30",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -22756,7 +22889,14 @@
    "added_at": "2026-10-30",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -23008,6 +23148,27 @@
    ],
    "hot_dates": [
     "2026-10-28"
+   ]
+  },
+  {
+   "full_name": "htchr/waveshare_servos",
+   "url": "https://github.com/htchr/waveshare_servos",
+   "description": "Waveshare ST 舵机的 ros2_control 驱动包",
+   "language": "",
+   "stars": 13,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-30",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -24137,7 +24298,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 12030,
+   "stars": 12033,
    "topics": [
     "3d-modeling",
     "brep",
@@ -26720,7 +26881,14 @@
    "added_at": "2026-10-30",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "Tencent/wave-mcp",
@@ -26846,6 +27014,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "hdl4fpga/hdl4fpga",
+   "url": "https://github.com/hdl4fpga/hdl4fpga",
+   "description": "面向 FPGA 的 VHDL 库，含示波器/仪器类 IP",
+   "language": "",
+   "stars": 187,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-30",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -27364,7 +27553,14 @@
    "added_at": "2026-10-30",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "azmat-bilal/bldc_motor_controller_pcb",
@@ -27983,7 +28179,14 @@
    "added_at": "2026-10-30",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
+   ]
   },
   {
    "full_name": "YutongChenVictor/NPU-E2E",
@@ -28857,6 +29060,27 @@
    ],
    "hot_dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "full_name": "mohammed-gweaa/compressed-cache-fpga",
+   "url": "https://github.com/mohammed-gweaa/compressed-cache-fpga",
+   "description": "FPGA 上的流水线压缩缓存架构，运行时可变相联度",
+   "language": "",
+   "stars": 15,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-30",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -33598,7 +33822,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 393381,
+   "stars": 393380,
    "topics": [
     "ai",
     "assistant",
@@ -33619,7 +33843,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 292670,
+   "stars": 292673,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -33690,7 +33914,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 265764,
+   "stars": 265765,
    "topics": [
     "ai-agents",
     "cordis",
@@ -33708,7 +33932,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 226411,
+   "stars": 226412,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -33799,7 +34023,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 143907,
+   "stars": 143910,
    "topics": [
     "ai",
     "copilot",
@@ -33820,7 +34044,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 142525,
+   "stars": 142529,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -33907,7 +34131,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 110147,
+   "stars": 110151,
    "topics": [
     "ade",
     "agent-ide",
@@ -34004,7 +34228,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 95226,
+   "stars": 95233,
    "topics": [
     "agent-skills",
     "ai",
@@ -34023,7 +34247,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 91421,
+   "stars": 91422,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -34297,7 +34521,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 62340,
+   "stars": 62343,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -34324,7 +34548,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 51424,
+   "stars": 51425,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35835,7 +36059,7 @@
    "url": "https://github.com/JetBrains/thinkrail",
    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
    "language": "TypeScript",
-   "stars": 5970,
+   "stars": 5972,
    "topics": [
     "agent",
     "agent-skills",
@@ -37208,7 +37432,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 138645,
+   "stars": 138650,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -37273,7 +37497,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 75587,
+   "stars": 75588,
    "topics": [
     "agents",
     "ai",
@@ -37397,7 +37621,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 49953,
+   "stars": 49958,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -39897,7 +40121,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 493262,
+   "stars": 493258,
    "topics": [
     "api",
     "apis",
@@ -39924,7 +40148,7 @@
    "url": "https://github.com/521xueweihan/HelloGitHub",
    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
-   "stars": 185567,
+   "stars": 185568,
    "topics": [
     "awesome",
     "github",
@@ -40115,7 +40339,7 @@
    "url": "https://github.com/Free-TV/IPTV",
    "description": "M3U Playlist for free TV channels",
    "language": "Python",
-   "stars": 21552,
+   "stars": 21551,
    "topics": [
     "help-wanted",
     "looking-for-contributors"
@@ -40625,6 +40849,21 @@
    ]
   },
   {
+   "full_name": "missionhub-oss/mfcp",
+   "url": "https://github.com/missionhub-oss/mfcp",
+   "description": "The Mission Forge Contributor Program (MFCP) is an open-source contributor development program.",
+   "language": "JavaScript",
+   "stars": 28,
+   "topics": [
+    "mfcp"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-10-30",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "processmission-intern/mission-forge",
    "url": "https://github.com/processmission-intern/mission-forge",
    "description": "A contributor development program by Process Mission, combining open-source learning, mentorship, contribution assessments, and performance-based incentives.",
@@ -40755,105 +40994,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "hdl4fpga/hdl4fpga",
-   "url": "https://github.com/hdl4fpga/hdl4fpga",
-   "description": "面向 FPGA 的 VHDL 库，含示波器/仪器类 IP",
-   "language": "",
-   "stars": 187,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "PXLogic/PXView",
-   "url": "https://github.com/PXLogic/PXView",
-   "description": "基于 sigrok 的仪器上位机 GUI，支持逻辑分析仪与示波器",
-   "language": "",
-   "stars": 152,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "mavlink/mavlink2rest",
-   "url": "https://github.com/mavlink/mavlink2rest",
-   "description": "把 MAVLink 数据暴露为 REST 接口的服务",
-   "language": "",
-   "stars": 133,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "missionhub-oss/mfcp",
-   "url": "https://github.com/missionhub-oss/mfcp",
-   "description": "The Mission Forge Contributor Program (MFCP) is an open-source contributor development program.",
-   "language": "JavaScript",
-   "stars": 28,
-   "topics": [
-    "mfcp"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-10-30",
-   "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "rosenrot00/OpenScope-2C23T",
-   "url": "https://github.com/rosenrot00/OpenScope-2C23T",
-   "description": "F2C23T 手持示波器/万用表/信号源的开源自定义固件",
-   "language": "",
-   "stars": 21,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "mohammed-gweaa/compressed-cache-fpga",
-   "url": "https://github.com/mohammed-gweaa/compressed-cache-fpga",
-   "description": "FPGA 上的流水线压缩缓存架构，运行时可变相联度",
-   "language": "",
-   "stars": 15,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-30",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "htchr/waveshare_servos",
-   "url": "https://github.com/htchr/waveshare_servos",
-   "description": "Waveshare ST 舵机的 ros2_control 驱动包",
-   "language": "",
-   "stars": 13,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-30",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

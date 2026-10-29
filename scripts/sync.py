@@ -89,6 +89,19 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-30：本轮 20 条，待归类 6 条 + 旧 star 件 1 条 ----
+    # 硬件设计与 EDA（FPGA 的 VHDL 库 + FPGA 压缩缓存 RTL，与 verilator/yosys 同口径）
+    "hdl4fpga/hdl4fpga": "硬件设计与 EDA",
+    "mohammed-gweaa/compressed-cache-fpga": "硬件设计与 EDA",
+    # 嵌入式与单片机（仪器侧上位机 + 手持示波器固件，与 10-24 iio-oscilloscope 同口径）
+    "PXLogic/PXView": "嵌入式与单片机",
+    "rosenrot00/OpenScope-2C23T": "嵌入式与单片机",
+    # 嵌入式与单片机（一体化伺服电机驱动/舵机 ros2_control 驱动，与 servomotor 同口径）
+    "htchr/waveshare_servos": "嵌入式与单片机",
+    # 飞控与无人机（MAVLink 数据服务化，属飞控协议生态）
+    "mavlink/mavlink2rest": "飞控与无人机",
+    # 开发工具与系统资源（开源贡献者培养计划，非硬件项目；本仓自动归类规则无匹配词）
+    "missionhub-oss/mfcp": "开发工具与系统资源",
     # ---- 2026-10-29：本轮 20 条，待归类 6 条（名称与描述都不含分类关键词表里的词）----
     # 硬件设计与 EDA（FPGA 网络协议栈 HDL + VHDL 的 Python AST 模型，与 yosys/verilator 同口径）
     "fpgasystems/fpga-network-stack": "硬件设计与 EDA",
