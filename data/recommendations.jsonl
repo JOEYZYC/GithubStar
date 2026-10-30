@@ -1749,3 +1749,12 @@
 {"url": "https://github.com/mohammed-gweaa/compressed-cache-fpga", "stars": 15, "desc": "FPGA 上的流水线压缩缓存架构，运行时可变相联度", "date": "2026-10-30"}
 {"url": "https://github.com/TexasInstruments/simplelink-zephyr", "stars": 14, "desc": "TI SimpleLink 的 Zephyr RTOS 下游分支，MCU 上跑 Zephyr", "date": "2026-10-30"}
 {"url": "https://github.com/htchr/waveshare_servos", "stars": 13, "desc": "Waveshare ST 舵机的 ros2_control 驱动包", "date": "2026-10-30"}
+{"url": "https://github.com/Ly0n/awesome-robotic-tooling", "stars": 3916, "desc": "机器人开发工具链精选清单，覆盖 ROS、自主驾驶与 C++/Python 工具", "date": "2026-10-31"}
+{"url": "https://github.com/XiaomiRobotics/Xiaomi-Robotics-1", "stars": 733, "desc": "小米机器人 1 号的开源代码，具身智能机器人方向", "date": "2026-10-31"}
+{"url": "https://github.com/CoretechR/PicoLab", "stars": 186, "desc": "Web-GUI 嵌入式多功能工具，浏览器里当逻辑分析仪、示波器与电源用", "date": "2026-10-31"}
+{"url": "https://github.com/tornyol/lesonar2", "stars": 112, "desc": "超声波相控阵声呐，相控阵波束成形的硬件实现", "date": "2026-10-31"}
+{"url": "https://github.com/PixelyIon/DeckTX", "stars": 73, "desc": "把任意 PC 变成 ELRS 遥控发射机，飞控/FPV 远程链路的自建方案", "date": "2026-10-31"}
+{"url": "https://github.com/Hussain004/BAGEL", "stars": 53, "desc": "浏览器里直接打开 ROS 1/2 bag 与 PX4 飞控日志、点云与高斯泼溅，无需安装", "date": "2026-10-31"}
+{"url": "https://github.com/ouradar/SimRadar", "stars": 31, "desc": "极化雷达时序仿真器，含空气阻力运动模型与真实 RCS 建模", "date": "2026-10-31"}
+{"url": "https://github.com/al-nafisah/fpga-project-analyzer", "stars": 23, "desc": "可视化分析 Vivado/Zynq/PYNQ 等 FPGA 工程：时钟域、约束与框图下钻", "date": "2026-10-31"}
+{"url": "https://github.com/rotemTsafrir/antenna_sim", "stars": 17, "desc": "交互式电磁场与天线仿真器，支持偶极子、环形天线与相控阵，浏览器里实时看场分布", "date": "2026-10-31"}

@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 251 个项目 · 数据更新时间 2026-10-30 · [返回总览](../README.md)
+> 共 251 个项目 · 数据更新时间 2026-10-31 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,926 · C++ · ⭐ 已 star`
+`★34,969 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★12,033 · Rust · ⭐ 已 star`
+`★12,368 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -123,7 +123,7 @@ SkyWater 130nm 开源工艺库，开源芯片设计底座
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,685 · Rust · ⭐ 已 star`
+`★3,705 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,7 +138,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,117 · Python · ⭐ 已 star`
+`★3,143 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -161,7 +161,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,090 · C++ · ⭐ 已 star`
+`★3,092 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,870 · ⭐ 已 star`
+`★1,871 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -738,18 +738,18 @@ OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 
 ---
 
+#### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
+`★416 · Python · ⭐ 已 star`
+KiStack is a HUMAN WRITTEN bunch of skills for KiCad
+> 收录日期：2026-10-27
+
+---
+
 #### [ExpressLRS/ExpressLRS-Hardware](https://github.com/ExpressLRS/ExpressLRS-Hardware)
 `★415 · ⭐🔥 已 star + 热点推荐`
 ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3D 打印外壳
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
-
----
-
-#### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★415 · Python · ⭐ 已 star`
-KiStack is a HUMAN WRITTEN bunch of skills for KiCad
-> 收录日期：2026-10-27
 
 ---
 
@@ -906,7 +906,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★267 · C++ · ⭐ 已 star`
+`★268 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
