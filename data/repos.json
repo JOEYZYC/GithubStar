@@ -24424,7 +24424,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 12368,
+   "stars": 12369,
    "topics": [
     "3d-modeling",
     "brep",
@@ -26854,6 +26854,27 @@
    ],
    "hot_dates": [
     "2026-09-16"
+   ]
+  },
+  {
+   "full_name": "groupgets/GetThermal",
+   "url": "https://github.com/groupgets/GetThermal",
+   "description": "跨平台 USB 热像仪取流与显示软件（FLIR Boson/Lepton）",
+   "language": "",
+   "stars": 249,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-17",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-17"
    ]
   },
   {
@@ -34011,7 +34032,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 293384,
+   "stars": 293385,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -34082,7 +34103,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 266714,
+   "stars": 266716,
    "topics": [
     "ai-agents",
     "cordis",
@@ -34113,7 +34134,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 223314,
+   "stars": 223315,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -34212,7 +34233,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 143026,
+   "stars": 143027,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -34354,7 +34375,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 96992,
+   "stars": 96995,
    "topics": [
     "agent-skills",
     "ai",
@@ -34921,7 +34942,7 @@
    "url": "https://github.com/lightpanda-io/browser",
    "description": "Lightpanda: the headless browser designed for AI and automation",
    "language": "Zig",
-   "stars": 38321,
+   "stars": 38322,
    "topics": [
     "browser",
     "browser-automation",
@@ -37600,7 +37621,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 139449,
+   "stars": 139451,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -38470,7 +38491,7 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "language": "Python",
-   "stars": 9828,
+   "stars": 9829,
    "topics": [
     "cli",
     "consumer-gpu",
@@ -39231,27 +39252,6 @@
    ],
    "hot_dates": [
     "2026-09-21"
-   ]
-  },
-  {
-   "full_name": "groupgets/GetThermal",
-   "url": "https://github.com/groupgets/GetThermal",
-   "description": "跨平台 USB 热像仪取流与显示软件（FLIR Boson/Lepton）",
-   "language": "",
-   "stars": 249,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-17",
-   "category": "AI 模型与视觉",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-17"
    ]
   },
   {
@@ -40310,7 +40310,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 493548,
+   "stars": 493549,
    "topics": [
     "api",
     "apis",
@@ -40832,7 +40832,7 @@
    "url": "https://github.com/Kyant0/AndroidLiquidGlass",
    "description": "Compose Multiplatform Liquid Glass effect",
    "language": "Kotlin",
-   "stars": 4385,
+   "stars": 4386,
    "topics": [
     "compose-multiplatform",
     "jetpack-compose",
@@ -40849,7 +40849,7 @@
    "url": "https://github.com/microsoft/WindowsDeveloperConfig",
    "description": "Automate the setup and configuration of your Windows development environment.",
    "language": "PowerShell",
-   "stars": 3247,
+   "stars": 3248,
    "topics": [],
    "archived": false,
    "source": "star",

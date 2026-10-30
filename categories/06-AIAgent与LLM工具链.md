@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★293,384 · JavaScript · ⭐ 已 star`
+`★293,385 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -35,7 +35,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★266,714 · TypeScript · ⭐ 已 star`
+`★266,716 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -49,7 +49,7 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★223,314 · TypeScript · ⭐ 已 star`
+`★223,315 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
@@ -86,7 +86,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★143,026 · Python · ⭐ 已 star`
+`★143,027 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★96,992 · Rust · ⭐ 已 star`
+`★96,995 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -320,7 +320,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 ---
 
 #### [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-`★38,321 · Zig · ⭐ 已 star`
+`★38,322 · Zig · ⭐ 已 star`
 Lightpanda: the headless browser designed for AI and automation
 > 收录日期：2026-09-13
 

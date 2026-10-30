@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 252 个项目 · 数据更新时间 2026-10-31 · [返回总览](../README.md)
+> 共 253 个项目 · 数据更新时间 2026-10-31 · [返回总览](../README.md)
 
 ---
 
@@ -28,7 +28,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★12,368 · Rust · ⭐ 已 star`
+`★12,369 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -940,6 +940,14 @@ KiCad 插件：一键导入 Ultra Librarian / SnapEDA 下载的元件库压缩�
 InfiRay P2 Pro 热像模块的查看器与 API
 > 热点推荐于 2026-09-16
 > 收录日期：2026-09-16
+
+---
+
+#### [groupgets/GetThermal](https://github.com/groupgets/GetThermal)
+`★249 · ⭐🔥 已 star + 热点推荐`
+跨平台 USB 热像仪取流与显示软件（FLIR Boson/Lepton）
+> 热点推荐于 2026-09-17
+> 收录日期：2026-09-17
 
 ---
 

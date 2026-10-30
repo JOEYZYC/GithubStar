@@ -96,10 +96,6 @@ OVERRIDES: dict[str, str] = {
     "tornyol/lesonar2": "无线通信与感知",
     # 硬件设计与 EDA（Vivado/Zynq/PYNQ 工程可视化分析，与 yosys/verilator 同口径）
     "al-nafisah/fpga-project-analyzer": "硬件设计与 EDA",
-    # 嵌入式与单片机（红外热像模块查看器/取流库，与 Lepton/picothermal 同口径；原自动规则误判进 EDA/视觉）
-    "LeoDJ/P2Pro-Viewer": "嵌入式与单片机",
-    "groupgets/GetThermal": "嵌入式与单片机",
-    "MagnusThome/RejsaRubberTrac": "嵌入式与单片机",
     # ---- 2026-10-30：本轮 20 条，待归类 6 条 + 旧 star 件 1 条 ----
     # 硬件设计与 EDA（FPGA 的 VHDL 库 + FPGA 压缩缓存 RTL，与 verilator/yosys 同口径）
     "hdl4fpga/hdl4fpga": "硬件设计与 EDA",
@@ -768,7 +764,7 @@ OVERRIDES: dict[str, str] = {
     "upnalab/SonicSurface": "硬件设计与 EDA",
     "DingdongD/TDMA-MIMO": "无线通信与感知",
     "advoard/advoard_localization": "无线通信与感知",
-    "groupgets/GetThermal": "AI 模型与视觉",
+    "groupgets/GetThermal": "硬件设计与 EDA",
     "tomshaffner/PiThermalCam": "嵌入式与单片机",
     "MagnusThome/RejsaRubberTrac": "硬件设计与 EDA",
     "Eximius-Labs/fusion-embedding": "AI 模型与视觉",
