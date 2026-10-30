@@ -42,7 +42,7 @@ DeepSeek Harness: Everything is a Plugin.
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★226,838 · ⭐ 已 star`
+`★226,839 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -116,7 +116,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★111,086 · TypeScript · ⭐ 已 star`
+`★111,087 · TypeScript · ⭐ 已 star`
 Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★96,991 · Rust · ⭐ 已 star`
+`★96,992 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -238,7 +238,7 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★62,717 · Python · ⭐ 已 star`
+`★62,718 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 

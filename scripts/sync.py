@@ -89,6 +89,17 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-10-31：本轮 20 条，待归类 3 条 ----
+    # 飞控与无人机（整机机器人开源代码，本仓无机器人分类，与 TNY-360/quadruped 同口径）
+    "XiaomiRobotics/Xiaomi-Robotics-1": "飞控与无人机",
+    # 无线通信与感知（超声相控阵声呐＝相控阵波束成形的感知硬件，与 radar/感知 同口径）
+    "tornyol/lesonar2": "无线通信与感知",
+    # 硬件设计与 EDA（Vivado/Zynq/PYNQ 工程可视化分析，与 yosys/verilator 同口径）
+    "al-nafisah/fpga-project-analyzer": "硬件设计与 EDA",
+    # 嵌入式与单片机（红外热像模块查看器/取流库，与 Lepton/picothermal 同口径；原自动规则误判进 EDA/视觉）
+    "LeoDJ/P2Pro-Viewer": "嵌入式与单片机",
+    "groupgets/GetThermal": "嵌入式与单片机",
+    "MagnusThome/RejsaRubberTrac": "嵌入式与单片机",
     # ---- 2026-10-30：本轮 20 条，待归类 6 条 + 旧 star 件 1 条 ----
     # 硬件设计与 EDA（FPGA 的 VHDL 库 + FPGA 压缩缓存 RTL，与 verilator/yosys 同口径）
     "hdl4fpga/hdl4fpga": "硬件设计与 EDA",

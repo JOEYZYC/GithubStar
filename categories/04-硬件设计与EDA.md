@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 251 个项目 · 数据更新时间 2026-10-31 · [返回总览](../README.md)
+> 共 252 个项目 · 数据更新时间 2026-10-31 · [返回总览](../README.md)
 
 ---
 
@@ -1710,6 +1710,14 @@ Gaelco 街机基板的 FPGA 复刻核心（Verilog），可作 HDL 逆向与总�
 把 Icarus Verilog 编译为 WebAssembly，浏览器里纯前端跑 Verilog 仿真
 > 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
+
+---
+
+#### [al-nafisah/fpga-project-analyzer](https://github.com/al-nafisah/fpga-project-analyzer)
+`★23 · ⭐🔥 已 star + 热点推荐`
+可视化分析 Vivado/Zynq/PYNQ 等 FPGA 工程：时钟域、约束与框图下钻
+> 热点推荐于 2026-10-31
+> 收录日期：2026-10-31
 
 ---
 

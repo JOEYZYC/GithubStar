@@ -1418,6 +1418,27 @@
    ]
   },
   {
+   "full_name": "XiaomiRobotics/Xiaomi-Robotics-1",
+   "url": "https://github.com/XiaomiRobotics/Xiaomi-Robotics-1",
+   "description": "小米机器人 1 号的开源代码，具身智能机器人方向",
+   "language": "",
+   "stars": 733,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-31",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "full_name": "Firmament-Autopilot/FMT-Firmware",
    "url": "https://github.com/Firmament-Autopilot/FMT-Firmware",
    "description": "FMT 开源无人机飞控固件，基于模型设计（MBD）的嵌入式飞控，支持多旋翼与固定翼",
@@ -4015,7 +4036,14 @@
    "added_at": "2026-10-31",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
   },
   {
    "full_name": "huobuilds/quadfs_flight_controller",
@@ -4291,7 +4319,14 @@
    "added_at": "2026-10-31",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
   },
   {
    "full_name": "RomanSlack/jev-drone",
@@ -9108,7 +9143,14 @@
    "added_at": "2026-10-31",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
   },
   {
    "full_name": "dodge-research-group/thztools",
@@ -9857,7 +9899,14 @@
    "added_at": "2026-10-31",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
   },
   {
    "full_name": "NedaEmami123/hfss-mcp",
@@ -17220,7 +17269,14 @@
    "added_at": "2026-10-31",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
   },
   {
    "full_name": "rettichschnidi/clang-tidy-misra",
@@ -28818,6 +28874,27 @@
    ]
   },
   {
+   "full_name": "al-nafisah/fpga-project-analyzer",
+   "url": "https://github.com/al-nafisah/fpga-project-analyzer",
+   "description": "可视化分析 Vivado/Zynq/PYNQ 等 FPGA 工程：时钟域、约束与框图下钻",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-31",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "full_name": "scott-guthridge/libvna",
    "url": "https://github.com/scott-guthridge/libvna",
    "description": "矢量网络分析仪 8/10/12/16 项误差校准与参数换算库",
@@ -31502,6 +31579,27 @@
    ]
   },
   {
+   "full_name": "tornyol/lesonar2",
+   "url": "https://github.com/tornyol/lesonar2",
+   "description": "超声波相控阵声呐，相控阵波束成形的硬件实现",
+   "language": "",
+   "stars": 112,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-10-31",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "full_name": "edwin-pan/uDoppler-Classification",
    "url": "https://github.com/edwin-pan/uDoppler-Classification",
    "description": "毫米波 FMCW 雷达微多普勒人体动作分类",
@@ -34002,7 +34100,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 226838,
+   "stars": 226839,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -34201,7 +34299,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 111086,
+   "stars": 111087,
    "topics": [
     "ade",
     "agent-ide",
@@ -34256,7 +34354,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 96991,
+   "stars": 96992,
    "topics": [
     "agent-skills",
     "ai",
@@ -34591,7 +34689,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 62717,
+   "stars": 62718,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -37567,7 +37665,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 75739,
+   "stars": 75740,
    "topics": [
     "agents",
     "ai",
@@ -37691,7 +37789,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 51730,
+   "stars": 51731,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -37877,7 +37975,14 @@
    "added_at": "2026-10-31",
    "category": "知识管理与笔记",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-10-31"
+   ]
   },
   {
    "full_name": "buchidonggua/dg-ai-notes",
@@ -40205,7 +40310,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 493547,
+   "stars": 493548,
    "topics": [
     "api",
     "apis",
@@ -41078,48 +41183,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "XiaomiRobotics/Xiaomi-Robotics-1",
-   "url": "https://github.com/XiaomiRobotics/Xiaomi-Robotics-1",
-   "description": "小米机器人 1 号的开源代码，具身智能机器人方向",
-   "language": "",
-   "stars": 733,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-31",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "tornyol/lesonar2",
-   "url": "https://github.com/tornyol/lesonar2",
-   "description": "超声波相控阵声呐，相控阵波束成形的硬件实现",
-   "language": "",
-   "stars": 112,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-31",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "al-nafisah/fpga-project-analyzer",
-   "url": "https://github.com/al-nafisah/fpga-project-analyzer",
-   "description": "可视化分析 Vivado/Zynq/PYNQ 等 FPGA 工程：时钟域、约束与框图下钻",
-   "language": "",
-   "stars": 23,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-10-31",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
