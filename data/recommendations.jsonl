@@ -1758,3 +1758,23 @@
 {"url": "https://github.com/ouradar/SimRadar", "stars": 31, "desc": "极化雷达时序仿真器，含空气阻力运动模型与真实 RCS 建模", "date": "2026-10-31"}
 {"url": "https://github.com/al-nafisah/fpga-project-analyzer", "stars": 23, "desc": "可视化分析 Vivado/Zynq/PYNQ 等 FPGA 工程：时钟域、约束与框图下钻", "date": "2026-10-31"}
 {"url": "https://github.com/rotemTsafrir/antenna_sim", "stars": 17, "desc": "交互式电磁场与天线仿真器，支持偶极子、环形天线与相控阵，浏览器里实时看场分布", "date": "2026-10-31"}
+{"url": "https://github.com/XiaomiRobotics/Xiaomi-Robotics-U0", "stars": 188, "desc": "小米机器人 U0 的开源资料仓库", "date": "2026-11-01"}
+{"url": "https://github.com/X-Gen-Lab/zephyr-learning-system", "stars": 125, "desc": "基于 Docs-as-Code 的 Zephyr RTOS 中文学习系统，Markdown + MkDocs 结构可检索", "date": "2026-11-01"}
+{"url": "https://github.com/Orchis-ai-LLC/Konnect-EDA", "stars": 91, "desc": "面向 KiCAD 10 的 AI 辅助 PCB 设计工具（闭源，测试期免费）", "date": "2026-11-01"}
+{"url": "https://github.com/ExpressLRS/Docs", "stars": 56, "desc": "ExpressLRS 遥控链路（ELRS）官方文档站源码，含协议与硬件接线说明", "date": "2026-11-01"}
+{"url": "https://github.com/BanaanKiamanesh/QuadCopter-Control", "stars": 51, "desc": "在四旋翼上实现并对比多种控制算法（PID/LQR 等）的飞控代码", "date": "2026-11-01"}
+{"url": "https://github.com/BoumedineBillal/esp32-pie-asr", "stars": 41, "desc": "ESP32-P4 上跑的流式语音识别：6570 万参数模型 2/4bit 量化，实时转写", "date": "2026-11-01"}
+{"url": "https://github.com/LingaoM/zbot", "stars": 35, "desc": "跑在 Zephyr RTOS 上的嵌入式 AI Agent，跨多款硬件平台", "date": "2026-11-01"}
+{"url": "https://github.com/wdcjx/Embedded-programming", "stars": 32, "desc": "面向 AI Agent 的 STM32 开发技能集：SPL/HAL × 裸机/FreeRTOS 四轨代码生成与引脚表", "date": "2026-11-01"}
+{"url": "https://github.com/IoTSharp/lvgl-editor", "stars": 31, "desc": "LVGL 可视化界面编辑器，一套工程模型输出 C/LVGL、LispBM/VESC、BASIC 三种目标", "date": "2026-11-01"}
+{"url": "https://github.com/hammerill/libfpv", "stars": 31, "desc": "在任意游戏里飞 FPV 无人机的库，把游戏画面当作图传", "date": "2026-11-01"}
+{"url": "https://github.com/wkumik/Digital-FPV-OSD-Tool", "stars": 27, "desc": "FPV 眼镜录像的 MSP-OSD 叠加工具，支持 Betaflight/INAV/Ardupilot", "date": "2026-11-01"}
+{"url": "https://github.com/bubblebabyboi/sigil", "stars": 25, "desc": "自研 RV64GCV RISC-V 核心与 SoC，内置 SHA-2/SHA-3/Keccak 硬件哈希与签名校验", "date": "2026-11-01"}
+{"url": "https://github.com/ksachdeva/zephyr-rtos-ai", "stars": 23, "desc": "辅助 Zephyr 固件开发的 AI Agent 框架", "date": "2026-11-01"}
+{"url": "https://github.com/RFOXiA/MultiNav-Pro-Long-Range-BLE-Module-Firmware-STM32WB07", "stars": 16, "desc": "基于 STM32WB07 的长距离 BLE 模块开源固件", "date": "2026-11-01"}
+{"url": "https://github.com/thecorecomet/Comet-Drone", "stars": 14, "desc": "面向空心杯电机微型四轴的轻量飞控固件", "date": "2026-11-01"}
+{"url": "https://github.com/ref42/YBLINK", "stars": 13, "desc": "纯 Rust 实现的 DAPLink 兼容调试固件，跑在 HPM5301 RISC-V 单片机上", "date": "2026-11-01"}
+{"url": "https://github.com/erogluyusuf/WiFi-Sensing-Radar", "stars": 11, "desc": "用 WiFi RSSI 干扰检测人体移动的 Docker 化开源方案", "date": "2026-11-01"}
+{"url": "https://github.com/OpenDrone-hw/KiCad-Library", "stars": 11, "desc": "OpenDrone 硬件项目共享的 KiCad 符号、封装与 3D 模型库", "date": "2026-11-01"}
+{"url": "https://github.com/Formsmith746/SketchForge-PCB", "stars": 11, "desc": "本地优先的浏览器 PCB 设计编辑器，含原理图、布局、3D 检视与导出", "date": "2026-11-01"}
+{"url": "https://github.com/reza-shahriari/isaac-thermal-camera-simulation", "stars": 10, "desc": "NVIDIA Isaac Sim 中逐像素物理级热像/红外相机仿真器", "date": "2026-11-01"}

@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 253 个项目 · 数据更新时间 2026-10-31 · [返回总览](../README.md)
+> 共 255 个项目 · 数据更新时间 2026-11-01 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★34,969 · C++ · ⭐ 已 star`
+`★35,003 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★12,369 · Rust · ⭐ 已 star`
+`★12,630 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -114,18 +114,18 @@ Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器�
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★3,721 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [google/skywater-pdk](https://github.com/google/skywater-pdk)
 `★3,713 · ⭐🔥 已 star + 热点推荐`
 SkyWater 130nm 开源工艺库，开源芯片设计底座
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,705 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 
@@ -138,7 +138,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,143 · Python · ⭐ 已 star`
+`★3,166 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -161,7 +161,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,092 · C++ · ⭐ 已 star`
+`★3,098 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,871 · ⭐ 已 star`
+`★1,872 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -739,7 +739,7 @@ OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 ---
 
 #### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★416 · Python · ⭐ 已 star`
+`★418 · Python · ⭐ 已 star`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 收录日期：2026-10-27
 
@@ -1396,6 +1396,13 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 
 ---
 
+#### [Orchis-ai-LLC/Konnect-EDA](https://github.com/Orchis-ai-LLC/Konnect-EDA)
+`★91 · 🔥 热点推荐`
+面向 KiCAD 10 的 AI 辅助 PCB 设计工具（闭源，测试期免费）
+> 收录日期：2026-11-01
+
+---
+
 #### [TinyTapeout/ttihp-verilog-template](https://github.com/TinyTapeout/ttihp-verilog-template)
 `★86 · ⭐🔥 已 star + 热点推荐`
 Tiny Tapeout IHP 流片批次的 Verilog 提交模板，芯片设计入门
@@ -1942,6 +1949,13 @@ MAX2871 射频信号发生器开源硬件，23.5MHz-6GHz，含 ATMEGA32U4、滤�
 GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS Code 扩展可渲染上亿多边形
 > 热点推荐于 2026-09-30
 > 收录日期：2026-09-30
+
+---
+
+#### [Formsmith746/SketchForge-PCB](https://github.com/Formsmith746/SketchForge-PCB)
+`★11 · 🔥 热点推荐`
+本地优先的浏览器 PCB 设计编辑器，含原理图、布局、3D 检视与导出
+> 收录日期：2026-11-01
 
 ---
 
