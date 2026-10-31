@@ -3122,6 +3122,27 @@
    ]
   },
   {
+   "full_name": "XiaomiRobotics/Xiaomi-Robotics-U0",
+   "url": "https://github.com/XiaomiRobotics/Xiaomi-Robotics-U0",
+   "description": "小米机器人 U0 的开源资料仓库",
+   "language": "",
+   "stars": 188,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-01",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "full_name": "Auterion/px4-ros2-interface-lib",
    "url": "https://github.com/Auterion/px4-ros2-interface-lib",
    "description": "伴飞计算机通过 ROS 2 与 PX4 通信的官方接口库",
@@ -4266,6 +4287,27 @@
    ]
   },
   {
+   "full_name": "ExpressLRS/Docs",
+   "url": "https://github.com/ExpressLRS/Docs",
+   "description": "ExpressLRS 遥控链路（ELRS）官方文档站源码，含协议与硬件接线说明",
+   "language": "",
+   "stars": 56,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-01",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "full_name": "YongLD/Multi-UAV-JEV",
    "url": "https://github.com/YongLD/Multi-UAV-JEV",
    "description": "MuJoCo 里的多无人机视觉追捕仿真，含 RGB/深度可视化与回合采集",
@@ -4367,7 +4409,14 @@
    "added_at": "2026-11-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "tau-intelligence/MuJoCo-drones-gym",
@@ -4877,7 +4926,14 @@
    "added_at": "2026-11-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "ruvnet/ruv-drone",
@@ -5017,7 +5073,14 @@
    "added_at": "2026-11-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "sverk-tech/sverk-ros2",
@@ -5632,7 +5695,14 @@
    "added_at": "2026-11-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "ZSN2024/AGC-VLN",
@@ -5940,7 +6010,14 @@
    "added_at": "2026-11-01",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "RustedBytes/mavsim",
@@ -10675,7 +10752,14 @@
    "added_at": "2026-11-01",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "hongwei1-c/RF-AIagent",
@@ -18256,7 +18340,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "Liwuyuee/xiaozhi-esp32-local",
@@ -20495,7 +20586,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "cwu766485-ctrl/LumenRV32",
@@ -21022,7 +21120,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "Spectrewolf777/Stm32l4-Watch",
@@ -21246,7 +21351,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "artfulbytes/i_kept_coding_until_an_rtos_was_inevitable",
@@ -21323,7 +21435,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "bqy12346/Fall-Detection",
@@ -21665,7 +21784,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "ruvnet/rvcsi",
@@ -21889,7 +22015,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "MikeWuPing/UEFI_LVGL",
@@ -22891,7 +23024,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "chibios-upstream/chibios",
@@ -23505,7 +23645,14 @@
    "added_at": "2026-11-01",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -28279,7 +28426,14 @@
    "added_at": "2026-11-01",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "TinyTapeout/ttihp-verilog-template",
@@ -29718,7 +29872,14 @@
    "added_at": "2026-11-01",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "matsvandamme/fishball7020-fpga-devkit",
@@ -34130,7 +34291,14 @@
    "added_at": "2026-11-01",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-01"
+   ]
   },
   {
    "full_name": "ganghui0/dcs-thz-mimo-ce",
@@ -34284,7 +34452,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 294035,
+   "stars": 294041,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -34373,7 +34541,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 227468,
+   "stars": 227470,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -34464,7 +34632,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 144398,
+   "stars": 144400,
    "topics": [
     "ai",
     "copilot",
@@ -34485,7 +34653,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 143408,
+   "stars": 143410,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -34552,7 +34720,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 111706,
+   "stars": 111707,
    "topics": [
     "ade",
     "agent-ide",
@@ -34627,7 +34795,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 98218,
+   "stars": 98225,
    "topics": [
     "agent-skills",
     "ai",
@@ -34688,7 +34856,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 92136,
+   "stars": 92138,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -34722,7 +34890,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 90862,
+   "stars": 90864,
    "topics": [
     "ai",
     "ai-scraping",
@@ -34989,7 +35157,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 52424,
+   "stars": 52428,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35118,7 +35286,7 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "language": "PowerShell",
-   "stars": 43873,
+   "stars": 43874,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35194,7 +35362,7 @@
    "url": "https://github.com/lightpanda-io/browser",
    "description": "Lightpanda: the headless browser designed for AI and automation",
    "language": "Zig",
-   "stars": 39203,
+   "stars": 39205,
    "topics": [
     "browser",
     "browser-automation",
@@ -35237,7 +35405,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 37341,
+   "stars": 37342,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -35617,7 +35785,7 @@
    "url": "https://github.com/humanlayer/12-factor-agents",
    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
    "language": "TypeScript",
-   "stars": 26939,
+   "stars": 26938,
    "topics": [
     "12-factor",
     "12-factor-agents",
@@ -36240,7 +36408,7 @@
    "url": "https://github.com/apurvsinghgautam/robin",
    "description": "AI-Powered Dark Web OSINT Tool",
    "language": "Python",
-   "stars": 7783,
+   "stars": 7784,
    "topics": [
     "ai-tool",
     "darkweb",
@@ -37034,7 +37202,7 @@
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
    "description": "Towards a More Autonomous Agent System",
    "language": "TypeScript",
-   "stars": 2139,
+   "stars": 2160,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -37899,7 +38067,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 140014,
+   "stars": 140016,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -37933,7 +38101,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 89409,
+   "stars": 89410,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -38032,7 +38200,7 @@
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
    "language": "JavaScript",
-   "stars": 67794,
+   "stars": 67796,
    "topics": [
     "agent-computer",
     "agent-harness",
@@ -38088,7 +38256,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 52763,
+   "stars": 52767,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -40588,7 +40756,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 493816,
+   "stars": 493818,
    "topics": [
     "api",
     "apis",
@@ -40633,7 +40801,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 96480,
+   "stars": 96482,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -41461,34 +41629,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "XiaomiRobotics/Xiaomi-Robotics-U0",
-   "url": "https://github.com/XiaomiRobotics/Xiaomi-Robotics-U0",
-   "description": "小米机器人 U0 的开源资料仓库",
-   "language": "",
-   "stars": 188,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-01",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "ExpressLRS/Docs",
-   "url": "https://github.com/ExpressLRS/Docs",
-   "description": "ExpressLRS 遥控链路（ELRS）官方文档站源码，含协议与硬件接线说明",
-   "language": "",
-   "stars": 56,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-01",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

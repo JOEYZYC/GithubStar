@@ -1397,8 +1397,9 @@ Zynq 上的 INT8 YOLOv3-Tiny 加速器，OV5640 采集到 HDMI 显示的裸机�
 ---
 
 #### [Orchis-ai-LLC/Konnect-EDA](https://github.com/Orchis-ai-LLC/Konnect-EDA)
-`★91 · 🔥 热点推荐`
+`★91 · ⭐🔥 已 star + 热点推荐`
 面向 KiCAD 10 的 AI 辅助 PCB 设计工具（闭源，测试期免费）
+> 热点推荐于 2026-11-01
 > 收录日期：2026-11-01
 
 ---
@@ -1953,8 +1954,9 @@ GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS 
 ---
 
 #### [Formsmith746/SketchForge-PCB](https://github.com/Formsmith746/SketchForge-PCB)
-`★11 · 🔥 热点推荐`
+`★11 · ⭐🔥 已 star + 热点推荐`
 本地优先的浏览器 PCB 设计编辑器，含原理图、布局、3D 检视与导出
+> 热点推荐于 2026-11-01
 > 收录日期：2026-11-01
 
 ---

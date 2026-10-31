@@ -89,6 +89,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-01：本轮 20 条，待归类 2 条 ----
+    # 飞控与无人机（整机机器人开源资料，与 Xiaomi-Robotics-1 同口径）
+    "XiaomiRobotics/Xiaomi-Robotics-U0": "飞控与无人机",
+    # 飞控与无人机（ELRS 链路官方文档站，与 ExpressLRS/ExpressLRS 同口径）
+    "ExpressLRS/Docs": "飞控与无人机",
     # ---- 2026-10-31：本轮 20 条，待归类 3 条 ----
     # 飞控与无人机（整机机器人开源代码，本仓无机器人分类，与 TNY-360/quadruped 同口径）
     "XiaomiRobotics/Xiaomi-Robotics-1": "飞控与无人机",
