@@ -1778,3 +1778,23 @@
 {"url": "https://github.com/OpenDrone-hw/KiCad-Library", "stars": 11, "desc": "OpenDrone 硬件项目共享的 KiCad 符号、封装与 3D 模型库", "date": "2026-11-01"}
 {"url": "https://github.com/Formsmith746/SketchForge-PCB", "stars": 11, "desc": "本地优先的浏览器 PCB 设计编辑器，含原理图、布局、3D 检视与导出", "date": "2026-11-01"}
 {"url": "https://github.com/reza-shahriari/isaac-thermal-camera-simulation", "stars": 10, "desc": "NVIDIA Isaac Sim 中逐像素物理级热像/红外相机仿真器", "date": "2026-11-01"}
+{"url": "https://github.com/qmk/qmk_toolbox", "stars": 3117, "desc": "QMK 键盘固件配套工具箱，固件刷写、HID 调试与按键矩阵测试，嵌入式键盘开发必备", "date": "2026-11-02"}
+{"url": "https://github.com/riscv-boom/riscv-boom", "stars": 2276, "desc": "Berkeley 乱序 RISC-V 处理器核 SonicBOOM，Chisel/Verilog 实现，FPGA 与 SoC 设计的经典参考", "date": "2026-11-02"}
+{"url": "https://github.com/GlasgowEmbedded/glasgow", "stars": 2229, "desc": "开源数字硬件调试工具，可当逻辑分析仪/示波器/I2C-SPI-JTAG 接口，FPGA 实现、Python 脚本控制", "date": "2026-11-02"}
+{"url": "https://github.com/KMKfw/kmk_firmware", "stars": 1764, "desc": "Python 写的键盘固件，跑在 CircuitPython 上，改键位不用重装工具链，适合嵌入式入门", "date": "2026-11-02"}
+{"url": "https://github.com/arpanghosh8453/open-dronelog", "stars": 1578, "desc": "大疆/荔枝飞行日志本地分析仪表盘，可视化飞行数据与电池健康，飞控调试辅助工具", "date": "2026-11-02"}
+{"url": "https://github.com/yaqwsx/PcbDraw", "stars": 1447, "desc": "把 KiCad 电路板转成 2D 矢量图，生成引脚图与文档插图，PCB 设计出图工具", "date": "2026-11-02"}
+{"url": "https://github.com/espressif/kicad-libraries", "stars": 1422, "desc": "乐鑫官方 KiCad 元件库，覆盖 ESP32 全系 SoC、模组与 DevKit 的原教旨封装", "date": "2026-11-02"}
+{"url": "https://github.com/whitecatboard/Lua-RTOS-ESP32", "stars": 1340, "desc": "ESP32 上的 Lua RTOS，用脚本语言做嵌入式实时开发，含完整外设驱动", "date": "2026-11-02"}
+{"url": "https://github.com/ricardoquesada/bluepad32", "stars": 1172, "desc": "让 ESP32 / PicoW 直连蓝牙手柄键鼠的固件与库，无线外设开发实用件", "date": "2026-11-02"}
+{"url": "https://github.com/GhostESP-Revival/GhostESP", "stars": 1097, "desc": "ESP32 开源无线研究平台，集成 WiFi 扫描、蓝牙嗅探等无线测试固件", "date": "2026-11-02"}
+{"url": "https://github.com/mudita/MuditaOS", "stars": 947, "desc": "基于 FreeRTOS 的墨水屏手机操作系统，嵌入式实时系统在消费设备上的完整实践", "date": "2026-11-02"}
+{"url": "https://github.com/BackplaneWorks/Backplane", "stars": 850, "desc": "KiCad/STEP 电路板查看器与硬件开发工具，可交给 AI 代理做确定性硬件设计流程", "date": "2026-11-02"}
+{"url": "https://github.com/CopterExpress/clover", "stars": 693, "desc": "基于 ROS 的 PX4 无人机控制框架与树莓派镜像，含视觉导航与编队示例", "date": "2026-11-02"}
+{"url": "https://github.com/Wren6991/RISCBoy", "stars": 511, "desc": "从零设计的掌上游戏机：自研 RISC-V CPU、图形硬件与 PCB 全套开源，Verilog 硬件设计范本", "date": "2026-11-02"}
+{"url": "https://github.com/Lin-Chai49/pack-bms", "stars": 362, "desc": "16 串磷酸铁锂电池包 BMS 的 C99 固件核心，含充放电 MOS 控制、库仑计 SOC 与保护逻辑", "date": "2026-11-02"}
+{"url": "https://github.com/ExperimentalDesignBureau-1571/fpv-ground-control-station", "stars": 169, "desc": "模块化 FPV 无人机地面站，飞控遥测接收与参数调校界面", "date": "2026-11-02"}
+{"url": "https://github.com/tangency-labs/pcbcraft", "stars": 152, "desc": "Rust 写的 EDA 编辑器，单窗口多标签、兼容 KiCad 文件格式，支持 MCP 供 AI 调用", "date": "2026-11-02"}
+{"url": "https://github.com/VIPnytt/Kortlinje", "stars": 126, "desc": "RP2350 改造宜家 LED 点阵闹钟，含固件与显示驱动，Pico 2 实用项目", "date": "2026-11-02"}
+{"url": "https://github.com/nichlock/open-linear-scale", "stars": 73, "desc": "开源电容式直线编码器/数显标尺，STMicroelectronics STM32 固件 + KiCad PCB，自研 DRO 参考", "date": "2026-11-02"}
+{"url": "https://github.com/klonyyy/MCUViewer-probe", "stars": 47, "desc": "基于 ESP32-S3 的无线 ARM 调试探针，代替 ST-Link/J-Link 做 SWD 调试与变量实时可视化", "date": "2026-11-02"}

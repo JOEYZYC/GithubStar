@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 255 个项目 · 数据更新时间 2026-11-01 · [返回总览](../README.md)
+> 共 258 个项目 · 数据更新时间 2026-11-02 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,003 · C++ · ⭐ 已 star`
+`★35,031 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -28,7 +28,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★12,630 · Rust · ⭐ 已 star`
+`★12,891 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -115,7 +115,7 @@ Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,721 · Rust · ⭐ 已 star`
+`★3,737 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,7 +138,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,166 · Python · ⭐ 已 star`
+`★3,179 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -161,7 +161,7 @@ RTL-to-GDS 开源数字芯片实现流程
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,098 · C++ · ⭐ 已 star`
+`★3,100 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -356,6 +356,13 @@ AWS EC2 F1 FPGA 硬件开发套件与 shell 接口，含 SystemVerilog 参考设
 
 ---
 
+#### [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw)
+`★1,447 · 🔥 热点推荐`
+把 KiCad 电路板转成 2D 矢量图，生成引脚图与文档插图，PCB 设计出图工具
+> 收录日期：2026-11-02
+
+---
+
 #### [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA)
 `★1,415 · ⭐🔥 已 star + 热点推荐`
 掌上矢量网络分析仪开源硬件（含原理图与固件），低成本实测入口
@@ -480,6 +487,13 @@ RP2040 上的微型逻辑分析仪（Rust 固件 + 上位机）
 GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
+
+---
+
+#### [BackplaneWorks/Backplane](https://github.com/BackplaneWorks/Backplane)
+`★850 · 🔥 热点推荐`
+KiCad/STEP 电路板查看器与硬件开发工具，可交给 AI 代理做确定性硬件设计流程
+> 收录日期：2026-11-02
 
 ---
 
@@ -906,7 +920,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★268 · C++ · ⭐ 已 star`
+`★269 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1138,6 +1152,13 @@ KiCad 插件：从嘉立创/LCSC 导入符号、封装与 3D 模型，含插件/
 sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR 表等测量设备
 > 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
+
+---
+
+#### [tangency-labs/pcbcraft](https://github.com/tangency-labs/pcbcraft)
+`★152 · 🔥 热点推荐`
+Rust 写的 EDA 编辑器，单窗口多标签、兼容 KiCad 文件格式，支持 MCP 供 AI 调用
+> 收录日期：2026-11-02
 
 ---
 
