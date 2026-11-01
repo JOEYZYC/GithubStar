@@ -89,6 +89,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-02：本轮 20 条，待归类 2 条 ----
+    # 嵌入式与单片机（16 串 LFP 储能电池包 BMS 固件，MCU 固件工程）
+    "Lin-Chai49/pack-bms": "嵌入式与单片机",
+    # 嵌入式与单片机（RP2350 换芯改机固件 + 显示驱动）
+    "VIPnytt/Kortlinje": "嵌入式与单片机",
     # ---- 2026-11-01：本轮 20 条，待归类 2 条 ----
     # 飞控与无人机（整机机器人开源资料，与 Xiaomi-Robotics-1 同口径）
     "XiaomiRobotics/Xiaomi-Robotics-U0": "飞控与无人机",

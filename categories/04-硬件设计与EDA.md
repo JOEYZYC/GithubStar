@@ -28,7 +28,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★12,891 · Rust · ⭐ 已 star`
+`★12,894 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -357,8 +357,9 @@ AWS EC2 F1 FPGA 硬件开发套件与 shell 接口，含 SystemVerilog 参考设
 ---
 
 #### [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw)
-`★1,447 · 🔥 热点推荐`
+`★1,447 · ⭐🔥 已 star + 热点推荐`
 把 KiCad 电路板转成 2D 矢量图，生成引脚图与文档插图，PCB 设计出图工具
+> 热点推荐于 2026-11-02
 > 收录日期：2026-11-02
 
 ---
@@ -491,8 +492,9 @@ GH60 开源机械键盘 PCB 工程，经典社区硬件设计参考
 ---
 
 #### [BackplaneWorks/Backplane](https://github.com/BackplaneWorks/Backplane)
-`★850 · 🔥 热点推荐`
+`★850 · ⭐🔥 已 star + 热点推荐`
 KiCad/STEP 电路板查看器与硬件开发工具，可交给 AI 代理做确定性硬件设计流程
+> 热点推荐于 2026-11-02
 > 收录日期：2026-11-02
 
 ---
@@ -1156,8 +1158,9 @@ sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR �
 ---
 
 #### [tangency-labs/pcbcraft](https://github.com/tangency-labs/pcbcraft)
-`★152 · 🔥 热点推荐`
+`★152 · ⭐🔥 已 star + 热点推荐`
 Rust 写的 EDA 编辑器，单窗口多标签、兼容 KiCad 文件格式，支持 MCP 供 AI 调用
+> 热点推荐于 2026-11-02
 > 收录日期：2026-11-02
 
 ---
