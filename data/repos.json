@@ -554,6 +554,27 @@
    ]
   },
   {
+   "full_name": "henki-robotics/robotics_essentials_ros2",
+   "url": "https://github.com/henki-robotics/robotics_essentials_ros2",
+   "description": "用 ROS 2 + Gazebo 手把手学机器人基础：建模、传感、导航实操",
+   "language": "",
+   "stars": 2709,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-04",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
+  },
+  {
    "full_name": "KingKongRobotics/jumper",
    "url": "https://github.com/KingKongRobotics/jumper",
    "description": "开源螃蟹形机器人 Jumper：整机软硬件与运动控制，机器人平台参考",
@@ -3056,6 +3077,27 @@
    ],
    "hot_dates": [
     "2026-10-07"
+   ]
+  },
+  {
+   "full_name": "bluerobotics/cockpit",
+   "url": "https://github.com/bluerobotics/cockpit",
+   "description": "Blue Robotics 的跨平台地面站，可自定义布局，适配多种遥控载具",
+   "language": "",
+   "stars": 202,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-04",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
    ]
   },
   {
@@ -5674,7 +5716,14 @@
    "added_at": "2026-11-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "goldarte/mavlink-joystick",
@@ -6108,7 +6157,14 @@
    "added_at": "2026-11-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "RustedBytes/mavsim",
@@ -6185,7 +6241,14 @@
    "added_at": "2026-11-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "raghavpillai/jev-drone",
@@ -6199,7 +6262,14 @@
    "added_at": "2026-11-04",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "012345kxy/ch32v307-multirotor-flight-controller",
@@ -8184,7 +8254,14 @@
    "added_at": "2026-11-04",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "demisjohn/CAMFR",
@@ -13355,7 +13432,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "darthcloud/BlueRetro",
@@ -13873,7 +13957,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "toitlang/toit",
@@ -13910,6 +14001,27 @@
    ],
    "hot_dates": [
     "2026-10-14"
+   ]
+  },
+  {
+   "full_name": "espressif/vscode-esp-idf-extension",
+   "url": "https://github.com/espressif/vscode-esp-idf-extension",
+   "description": "乐鑫官方 VS Code ESP-IDF 扩展，工程配置、编译烧写与调试一体化",
+   "language": "",
+   "stars": 1486,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-04",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
    ]
   },
   {
@@ -14357,7 +14469,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "iDoka/awesome-embedded-software",
@@ -14371,7 +14490,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "Dobiasd/frugally-deep",
@@ -17774,7 +17900,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "Adancurusul/embedded-debugger-mcp",
@@ -20810,7 +20943,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "cn0xroot/IFDA",
@@ -20866,7 +21006,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "Bellman281/esp32-tinyLLM",
@@ -21477,7 +21624,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "OpenXiangShan/XiangShanLab",
@@ -23900,6 +24054,27 @@
    ]
   },
   {
+   "full_name": "PicoPlus-devel/pico-bootLoader",
+   "url": "https://github.com/PicoPlus-devel/pico-bootLoader",
+   "description": "把 RP2350 板变成复古游戏机：从 SD 卡启动模拟器与 Doom 的开机引导菜单",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-04",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
+  },
+  {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
    "url": "https://github.com/sixblade325/WaterHand-Processor-Development-Skills",
    "description": "Chisel/RISC-V 处理器开发技能集：微架构、RTL 验证、Vivado 时序分析与 FPGA 优化",
@@ -24953,7 +25128,14 @@
    "added_at": "2026-11-04",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -30152,7 +30334,14 @@
    "added_at": "2026-11-04",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "rossops/Arcade-SegaXBoard_MiSTer",
@@ -30187,7 +30376,14 @@
    "added_at": "2026-11-04",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-04"
+   ]
   },
   {
    "full_name": "piyushbag/awesome-pcb-workflow",
@@ -35130,7 +35326,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 296532,
+   "stars": 296533,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -35534,7 +35730,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 94724,
+   "stars": 94726,
    "topics": [
     "ai",
     "ai-scraping",
@@ -35835,7 +36031,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 53272,
+   "stars": 53273,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -42314,62 +42510,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "henki-robotics/robotics_essentials_ros2",
-   "url": "https://github.com/henki-robotics/robotics_essentials_ros2",
-   "description": "用 ROS 2 + Gazebo 手把手学机器人基础：建模、传感、导航实操",
-   "language": "",
-   "stars": 2709,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "espressif/vscode-esp-idf-extension",
-   "url": "https://github.com/espressif/vscode-esp-idf-extension",
-   "description": "乐鑫官方 VS Code ESP-IDF 扩展，工程配置、编译烧写与调试一体化",
-   "language": "",
-   "stars": 1486,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "bluerobotics/cockpit",
-   "url": "https://github.com/bluerobotics/cockpit",
-   "description": "Blue Robotics 的跨平台地面站，可自定义布局，适配多种遥控载具",
-   "language": "",
-   "stars": 202,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-04",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "PicoPlus-devel/pico-bootLoader",
-   "url": "https://github.com/PicoPlus-devel/pico-bootLoader",
-   "description": "把 RP2350 板变成复古游戏机：从 SD 卡启动模拟器与 Doom 的开机引导菜单",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-04",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★296,532 · JavaScript · ⭐ 已 star`
+`★296,533 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -154,7 +154,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 ---
 
 #### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-`★94,724 · Python · ⭐ 已 star`
+`★94,726 · Python · ⭐ 已 star`
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 > 收录日期：2026-09-13
 
@@ -245,7 +245,7 @@ Agent skill that removes signs of AI-generated writing from text
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★53,272 · Markdown · ⭐ 已 star`
+`★53,273 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 

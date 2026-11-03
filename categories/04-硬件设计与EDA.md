@@ -1850,8 +1850,9 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 ---
 
 #### [Hybirdss/kicad-cli-extended](https://github.com/Hybirdss/kicad-cli-extended)
-`★18 · 🔥 热点推荐`
+`★18 · ⭐🔥 已 star + 热点推荐`
 给 AI agent 用的 kicad-cli 扩展：原理图编辑、PCB 更新与布线、出制造包，JSON 输出
+> 热点推荐于 2026-11-04
 > 收录日期：2026-11-04
 
 ---
@@ -1865,8 +1866,9 @@ MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-
 ---
 
 #### [LuYanFCP/dsh-kicad](https://github.com/LuYanFCP/dsh-kicad)
-`★16 · 🔥 热点推荐`
+`★16 · ⭐🔥 已 star + 热点推荐`
 让 AI agent 在 KiCad 里做 PCB 设计的 DeepSeek Harness 插件
+> 热点推荐于 2026-11-04
 > 收录日期：2026-11-04
 
 ---

@@ -991,6 +991,10 @@ OVERRIDES: dict[str, str] = {
     "profdc9/ModularTuner": "电磁仿真与超表面",
     "Beate-Suy-Zhang/EvoFuse": "AI 模型与视觉",
     "Scientist888-star/GDAFusion": "AI 模型与视觉",
+    "henki-robotics/robotics_essentials_ros2": "飞控与无人机",
+    "bluerobotics/cockpit": "飞控与无人机",
+    "espressif/vscode-esp-idf-extension": "嵌入式与单片机",
+    "PicoPlus-devel/pico-bootLoader": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"
