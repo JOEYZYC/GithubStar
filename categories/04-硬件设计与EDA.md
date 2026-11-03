@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 258 个项目 · 数据更新时间 2026-11-02 · [返回总览](../README.md)
+> 共 260 个项目 · 数据更新时间 2026-11-04 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,031 · C++ · ⭐ 已 star`
+`★35,094 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -19,18 +19,18 @@ Design physical products with AI
 
 ---
 
+#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+`★13,394 · Rust · ⭐ 已 star`
+SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+> 收录日期：2026-10-17
+
+---
+
 #### [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)
 `★12,988 · ⭐🔥 已 star + 热点推荐`
 用 Verilog 从零实现的极简 GPU，学习 GPU 架构与 RTL 设计的完整教程项目
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
-
----
-
-#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★12,894 · Rust · ⭐ 已 star`
-SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
-> 收录日期：2026-10-17
 
 ---
 
@@ -115,7 +115,7 @@ Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,737 · Rust · ⭐ 已 star`
+`★3,777 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,9 +138,16 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,179 · Python · ⭐ 已 star`
+`★3,202 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
+
+---
+
+#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
+`★3,120 · C++ · ⭐ 已 star`
+Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+> 收录日期：2026-09-13
 
 ---
 
@@ -157,13 +164,6 @@ Verilog 实现的以太网 MAC/PHY 组件集，覆盖 1G/10G/25G，FPGA 网络�
 RTL-to-GDS 开源数字芯片实现流程
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
-
----
-
-#### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,100 · C++ · ⭐ 已 star`
-Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
-> 收录日期：2026-09-13
 
 ---
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,872 · ⭐ 已 star`
+`★1,873 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -405,7 +405,7 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
-`★1,205 · ⭐ 已 star`
+`★1,208 · ⭐ 已 star`
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.
 > 收录日期：2026-10-28
 
@@ -628,7 +628,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★583 · C · ⭐ 已 star`
+`★584 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -746,18 +746,18 @@ OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 
 ---
 
+#### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
+`★421 · Python · ⭐ 已 star`
+KiStack is a HUMAN WRITTEN bunch of skills for KiCad
+> 收录日期：2026-10-27
+
+---
+
 #### [MitjaNemec/Kicad_action_plugins](https://github.com/MitjaNemec/Kicad_action_plugins)
 `★419 · ⭐🔥 已 star + 热点推荐`
 一批实用的 KiCad 动作插件，覆盖常见 PCB 处理与制造准备任务
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
-
----
-
-#### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★418 · Python · ⭐ 已 star`
-KiStack is a HUMAN WRITTEN bunch of skills for KiCad
-> 收录日期：2026-10-27
 
 ---
 
@@ -922,7 +922,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★269 · C++ · ⭐ 已 star`
+`★270 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1610,18 +1610,18 @@ RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立�
 
 ---
 
+#### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
+`★40 · C++ · ⭐ 已 star`
+嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
+> 收录日期：2026-09-13
+
+---
+
 #### [haruto89610/rtl-nic](https://github.com/haruto89610/rtl-nic)
 `★39 · ⭐🔥 已 star + 热点推荐`
 自研 FPGA 以太网数据通路的 SystemVerilog RTL（ARP / IPv4 / UDP / TCP 传输控制）
 > 热点推荐于 2026-09-15
 > 收录日期：2026-09-15
-
----
-
-#### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★38 · C++ · ⭐ 已 star`
-嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
-> 收录日期：2026-09-13
 
 ---
 
@@ -1849,11 +1849,25 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 
 ---
 
+#### [Hybirdss/kicad-cli-extended](https://github.com/Hybirdss/kicad-cli-extended)
+`★18 · 🔥 热点推荐`
+给 AI agent 用的 kicad-cli 扩展：原理图编辑、PCB 更新与布线、出制造包，JSON 输出
+> 收录日期：2026-11-04
+
+---
+
 #### [rossops/Arcade-SegaXBoard_MiSTer](https://github.com/rossops/Arcade-SegaXBoard_MiSTer)
 `★17 · ⭐🔥 已 star + 热点推荐`
 MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-3.0）
 > 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
+
+---
+
+#### [LuYanFCP/dsh-kicad](https://github.com/LuYanFCP/dsh-kicad)
+`★16 · 🔥 热点推荐`
+让 AI agent 在 KiCad 里做 PCB 设计的 DeepSeek Harness 插件
+> 收录日期：2026-11-04
 
 ---
 

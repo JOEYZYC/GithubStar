@@ -1798,3 +1798,23 @@
 {"url": "https://github.com/VIPnytt/Kortlinje", "stars": 126, "desc": "RP2350 改造宜家 LED 点阵闹钟，含固件与显示驱动，Pico 2 实用项目", "date": "2026-11-02"}
 {"url": "https://github.com/nichlock/open-linear-scale", "stars": 73, "desc": "开源电容式直线编码器/数显标尺，STMicroelectronics STM32 固件 + KiCad PCB，自研 DRO 参考", "date": "2026-11-02"}
 {"url": "https://github.com/klonyyy/MCUViewer-probe", "stars": 47, "desc": "基于 ESP32-S3 的无线 ARM 调试探针，代替 ST-Link/J-Link 做 SWD 调试与变量实时可视化", "date": "2026-11-02"}
+{"url": "https://github.com/henki-robotics/robotics_essentials_ros2", "stars": 2709, "desc": "用 ROS 2 + Gazebo 手把手学机器人基础：建模、传感、导航实操", "date": "2026-11-04"}
+{"url": "https://github.com/trezor/trezor-firmware", "stars": 1861, "desc": "Trezor 硬件钱包固件单体仓，MCU 固件工程组织与安全实现的参考", "date": "2026-11-04"}
+{"url": "https://github.com/QuantumLeaps/modern-embedded-programming-course", "stars": 1544, "desc": "现代嵌入式系统编程视频课程配套代码，含状态机与 RTOS 实践", "date": "2026-11-04"}
+{"url": "https://github.com/espressif/vscode-esp-idf-extension", "stars": 1486, "desc": "乐鑫官方 VS Code ESP-IDF 扩展，工程配置、编译烧写与调试一体化", "date": "2026-11-04"}
+{"url": "https://github.com/raspberrypi/pico-micropython-examples", "stars": 1155, "desc": "官方 Pico MicroPython 示例集，配《Pico Python SDK》书使用", "date": "2026-11-04"}
+{"url": "https://github.com/iDoka/awesome-embedded-software", "stars": 1144, "desc": "资源受限嵌入式系统的软件清单：协议栈、硬件接口库、工具链", "date": "2026-11-04"}
+{"url": "https://github.com/bluerobotics/cockpit", "stars": 202, "desc": "Blue Robotics 的跨平台地面站，可自定义布局，适配多种遥控载具", "date": "2026-11-04"}
+{"url": "https://github.com/Syfyivan/douli-esp32", "stars": 199, "desc": "豆梨：个人语音陪伴助手，桌面/Android 客户端 + ESP32 设备接入", "date": "2026-11-04"}
+{"url": "https://github.com/VolkerMuehlhaus/gds2openEMS", "stars": 80, "desc": "把 GDS 版图导出成 openEMS FDTD 模型的工作流，芯片级电磁仿真入门", "date": "2026-11-04"}
+{"url": "https://github.com/NovoselovMilk/Arduino-ELRS-Controller", "stars": 50, "desc": "Arduino 驱动的 ELRS 遥控器手柄工程，摇杆/开关采集与 CRSF 输出", "date": "2026-11-04"}
+{"url": "https://github.com/mattdeeds/pokeemerald-rp2350", "stars": 49, "desc": "把宝可梦绿宝石移植到 RP2350，不用模拟器、60fps HDMI 输出，Cortex-M33 重编译", "date": "2026-11-04"}
+{"url": "https://github.com/Octopus1633/usbliter8-firmware", "stars": 38, "desc": "usbliter8 开发板的社区固件仓，提供 RP2350 板可直接刷的 UF2 镜像", "date": "2026-11-04"}
+{"url": "https://github.com/Hybirdss/kicad-cli-extended", "stars": 18, "desc": "给 AI agent 用的 kicad-cli 扩展：原理图编辑、PCB 更新与布线、出制造包，JSON 输出", "date": "2026-11-04"}
+{"url": "https://github.com/LuYanFCP/dsh-kicad", "stars": 16, "desc": "让 AI agent 在 KiCad 里做 PCB 设计的 DeepSeek Harness 插件", "date": "2026-11-04"}
+{"url": "https://github.com/brandonhimpfen/awesome-uav-autonomy", "stars": 15, "desc": "无人机自主飞行资源清单：框架、算法、仿真器、数据集与飞控", "date": "2026-11-04"}
+{"url": "https://github.com/PicoPlus-devel/pico-bootLoader", "stars": 14, "desc": "把 RP2350 板变成复古游戏机：从 SD 卡启动模拟器与 Doom 的开机引导菜单", "date": "2026-11-04"}
+{"url": "https://github.com/simtofly/simtofly-guide", "stars": 11, "desc": "从仿真到真机的无人机自主教程：ROS2 Humble + ArduPilot SITL + Gazebo + 树莓派伴飞", "date": "2026-11-04"}
+{"url": "https://github.com/HARSHAVARDHAN-SEKAR/ros2-drone-sar-autonomy", "stars": 10, "desc": "ROS2 + PX4 + Gazebo 的搜救无人机自主栈：MAVROS、OctoMap、前沿探索、A* 与 YOLO 定位", "date": "2026-11-04"}
+{"url": "https://github.com/okupacolossal/WifiSpaceMapper", "stars": 10, "desc": "ESP32 上的 WiFi CSI 免设备人体感知：ESP-IDF 固件 + PyQtGraph 实时可视化（频谱/雷达/多普勒）", "date": "2026-11-04"}
+{"url": "https://github.com/raghavpillai/jev-drone", "stars": 10, "desc": "PX4 + Gazebo 室内无人机导航与房间搜索，语音指令控制", "date": "2026-11-04"}
