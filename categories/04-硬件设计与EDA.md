@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 263 个项目 · 数据更新时间 2026-11-05 · [返回总览](../README.md)
+> 共 264 个项目 · 数据更新时间 2026-11-05 · [返回总览](../README.md)
 
 ---
 
@@ -388,6 +388,14 @@ VTR：Verilog 到布线的开源 FPGA CAD 全流程（综合/布局/布线/时�
 
 ---
 
+#### [KLayout/klayout](https://github.com/KLayout/klayout)
+`★1,254 · ⭐🔥 已 star + 热点推荐`
+版图查看与编辑 EDA 工具，支持 GDS/OASIS，常用于芯片、光子与电磁器件版图的绘制与 DRC 校验
+> 热点推荐于 2026-11-05
+> 收录日期：2026-11-05
+
+---
+
 #### [raspberrypi/debugprobe](https://github.com/raspberrypi/debugprobe)
 `★1,253 · ⭐🔥 已 star + 热点推荐`
 基于 RP2040 的官方调试探针固件（SWD/JTAG）
@@ -624,6 +632,14 @@ AI 辅助 KiCad PCB 设计的 Rust 单二进制 MCP 插件（原理图/布线/DR
 KiCad 插件与资源精选清单
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
+
+---
+
+#### [8bitworkshop/8bitworkshop](https://github.com/8bitworkshop/8bitworkshop)
+`★592 · ⭐🔥 已 star + 热点推荐`
+浏览器里的 8 位机与 Verilog 开发 IDE，可直接编写、仿真复古硬件与 FPGA 逻辑
+> 热点推荐于 2026-11-05
+> 收录日期：2026-11-05
 
 ---
 
@@ -1058,14 +1074,6 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 小体积可配置的 FPGA 片内逻辑分析仪，直接在 RTL 内插观测点
 > 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
-
----
-
-#### [simplefoc/SimpleFOCMini](https://github.com/simplefoc/SimpleFOCMini)
-`★207 · ⭐🔥 已 star + 热点推荐`
-兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件
-> 热点推荐于 2026-11-05
-> 收录日期：2026-11-05
 
 ---
 

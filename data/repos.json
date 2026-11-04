@@ -407,27 +407,6 @@
    ]
   },
   {
-   "full_name": "f4exb/sdrangel",
-   "url": "https://github.com/f4exb/sdrangel",
-   "description": "SDRangel：覆盖 Airspy/HackRF/PlutoSDR/LimeSDR 等硬件的软件无线电收发平台，含频谱与解调链",
-   "language": "",
-   "stars": 4050,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-09-22",
-   "category": "飞控与无人机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-09-22"
-   ]
-  },
-  {
    "full_name": "enactic/openarm",
    "url": "https://github.com/enactic/openarm",
    "description": "完全开源的人形机械臂硬件与软件（含关节与驱动方案），面向物理 AI 研究与落地",
@@ -984,27 +963,6 @@
    "description": "ROS 2 的 Rust 绑定，用 Rust 写机器人节点与底层驱动，替代 rclcpp/rclpy",
    "language": "",
    "stars": 1549,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "飞控与无人机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-05"
-   ]
-  },
-  {
-   "full_name": "pothosware/SoapySDR",
-   "url": "https://github.com/pothosware/SoapySDR",
-   "description": "厂商中立的软件无线电 SDR 硬件抽象库，一套 API 统一驱动 HackRF/USRP/LimeSDR 等射频收发设备",
-   "language": "",
-   "stars": 1538,
    "topics": [],
    "archived": false,
    "source": "hot",
@@ -4067,27 +4025,6 @@
    ]
   },
   {
-   "full_name": "Source-Robotics/Spectral-Micro-BLDC-controller",
-   "url": "https://github.com/Source-Robotics/Spectral-Micro-BLDC-controller",
-   "description": "紧凑型 FOC 无刷电机控制器，带 CAN 与 UART 接口，固件开源，适合云台与小型无人机电驱",
-   "language": "",
-   "stars": 97,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "飞控与无人机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-05"
-   ]
-  },
-  {
    "full_name": "holsatus/holsatus-flight",
    "url": "https://github.com/holsatus/holsatus-flight",
    "description": "Rust + Embassy 异步自研飞控，支持 MAVLink",
@@ -6571,27 +6508,6 @@
    ]
   },
   {
-   "full_name": "KLayout/klayout",
-   "url": "https://github.com/KLayout/klayout",
-   "description": "版图查看与编辑 EDA 工具，支持 GDS/OASIS，常用于芯片、光子与电磁器件版图的绘制与 DRC 校验",
-   "language": "",
-   "stars": 1254,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-05"
-   ]
-  },
-  {
    "full_name": "GENIVI/CANdevStudio",
    "url": "https://github.com/GENIVI/CANdevStudio",
    "description": "CAN 总线仿真与开发工具，图形化搭报文收发与信号解析",
@@ -6883,27 +6799,6 @@
    ],
    "hot_dates": [
     "2026-10-04"
-   ]
-  },
-  {
-   "full_name": "8bitworkshop/8bitworkshop",
-   "url": "https://github.com/8bitworkshop/8bitworkshop",
-   "description": "浏览器里的 8 位机与 Verilog 开发 IDE，可直接编写、仿真复古硬件与 FPGA 逻辑",
-   "language": "",
-   "stars": 592,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-05"
    ]
   },
   {
@@ -18141,6 +18036,27 @@
    ]
   },
   {
+   "full_name": "simplefoc/SimpleFOCMini",
+   "url": "https://github.com/simplefoc/SimpleFOCMini",
+   "description": "兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件",
+   "language": "",
+   "stars": 207,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "full_name": "bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
    "url": "https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver",
    "description": "BIGTREETECH 步进电机驱动模块硬件设计文件（原理图 + PCB），TMC 步进驱动电路参考资料",
@@ -19830,6 +19746,27 @@
    ],
    "hot_dates": [
     "2026-10-09"
+   ]
+  },
+  {
+   "full_name": "Source-Robotics/Spectral-Micro-BLDC-controller",
+   "url": "https://github.com/Source-Robotics/Spectral-Micro-BLDC-controller",
+   "description": "紧凑型 FOC 无刷电机控制器，带 CAN 与 UART 接口，固件开源，适合云台与小型无人机电驱",
+   "language": "",
+   "stars": 97,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -26803,6 +26740,27 @@
    ]
   },
   {
+   "full_name": "KLayout/klayout",
+   "url": "https://github.com/KLayout/klayout",
+   "description": "版图查看与编辑 EDA 工具，支持 GDS/OASIS，常用于芯片、光子与电磁器件版图的绘制与 DRC 校验",
+   "language": "",
+   "stars": 1254,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "full_name": "raspberrypi/debugprobe",
    "url": "https://github.com/raspberrypi/debugprobe",
    "description": "基于 RP2040 的官方调试探针固件（SWD/JTAG）",
@@ -27446,6 +27404,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "8bitworkshop/8bitworkshop",
+   "url": "https://github.com/8bitworkshop/8bitworkshop",
+   "description": "浏览器里的 8 位机与 Verilog 开发 IDE，可直接编写、仿真复古硬件与 FPGA 逻辑",
+   "language": "",
+   "stars": 592,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -28568,27 +28547,6 @@
    ],
    "hot_dates": [
     "2026-09-21"
-   ]
-  },
-  {
-   "full_name": "simplefoc/SimpleFOCMini",
-   "url": "https://github.com/simplefoc/SimpleFOCMini",
-   "description": "兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件",
-   "language": "",
-   "stars": 207,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-05"
    ]
   },
   {
@@ -31505,6 +31463,27 @@
    ]
   },
   {
+   "full_name": "f4exb/sdrangel",
+   "url": "https://github.com/f4exb/sdrangel",
+   "description": "SDRangel：覆盖 Airspy/HackRF/PlutoSDR/LimeSDR 等硬件的软件无线电收发平台，含频谱与解调链",
+   "language": "",
+   "stars": 4050,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-09-22",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-09-22"
+   ]
+  },
+  {
    "full_name": "introlab/rtabmap",
    "url": "https://github.com/introlab/rtabmap",
    "description": "RTAB-Map：基于外观回环的 RGB-D/LiDAR 建图与定位库",
@@ -31738,6 +31717,27 @@
    ],
    "hot_dates": [
     "2026-09-19"
+   ]
+  },
+  {
+   "full_name": "pothosware/SoapySDR",
+   "url": "https://github.com/pothosware/SoapySDR",
+   "description": "厂商中立的软件无线电 SDR 硬件抽象库，一套 API 统一驱动 HackRF/USRP/LimeSDR 等射频收发设备",
+   "language": "",
+   "stars": 1538,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -35947,7 +35947,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 145206,
+   "stars": 145207,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -36014,7 +36014,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 115423,
+   "stars": 115424,
    "topics": [
     "ade",
     "agent-ide",
@@ -36089,7 +36089,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 102776,
+   "stars": 102777,
    "topics": [
     "agent-skills",
     "ai",
@@ -36108,7 +36108,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 96467,
+   "stars": 96469,
    "topics": [
     "ai",
     "ai-scraping",
@@ -36184,7 +36184,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 93451,
+   "stars": 93452,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -36424,7 +36424,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 64829,
+   "stars": 64830,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -36451,7 +36451,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 53553,
+   "stars": 53554,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -36699,7 +36699,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 37815,
+   "stars": 37816,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -37225,7 +37225,7 @@
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
    "description": "Towards a More Autonomous Agent System",
    "language": "TypeScript",
-   "stars": 18533,
+   "stars": 18535,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -39355,7 +39355,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 142423,
+   "stars": 142424,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -40238,7 +40238,7 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "language": "Python",
-   "stars": 10158,
+   "stars": 10159,
    "topics": [
     "cli",
     "consumer-gpu",
@@ -42141,7 +42141,7 @@
    "url": "https://github.com/zed-industries/zed",
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "language": "Rust",
-   "stars": 92700,
+   "stars": 92701,
    "topics": [
     "gpui",
     "rust-lang",
