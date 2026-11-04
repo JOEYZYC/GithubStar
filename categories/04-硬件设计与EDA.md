@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 260 个项目 · 数据更新时间 2026-11-04 · [返回总览](../README.md)
+> 共 262 个项目 · 数据更新时间 2026-11-05 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,094 · C++ · ⭐ 已 star`
+`★35,130 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★13,394 · Rust · ⭐ 已 star`
+`★13,629 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -115,7 +115,7 @@ Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,777 · Rust · ⭐ 已 star`
+`★3,797 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,202 · Python · ⭐ 已 star`
+`★3,218 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,120 · C++ · ⭐ 已 star`
+`★3,124 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -619,18 +619,18 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
+`★585 · C · ⭐ 已 star`
+Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
+> 收录日期：2026-09-13
+
+---
+
 #### [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library)
 `★584 · ⭐🔥 已 star + 热点推荐`
 嘉立创 SMT 基础元件的 KiCad 符号、封装与 3D 模型库
 > 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
-
----
-
-#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★584 · C · ⭐ 已 star`
-Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
-> 收录日期：2026-09-13
 
 ---
 
@@ -719,6 +719,13 @@ Rust 写的 VHDL 语言服务器与分析库，提供跳转、补全与 lint
 面向 EDA 机器学习应用的开源数据集，含布局布线与工艺参数
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
+
+---
+
+#### [diodeinc/pcb](https://github.com/diodeinc/pcb)
+`★473 · 🔥 热点推荐`
+Diode 公司的 PCB 设计与制造工具链，提供版图、BOM 与打样流程的代码化支持
+> 收录日期：2026-11-05
 
 ---
 
@@ -992,7 +999,7 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 ---
 
 #### [zelea2/rigol_vendor_bin](https://github.com/zelea2/rigol_vendor_bin)
-`★221 · C · ⭐ 已 star`
+`★222 · C · ⭐ 已 star`
 > 收录日期：2026-10-21
 
 ---
@@ -1042,6 +1049,13 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 小体积可配置的 FPGA 片内逻辑分析仪，直接在 RTL 内插观测点
 > 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
+
+---
+
+#### [simplefoc/SimpleFOCMini](https://github.com/simplefoc/SimpleFOCMini)
+`★207 · 🔥 热点推荐`
+兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件
+> 收录日期：2026-11-05
 
 ---
 

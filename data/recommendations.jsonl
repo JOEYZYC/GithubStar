@@ -1818,3 +1818,23 @@
 {"url": "https://github.com/HARSHAVARDHAN-SEKAR/ros2-drone-sar-autonomy", "stars": 10, "desc": "ROS2 + PX4 + Gazebo 的搜救无人机自主栈：MAVROS、OctoMap、前沿探索、A* 与 YOLO 定位", "date": "2026-11-04"}
 {"url": "https://github.com/okupacolossal/WifiSpaceMapper", "stars": 10, "desc": "ESP32 上的 WiFi CSI 免设备人体感知：ESP-IDF 固件 + PyQtGraph 实时可视化（频谱/雷达/多普勒）", "date": "2026-11-04"}
 {"url": "https://github.com/raghavpillai/jev-drone", "stars": 10, "desc": "PX4 + Gazebo 室内无人机导航与房间搜索，语音指令控制", "date": "2026-11-04"}
+{"url": "https://github.com/ETLCPP/etl", "stars": 3153, "desc": "面向嵌入式单片机的 C++ 模板库，提供固定容量的 STL 容器与算法，无需堆分配，可直接用于 STM32/AVR 等 MCU 固件", "date": "2026-11-05"}
+{"url": "https://github.com/vortexgpgpu/vortex", "stars": 2380, "desc": "用 SystemVerilog 实现的开源 GPGPU，含 RISC-V 指令集与 SIMT 执行核心，可综合到 FPGA 上跑", "date": "2026-11-05"}
+{"url": "https://github.com/rp-rs/rp-hal", "stars": 1931, "desc": "RP2040/RP2350 单片机的 Rust 嵌入式 HAL 驱动库，覆盖 GPIO/I2C/SPI/PWM 等外设", "date": "2026-11-05"}
+{"url": "https://github.com/ros2-rust/ros2_rust", "stars": 1549, "desc": "ROS 2 的 Rust 绑定，用 Rust 写机器人节点与底层驱动，替代 rclcpp/rclpy", "date": "2026-11-05"}
+{"url": "https://github.com/pothosware/SoapySDR", "stars": 1538, "desc": "厂商中立的软件无线电 SDR 硬件抽象库，一套 API 统一驱动 HackRF/USRP/LimeSDR 等射频收发设备", "date": "2026-11-05"}
+{"url": "https://github.com/EttusResearch/uhd", "stars": 1298, "desc": "USRP 系列软件无线电硬件的官方驱动与工具链，提供射频前端控制与基带采样接口", "date": "2026-11-05"}
+{"url": "https://github.com/KLayout/klayout", "stars": 1254, "desc": "版图查看与编辑 EDA 工具，支持 GDS/OASIS，常用于芯片、光子与电磁器件版图的绘制与 DRC 校验", "date": "2026-11-05"}
+{"url": "https://github.com/Xilinx/embeddedsw", "stars": 1241, "desc": "Xilinx FPGA 平台的嵌入式软件层，含 standalone BSP、外设驱动与 SoC 裸机/RTOS 例程", "date": "2026-11-05"}
+{"url": "https://github.com/peterhinch/micropython-async", "stars": 834, "desc": "MicroPython 异步编程教程与硬件接口代码，讲清 asyncio 在单片机上的用法", "date": "2026-11-05"}
+{"url": "https://github.com/tinygo-org/drivers", "stars": 757, "desc": "TinyGo 外设驱动库，覆盖 I2C/SPI/GPIO/ADC 接口的传感器、显示屏与无线模块，面向单片机固件", "date": "2026-11-05"}
+{"url": "https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer", "stars": 738, "desc": "ST 官方 STM32 生态项目总览，汇总 CubeMX/HAL 库、固件包与开发板资源", "date": "2026-11-05"}
+{"url": "https://github.com/bespoke-silicon-group/basejump_stl", "stars": 692, "desc": "SystemVerilog 标准模板库，提供 FIFO、仲裁器、存储器等可复用 RTL 组件，用于芯片与 FPGA 设计", "date": "2026-11-05"}
+{"url": "https://github.com/iMike78/nest-mini-drop-in-pcb", "stars": 625, "desc": "Google Nest Mini 二代的替换 PCB，改用 ESP32-S3/ESP32-P4/ESP32-C6，含原理图与固件，属 ESP32 语音硬件改造", "date": "2026-11-05"}
+{"url": "https://github.com/fruit-bat/pico-zxspectrum", "stars": 619, "desc": "在 RP2040/RP2350 单片机上实现 ZX Spectrum 复古计算机，含 HDMI 输出与键盘接口的固件工程", "date": "2026-11-05"}
+{"url": "https://github.com/8bitworkshop/8bitworkshop", "stars": 592, "desc": "浏览器里的 8 位机与 Verilog 开发 IDE，可直接编写、仿真复古硬件与 FPGA 逻辑", "date": "2026-11-05"}
+{"url": "https://github.com/tomojitakasu/PocketSDR", "stars": 532, "desc": "便携式 GNSS 软件无线电接收机，含射频前端与信号处理固件，用于卫星导航定位研究", "date": "2026-11-05"}
+{"url": "https://github.com/pcb2gcode/pcb2gcode", "stars": 510, "desc": "把 PCB 版图转换成数控铣床 G-code，用于 DIY 电路板隔离铣削与钻孔", "date": "2026-11-05"}
+{"url": "https://github.com/diodeinc/pcb", "stars": 473, "desc": "Diode 公司的 PCB 设计与制造工具链，提供版图、BOM 与打样流程的代码化支持", "date": "2026-11-05"}
+{"url": "https://github.com/simplefoc/SimpleFOCMini", "stars": 207, "desc": "兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件", "date": "2026-11-05"}
+{"url": "https://github.com/Source-Robotics/Spectral-Micro-BLDC-controller", "stars": 97, "desc": "紧凑型 FOC 无刷电机控制器，带 CAN 与 UART 接口，固件开源，适合云台与小型无人机电驱", "date": "2026-11-05"}

@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/henki-robotics/robotics_essentials_ros2",
-  "stars": 2709,
-  "desc": "用 ROS 2 + Gazebo 手把手学机器人基础：建模、传感、导航实操"
+  "url": "https://github.com/ETLCPP/etl",
+  "stars": 3153,
+  "desc": "面向嵌入式单片机的 C++ 模板库，提供固定容量的 STL 容器与算法，无需堆分配，可直接用于 STM32/AVR 等 MCU 固件"
  },
  {
-  "url": "https://github.com/trezor/trezor-firmware",
-  "stars": 1861,
-  "desc": "Trezor 硬件钱包固件单体仓，MCU 固件工程组织与安全实现的参考"
+  "url": "https://github.com/vortexgpgpu/vortex",
+  "stars": 2380,
+  "desc": "用 SystemVerilog 实现的开源 GPGPU，含 RISC-V 指令集与 SIMT 执行核心，可综合到 FPGA 上跑"
  },
  {
-  "url": "https://github.com/QuantumLeaps/modern-embedded-programming-course",
-  "stars": 1544,
-  "desc": "现代嵌入式系统编程视频课程配套代码，含状态机与 RTOS 实践"
+  "url": "https://github.com/rp-rs/rp-hal",
+  "stars": 1931,
+  "desc": "RP2040/RP2350 单片机的 Rust 嵌入式 HAL 驱动库，覆盖 GPIO/I2C/SPI/PWM 等外设"
  },
  {
-  "url": "https://github.com/espressif/vscode-esp-idf-extension",
-  "stars": 1486,
-  "desc": "乐鑫官方 VS Code ESP-IDF 扩展，工程配置、编译烧写与调试一体化"
+  "url": "https://github.com/ros2-rust/ros2_rust",
+  "stars": 1549,
+  "desc": "ROS 2 的 Rust 绑定，用 Rust 写机器人节点与底层驱动，替代 rclcpp/rclpy"
  },
  {
-  "url": "https://github.com/raspberrypi/pico-micropython-examples",
-  "stars": 1155,
-  "desc": "官方 Pico MicroPython 示例集，配《Pico Python SDK》书使用"
+  "url": "https://github.com/pothosware/SoapySDR",
+  "stars": 1538,
+  "desc": "厂商中立的软件无线电 SDR 硬件抽象库，一套 API 统一驱动 HackRF/USRP/LimeSDR 等射频收发设备"
  },
  {
-  "url": "https://github.com/iDoka/awesome-embedded-software",
-  "stars": 1144,
-  "desc": "资源受限嵌入式系统的软件清单：协议栈、硬件接口库、工具链"
+  "url": "https://github.com/EttusResearch/uhd",
+  "stars": 1298,
+  "desc": "USRP 系列软件无线电硬件的官方驱动与工具链，提供射频前端控制与基带采样接口"
  },
  {
-  "url": "https://github.com/bluerobotics/cockpit",
-  "stars": 202,
-  "desc": "Blue Robotics 的跨平台地面站，可自定义布局，适配多种遥控载具"
+  "url": "https://github.com/KLayout/klayout",
+  "stars": 1254,
+  "desc": "版图查看与编辑 EDA 工具，支持 GDS/OASIS，常用于芯片、光子与电磁器件版图的绘制与 DRC 校验"
  },
  {
-  "url": "https://github.com/Syfyivan/douli-esp32",
-  "stars": 199,
-  "desc": "豆梨：个人语音陪伴助手，桌面/Android 客户端 + ESP32 设备接入"
+  "url": "https://github.com/Xilinx/embeddedsw",
+  "stars": 1241,
+  "desc": "Xilinx FPGA 平台的嵌入式软件层，含 standalone BSP、外设驱动与 SoC 裸机/RTOS 例程"
  },
  {
-  "url": "https://github.com/VolkerMuehlhaus/gds2openEMS",
-  "stars": 80,
-  "desc": "把 GDS 版图导出成 openEMS FDTD 模型的工作流，芯片级电磁仿真入门"
+  "url": "https://github.com/peterhinch/micropython-async",
+  "stars": 834,
+  "desc": "MicroPython 异步编程教程与硬件接口代码，讲清 asyncio 在单片机上的用法"
  },
  {
-  "url": "https://github.com/NovoselovMilk/Arduino-ELRS-Controller",
-  "stars": 50,
-  "desc": "Arduino 驱动的 ELRS 遥控器手柄工程，摇杆/开关采集与 CRSF 输出"
+  "url": "https://github.com/tinygo-org/drivers",
+  "stars": 757,
+  "desc": "TinyGo 外设驱动库，覆盖 I2C/SPI/GPIO/ADC 接口的传感器、显示屏与无线模块，面向单片机固件"
  },
  {
-  "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
-  "stars": 49,
-  "desc": "把宝可梦绿宝石移植到 RP2350，不用模拟器、60fps HDMI 输出，Cortex-M33 重编译"
+  "url": "https://github.com/STMicroelectronics/STM32Cube_MCU_Overall_Offer",
+  "stars": 738,
+  "desc": "ST 官方 STM32 生态项目总览，汇总 CubeMX/HAL 库、固件包与开发板资源"
  },
  {
-  "url": "https://github.com/Octopus1633/usbliter8-firmware",
-  "stars": 38,
-  "desc": "usbliter8 开发板的社区固件仓，提供 RP2350 板可直接刷的 UF2 镜像"
+  "url": "https://github.com/bespoke-silicon-group/basejump_stl",
+  "stars": 692,
+  "desc": "SystemVerilog 标准模板库，提供 FIFO、仲裁器、存储器等可复用 RTL 组件，用于芯片与 FPGA 设计"
  },
  {
-  "url": "https://github.com/Hybirdss/kicad-cli-extended",
-  "stars": 18,
-  "desc": "给 AI agent 用的 kicad-cli 扩展：原理图编辑、PCB 更新与布线、出制造包，JSON 输出"
+  "url": "https://github.com/iMike78/nest-mini-drop-in-pcb",
+  "stars": 625,
+  "desc": "Google Nest Mini 二代的替换 PCB，改用 ESP32-S3/ESP32-P4/ESP32-C6，含原理图与固件，属 ESP32 语音硬件改造"
  },
  {
-  "url": "https://github.com/LuYanFCP/dsh-kicad",
-  "stars": 16,
-  "desc": "让 AI agent 在 KiCad 里做 PCB 设计的 DeepSeek Harness 插件"
+  "url": "https://github.com/fruit-bat/pico-zxspectrum",
+  "stars": 619,
+  "desc": "在 RP2040/RP2350 单片机上实现 ZX Spectrum 复古计算机，含 HDMI 输出与键盘接口的固件工程"
  },
  {
-  "url": "https://github.com/brandonhimpfen/awesome-uav-autonomy",
-  "stars": 15,
-  "desc": "无人机自主飞行资源清单：框架、算法、仿真器、数据集与飞控"
+  "url": "https://github.com/8bitworkshop/8bitworkshop",
+  "stars": 592,
+  "desc": "浏览器里的 8 位机与 Verilog 开发 IDE，可直接编写、仿真复古硬件与 FPGA 逻辑"
  },
  {
-  "url": "https://github.com/PicoPlus-devel/pico-bootLoader",
-  "stars": 14,
-  "desc": "把 RP2350 板变成复古游戏机：从 SD 卡启动模拟器与 Doom 的开机引导菜单"
+  "url": "https://github.com/tomojitakasu/PocketSDR",
+  "stars": 532,
+  "desc": "便携式 GNSS 软件无线电接收机，含射频前端与信号处理固件，用于卫星导航定位研究"
  },
  {
-  "url": "https://github.com/simtofly/simtofly-guide",
-  "stars": 11,
-  "desc": "从仿真到真机的无人机自主教程：ROS2 Humble + ArduPilot SITL + Gazebo + 树莓派伴飞"
+  "url": "https://github.com/pcb2gcode/pcb2gcode",
+  "stars": 510,
+  "desc": "把 PCB 版图转换成数控铣床 G-code，用于 DIY 电路板隔离铣削与钻孔"
  },
  {
-  "url": "https://github.com/HARSHAVARDHAN-SEKAR/ros2-drone-sar-autonomy",
-  "stars": 10,
-  "desc": "ROS2 + PX4 + Gazebo 的搜救无人机自主栈：MAVROS、OctoMap、前沿探索、A* 与 YOLO 定位"
+  "url": "https://github.com/diodeinc/pcb",
+  "stars": 473,
+  "desc": "Diode 公司的 PCB 设计与制造工具链，提供版图、BOM 与打样流程的代码化支持"
  },
  {
-  "url": "https://github.com/okupacolossal/WifiSpaceMapper",
-  "stars": 10,
-  "desc": "ESP32 上的 WiFi CSI 免设备人体感知：ESP-IDF 固件 + PyQtGraph 实时可视化（频谱/雷达/多普勒）"
+  "url": "https://github.com/simplefoc/SimpleFOCMini",
+  "stars": 207,
+  "desc": "兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件"
  },
  {
-  "url": "https://github.com/raghavpillai/jev-drone",
-  "stars": 10,
-  "desc": "PX4 + Gazebo 室内无人机导航与房间搜索，语音指令控制"
+  "url": "https://github.com/Source-Robotics/Spectral-Micro-BLDC-controller",
+  "stars": 97,
+  "desc": "紧凑型 FOC 无刷电机控制器，带 CAN 与 UART 接口，固件开源，适合云台与小型无人机电驱"
  }
 ]
