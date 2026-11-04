@@ -71,7 +71,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★147,270 · Python · ⭐ 已 star`
+`★147,271 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -335,7 +335,7 @@ Lightpanda: the headless browser designed for AI and automation
 ---
 
 #### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-`★37,814 · TypeScript · ⭐ 已 star`
+`★37,815 · TypeScript · ⭐ 已 star`
 ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 > 收录日期：2026-09-13
 

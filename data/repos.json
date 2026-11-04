@@ -979,6 +979,27 @@
    "note": ""
   },
   {
+   "full_name": "ros2-rust/ros2_rust",
+   "url": "https://github.com/ros2-rust/ros2_rust",
+   "description": "ROS 2 的 Rust 绑定，用 Rust 写机器人节点与底层驱动，替代 rclcpp/rclpy",
+   "language": "",
+   "stars": 1549,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "full_name": "pothosware/SoapySDR",
    "url": "https://github.com/pothosware/SoapySDR",
    "description": "厂商中立的软件无线电 SDR 硬件抽象库，一套 API 统一驱动 HackRF/USRP/LimeSDR 等射频收发设备",
@@ -990,7 +1011,14 @@
    "added_at": "2026-11-05",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "SkyentificGit/SmallRobotArm",
@@ -4050,7 +4078,14 @@
    "added_at": "2026-11-05",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "holsatus/holsatus-flight",
@@ -6547,7 +6582,14 @@
    "added_at": "2026-11-05",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "GENIVI/CANdevStudio",
@@ -6855,7 +6897,14 @@
    "added_at": "2026-11-05",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "NGSolve/ngsolve",
@@ -12734,7 +12783,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "openhwfoundation/cva6",
@@ -13135,7 +13191,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "cantools/cantools",
@@ -13495,7 +13558,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "riscv-mcu/e203_hbirdv2",
@@ -14420,7 +14490,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "maxritter/diy-thermocam",
@@ -15449,7 +15526,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "sandeepmistry/arduino-CAN",
@@ -15644,7 +15728,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "emlearn/emlearn",
@@ -15700,7 +15791,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "STMicroelectronics/STM32CubeF1",
@@ -15966,7 +16064,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "laurb9/StepperDriver",
@@ -16001,7 +16106,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "xtoolbox/TeenyUSB",
@@ -16332,7 +16444,14 @@
    "added_at": "2026-11-05",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "bouffalolab/bouffalo_sdk",
@@ -27162,6 +27281,27 @@
    ]
   },
   {
+   "full_name": "bespoke-silicon-group/basejump_stl",
+   "url": "https://github.com/bespoke-silicon-group/basejump_stl",
+   "description": "SystemVerilog 标准模板库，提供 FIFO、仲裁器、存储器等可复用 RTL 组件，用于芯片与 FPGA 设计",
+   "language": "",
+   "stars": 692,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "full_name": "easyw/kicadStepUpMod",
    "url": "https://github.com/easyw/kicadStepUpMod",
    "description": "KiCad 到 FreeCAD 的 ECAD-MCAD 协同工作台",
@@ -27585,7 +27725,14 @@
    "added_at": "2026-11-05",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "drandyhaas/KiCadRoutingTools",
@@ -28435,7 +28582,14 @@
    "added_at": "2026-11-05",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "wokwi/kicad-jlcpcb-bom-plugin",
@@ -31494,7 +31648,7 @@
    "url": "https://github.com/Verlintas/NOIR",
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "language": "Kotlin",
-   "stars": 2013,
+   "stars": 2014,
    "topics": [
     "adb",
     "android",
@@ -31689,6 +31843,27 @@
    ],
    "hot_dates": [
     "2026-10-10"
+   ]
+  },
+  {
+   "full_name": "EttusResearch/uhd",
+   "url": "https://github.com/EttusResearch/uhd",
+   "description": "USRP 系列软件无线电硬件的官方驱动与工具链，提供射频前端控制与基带采样接口",
+   "language": "",
+   "stars": 1298,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -32037,7 +32212,14 @@
    "added_at": "2026-11-05",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-05"
+   ]
   },
   {
    "full_name": "uzh-rpg/rpg_mpc",
@@ -35723,7 +35905,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 147270,
+   "stars": 147271,
    "topics": [
     "ai",
     "copilot",
@@ -36517,7 +36699,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 37814,
+   "stars": 37815,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -39173,7 +39355,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 142422,
+   "stars": 142423,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -42770,48 +42952,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "ros2-rust/ros2_rust",
-   "url": "https://github.com/ros2-rust/ros2_rust",
-   "description": "ROS 2 的 Rust 绑定，用 Rust 写机器人节点与底层驱动，替代 rclcpp/rclpy",
-   "language": "",
-   "stars": 1549,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "EttusResearch/uhd",
-   "url": "https://github.com/EttusResearch/uhd",
-   "description": "USRP 系列软件无线电硬件的官方驱动与工具链，提供射频前端控制与基带采样接口",
-   "language": "",
-   "stars": 1298,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "bespoke-silicon-group/basejump_stl",
-   "url": "https://github.com/bespoke-silicon-group/basejump_stl",
-   "description": "SystemVerilog 标准模板库，提供 FIFO、仲裁器、存储器等可复用 RTL 组件，用于芯片与 FPGA 设计",
-   "language": "",
-   "stars": 692,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-05",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

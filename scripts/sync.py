@@ -89,6 +89,13 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-05：本轮 20 条，待归类 3 条 ----
+    # 飞控与无人机（ROS 2 的 Rust 绑定，与 robotics_essentials_ros2 同口径）
+    "ros2-rust/ros2_rust": "飞控与无人机",
+    # 无线通信与感知（USRP SDR 硬件驱动，与 SoapySDR 同口径）
+    "EttusResearch/uhd": "无线通信与感知",
+    # 硬件设计与 EDA（SystemVerilog RTL 组件库，HDL 设计基础设施）
+    "bespoke-silicon-group/basejump_stl": "硬件设计与 EDA",
     # ---- 2026-11-02：本轮 20 条，待归类 2 条 ----
     # 嵌入式与单片机（16 串 LFP 储能电池包 BMS 固件，MCU 固件工程）
     "Lin-Chai49/pack-bms": "嵌入式与单片机",

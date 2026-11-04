@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 262 个项目 · 数据更新时间 2026-11-05 · [返回总览](../README.md)
+> 共 263 个项目 · 数据更新时间 2026-11-05 · [返回总览](../README.md)
 
 ---
 
@@ -563,6 +563,14 @@ SparkFun 官方 KiCad 符号与封装库
 
 ---
 
+#### [bespoke-silicon-group/basejump_stl](https://github.com/bespoke-silicon-group/basejump_stl)
+`★692 · ⭐🔥 已 star + 热点推荐`
+SystemVerilog 标准模板库，提供 FIFO、仲裁器、存储器等可复用 RTL 组件，用于芯片与 FPGA 设计
+> 热点推荐于 2026-11-05
+> 收录日期：2026-11-05
+
+---
+
 #### [easyw/kicadStepUpMod](https://github.com/easyw/kicadStepUpMod)
 `★689 · ⭐🔥 已 star + 热点推荐`
 KiCad 到 FreeCAD 的 ECAD-MCAD 协同工作台
@@ -723,8 +731,9 @@ Rust 写的 VHDL 语言服务器与分析库，提供跳转、补全与 lint
 ---
 
 #### [diodeinc/pcb](https://github.com/diodeinc/pcb)
-`★473 · 🔥 热点推荐`
+`★473 · ⭐🔥 已 star + 热点推荐`
 Diode 公司的 PCB 设计与制造工具链，提供版图、BOM 与打样流程的代码化支持
+> 热点推荐于 2026-11-05
 > 收录日期：2026-11-05
 
 ---
@@ -1053,8 +1062,9 @@ MCP 服务器：读 FST/VCD/FSDB 波形与 SystemVerilog 网表，34 个工具�
 ---
 
 #### [simplefoc/SimpleFOCMini](https://github.com/simplefoc/SimpleFOCMini)
-`★207 · 🔥 热点推荐`
+`★207 · ⭐🔥 已 star + 热点推荐`
 兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件
+> 热点推荐于 2026-11-05
 > 收录日期：2026-11-05
 
 ---
