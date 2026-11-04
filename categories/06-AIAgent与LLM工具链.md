@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★297,228 · JavaScript · ⭐ 已 star`
+`★297,230 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -35,7 +35,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★272,509 · TypeScript · ⭐ 已 star`
+`★272,510 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★166,523 · Shell · ⭐ 已 star`
+`★166,524 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -71,7 +71,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★147,271 · Python · ⭐ 已 star`
+`★147,272 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -86,14 +86,14 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★145,207 · Python · ⭐ 已 star`
+`★145,210 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
 ---
 
 #### [garrytan/gstack](https://github.com/garrytan/gstack)
-`★139,304 · TypeScript · ⭐ 已 star`
+`★139,305 · TypeScript · ⭐ 已 star`
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 > 收录日期：2026-10-13
 
@@ -131,7 +131,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★102,777 · Rust · ⭐ 已 star`
+`★102,779 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -161,7 +161,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★93,452 · JavaScript · ⭐ 已 star`
+`★93,454 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -456,7 +456,7 @@ An autonomous agent for deep financial research
 ---
 
 #### [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
-`★26,976 · TypeScript · ⭐ 已 star`
+`★26,977 · TypeScript · ⭐ 已 star`
 What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 > 收录日期：2026-09-13
 
@@ -867,7 +867,7 @@ Dynamic context pruning plugin for OpenCode - intelligently manages conversation
 ---
 
 #### [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver)
-`★4,118 · Rust · ⭐ 已 star`
+`★4,119 · Rust · ⭐ 已 star`
 Metal driver for NVIDIA GeForce cards on macOS Sequoia
 > 收录日期：2026-10-08
 

@@ -70,11 +70,6 @@
   "desc": "在 RP2040/RP2350 单片机上实现 ZX Spectrum 复古计算机，含 HDMI 输出与键盘接口的固件工程"
  },
  {
-  "url": "https://github.com/8bitworkshop/8bitworkshop",
-  "stars": 592,
-  "desc": "浏览器里的 8 位机与 Verilog 开发 IDE，可直接编写、仿真复古硬件与 FPGA 逻辑"
- },
- {
   "url": "https://github.com/tomojitakasu/PocketSDR",
   "stars": 532,
   "desc": "便携式 GNSS 软件无线电接收机，含射频前端与信号处理固件，用于卫星导航定位研究"
@@ -93,6 +88,11 @@
   "url": "https://github.com/simplefoc/SimpleFOCMini",
   "stars": 207,
   "desc": "兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件"
+ },
+ {
+  "url": "https://github.com/openmv/openmv-projects",
+  "stars": 157,
+  "desc": "OpenMV 摄像头模块的示例项目合集，覆盖机器视觉、颜色追踪与串口通信"
  },
  {
   "url": "https://github.com/Source-Robotics/Spectral-Micro-BLDC-controller",

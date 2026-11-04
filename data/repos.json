@@ -18686,6 +18686,20 @@
    ]
   },
   {
+   "full_name": "openmv/openmv-projects",
+   "url": "https://github.com/openmv/openmv-projects",
+   "description": "OpenMV 摄像头模块的示例项目合集，覆盖机器视觉、颜色追踪与串口通信",
+   "language": "",
+   "stars": 157,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-05",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "MoveCall/onepage-reader",
    "url": "https://github.com/MoveCall/onepage-reader",
    "description": "基于 ESP32-C61 的开源硬件电子书阅读器",
@@ -35746,7 +35760,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 297228,
+   "stars": 297230,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -35817,7 +35831,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 272509,
+   "stars": 272510,
    "topics": [
     "ai-agents",
     "cordis",
@@ -35861,7 +35875,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 166523,
+   "stars": 166524,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -35905,7 +35919,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 147271,
+   "stars": 147272,
    "topics": [
     "ai",
     "copilot",
@@ -35947,7 +35961,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 145207,
+   "stars": 145210,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -35980,7 +35994,7 @@
    "url": "https://github.com/garrytan/gstack",
    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "language": "TypeScript",
-   "stars": 139304,
+   "stars": 139305,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -36089,7 +36103,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 102777,
+   "stars": 102779,
    "topics": [
     "agent-skills",
     "ai",
@@ -36184,7 +36198,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 93452,
+   "stars": 93454,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -37077,7 +37091,7 @@
    "url": "https://github.com/humanlayer/12-factor-agents",
    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
    "language": "TypeScript",
-   "stars": 26976,
+   "stars": 26977,
    "topics": [
     "12-factor",
     "12-factor-agents",
@@ -38185,7 +38199,7 @@
    "url": "https://github.com/nullmoth/nvidia-macos-driver",
    "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
    "language": "Rust",
-   "stars": 4118,
+   "stars": 4119,
    "topics": [
     "kext",
     "macos",
@@ -39544,7 +39558,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 55040,
+   "stars": 55041,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -42079,7 +42093,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 496114,
+   "stars": 496116,
    "topics": [
     "api",
     "apis",
