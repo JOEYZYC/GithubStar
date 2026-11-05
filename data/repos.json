@@ -6991,27 +6991,6 @@
    ]
   },
   {
-   "full_name": "upb-lea/awesome-open-source-power-electronics",
-   "url": "https://github.com/upb-lea/awesome-open-source-power-electronics",
-   "description": "开源电力电子工具与项目清单，涵盖电源、电机与仿真",
-   "language": "",
-   "stars": 385,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-06",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-06"
-   ]
-  },
-  {
    "full_name": "flexcompute/tidy3d",
    "url": "https://github.com/flexcompute/tidy3d",
    "description": "大规模光子/电磁 FDTD 仿真云平台，Python API 驱动，适合批量参数扫描",
@@ -28252,6 +28231,27 @@
    ]
   },
   {
+   "full_name": "upb-lea/awesome-open-source-power-electronics",
+   "url": "https://github.com/upb-lea/awesome-open-source-power-electronics",
+   "description": "开源电力电子工具与项目清单，涵盖电源、电机与仿真",
+   "language": "",
+   "stars": 385,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-06",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
+  },
+  {
    "full_name": "American-Embedded/kistack",
    "url": "https://github.com/American-Embedded/kistack",
    "description": "KiStack is a HUMAN WRITTEN bunch of skills for KiCad",
@@ -32003,7 +32003,7 @@
    "url": "https://github.com/Verlintas/NOIR",
    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
    "language": "Kotlin",
-   "stars": 2454,
+   "stars": 2455,
    "topics": [
     "adb",
     "android",
@@ -36549,7 +36549,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 103878,
+   "stars": 103879,
    "topics": [
     "agent-skills",
     "ai",
@@ -36884,7 +36884,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 65244,
+   "stars": 65245,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -42632,7 +42632,7 @@
    "url": "https://github.com/hmjz100/LinkSwift",
    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
    "language": "JavaScript",
-   "stars": 38004,
+   "stars": 38005,
    "topics": [
     "123pan",
     "aliyun-drive",

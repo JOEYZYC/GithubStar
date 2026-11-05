@@ -96,6 +96,8 @@ OVERRIDES: dict[str, str] = {
     "aotenjo-xyz/winder": "硬件设计与 EDA",
     # 飞控与无人机（集成 ELRS 的双有刷电调，与 ExpressLRS/bldc 同口径）
     "frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS": "飞控与无人机",
+    # 硬件设计与 EDA（开源电力电子工具/项目清单；简介里的 electronics 触发电磁规则，属误判）
+    "upb-lea/awesome-open-source-power-electronics": "硬件设计与 EDA",
     # ---- 2026-11-05：本轮 20 条，待归类 3 条 + 5 条规则误判 ----
     # 飞控与无人机（ROS 2 的 Rust 绑定，与 robotics_essentials_ros2 同口径）
     "ros2-rust/ros2_rust": "飞控与无人机",

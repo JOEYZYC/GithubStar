@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 269 个项目 · 数据更新时间 2026-11-06 · [返回总览](../README.md)
+> 共 270 个项目 · 数据更新时间 2026-11-06 · [返回总览](../README.md)
 
 ---
 
@@ -822,6 +822,14 @@ ExpressLRS 官方开源硬件资料：TX 模块与接收机 PCB、原理图与 3
 VS Code 的 Verilog/SystemVerilog 语法高亮、跳转与 lint 支持
 > 热点推荐于 2026-10-27
 > 收录日期：2026-10-27
+
+---
+
+#### [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics)
+`★385 · ⭐🔥 已 star + 热点推荐`
+开源电力电子工具与项目清单，涵盖电源、电机与仿真
+> 热点推荐于 2026-11-06
+> 收录日期：2026-11-06
 
 ---
 
