@@ -89,6 +89,13 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-06：本轮 20 条，待归类 3 条 ----
+    # 硬件设计与 EDA（开源 FPGA IP 生成器，与 verilator/yosys/OpenROAD 同口径）
+    "lnis-uofu/OpenFPGA": "硬件设计与 EDA",
+    # 硬件设计与 EDA（BLDC 电机绕线机，线圈/电机自制的制造工艺设备）
+    "aotenjo-xyz/winder": "硬件设计与 EDA",
+    # 飞控与无人机（集成 ELRS 的双有刷电调，与 ExpressLRS/bldc 同口径）
+    "frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS": "飞控与无人机",
     # ---- 2026-11-05：本轮 20 条，待归类 3 条 + 5 条规则误判 ----
     # 飞控与无人机（ROS 2 的 Rust 绑定，与 robotics_essentials_ros2 同口径）
     "ros2-rust/ros2_rust": "飞控与无人机",

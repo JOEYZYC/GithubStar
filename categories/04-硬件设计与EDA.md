@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 267 个项目 · 数据更新时间 2026-11-06 · [返回总览](../README.md)
+> 共 269 个项目 · 数据更新时间 2026-11-06 · [返回总览](../README.md)
 
 ---
 
@@ -427,6 +427,14 @@ KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB ma
 
 ---
 
+#### [lnis-uofu/OpenFPGA](https://github.com/lnis-uofu/OpenFPGA)
+`★1,167 · ⭐🔥 已 star + 热点推荐`
+开源 FPGA IP 生成器，可自动生成定制 FPGA 架构，Verilog 硬件设计工具链
+> 热点推荐于 2026-11-06
+> 收录日期：2026-11-06
+
+---
+
 #### [MikePopoloski/slang](https://github.com/MikePopoloski/slang)
 `★1,154 · ⭐🔥 已 star + 热点推荐`
 SystemVerilog 编译器与语言服务前端，支撑 lint、格式化与 IDE 补全，开源 RTL 基建的核心组件
@@ -644,8 +652,9 @@ KiCad 插件与资源精选清单
 ---
 
 #### [dalance/svls](https://github.com/dalance/svls)
-`★587 · 🔥 热点推荐`
+`★587 · ⭐🔥 已 star + 热点推荐`
 SystemVerilog 语言服务器，为 Verilog/HDL 编辑与 EDA 工具链提供补全
+> 热点推荐于 2026-11-06
 > 收录日期：2026-11-06
 
 ---
@@ -1003,6 +1012,14 @@ InfiRay P2 Pro 热像模块的查看器与 API
 跨平台 USB 热像仪取流与显示软件（FLIR Boson/Lepton）
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
+
+---
+
+#### [aotenjo-xyz/winder](https://github.com/aotenjo-xyz/winder)
+`★247 · ⭐🔥 已 star + 热点推荐`
+BLDC 电机绕线机，Python 控制的绕线运动控制
+> 热点推荐于 2026-11-06
+> 收录日期：2026-11-06
 
 ---
 
@@ -1817,8 +1834,9 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 ---
 
 #### [tscircuit/pcb-viewer](https://github.com/tscircuit/pcb-viewer)
-`★22 · 🔥 热点推荐`
+`★22 · ⭐🔥 已 star + 热点推荐`
 基于 Circuit JSON 的 React PCB 查看器
+> 热点推荐于 2026-11-06
 > 收录日期：2026-11-06
 
 ---

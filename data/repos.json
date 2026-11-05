@@ -1198,7 +1198,14 @@
    "added_at": "2026-11-06",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "dji-sdk/Onboard-SDK",
@@ -1443,7 +1450,14 @@
    "added_at": "2026-11-06",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "VisDrone/DroneVehicle",
@@ -2258,7 +2272,14 @@
    "added_at": "2026-11-06",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "OpenDrone-hw/OpenRX",
@@ -5600,6 +5621,27 @@
    ]
   },
   {
+   "full_name": "frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS",
+   "url": "https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS",
+   "description": "集成 ELRS 的双有刷电机 ESC 电调",
+   "language": "",
+   "stars": 19,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-06",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
+  },
+  {
    "full_name": "SyrNitram/recon-ground-drone",
    "url": "https://github.com/SyrNitram/recon-ground-drone",
    "description": "3D 打印的 ESP32-CAM 地面遥控侦察车，WiFi 与 FPV 双路控制",
@@ -6960,7 +7002,14 @@
    "added_at": "2026-11-06",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "flexcompute/tidy3d",
@@ -10018,7 +10067,14 @@
    "added_at": "2026-11-06",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "mavrikak/Helios",
@@ -15105,7 +15161,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "HASwitchPlate/openHASP",
@@ -15140,7 +15203,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "ESPARGOS/pyespargos",
@@ -15973,7 +16043,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "Nikolay-Kha/PyCNC",
@@ -16991,7 +17068,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "EFeru/bldc-motor-control-FOC",
@@ -17257,7 +17341,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "SMotlaq/LoRa",
@@ -17271,7 +17362,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "Heerkog/MicroPythonBLEHID",
@@ -19229,7 +19327,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "ventZl/cmrx",
@@ -19823,7 +19928,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "notownblues/SHS-Z2M-Presence",
@@ -21419,7 +21531,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "cn0xroot/IFDA",
@@ -22723,7 +22842,14 @@
    "added_at": "2026-11-06",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "Gao-Den/rkos",
@@ -27092,6 +27218,27 @@
    ]
   },
   {
+   "full_name": "lnis-uofu/OpenFPGA",
+   "url": "https://github.com/lnis-uofu/OpenFPGA",
+   "description": "开源 FPGA IP 生成器，可自动生成定制 FPGA 架构，Verilog 硬件设计工具链",
+   "language": "",
+   "stars": 1167,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-06",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
+  },
+  {
    "full_name": "MikePopoloski/slang",
    "url": "https://github.com/MikePopoloski/slang",
    "description": "SystemVerilog 编译器与语言服务前端，支撑 lint、格式化与 IDE 补全，开源 RTL 基建的核心组件",
@@ -27670,7 +27817,14 @@
    "added_at": "2026-11-06",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "mercedes-benz/ardep",
@@ -28590,6 +28744,27 @@
    ],
    "hot_dates": [
     "2026-09-17"
+   ]
+  },
+  {
+   "full_name": "aotenjo-xyz/winder",
+   "url": "https://github.com/aotenjo-xyz/winder",
+   "description": "BLDC 电机绕线机，Python 控制的绕线运动控制",
+   "language": "",
+   "stars": 247,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-06",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
    ]
   },
   {
@@ -30726,7 +30901,14 @@
    "added_at": "2026-11-06",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-06"
+   ]
   },
   {
    "full_name": "Keitark/pcba-design-skills",
@@ -36024,7 +36206,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 297853,
+   "stars": 297854,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -36139,7 +36321,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 166735,
+   "stars": 166736,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -36292,7 +36474,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 116645,
+   "stars": 116648,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -36367,7 +36549,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 103877,
+   "stars": 103878,
    "topics": [
     "agent-skills",
     "ai",
@@ -37232,7 +37414,7 @@
    "url": "https://github.com/QwenLM/qwen-code",
    "description": "An open-source AI coding agent that lives in your terminal.",
    "language": "TypeScript",
-   "stars": 29029,
+   "stars": 29030,
    "topics": [
     "agentic",
     "ai",
@@ -37503,7 +37685,7 @@
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
    "description": "Towards a More Autonomous Agent System",
    "language": "TypeScript",
-   "stars": 19458,
+   "stars": 19459,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -43230,48 +43412,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "lnis-uofu/OpenFPGA",
-   "url": "https://github.com/lnis-uofu/OpenFPGA",
-   "description": "开源 FPGA IP 生成器，可自动生成定制 FPGA 架构，Verilog 硬件设计工具链",
-   "language": "",
-   "stars": 1167,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-06",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "aotenjo-xyz/winder",
-   "url": "https://github.com/aotenjo-xyz/winder",
-   "description": "BLDC 电机绕线机，Python 控制的绕线运动控制",
-   "language": "",
-   "stars": 247,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-06",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS",
-   "url": "https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS",
-   "description": "集成 ELRS 的双有刷电机 ESC 电调",
-   "language": "",
-   "stars": 19,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-06",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

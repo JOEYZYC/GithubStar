@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★297,853 · JavaScript · ⭐ 已 star`
+`★297,854 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★166,735 · Shell · ⭐ 已 star`
+`★166,736 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ OpenAI 官方终端编码 agent，Rust 实现，当日涨星 172★
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★116,645 · TypeScript · ⭐ 已 star`
+`★116,648 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★103,877 · Rust · ⭐ 已 star`
+`★103,878 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -410,7 +410,7 @@ The headless browser for AI agents and web scraping
 ---
 
 #### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-`★29,029 · TypeScript · ⭐ 已 star`
+`★29,030 · TypeScript · ⭐ 已 star`
 An open-source AI coding agent that lives in your terminal.
 > 收录日期：2026-09-13
 
@@ -516,7 +516,7 @@ Allen AI 的 PDF 线性化工具包，把文档转成适合 LLM 数据集与训�
 ---
 
 #### [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-`★19,458 · TypeScript · ⭐ 已 star`
+`★19,459 · TypeScript · ⭐ 已 star`
 Towards a More Autonomous Agent System
 > 收录日期：2026-11-01
 
