@@ -1839,3 +1839,23 @@
 {"url": "https://github.com/simplefoc/SimpleFOCMini", "stars": 207, "desc": "兼容 SimpleFOC 库的低成本 BLDC 电机驱动板，小尺寸，含原理图与固件", "date": "2026-11-05"}
 {"url": "https://github.com/Source-Robotics/Spectral-Micro-BLDC-controller", "stars": 97, "desc": "紧凑型 FOC 无刷电机控制器，带 CAN 与 UART 接口，固件开源，适合云台与小型无人机电驱", "date": "2026-11-05"}
 {"url": "https://github.com/openmv/openmv-projects", "stars": 157, "desc": "OpenMV 摄像头模块的示例项目合集，覆盖机器视觉、颜色追踪与串口通信", "date": "2026-11-05"}
+{"url": "https://github.com/lnis-uofu/OpenFPGA", "stars": 1167, "desc": "开源 FPGA IP 生成器，可自动生成定制 FPGA 架构，Verilog 硬件设计工具链", "date": "2026-11-06"}
+{"url": "https://github.com/ros-controls/ros2_control", "stars": 1053, "desc": "ROS 2 机器人控制框架，硬件接口抽象与控制器管理，用于机械臂与运动控制", "date": "2026-11-06"}
+{"url": "https://github.com/tinygo-org/bluetooth", "stars": 1024, "desc": "TinyGo 跨平台蓝牙 API，支持裸机 Nordic 与 ESP32/Pico-W 固件开发", "date": "2026-11-06"}
+{"url": "https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series", "stars": 1014, "desc": "LILYGO LoRa 系列开发板（ESP32 + SX127x）示例与固件", "date": "2026-11-06"}
+{"url": "https://github.com/robocurve/inspect-robots", "stars": 743, "desc": "物理 AI 评测框架，让任意 LLM/VLA 模型在机械臂与人形机器人上跑基准", "date": "2026-11-06"}
+{"url": "https://github.com/DanielMartensson/Open-SAE-J1939", "stars": 657, "desc": "嵌入式 CAN 总线 SAE J1939 协议栈，可跑单片机或 PC", "date": "2026-11-06"}
+{"url": "https://github.com/dalance/svls", "stars": 587, "desc": "SystemVerilog 语言服务器，为 Verilog/HDL 编辑与 EDA 工具链提供补全", "date": "2026-11-06"}
+{"url": "https://github.com/agilexrobotics/piper_sdk", "stars": 420, "desc": "Piper 机械臂控制 SDK，提供 Python/C++ 接口", "date": "2026-11-06"}
+{"url": "https://github.com/upb-lea/awesome-open-source-power-electronics", "stars": 385, "desc": "开源电力电子工具与项目清单，涵盖电源、电机与仿真", "date": "2026-11-06"}
+{"url": "https://github.com/zephyrproject-rtos/west", "stars": 379, "desc": "Zephyr RTOS 元工具，负责多仓库管理、构建与烧录", "date": "2026-11-06"}
+{"url": "https://github.com/latonita/arduino-canbus-monitor", "stars": 337, "desc": "基于 Arduino 与 CAN 扩展板的 CAN 总线监视器，实现 SLCAN 协议", "date": "2026-11-06"}
+{"url": "https://github.com/SMotlaq/LoRa", "stars": 330, "desc": "STM32 HAL 驱动下的 SX1278 LoRa 模块库", "date": "2026-11-06"}
+{"url": "https://github.com/aotenjo-xyz/winder", "stars": 247, "desc": "BLDC 电机绕线机，Python 控制的绕线运动控制", "date": "2026-11-06"}
+{"url": "https://github.com/NorthernMan54/JC3248W535EN", "stars": 131, "desc": "LVGL 480x320 开发板的显示驱动与示例固件", "date": "2026-11-06"}
+{"url": "https://github.com/tinygo-org/espradio", "stars": 102, "desc": "TinyGo 的 ESP32 无线通信包，提供 WiFi/BLE 固件接口", "date": "2026-11-06"}
+{"url": "https://github.com/hak5peaks/ESP32-C5-WiFi-Scanner", "stars": 50, "desc": "ESP32-C5 双频 WiFi 扫描固件，用 Web UI 可视化无线环境", "date": "2026-11-06"}
+{"url": "https://github.com/Source-Robotics/STEPFOC-stepper-controller", "stars": 29, "desc": "FOC 步进闭环伺服驱动，带 CAN/UART 与开源固件", "date": "2026-11-06"}
+{"url": "https://github.com/QuanticParis/HFSSdrawpy", "stars": 23, "desc": "用 Python 脚本绘制 HFSS 电磁设计，用于天线与超表面建模", "date": "2026-11-06"}
+{"url": "https://github.com/tscircuit/pcb-viewer", "stars": 22, "desc": "基于 Circuit JSON 的 React PCB 查看器", "date": "2026-11-06"}
+{"url": "https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS", "stars": 19, "desc": "集成 ELRS 的双有刷电机 ESC 电调", "date": "2026-11-06"}

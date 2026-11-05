@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 264 个项目 · 数据更新时间 2026-11-05 · [返回总览](../README.md)
+> 共 267 个项目 · 数据更新时间 2026-11-06 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,130 · C++ · ⭐ 已 star`
+`★35,164 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★13,629 · Rust · ⭐ 已 star`
+`★14,139 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -115,7 +115,7 @@ Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,797 · Rust · ⭐ 已 star`
+`★3,831 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,218 · Python · ⭐ 已 star`
+`★3,229 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,124 · C++ · ⭐ 已 star`
+`★3,127 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -640,6 +640,13 @@ KiCad 插件与资源精选清单
 浏览器里的 8 位机与 Verilog 开发 IDE，可直接编写、仿真复古硬件与 FPGA 逻辑
 > 热点推荐于 2026-11-05
 > 收录日期：2026-11-05
+
+---
+
+#### [dalance/svls](https://github.com/dalance/svls)
+`★587 · 🔥 热点推荐`
+SystemVerilog 语言服务器，为 Verilog/HDL 编辑与 EDA 工具链提供补全
+> 收录日期：2026-11-06
 
 ---
 
@@ -1809,6 +1816,13 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 
 ---
 
+#### [tscircuit/pcb-viewer](https://github.com/tscircuit/pcb-viewer)
+`★22 · 🔥 热点推荐`
+基于 Circuit JSON 的 React PCB 查看器
+> 收录日期：2026-11-06
+
+---
+
 #### [Keitark/pcba-design-skills](https://github.com/Keitark/pcba-design-skills)
 `★21 · ⭐🔥 已 star + 热点推荐`
 面向 Codex 与 Claude Code 的电子设计技能集：产品规划、电路评审、原理图整理与 PCBA 发布
@@ -2086,6 +2100,13 @@ KiCad 插件：把原理图导出为单份可交给 AI 审查的文本报告（2
 Blender 插件，程序化合成热成像与传感器模型数据集
 > 热点推荐于 2026-09-28
 > 收录日期：2026-09-28
+
+---
+
+#### [egethropic/bag-bom](https://github.com/egethropic/bag-bom)
+`★7 · JavaScript · ⭐ 已 star`
+Offline webcam bag-label OCR and automatic component highlighting for KiCad InteractiveHtmlBom. Apache-2.0.
+> 收录日期：2026-11-06
 
 ---
 
