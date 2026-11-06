@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 270 个项目 · 数据更新时间 2026-11-06 · [返回总览](../README.md)
+> 共 271 个项目 · 数据更新时间 2026-11-07 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,164 · C++ · ⭐ 已 star`
+`★35,188 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★14,139 · Rust · ⭐ 已 star`
+`★14,508 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -115,7 +115,7 @@ Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,831 · Rust · ⭐ 已 star`
+`★3,848 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,229 · Python · ⭐ 已 star`
+`★3,239 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,127 · C++ · ⭐ 已 star`
+`★3,132 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,873 · ⭐ 已 star`
+`★1,872 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -2130,7 +2130,7 @@ Blender 插件，程序化合成热成像与传感器模型数据集
 ---
 
 #### [egethropic/bag-bom](https://github.com/egethropic/bag-bom)
-`★7 · JavaScript · ⭐ 已 star`
+`★8 · JavaScript · ⭐ 已 star`
 Offline webcam bag-label OCR and automatic component highlighting for KiCad InteractiveHtmlBom. Apache-2.0.
 > 收录日期：2026-11-06
 
@@ -2141,5 +2141,11 @@ Offline webcam bag-label OCR and automatic component highlighting for KiCad Inte
 ASIC/FPGA 设计流程工具与远程实验平台
 > 热点推荐于 2026-09-13
 > 收录日期：2026-09-13
+
+---
+
+#### [JOEYZYC/BagBom4EasyEDA](https://github.com/JOEYZYC/BagBom4EasyEDA)
+`★1 · TypeScript · ⭐ 已 star`
+> 收录日期：2026-11-07
 
 ---

@@ -1859,3 +1859,9 @@
 {"url": "https://github.com/QuanticParis/HFSSdrawpy", "stars": 23, "desc": "用 Python 脚本绘制 HFSS 电磁设计，用于天线与超表面建模", "date": "2026-11-06"}
 {"url": "https://github.com/tscircuit/pcb-viewer", "stars": 22, "desc": "基于 Circuit JSON 的 React PCB 查看器", "date": "2026-11-06"}
 {"url": "https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS", "stars": 19, "desc": "集成 ELRS 的双有刷电机 ESC 电调", "date": "2026-11-06"}
+{"url": "https://github.com/wled/WLED", "stars": 18990, "desc": "ESP32/ESP8266 上的 WS2812B 等数字灯带控制固件，WiFi 配网加 Web UI，嵌入式联网控制的经典实现", "date": "2026-11-07"}
+{"url": "https://github.com/c8501024/Hertzon", "stars": 60, "desc": "开源三维全波电磁仿真器（FEM，自适应网格），用于天线、滤波器与波导设计，基于 EMerge 构建", "date": "2026-11-07"}
+{"url": "https://github.com/EEVblog/121GW-Multimeter-Firmware-RE", "stars": 43, "desc": "EEVblog 121GW 万用表固件（v2.05）逆向成纯 C，能编译且行为与原厂一致，适合研究仪器固件", "date": "2026-11-07"}
+{"url": "https://github.com/zombu4/121GW-Open-Firmware", "stars": 41, "desc": "121GW 万用表的开源替代固件，手写 Thumb-2 汇编并配套完整模拟器", "date": "2026-11-07"}
+{"url": "https://github.com/geer1895/rfauto", "stars": 39, "desc": "射频微波设计自动化框架，把 16 个电磁/EDA 引擎统一到一个接口，附 75 个参数化模板并用 LLM 编排流程", "date": "2026-11-07"}
+{"url": "https://github.com/GiuseppeELio/metasurface-agent-pipeline", "stars": 2, "desc": "自然语言驱动的介质超表面逆向设计流水线：可微 RCWA 拓扑优化，再用 3D FDTD（Meep）交叉验证并做可制造性约束", "date": "2026-11-07"}

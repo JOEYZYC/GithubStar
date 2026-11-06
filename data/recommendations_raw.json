@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/lnis-uofu/OpenFPGA",
-  "stars": 1167,
-  "desc": "开源 FPGA IP 生成器，可自动生成定制 FPGA 架构，Verilog 硬件设计工具链"
+  "url": "https://github.com/wled/WLED",
+  "stars": 18990,
+  "desc": "ESP32/ESP8266 上的 WS2812B 等数字灯带控制固件，WiFi 配网加 Web UI，嵌入式联网控制的经典实现"
  },
  {
-  "url": "https://github.com/ros-controls/ros2_control",
-  "stars": 1053,
-  "desc": "ROS 2 机器人控制框架，硬件接口抽象与控制器管理，用于机械臂与运动控制"
+  "url": "https://github.com/c8501024/Hertzon",
+  "stars": 60,
+  "desc": "开源三维全波电磁仿真器（FEM，自适应网格），用于天线、滤波器与波导设计，基于 EMerge 构建"
  },
  {
-  "url": "https://github.com/tinygo-org/bluetooth",
-  "stars": 1024,
-  "desc": "TinyGo 跨平台蓝牙 API，支持裸机 Nordic 与 ESP32/Pico-W 固件开发"
+  "url": "https://github.com/fotonik-sk/stm32n6-speech-recognition",
+  "stars": 46,
+  "desc": "STM32N6 单片机 NPU 上的离线语音识别，麦克风直接出英文文本，不依赖云端"
  },
  {
-  "url": "https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series",
-  "stars": 1014,
-  "desc": "LILYGO LoRa 系列开发板（ESP32 + SX127x）示例与固件"
+  "url": "https://github.com/EEVblog/121GW-Multimeter-Firmware-RE",
+  "stars": 43,
+  "desc": "EEVblog 121GW 万用表固件（v2.05）逆向成纯 C，能编译且行为与原厂一致，适合研究仪器固件"
  },
  {
-  "url": "https://github.com/robocurve/inspect-robots",
-  "stars": 743,
-  "desc": "物理 AI 评测框架，让任意 LLM/VLA 模型在机械臂与人形机器人上跑基准"
+  "url": "https://github.com/hx23840/S3-PX4-FC",
+  "stars": 43,
+  "desc": "ESP32-S3 飞控硬件设计（PX4 生态），含 EasyEDA 工程与制造文件，可自行打样"
  },
  {
-  "url": "https://github.com/DanielMartensson/Open-SAE-J1939",
-  "stars": 657,
-  "desc": "嵌入式 CAN 总线 SAE J1939 协议栈，可跑单片机或 PC"
+  "url": "https://github.com/zombu4/121GW-Open-Firmware",
+  "stars": 41,
+  "desc": "121GW 万用表的开源替代固件，手写 Thumb-2 汇编并配套完整模拟器"
  },
  {
-  "url": "https://github.com/dalance/svls",
-  "stars": 587,
-  "desc": "SystemVerilog 语言服务器，为 Verilog/HDL 编辑与 EDA 工具链提供补全"
+  "url": "https://github.com/geer1895/rfauto",
+  "stars": 39,
+  "desc": "射频微波设计自动化框架，把 16 个电磁/EDA 引擎统一到一个接口，附 75 个参数化模板并用 LLM 编排流程"
  },
  {
-  "url": "https://github.com/agilexrobotics/piper_sdk",
-  "stars": 420,
-  "desc": "Piper 机械臂控制 SDK，提供 Python/C++ 接口"
+  "url": "https://github.com/VanillaNahida/lvgl_pinyin_ime",
+  "stars": 33,
+  "desc": "LVGL 9 + ESP-IDF 的中文拼音输入法组件，支持 26 键与 9 键布局，可直接嵌进嵌入式界面"
  },
  {
-  "url": "https://github.com/upb-lea/awesome-open-source-power-electronics",
-  "stars": 385,
-  "desc": "开源电力电子工具与项目清单，涵盖电源、电机与仿真"
+  "url": "https://github.com/ismailakdag/fairbeam",
+  "stars": 32,
+  "desc": "开源电磁工作台，基于 openEMS 设计、仿真并记录天线，面向射频工程师的轻量替代"
  },
  {
-  "url": "https://github.com/zephyrproject-rtos/west",
-  "stars": 379,
-  "desc": "Zephyr RTOS 元工具，负责多仓库管理、构建与烧录"
+  "url": "https://github.com/MykolaBohomaz/MiniOscilloscope",
+  "stars": 32,
+  "desc": "迷你示波器自建项目，含采样前端、固件与显示部分"
  },
  {
-  "url": "https://github.com/latonita/arduino-canbus-monitor",
-  "stars": 337,
-  "desc": "基于 Arduino 与 CAN 扩展板的 CAN 总线监视器，实现 SLCAN 协议"
- },
- {
-  "url": "https://github.com/SMotlaq/LoRa",
-  "stars": 330,
-  "desc": "STM32 HAL 驱动下的 SX1278 LoRa 模块库"
- },
- {
-  "url": "https://github.com/aotenjo-xyz/winder",
-  "stars": 247,
-  "desc": "BLDC 电机绕线机，Python 控制的绕线运动控制"
- },
- {
-  "url": "https://github.com/NorthernMan54/JC3248W535EN",
-  "stars": 131,
-  "desc": "LVGL 480x320 开发板的显示驱动与示例固件"
- },
- {
-  "url": "https://github.com/tinygo-org/espradio",
-  "stars": 102,
-  "desc": "TinyGo 的 ESP32 无线通信包，提供 WiFi/BLE 固件接口"
- },
- {
-  "url": "https://github.com/hak5peaks/ESP32-C5-WiFi-Scanner",
-  "stars": 50,
-  "desc": "ESP32-C5 双频 WiFi 扫描固件，用 Web UI 可视化无线环境"
- },
- {
-  "url": "https://github.com/Source-Robotics/STEPFOC-stepper-controller",
+  "url": "https://github.com/liujycode/awesome-FOC-motor-control",
   "stars": 29,
-  "desc": "FOC 步进闭环伺服驱动，带 CAN/UART 与开源固件"
+  "desc": "FOC 电机控制资源精选清单：开源固件、教程论文、调试测量经验与技能树"
  },
  {
-  "url": "https://github.com/QuanticParis/HFSSdrawpy",
-  "stars": 23,
-  "desc": "用 Python 脚本绘制 HFSS 电磁设计，用于天线与超表面建模"
+  "url": "https://github.com/collabray/wisense",
+  "stars": 28,
+  "desc": "WiFi CSI 人体感知的 Python 工具库：存在检测、摔倒检测、呼吸率与活动分类、人数统计"
  },
  {
-  "url": "https://github.com/tscircuit/pcb-viewer",
-  "stars": 22,
-  "desc": "基于 Circuit JSON 的 React PCB 查看器"
+  "url": "https://github.com/ji10me/ESP32_C5_Wifi_spectrum_analyzer",
+  "stars": 26,
+  "desc": "ESP32-C5 双频 Wi-Fi 频谱分析仪（2.4/5GHz），基于 ESPARGOS/esp-sdr 固件做射频可视化"
  },
  {
-  "url": "https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS",
+  "url": "https://github.com/agentthink/lvgl-hmi-studio",
+  "stars": 21,
+  "desc": "基于 .NET 的 LVGL 可视化 HMI 设计器，拖拽画面并生成 LVGL C 代码，支持 Modbus/MQTT"
+ },
+ {
+  "url": "https://github.com/Hybirdss/kicad-cli-extended",
   "stars": 19,
-  "desc": "集成 ELRS 的双有刷电机 ESC 电调"
+  "desc": "给 AI agent 用的 kicad-cli 扩展：原理图编辑、PCB 更新与布线、打样包生成与预览"
+ },
+ {
+  "url": "https://github.com/heyfinal/wifi-ghost",
+  "stars": 17,
+  "desc": "ESP32-WROOM 采集 WiFi CSI 加 Python 聚合端的穿墙人体存在检测，能感知动作与呼吸"
+ },
+ {
+  "url": "https://github.com/NedaEmami123/hfss-mcp",
+  "stars": 16,
+  "desc": "MCP 服务器，通过 PyAEDT 把 AI 接到 ANSYS HFSS，自动完成天线建模与仿真"
+ },
+ {
+  "url": "https://github.com/hongwei1-c/RF-AIagent",
+  "stars": 12,
+  "desc": "AI 智能体驱动的射频设计系统，用 HFSS 自动化天线、滤波器与传输线的建模与优化"
+ },
+ {
+  "url": "https://github.com/okupacolossal/WifiSpaceMapper",
+  "stars": 11,
+  "desc": "商用 ESP32 上的 WiFi CSI 无设备动作感知，含从零写的 ESP-IDF 固件与 PyQtGraph 实时界面"
+ },
+ {
+  "url": "https://github.com/GiuseppeELio/metasurface-agent-pipeline",
+  "stars": 2,
+  "desc": "自然语言驱动的介质超表面逆向设计流水线：可微 RCWA 拓扑优化，再用 3D FDTD（Meep）交叉验证并做可制造性约束"
  }
 ]
