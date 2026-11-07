@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 274 个项目 · 数据更新时间 2026-11-08 · [返回总览](../README.md)
+> 共 275 个项目 · 数据更新时间 2026-11-08 · [返回总览](../README.md)
 
 ---
 
@@ -1174,8 +1174,9 @@ JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试
 ---
 
 #### [tangency-labs/pcbcraft-gpl](https://github.com/tangency-labs/pcbcraft-gpl)
-`★176 · 🔥 热点推荐`
+`★176 · ⭐🔥 已 star + 热点推荐`
 Rust 写的开源 EDA：单窗口多标签编辑器、兼容 KiCad 工程格式，MCP 优先可被 AI 代理驱动原理图与 PCB 设计
+> 热点推荐于 2026-11-08
 > 收录日期：2026-11-08
 
 ---
@@ -1404,8 +1405,9 @@ torabo-tsuki lp is low profile split keyboard with trackball(s)
 ---
 
 #### [alsunmengy/Claude-PCB-Art](https://github.com/alsunmengy/Claude-PCB-Art)
-`★109 · 🔥 热点推荐`
+`★109 · ⭐🔥 已 star + 热点推荐`
 带 NFC 的艺术 PCB：用 AI 生成图案走线并打样，PCB 设计与 NFC 结合的示例工程
+> 热点推荐于 2026-11-08
 > 收录日期：2026-11-08
 
 ---
@@ -1760,8 +1762,9 @@ Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，
 ---
 
 #### [MrJamington/pcb-timelapse](https://github.com/MrJamington/pcb-timelapse)
-`★33 · 🔥 热点推荐`
+`★33 · ⭐🔥 已 star + 热点推荐`
 把 KiCad PCB 布局过程录成延时视频：编辑器视角加整板渲染，硬件设计过程记录
+> 热点推荐于 2026-11-08
 > 收录日期：2026-11-08
 
 ---
@@ -1867,6 +1870,14 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 基于 Circuit JSON 的 React PCB 查看器
 > 热点推荐于 2026-11-06
 > 收录日期：2026-11-06
+
+---
+
+#### [rardino/fpga-design-implview](https://github.com/rardino/fpga-design-implview)
+`★22 · ⭐🔥 已 star + 热点推荐`
+Vivado 实现后设计的交互式查看器：布局布线与时序可视化，FPGA 设计复盘工具
+> 热点推荐于 2026-11-08
+> 收录日期：2026-11-08
 
 ---
 

@@ -6367,7 +6367,14 @@
    "added_at": "2026-11-08",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "012345kxy/ch32v307-multirotor-flight-controller",
@@ -8824,20 +8831,6 @@
    ]
   },
   {
-   "full_name": "Clifford-Swartz/peripheral-pretender",
-   "url": "https://github.com/Clifford-Swartz/peripheral-pretender",
-   "description": "Microchip 开发板与 MikroE Click 板的 QEMU 数字孪生，与真实芯片行为比对校验，嵌入式固件仿真测试",
-   "language": "",
-   "stars": 51,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-08",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "tuzengji/pyaedt-hfss-antenna",
    "url": "https://github.com/tuzengji/pyaedt-hfss-antenna",
    "description": "让 AI agent 直接驱动 Ansys HFSS 做天线仿真的接口工程",
@@ -9885,7 +9878,14 @@
    "added_at": "2026-11-08",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "Lex669/LumericalFDTD-skill",
@@ -20221,7 +20221,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "crichars/embedded-project-governance",
@@ -20571,7 +20578,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "Twotoz/C5VRX",
@@ -21453,7 +21467,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "gcallipo/RadioDSP-DNR-Stm32f407",
@@ -21579,6 +21600,27 @@
    ],
    "hot_dates": [
     "2026-09-18"
+   ]
+  },
+  {
+   "full_name": "Clifford-Swartz/peripheral-pretender",
+   "url": "https://github.com/Clifford-Swartz/peripheral-pretender",
+   "description": "Microchip 开发板与 MikroE Click 板的 QEMU 数字孪生，与真实芯片行为比对校验，嵌入式固件仿真测试",
+   "language": "",
+   "stars": 51,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-08",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
    ]
   },
   {
@@ -21761,7 +21803,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "Bellman281/esp32-tinyLLM",
@@ -21943,7 +21992,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "fotonik-sk/stm32n6-speech-recognition",
@@ -22272,7 +22328,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "lvgl/lvgl_project_creator",
@@ -22463,7 +22526,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "OpenXiangShan/XiangShanLab",
@@ -22624,7 +22694,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "cifertech/free-embedded-dev-tools",
@@ -22995,7 +23072,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "bqy12346/Fall-Detection",
@@ -23135,7 +23219,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "Gao-Den/rkos",
@@ -24137,7 +24228,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "johannesboernsen/ScopeBuddy",
@@ -24542,7 +24640,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -25715,7 +25820,14 @@
    "added_at": "2026-11-08",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -29498,7 +29610,14 @@
    "added_at": "2026-11-08",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "jonkraft/PhasedArray",
@@ -30092,7 +30211,14 @@
    "added_at": "2026-11-08",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "way2pramil/awesome-kicad-projects",
@@ -31026,7 +31152,14 @@
    "added_at": "2026-11-08",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
+   ]
   },
   {
    "full_name": "RoboJackets/robocup-pcb",
@@ -31299,6 +31432,27 @@
    ],
    "hot_dates": [
     "2026-11-06"
+   ]
+  },
+  {
+   "full_name": "rardino/fpga-design-implview",
+   "url": "https://github.com/rardino/fpga-design-implview",
+   "description": "Vivado 实现后设计的交互式查看器：布局布线与时序可视化，FPGA 设计复盘工具",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-08",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-08"
    ]
   },
   {
@@ -36589,7 +36743,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 394144,
+   "stars": 394145,
    "topics": [
     "ai",
     "assistant",
@@ -36610,7 +36764,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 299159,
+   "stars": 299162,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -36661,7 +36815,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 275728,
+   "stars": 275730,
    "topics": [
     "ai-agents",
     "cordis",
@@ -36725,7 +36879,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 167116,
+   "stars": 167118,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -36769,7 +36923,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 148411,
+   "stars": 148412,
    "topics": [
     "ai",
     "copilot",
@@ -36811,7 +36965,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 146537,
+   "stars": 146538,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -36844,7 +36998,7 @@
    "url": "https://github.com/garrytan/gstack",
    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "language": "TypeScript",
-   "stars": 140658,
+   "stars": 140659,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -36878,7 +37032,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 118563,
+   "stars": 118566,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -36953,7 +37107,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 105505,
+   "stars": 105507,
    "topics": [
     "agent-skills",
     "ai",
@@ -36972,7 +37126,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 99306,
+   "stars": 99307,
    "topics": [
     "ai",
     "ai-scraping",
@@ -37457,7 +37611,7 @@
    "url": "https://github.com/lightpanda-io/browser",
    "description": "Lightpanda: the headless browser designed for AI and automation",
    "language": "Zig",
-   "stars": 41567,
+   "stars": 41568,
    "topics": [
     "browser",
     "browser-automation",
@@ -38047,7 +38201,7 @@
    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
    "description": "Towards a More Autonomous Agent System",
    "language": "TypeScript",
-   "stars": 20805,
+   "stars": 20806,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -40284,7 +40438,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 77438,
+   "stars": 77440,
    "topics": [
     "agents",
     "ai",
@@ -40408,7 +40562,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 56352,
+   "stars": 56353,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -42943,7 +43097,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 497011,
+   "stars": 497012,
    "topics": [
     "api",
     "apis",
@@ -43005,7 +43159,7 @@
    "url": "https://github.com/zed-industries/zed",
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "language": "Rust",
-   "stars": 94251,
+   "stars": 94252,
    "topics": [
     "gpui",
     "rust-lang",
@@ -43036,7 +43190,7 @@
    "url": "https://github.com/hmjz100/LinkSwift",
    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
    "language": "JavaScript",
-   "stars": 38545,
+   "stars": 38546,
    "topics": [
     "123pan",
     "aliyun-drive",
@@ -43816,20 +43970,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "rardino/fpga-design-implview",
-   "url": "https://github.com/rardino/fpga-design-implview",
-   "description": "Vivado 实现后设计的交互式查看器：布局布线与时序可视化，FPGA 设计复盘工具",
-   "language": "",
-   "stars": 22,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-08",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

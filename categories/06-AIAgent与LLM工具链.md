@@ -5,14 +5,14 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★394,144 · TypeScript · ⭐ 已 star`
+`★394,145 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★299,159 · JavaScript · ⭐ 已 star`
+`★299,162 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -27,7 +27,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★275,728 · TypeScript · ⭐ 已 star`
+`★275,730 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★167,116 · Shell · ⭐ 已 star`
+`★167,118 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -71,7 +71,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★148,411 · Python · ⭐ 已 star`
+`★148,412 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -86,14 +86,14 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★146,537 · Python · ⭐ 已 star`
+`★146,538 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
 ---
 
 #### [garrytan/gstack](https://github.com/garrytan/gstack)
-`★140,658 · TypeScript · ⭐ 已 star`
+`★140,659 · TypeScript · ⭐ 已 star`
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 > 收录日期：2026-10-13
 
@@ -108,7 +108,7 @@ OpenAI 官方终端编码 agent，Rust 实现，当日涨星 172★
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★118,563 · TypeScript · ⭐ 已 star`
+`★118,566 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -131,14 +131,14 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★105,505 · Rust · ⭐ 已 star`
+`★105,507 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
 ---
 
 #### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-`★99,306 · Python · ⭐ 已 star`
+`★99,307 · Python · ⭐ 已 star`
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 > 收录日期：2026-09-13
 
@@ -296,7 +296,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 ---
 
 #### [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
-`★41,567 · Zig · ⭐ 已 star`
+`★41,568 · Zig · ⭐ 已 star`
 Lightpanda: the headless browser designed for AI and automation
 > 收录日期：2026-09-13
 
@@ -500,7 +500,7 @@ OpenShell is the safe, private runtime for autonomous AI agents.
 ---
 
 #### [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-`★20,805 · TypeScript · ⭐ 已 star`
+`★20,806 · TypeScript · ⭐ 已 star`
 Towards a More Autonomous Agent System
 > 收录日期：2026-11-01
 

@@ -1021,6 +1021,10 @@ OVERRIDES: dict[str, str] = {
     "bluerobotics/cockpit": "飞控与无人机",
     "espressif/vscode-esp-idf-extension": "嵌入式与单片机",
     "PicoPlus-devel/pico-bootLoader": "嵌入式与单片机",
+    # 硬件设计与 EDA（Vivado 实现后设计的查看器；无 description 关键词命中，原落「待归类」）
+    "rardino/fpga-design-implview": "硬件设计与 EDA",
+    # 嵌入式与单片机（开发板外设的 QEMU 数字孪生 + 与真硅差分校验，属固件测试工具；原被「仿真」误判进电磁）
+    "Clifford-Swartz/peripheral-pretender": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"
