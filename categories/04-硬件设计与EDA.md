@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 271 个项目 · 数据更新时间 2026-11-07 · [返回总览](../README.md)
+> 共 274 个项目 · 数据更新时间 2026-11-08 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,188 · C++ · ⭐ 已 star`
+`★35,232 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★14,508 · Rust · ⭐ 已 star`
+`★14,787 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -115,7 +115,7 @@ Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器�
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,848 · Rust · ⭐ 已 star`
+`★3,857 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,239 · Python · ⭐ 已 star`
+`★3,250 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,132 · C++ · ⭐ 已 star`
+`★3,135 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,872 · ⭐ 已 star`
+`★1,873 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -660,7 +660,7 @@ SystemVerilog 语言服务器，为 Verilog/HDL 编辑与 EDA 工具链提供补
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★585 · C · ⭐ 已 star`
+`★586 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -795,7 +795,7 @@ OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 ---
 
 #### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★421 · Python · ⭐ 已 star`
+`★422 · Python · ⭐ 已 star`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 收录日期：2026-10-27
 
@@ -978,7 +978,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★270 · C++ · ⭐ 已 star`
+`★271 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1056,7 +1056,7 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 ---
 
 #### [zelea2/rigol_vendor_bin](https://github.com/zelea2/rigol_vendor_bin)
-`★222 · C · ⭐ 已 star`
+`★224 · C · ⭐ 已 star`
 > 收录日期：2026-10-21
 
 ---
@@ -1170,6 +1170,13 @@ JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试
 低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix
 > 热点推荐于 2026-09-21
 > 收录日期：2026-09-21
+
+---
+
+#### [tangency-labs/pcbcraft-gpl](https://github.com/tangency-labs/pcbcraft-gpl)
+`★176 · 🔥 热点推荐`
+Rust 写的开源 EDA：单窗口多标签编辑器、兼容 KiCad 工程格式，MCP 优先可被 AI 代理驱动原理图与 PCB 设计
+> 收录日期：2026-11-08
 
 ---
 
@@ -1393,6 +1400,13 @@ FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开�
 `★110 · JavaScript · ⭐ 已 star`
 torabo-tsuki lp is low profile split keyboard with trackball(s)
 > 收录日期：2026-10-28
+
+---
+
+#### [alsunmengy/Claude-PCB-Art](https://github.com/alsunmengy/Claude-PCB-Art)
+`★109 · 🔥 热点推荐`
+带 NFC 的艺术 PCB：用 AI 生成图案走线并打样，PCB 设计与 NFC 结合的示例工程
+> 收录日期：2026-11-08
 
 ---
 
@@ -1742,6 +1756,13 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，含生产稿比对脚本
 > 热点推荐于 2026-10-24
 > 收录日期：2026-10-24
+
+---
+
+#### [MrJamington/pcb-timelapse](https://github.com/MrJamington/pcb-timelapse)
+`★33 · 🔥 热点推荐`
+把 KiCad PCB 布局过程录成延时视频：编辑器视角加整板渲染，硬件设计过程记录
+> 收录日期：2026-11-08
 
 ---
 
@@ -2145,7 +2166,7 @@ ASIC/FPGA 设计流程工具与远程实验平台
 ---
 
 #### [JOEYZYC/BagBom4EasyEDA](https://github.com/JOEYZYC/BagBom4EasyEDA)
-`★1 · TypeScript · ⭐ 已 star`
+`★1 · JavaScript · ⭐ 已 star`
 > 收录日期：2026-11-07
 
 ---

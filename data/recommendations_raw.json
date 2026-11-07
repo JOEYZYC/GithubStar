@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/wled/WLED",
-  "stars": 18990,
-  "desc": "ESP32/ESP8266 上的 WS2812B 等数字灯带控制固件，WiFi 配网加 Web UI，嵌入式联网控制的经典实现"
+  "url": "https://github.com/tangency-labs/pcbcraft-gpl",
+  "stars": 176,
+  "desc": "Rust 写的开源 EDA：单窗口多标签编辑器、兼容 KiCad 工程格式，MCP 优先可被 AI 代理驱动原理图与 PCB 设计"
  },
  {
-  "url": "https://github.com/c8501024/Hertzon",
-  "stars": 60,
-  "desc": "开源三维全波电磁仿真器（FEM，自适应网格），用于天线、滤波器与波导设计，基于 EMerge 构建"
+  "url": "https://github.com/alsunmengy/Claude-PCB-Art",
+  "stars": 109,
+  "desc": "带 NFC 的艺术 PCB：用 AI 生成图案走线并打样，PCB 设计与 NFC 结合的示例工程"
  },
  {
-  "url": "https://github.com/fotonik-sk/stm32n6-speech-recognition",
-  "stars": 46,
-  "desc": "STM32N6 单片机 NPU 上的离线语音识别，麦克风直接出英文文本，不依赖云端"
+  "url": "https://github.com/fedyfausto/JetStudio",
+  "stars": 97,
+  "desc": "面向单片机的游戏引擎 IDE，基于 Godot 与 Jet 引擎，可给 ESP32 等嵌入式设备做 3D 小游戏"
  },
  {
-  "url": "https://github.com/EEVblog/121GW-Multimeter-Firmware-RE",
+  "url": "https://github.com/Kemerd/claude-hardware-in-the-loop",
+  "stars": 81,
+  "desc": "Agent 驱动的硬件在环（HIL）工程方法：Claude Code 技能加板级自测闭环，让 AI 代理直接验证嵌入式固件"
+ },
+ {
+  "url": "https://github.com/tlack/babytalk",
+  "stars": 55,
+  "desc": "ESP32-S3/P4 全离线语音识别加 TTS 系统，为 MicroPython 优化，可做离线语音交互固件"
+ },
+ {
+  "url": "https://github.com/Clifford-Swartz/peripheral-pretender",
+  "stars": 51,
+  "desc": "Microchip 开发板与 MikroE Click 板的 QEMU 数字孪生，与真实芯片行为比对校验，嵌入式固件仿真测试"
+ },
+ {
+  "url": "https://github.com/techchipnet/maricha",
+  "stars": 48,
+  "desc": "ESP32-C5 上的 BLE 多设备模拟与按键注入框架，带 Web 控制台，嵌入式无线安全测试工具"
+ },
+ {
+  "url": "https://github.com/valleytechsolutions/BWM-Technical-Reference-Guide",
   "stars": 43,
-  "desc": "EEVblog 121GW 万用表固件（v2.05）逆向成纯 C，能编译且行为与原厂一致，适合研究仪器固件"
+  "desc": "2700 多块开发板与 575 个模块的引脚图与 GPIO 对照手册，覆盖 ESP32、ESP8266、Arduino、RP2040 等"
  },
  {
-  "url": "https://github.com/hx23840/S3-PX4-FC",
-  "stars": 43,
-  "desc": "ESP32-S3 飞控硬件设计（PX4 生态），含 EasyEDA 工程与制造文件，可自行打样"
- },
- {
-  "url": "https://github.com/zombu4/121GW-Open-Firmware",
-  "stars": 41,
-  "desc": "121GW 万用表的开源替代固件，手写 Thumb-2 汇编并配套完整模拟器"
- },
- {
-  "url": "https://github.com/geer1895/rfauto",
+  "url": "https://github.com/arslansadiq87/print-server-esp32-s3",
   "stars": 39,
-  "desc": "射频微波设计自动化框架，把 16 个电磁/EDA 引擎统一到一个接口，附 75 个参数化模板并用 LLM 编排流程"
+  "desc": "ESP32-S3 的 Wi-Fi 转 USB 打印服务器：RAW TCP 9100、HTTP 标签打印，适配 TSC 标签机"
  },
  {
-  "url": "https://github.com/VanillaNahida/lvgl_pinyin_ime",
+  "url": "https://github.com/setha-maker/levo-tcu-protocol",
+  "stars": 38,
+  "desc": "2021 Specialized Turbo Levo 电助力车的 CAN 总线协议、接插件针脚定义与 ESP32 参考 TCU 实现"
+ },
+ {
+  "url": "https://github.com/thefatmoop/esp32s3-lr2021-adsb-receiver",
+  "stars": 36,
+  "desc": "ESP32-S3 加 LR2021 射频芯片的 1090MHz ADS-B 接收机：离线地图、GNSS、OLED 与 TCP 输出"
+ },
+ {
+  "url": "https://github.com/MrJamington/pcb-timelapse",
   "stars": 33,
-  "desc": "LVGL 9 + ESP-IDF 的中文拼音输入法组件，支持 26 键与 9 键布局，可直接嵌进嵌入式界面"
+  "desc": "把 KiCad PCB 布局过程录成延时视频：编辑器视角加整板渲染，硬件设计过程记录"
  },
  {
-  "url": "https://github.com/ismailakdag/fairbeam",
-  "stars": 32,
-  "desc": "开源电磁工作台，基于 openEMS 设计、仿真并记录天线，面向射频工程师的轻量替代"
+  "url": "https://github.com/Gnzlt/ESP32-S3-Touch-OBD2",
+  "stars": 31,
+  "desc": "摩托车 OBD2 实时仪表盘：ESP32-S3 触摸屏加 BLE ELM327 适配器读取发动机数据"
  },
  {
-  "url": "https://github.com/MykolaBohomaz/MiniOscilloscope",
-  "stars": 32,
-  "desc": "迷你示波器自建项目，含采样前端、固件与显示部分"
- },
- {
-  "url": "https://github.com/liujycode/awesome-FOC-motor-control",
+  "url": "https://github.com/giltal/ESP32_P4_Launcher",
   "stars": 29,
-  "desc": "FOC 电机控制资源精选清单：开源固件、教程论文、调试测量经验与技能树"
+  "desc": "ESP32-P4 启动器：从 SD 卡把可重定位 PAPP v2 应用载入 PSRAM 运行，带版本化接口"
  },
  {
-  "url": "https://github.com/collabray/wisense",
-  "stars": 28,
-  "desc": "WiFi CSI 人体感知的 Python 工具库：存在检测、摔倒检测、呼吸率与活动分类、人数统计"
- },
- {
-  "url": "https://github.com/ji10me/ESP32_C5_Wifi_spectrum_analyzer",
+  "url": "https://github.com/Charan-N15/ADS-B-3D-Antenna-Range-Visualizer",
   "stars": 26,
-  "desc": "ESP32-C5 双频 Wi-Fi 频谱分析仪（2.4/5GHz），基于 ESPARGOS/esp-sdr 固件做射频可视化"
+  "desc": "ADS-B 天线三维覆盖可视化：按高度查看真实接收距离，天线架设与选型评估工具"
  },
  {
-  "url": "https://github.com/agentthink/lvgl-hmi-studio",
-  "stars": 21,
-  "desc": "基于 .NET 的 LVGL 可视化 HMI 设计器，拖拽画面并生成 LVGL C 代码，支持 Modbus/MQTT"
+  "url": "https://github.com/rardino/fpga-design-implview",
+  "stars": 22,
+  "desc": "Vivado 实现后设计的交互式查看器：布局布线与时序可视化，FPGA 设计复盘工具"
  },
  {
-  "url": "https://github.com/Hybirdss/kicad-cli-extended",
+  "url": "https://github.com/ernimen7/esp32-p4-c6-le-audio",
   "stars": 19,
-  "desc": "给 AI agent 用的 kicad-cli 扩展：原理图编辑、PCB 更新与布线、打样包生成与预览"
+  "desc": "ESP32-P4 加 ESP32-C6 的蓝牙 LE Audio（LC3 立体声）：在 C6 控制器上实现 CIS 链路层"
  },
  {
-  "url": "https://github.com/heyfinal/wifi-ghost",
+  "url": "https://github.com/haohaozi328-arch/miot-ble-sdk",
   "stars": 17,
-  "desc": "ESP32-WROOM 采集 WiFi CSI 加 Python 聚合端的穿墙人体存在检测，能感知动作与呼吸"
+  "desc": "米家 BLE 设备嵌入式 SDK：MiBeacon 与 MIOT 协议实现，11 台真机回归，含 ESP32-C3 示例"
  },
  {
-  "url": "https://github.com/NedaEmami123/hfss-mcp",
-  "stars": 16,
-  "desc": "MCP 服务器，通过 PyAEDT 把 AI 接到 ANSYS HFSS，自动完成天线建模与仿真"
- },
- {
-  "url": "https://github.com/hongwei1-c/RF-AIagent",
-  "stars": 12,
-  "desc": "AI 智能体驱动的射频设计系统，用 HFSS 自动化天线、滤波器与传输线的建模与优化"
- },
- {
-  "url": "https://github.com/okupacolossal/WifiSpaceMapper",
+  "url": "https://github.com/goatwzz/ROS-Car-STM32-RDKX5",
   "stars": 11,
-  "desc": "商用 ESP32 上的 WiFi CSI 无设备动作感知，含从零写的 ESP-IDF 固件与 PyQtGraph 实时界面"
+  "desc": "STM32F405 加 RDK X5 的麦克纳姆轮 ROS2 小车：固件、ROS2 包、PCB 与 CAD 全开源"
  },
  {
-  "url": "https://github.com/GiuseppeELio/metasurface-agent-pipeline",
-  "stars": 2,
-  "desc": "自然语言驱动的介质超表面逆向设计流水线：可微 RCWA 拓扑优化，再用 3D FDTD（Meep）交叉验证并做可制造性约束"
+  "url": "https://github.com/Voightxyz/mavlink-bridge",
+  "stars": 10,
+  "desc": "AI 代理通过 MAVLink 飞 ArduPilot：每条指令、决策与故障都汇成一条 trace，飞控自动化调试"
  }
 ]
