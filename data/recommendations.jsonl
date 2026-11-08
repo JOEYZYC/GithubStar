@@ -1885,3 +1885,23 @@
 {"url": "https://github.com/haohaozi328-arch/miot-ble-sdk", "stars": 17, "desc": "米家 BLE 设备嵌入式 SDK：MiBeacon 与 MIOT 协议实现，11 台真机回归，含 ESP32-C3 示例", "date": "2026-11-08"}
 {"url": "https://github.com/goatwzz/ROS-Car-STM32-RDKX5", "stars": 11, "desc": "STM32F405 加 RDK X5 的麦克纳姆轮 ROS2 小车：固件、ROS2 包、PCB 与 CAD 全开源", "date": "2026-11-08"}
 {"url": "https://github.com/Voightxyz/mavlink-bridge", "stars": 10, "desc": "AI 代理通过 MAVLink 飞 ArduPilot：每条指令、决策与故障都汇成一条 trace，飞控自动化调试", "date": "2026-11-08"}
+{"url": "https://github.com/DustinYe/gesture-media-controller", "stars": 194, "desc": "基于 AtomS3R（ESP32-S3）与 PAJ7620U2 的红外手势识别蓝牙媒体控制器，C++ 固件含手势轨迹回放", "date": "2026-11-09"}
+{"url": "https://github.com/Kristian8606/esp32-airplay2-surround", "stars": 182, "desc": "在 ESP32 上实现 AirPlay 2 多声道音频接收的固件，把开发板做成无线环绕声节点", "date": "2026-11-09"}
+{"url": "https://github.com/erica-synths/lxr-desktop-app", "stars": 132, "desc": "LXR 桌面鼓机合成器的完整嵌入式固件源码，含音频 DSP 与面板控制逻辑", "date": "2026-11-09"}
+{"url": "https://github.com/rodri0x/ps5-hackintosh", "stars": 106, "desc": "在 PS5 的 Zen2 SoC 上裸机引导 XNU 内核：UEFI、OpenCore 与 crash-kexec 跳转，裸金属固件实验", "date": "2026-11-09"}
+{"url": "https://github.com/Guru-RF/OpenX6X00", "stars": 105, "desc": "QRP 短波收发机的开源固件，面向 X6X00 系列射频芯片的业余无线电项目", "date": "2026-11-09"}
+{"url": "https://github.com/opentac/opentac", "stars": 92, "desc": "柔性 PCB 触觉皮肤的开源设计、制板、读数与仿真工具链，可感知法向与剪切力", "date": "2026-11-09"}
+{"url": "https://github.com/nathanmarlor/flightscope-public", "stars": 82, "desc": "基于树莓派的手持式航班追踪接收机：用射频前端接收 ADS-B 信号，显示实时地图、航线与飞机照片", "date": "2026-11-09"}
+{"url": "https://github.com/loopj/tinysd", "stars": 81, "desc": "零依赖的 C 语言 SD 卡与 SDIO 驱动库，面向嵌入式与裸机系统的固件开发", "date": "2026-11-09"}
+{"url": "https://github.com/iharhl/memmap", "stars": 77, "desc": "把 YAML 内存布局或固件 ELF/linker map 转成数据手册风格的内存映射图，嵌入式固件开发辅助", "date": "2026-11-09"}
+{"url": "https://github.com/XyleMora/KiVi", "stars": 44, "desc": "面向 GitHub 的 KiCad 原理图与 PCB 在线查看、硬件评审工具", "date": "2026-11-09"}
+{"url": "https://github.com/wangjian124/cc-usage-display", "stars": 38, "desc": "微雪 ESP32-C6-Touch-AMOLED 开发板上的用量显示与桌面启动器固件", "date": "2026-11-09"}
+{"url": "https://github.com/HalfSweet/HSync", "stars": 37, "desc": "现代界面的逻辑分析仪上位机应用，面向嵌入式调试与总线抓包", "date": "2026-11-09"}
+{"url": "https://github.com/tsuyoshi-otake/m5stamp-p4-c6-linux", "stars": 35, "desc": "在 M5Stack StampP4（ESP32-P4）上运行原生 RISC-V NOMMU Linux，含 SDIO WiFi 与 SSH", "date": "2026-11-09"}
+{"url": "https://github.com/pit711/ESPsoup", "stars": 33, "desc": "ESP32-C5 上的只接收无线电扫频仪，把开发板做成宽带信号侦察接收机", "date": "2026-11-09"}
+{"url": "https://github.com/haedarfarhani/smart-circuit-simulator", "stars": 28, "desc": "浏览器里实时仿真电路的工具，可视化电流流动与波形，适合电路原理教学演示", "date": "2026-11-09"}
+{"url": "https://github.com/KevinACoder/freewificam", "stars": 24, "desc": "在 RTOS 里通过 linuxkpi 跑 rtl8188eu/rtw88 等 WiFi 网卡并驱动 UVC 摄像头", "date": "2026-11-09"}
+{"url": "https://github.com/LouisHitchcock/FPVGateC5MK", "stars": 22, "desc": "单颗 ESP32-C5 实现 8 机 FPV 竞速计时接收机，兼容 RotorHazard 节点协议", "date": "2026-11-09"}
+{"url": "https://github.com/valleytechsolutions/black-wire-pinouts", "stars": 20, "desc": "3600+ 张开发板与模组的引脚图、GPIO 映射与数据手册开源库，覆盖 ESP32、ESP8266 等", "date": "2026-11-09"}
+{"url": "https://github.com/meathax/Mistery", "stars": 11, "desc": "把 MiSTer FPGA 的 RBF 位流反编译回可重建的 Verilog 与仿真模型，支持修改后重综合", "date": "2026-11-09"}
+{"url": "https://github.com/nhanksd85/ACLAB_Challanges_RTOS_30Days", "stars": 10, "desc": "30 天 RTOS 挑战题解合集，嵌入式实时系统与调度练习", "date": "2026-11-09"}

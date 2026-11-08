@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 275 个项目 · 数据更新时间 2026-11-08 · [返回总览](../README.md)
+> 共 276 个项目 · 数据更新时间 2026-11-09 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,232 · C++ · ⭐ 已 star`
+`★35,255 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★14,787 · Rust · ⭐ 已 star`
+`★15,021 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -106,18 +106,18 @@ Design circuit boards with code! ✨ Get software-like design reuse 🚀, valida
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★3,905 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip)
 `★3,882 · ⭐🔥 已 star + 热点推荐`
 Chisel 编写的 RISC-V Rocket 处理器核生成器，RISC-V SoC 与加速器设计的基础 RTL 资产
 > 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,857 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,250 · Python · ⭐ 已 star`
+`★3,261 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,135 · C++ · ⭐ 已 star`
+`★3,139 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -1679,6 +1679,13 @@ Lean 4 中的可验证 GPU 编程框架
 可参数化的权重固定 2D 脉动阵列（Verilog），硬件加速矩阵乘法
 > 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
+
+---
+
+#### [XyleMora/KiVi](https://github.com/XyleMora/KiVi)
+`★44 · 🔥 热点推荐`
+面向 GitHub 的 KiCad 原理图与 PCB 在线查看、硬件评审工具
+> 收录日期：2026-11-09
 
 ---
 
