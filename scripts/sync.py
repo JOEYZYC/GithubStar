@@ -89,6 +89,13 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-09：本轮 20 条，待归类 3 条 ----
+    # 嵌入式与单片机（PS5 Zen2 SoC 裸机引导 XNU，属裸机固件/bring-up）
+    "rodri0x/ps5-hackintosh": "嵌入式与单片机",
+    # 无线通信与感知（QRP 短波收发机固件，射频收发口径）
+    "Guru-RF/OpenX6X00": "无线通信与感知",
+    # 无线通信与感知（树莓派手持 ADS-B 航班接收机，射频接收口径）
+    "nathanmarlor/flightscope-public": "无线通信与感知",
     # ---- 2026-11-06：本轮 20 条，待归类 3 条 ----
     # 硬件设计与 EDA（开源 FPGA IP 生成器，与 verilator/yosys/OpenROAD 同口径）
     "lnis-uofu/OpenFPGA": "硬件设计与 EDA",

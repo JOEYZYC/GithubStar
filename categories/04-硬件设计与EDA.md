@@ -1683,8 +1683,9 @@ Lean 4 中的可验证 GPU 编程框架
 ---
 
 #### [XyleMora/KiVi](https://github.com/XyleMora/KiVi)
-`★44 · 🔥 热点推荐`
+`★44 · ⭐🔥 已 star + 热点推荐`
 面向 GitHub 的 KiCad 原理图与 PCB 在线查看、硬件评审工具
+> 热点推荐于 2026-11-09
 > 收录日期：2026-11-09
 
 ---

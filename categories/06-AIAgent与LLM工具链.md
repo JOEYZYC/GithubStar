@@ -245,7 +245,7 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★54,844 · Markdown · ⭐ 已 star`
+`★54,845 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -274,7 +274,7 @@ Build infinite canvas apps in React with the tldraw SDK. World's best, top-most 
 ---
 
 #### [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
-`★44,660 · Python · ⭐ 已 star`
+`★44,661 · Python · ⭐ 已 star`
 Build resilient agents.
 > 收录日期：2026-09-13
 
@@ -403,7 +403,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchma
 ---
 
 #### [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-`★30,576 · Rust · ⭐ 已 star`
+`★30,577 · Rust · ⭐ 已 star`
 The headless browser for AI agents and web scraping
 > 收录日期：2026-09-13
 

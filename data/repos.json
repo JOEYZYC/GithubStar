@@ -8254,7 +8254,14 @@
    "added_at": "2026-11-09",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "Shallot-2009/Ketupa_v0.0.3",
@@ -9829,7 +9836,14 @@
    "added_at": "2026-11-09",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "striderZA/Tiny-RF-Simulator",
@@ -11032,7 +11046,14 @@
    "added_at": "2026-11-09",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "eye1patch/merlin",
@@ -18591,7 +18612,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "LibreSolar/charge-controller-firmware",
@@ -18710,7 +18738,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "mx3353672833-debug/moto-gps-waveshare",
@@ -19480,7 +19515,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "fliperama86/pico_hdmi",
@@ -20018,6 +20060,27 @@
    ],
    "hot_dates": [
     "2026-09-24"
+   ]
+  },
+  {
+   "full_name": "rodri0x/ps5-hackintosh",
+   "url": "https://github.com/rodri0x/ps5-hackintosh",
+   "description": "在 PS5 的 Zen2 SoC 上裸机引导 XNU 内核：UEFI、OpenCore 与 crash-kexec 跳转，裸金属固件实验",
+   "language": "",
+   "stars": 106,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-09",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
    ]
   },
   {
@@ -20683,7 +20746,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "Twotoz/C5VRX",
@@ -20771,7 +20841,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "cpldcpu/pico-faces",
@@ -22659,7 +22736,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "OpenXiangShan/XiangShanLab",
@@ -22757,7 +22841,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "lucaong/nerves_thermal_camera",
@@ -22897,7 +22988,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "Spectrewolf777/Stm32l4-Watch",
@@ -23058,7 +23156,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "WangTingMan/Bluethread",
@@ -23724,7 +23829,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "notnameuse/embedded-debug-skill",
@@ -24032,7 +24144,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "Stevee87/Tactical-Radar-System-ESP32-P4",
@@ -24298,7 +24417,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "ArmstrongSubero/dabao-sdk",
@@ -26436,7 +26562,14 @@
    "added_at": "2026-11-09",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -31174,7 +31307,14 @@
    "added_at": "2026-11-09",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "Breadstick-Innovations/22008-RP2040-Dev-Board",
@@ -34633,6 +34773,27 @@
    ]
   },
   {
+   "full_name": "Guru-RF/OpenX6X00",
+   "url": "https://github.com/Guru-RF/OpenX6X00",
+   "description": "QRP 短波收发机的开源固件，面向 X6X00 系列射频芯片的业余无线电项目",
+   "language": "",
+   "stars": 105,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-09",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
+  },
+  {
    "full_name": "liynjy/FMCW-Radar-Simulator",
    "url": "https://github.com/liynjy/FMCW-Radar-Simulator",
    "description": "MATLAB FMCW 雷达信号仿真器：生成 chirp 级原始数据，供雷达信号处理算法开发",
@@ -35022,6 +35183,27 @@
    "added_at": "2026-09-13",
    "category": "无线通信与感知",
    "note": ""
+  },
+  {
+   "full_name": "nathanmarlor/flightscope-public",
+   "url": "https://github.com/nathanmarlor/flightscope-public",
+   "description": "基于树莓派的手持式航班追踪接收机：用射频前端接收 ADS-B 信号，显示实时地图、航线与飞机照片",
+   "language": "",
+   "stars": 82,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-09",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-09"
+   ]
   },
   {
    "full_name": "srsran/zynq_timestamping",
@@ -37707,7 +37889,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 54844,
+   "stars": 54845,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -37783,7 +37965,7 @@
    "url": "https://github.com/langchain-ai/langgraph",
    "description": "Build resilient agents.",
    "language": "Python",
-   "stars": 44660,
+   "stars": 44661,
    "topics": [
     "agents",
     "ai",
@@ -38187,7 +38369,7 @@
    "url": "https://github.com/h4ckf0r0day/obscura",
    "description": "The headless browser for AI agents and web scraping",
    "language": "Rust",
-   "stars": 30576,
+   "stars": 30577,
    "topics": [
     "antidetect",
     "antidetect-browser",
@@ -43462,7 +43644,7 @@
    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
    "language": "Java",
-   "stars": 30246,
+   "stars": 30247,
    "topics": [
     "a11y",
     "accessibility",
@@ -44208,48 +44390,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "rodri0x/ps5-hackintosh",
-   "url": "https://github.com/rodri0x/ps5-hackintosh",
-   "description": "在 PS5 的 Zen2 SoC 上裸机引导 XNU 内核：UEFI、OpenCore 与 crash-kexec 跳转，裸金属固件实验",
-   "language": "",
-   "stars": 106,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-09",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Guru-RF/OpenX6X00",
-   "url": "https://github.com/Guru-RF/OpenX6X00",
-   "description": "QRP 短波收发机的开源固件，面向 X6X00 系列射频芯片的业余无线电项目",
-   "language": "",
-   "stars": 105,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-09",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "nathanmarlor/flightscope-public",
-   "url": "https://github.com/nathanmarlor/flightscope-public",
-   "description": "基于树莓派的手持式航班追踪接收机：用射频前端接收 ADS-B 信号，显示实时地图、航线与飞机照片",
-   "language": "",
-   "stars": 82,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-09",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
