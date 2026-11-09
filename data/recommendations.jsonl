@@ -1905,3 +1905,23 @@
 {"url": "https://github.com/valleytechsolutions/black-wire-pinouts", "stars": 20, "desc": "3600+ 张开发板与模组的引脚图、GPIO 映射与数据手册开源库，覆盖 ESP32、ESP8266 等", "date": "2026-11-09"}
 {"url": "https://github.com/meathax/Mistery", "stars": 11, "desc": "把 MiSTer FPGA 的 RBF 位流反编译回可重建的 Verilog 与仿真模型，支持修改后重综合", "date": "2026-11-09"}
 {"url": "https://github.com/nhanksd85/ACLAB_Challanges_RTOS_30Days", "stars": 10, "desc": "30 天 RTOS 挑战题解合集，嵌入式实时系统与调度练习", "date": "2026-11-09"}
+{"url": "https://github.com/adswill/OnAir", "stars": 743, "desc": "跨平台开源 SDR 接收软件，一套射频前端覆盖 191 种调制模式（DVB-T/C/S、ATSC、DTMB、DAB+、FM、DRM、ADS-B、AIS 等），C++ 实现，Windows/macOS/Linux/Android", "date": "2026-11-10"}
+{"url": "https://github.com/zou-shui/MugglesWand", "stars": 144, "desc": "基于 ESP32-S3 + TinyML 的手势魔杖固件，挥动即可触发效果，支持手势识别、低功耗待机与个性化模型训练，软硬件全开源", "date": "2026-11-10"}
+{"url": "https://github.com/lokutor-ai/oido", "stars": 131, "desc": "在 5 美元的 ESP32-S3 上跑全离线开放式语音识别，无云端无 NPU，纯 C 的 CTC 引擎配 int8/int4 量化模型，比实时更快", "date": "2026-11-10"}
+{"url": "https://github.com/EEddeenn/Pharos", "stars": 101, "desc": "GNSS 中频信号模拟器，Zig 实现，生成卫星导航基带信号用于接收机与定位算法测试", "date": "2026-11-10"}
+{"url": "https://github.com/rafafunt/FalconSDR", "stars": 60, "desc": "宽带 SDR 扫描器，只录制真出现信号的片段，带本地浏览器界面，也能跑无头接收机并检索历史录音", "date": "2026-11-10"}
+{"url": "https://github.com/night-watchman401/hdbot-navigation", "stars": 40, "desc": "ROS 2 Jazzy 移动机器人导航栈，GNSS 多普勒与 2D 激光紧耦合 SLAM（GTSAM），含建图、路径规划与自主导航", "date": "2026-11-10"}
+{"url": "https://github.com/alphafox02/s31-sdr", "stars": 37, "desc": "把 ESP32-S31 开发板变成只收 SDR 的固件：取片上 2.4 GHz 射频的 10 位 I/Q，以 VITA-49 经千兆以太网推流，GNU Radio / gqrx 直接可用", "date": "2026-11-10"}
+{"url": "https://github.com/ToftMalone/All-Radio-Tools", "stars": 36, "desc": "安卓端一体化无线工具箱，覆盖 WiFi、蓝牙、蜂窝、GNSS 与 HackRF 的收发扫描与信号查看", "date": "2026-11-10"}
+{"url": "https://github.com/Liren66/OmniCore-SDR-Hardware", "stars": 34, "desc": "AD9361 + Zynq-7020 + CH32H417 的开源 SDR 收发板硬件工程，8 层 PCB、双收双发、USB3.0 与千兆网，含原理图/PCB/外壳", "date": "2026-11-10"}
+{"url": "https://github.com/mihalinn/torne_drv", "stars": 24, "desc": "PS3 地面数字电视调谐器（Sony CECH-ZD1）的 Linux 驱动，/dev 接口对齐 px4_drv，可当廉价 SDR 接收前端", "date": "2026-11-10"}
+{"url": "https://github.com/hrvach/unixpc", "stars": 23, "desc": "用 SystemVerilog 在 FPGA 里复刻 1985 年 AT&T UNIX PC（3B1）：68010 CPU 与 MMU 周期精确，跑成 MiSTer 核心即可启动 System V UNIX", "date": "2026-11-10"}
+{"url": "https://github.com/jrrk2/synthgui", "stars": 23, "desc": "FPGA 图形化流程串接工具：把 Verilog 综合、布局布线、时序分析、LVS 与比特流生成连成一条可视流水线", "date": "2026-11-10"}
+{"url": "https://github.com/tryedgetech/PicoVoxel", "stars": 19, "desc": "在单颗 RP2350（Pico 2）MCU 上跑的完整 3D 体素世界引擎，纯 C，含 MCU 侧渲染管线", "date": "2026-11-10"}
+{"url": "https://github.com/ArduLoops/ArduLoops", "stars": 17, "desc": "ArduPilot 多旋翼/固定翼飞控地面站，经 MAVLink 实时显示当前模式闭了哪些控制环（TECS 等），同窗读 DataFlash 日志、画航线、改板载 Lua", "date": "2026-11-10"}
+{"url": "https://github.com/xingyan4117-sketch/OpenDM40-Chinese", "stars": 17, "desc": "正点原子 DM40A/B/C 万用表的开源固件 opendm40 简体中文汉化版，含中文说明书，仪器固件可改可刷", "date": "2026-11-10"}
+{"url": "https://github.com/Cyclotronic/OpenRMH-IRCAM", "stars": 17, "desc": "开源 USB 红外热像仪查看器（Windows），基于 IRCAM Thermal Viewer 重写，支持常见手持热像模块出图与测温", "date": "2026-11-10"}
+{"url": "https://github.com/LouisHitchcock/FPVGateC5RX", "stars": 16, "desc": "ESP32-C5 固件，做 FPV 图传接收模块 RX5808 的直插替代，配合 FPVGate 计时系统使用", "date": "2026-11-10"}
+{"url": "https://github.com/loganzarov-alt/D325f-SDR", "stars": 14, "desc": "把一部 LG 安卓手机改造成宽带 SDR 接收机：root + 改调制解调器固件取基带 I/Q，借用蓝牙射频当本振，可收短波", "date": "2026-11-10"}
+{"url": "https://github.com/GoodPerson42/FM1-Unbricking-For-Dummies", "stars": 12, "desc": "用 RP2040-Zero 给变砖的 MVave FM1 MIDI 控制器救砖的完整步骤与固件", "date": "2026-11-10"}
+{"url": "https://github.com/Liren66/OmniCore-SDR-Linux", "stars": 11, "desc": "OmniCore SDR 的板端 Linux 与 SDK，Zynq-7020 + AD9361 + CH32H417，USB3 零拷贝 libiio 接口", "date": "2026-11-10"}

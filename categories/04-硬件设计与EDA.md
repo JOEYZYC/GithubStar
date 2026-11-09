@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 276 个项目 · 数据更新时间 2026-11-09 · [返回总览](../README.md)
+> 共 277 个项目 · 数据更新时间 2026-11-10 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,255 · C++ · ⭐ 已 star`
+`★35,310 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★15,021 · Rust · ⭐ 已 star`
+`★15,285 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -98,17 +98,17 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 
 ---
 
-#### [atopile/atopile](https://github.com/atopile/atopile)
-`★3,918 · Python · ⭐🔥 已 star + 热点推荐`
-Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
-> 热点推荐于 2026-09-18
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★3,933 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
 ---
 
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,905 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+#### [atopile/atopile](https://github.com/atopile/atopile)
+`★3,918 · Python · ⭐🔥 已 star + 热点推荐`
+Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️
+> 热点推荐于 2026-09-18
 > 收录日期：2026-09-13
 
 ---
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,261 · Python · ⭐ 已 star`
+`★3,270 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,139 · C++ · ⭐ 已 star`
+`★3,149 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -413,7 +413,7 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
-`★1,208 · ⭐ 已 star`
+`★1,209 · ⭐ 已 star`
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.
 > 收录日期：2026-10-28
 
@@ -978,7 +978,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★271 · C++ · ⭐ 已 star`
+`★272 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1758,6 +1758,13 @@ Lean 4 + Sail 生成的 RISC-V ISA 模型，CompCert 式证明解释器语义正
 RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 > 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
+
+---
+
+#### [Liren66/OmniCore-SDR-Hardware](https://github.com/Liren66/OmniCore-SDR-Hardware)
+`★34 · 🔥 热点推荐`
+AD9361 + Zynq-7020 + CH32H417 的开源 SDR 收发板硬件工程，8 层 PCB、双收双发、USB3.0 与千兆网，含原理图/PCB/外壳
+> 收录日期：2026-11-10
 
 ---
 

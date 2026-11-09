@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/DustinYe/gesture-media-controller",
-  "stars": 194,
-  "desc": "基于 AtomS3R（ESP32-S3）与 PAJ7620U2 的红外手势识别蓝牙媒体控制器，C++ 固件含手势轨迹回放"
+  "url": "https://github.com/adswill/OnAir",
+  "stars": 743,
+  "desc": "跨平台开源 SDR 接收软件，一套射频前端覆盖 191 种调制模式（DVB-T/C/S、ATSC、DTMB、DAB+、FM、DRM、ADS-B、AIS 等），C++ 实现，Windows/macOS/Linux/Android"
  },
  {
-  "url": "https://github.com/Kristian8606/esp32-airplay2-surround",
-  "stars": 182,
-  "desc": "在 ESP32 上实现 AirPlay 2 多声道音频接收的固件，把开发板做成无线环绕声节点"
+  "url": "https://github.com/zou-shui/MugglesWand",
+  "stars": 144,
+  "desc": "基于 ESP32-S3 + TinyML 的手势魔杖固件，挥动即可触发效果，支持手势识别、低功耗待机与个性化模型训练，软硬件全开源"
  },
  {
-  "url": "https://github.com/erica-synths/lxr-desktop-app",
-  "stars": 132,
-  "desc": "LXR 桌面鼓机合成器的完整嵌入式固件源码，含音频 DSP 与面板控制逻辑"
+  "url": "https://github.com/lokutor-ai/oido",
+  "stars": 131,
+  "desc": "在 5 美元的 ESP32-S3 上跑全离线开放式语音识别，无云端无 NPU，纯 C 的 CTC 引擎配 int8/int4 量化模型，比实时更快"
  },
  {
-  "url": "https://github.com/rodri0x/ps5-hackintosh",
-  "stars": 106,
-  "desc": "在 PS5 的 Zen2 SoC 上裸机引导 XNU 内核：UEFI、OpenCore 与 crash-kexec 跳转，裸金属固件实验"
+  "url": "https://github.com/EEddeenn/Pharos",
+  "stars": 101,
+  "desc": "GNSS 中频信号模拟器，Zig 实现，生成卫星导航基带信号用于接收机与定位算法测试"
  },
  {
-  "url": "https://github.com/Guru-RF/OpenX6X00",
-  "stars": 105,
-  "desc": "QRP 短波收发机的开源固件，面向 X6X00 系列射频芯片的业余无线电项目"
+  "url": "https://github.com/rafafunt/FalconSDR",
+  "stars": 60,
+  "desc": "宽带 SDR 扫描器，只录制真出现信号的片段，带本地浏览器界面，也能跑无头接收机并检索历史录音"
  },
  {
-  "url": "https://github.com/opentac/opentac",
-  "stars": 92,
-  "desc": "柔性 PCB 触觉皮肤的开源设计、制板、读数与仿真工具链，可感知法向与剪切力"
+  "url": "https://github.com/night-watchman401/hdbot-navigation",
+  "stars": 40,
+  "desc": "ROS 2 Jazzy 移动机器人导航栈，GNSS 多普勒与 2D 激光紧耦合 SLAM（GTSAM），含建图、路径规划与自主导航"
  },
  {
-  "url": "https://github.com/nathanmarlor/flightscope-public",
-  "stars": 82,
-  "desc": "基于树莓派的手持式航班追踪接收机：用射频前端接收 ADS-B 信号，显示实时地图、航线与飞机照片"
- },
- {
-  "url": "https://github.com/loopj/tinysd",
-  "stars": 81,
-  "desc": "零依赖的 C 语言 SD 卡与 SDIO 驱动库，面向嵌入式与裸机系统的固件开发"
- },
- {
-  "url": "https://github.com/iharhl/memmap",
-  "stars": 77,
-  "desc": "把 YAML 内存布局或固件 ELF/linker map 转成数据手册风格的内存映射图，嵌入式固件开发辅助"
- },
- {
-  "url": "https://github.com/XyleMora/KiVi",
-  "stars": 44,
-  "desc": "面向 GitHub 的 KiCad 原理图与 PCB 在线查看、硬件评审工具"
- },
- {
-  "url": "https://github.com/wangjian124/cc-usage-display",
-  "stars": 38,
-  "desc": "微雪 ESP32-C6-Touch-AMOLED 开发板上的用量显示与桌面启动器固件"
- },
- {
-  "url": "https://github.com/HalfSweet/HSync",
+  "url": "https://github.com/alphafox02/s31-sdr",
   "stars": 37,
-  "desc": "现代界面的逻辑分析仪上位机应用，面向嵌入式调试与总线抓包"
+  "desc": "把 ESP32-S31 开发板变成只收 SDR 的固件：取片上 2.4 GHz 射频的 10 位 I/Q，以 VITA-49 经千兆以太网推流，GNU Radio / gqrx 直接可用"
  },
  {
-  "url": "https://github.com/tsuyoshi-otake/m5stamp-p4-c6-linux",
-  "stars": 35,
-  "desc": "在 M5Stack StampP4（ESP32-P4）上运行原生 RISC-V NOMMU Linux，含 SDIO WiFi 与 SSH"
+  "url": "https://github.com/ToftMalone/All-Radio-Tools",
+  "stars": 36,
+  "desc": "安卓端一体化无线工具箱，覆盖 WiFi、蓝牙、蜂窝、GNSS 与 HackRF 的收发扫描与信号查看"
  },
  {
-  "url": "https://github.com/pit711/ESPsoup",
-  "stars": 33,
-  "desc": "ESP32-C5 上的只接收无线电扫频仪，把开发板做成宽带信号侦察接收机"
+  "url": "https://github.com/Liren66/OmniCore-SDR-Hardware",
+  "stars": 34,
+  "desc": "AD9361 + Zynq-7020 + CH32H417 的开源 SDR 收发板硬件工程，8 层 PCB、双收双发、USB3.0 与千兆网，含原理图/PCB/外壳"
  },
  {
-  "url": "https://github.com/haedarfarhani/smart-circuit-simulator",
-  "stars": 28,
-  "desc": "浏览器里实时仿真电路的工具，可视化电流流动与波形，适合电路原理教学演示"
- },
- {
-  "url": "https://github.com/KevinACoder/freewificam",
+  "url": "https://github.com/mihalinn/torne_drv",
   "stars": 24,
-  "desc": "在 RTOS 里通过 linuxkpi 跑 rtl8188eu/rtw88 等 WiFi 网卡并驱动 UVC 摄像头"
+  "desc": "PS3 地面数字电视调谐器（Sony CECH-ZD1）的 Linux 驱动，/dev 接口对齐 px4_drv，可当廉价 SDR 接收前端"
  },
  {
-  "url": "https://github.com/LouisHitchcock/FPVGateC5MK",
-  "stars": 22,
-  "desc": "单颗 ESP32-C5 实现 8 机 FPV 竞速计时接收机，兼容 RotorHazard 节点协议"
+  "url": "https://github.com/hrvach/unixpc",
+  "stars": 23,
+  "desc": "用 SystemVerilog 在 FPGA 里复刻 1985 年 AT&T UNIX PC（3B1）：68010 CPU 与 MMU 周期精确，跑成 MiSTer 核心即可启动 System V UNIX"
  },
  {
-  "url": "https://github.com/valleytechsolutions/black-wire-pinouts",
-  "stars": 20,
-  "desc": "3600+ 张开发板与模组的引脚图、GPIO 映射与数据手册开源库，覆盖 ESP32、ESP8266 等"
+  "url": "https://github.com/jrrk2/synthgui",
+  "stars": 23,
+  "desc": "FPGA 图形化流程串接工具：把 Verilog 综合、布局布线、时序分析、LVS 与比特流生成连成一条可视流水线"
  },
  {
-  "url": "https://github.com/meathax/Mistery",
+  "url": "https://github.com/tryedgetech/PicoVoxel",
+  "stars": 19,
+  "desc": "在单颗 RP2350（Pico 2）MCU 上跑的完整 3D 体素世界引擎，纯 C，含 MCU 侧渲染管线"
+ },
+ {
+  "url": "https://github.com/ArduLoops/ArduLoops",
+  "stars": 17,
+  "desc": "ArduPilot 多旋翼/固定翼飞控地面站，经 MAVLink 实时显示当前模式闭了哪些控制环（TECS 等），同窗读 DataFlash 日志、画航线、改板载 Lua"
+ },
+ {
+  "url": "https://github.com/xingyan4117-sketch/OpenDM40-Chinese",
+  "stars": 17,
+  "desc": "正点原子 DM40A/B/C 万用表的开源固件 opendm40 简体中文汉化版，含中文说明书，仪器固件可改可刷"
+ },
+ {
+  "url": "https://github.com/Cyclotronic/OpenRMH-IRCAM",
+  "stars": 17,
+  "desc": "开源 USB 红外热像仪查看器（Windows），基于 IRCAM Thermal Viewer 重写，支持常见手持热像模块出图与测温"
+ },
+ {
+  "url": "https://github.com/LouisHitchcock/FPVGateC5RX",
+  "stars": 16,
+  "desc": "ESP32-C5 固件，做 FPV 图传接收模块 RX5808 的直插替代，配合 FPVGate 计时系统使用"
+ },
+ {
+  "url": "https://github.com/loganzarov-alt/D325f-SDR",
+  "stars": 14,
+  "desc": "把一部 LG 安卓手机改造成宽带 SDR 接收机：root + 改调制解调器固件取基带 I/Q，借用蓝牙射频当本振，可收短波"
+ },
+ {
+  "url": "https://github.com/GoodPerson42/FM1-Unbricking-For-Dummies",
+  "stars": 12,
+  "desc": "用 RP2040-Zero 给变砖的 MVave FM1 MIDI 控制器救砖的完整步骤与固件"
+ },
+ {
+  "url": "https://github.com/Liren66/OmniCore-SDR-Linux",
   "stars": 11,
-  "desc": "把 MiSTer FPGA 的 RBF 位流反编译回可重建的 Verilog 与仿真模型，支持修改后重综合"
- },
- {
-  "url": "https://github.com/nhanksd85/ACLAB_Challanges_RTOS_30Days",
-  "stars": 10,
-  "desc": "30 天 RTOS 挑战题解合集，嵌入式实时系统与调度练习"
+  "desc": "OmniCore SDR 的板端 Linux 与 SDK，Zynq-7020 + AD9361 + CH32H417，USB3 零拷贝 libiio 接口"
  }
 ]
