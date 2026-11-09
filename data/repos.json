@@ -5367,7 +5367,14 @@
    "added_at": "2026-11-10",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "j-w9/arduconfigurator",
@@ -5688,7 +5695,14 @@
    "added_at": "2026-11-10",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "OpenDrone-hw/OpenAIO",
@@ -19375,7 +19389,14 @@
    "added_at": "2026-11-10",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "cyrils/renogy-bt",
@@ -19620,7 +19641,14 @@
    "added_at": "2026-11-10",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "ventZl/cmrx",
@@ -22918,7 +22946,14 @@
    "added_at": "2026-11-10",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "lucaong/nerves_thermal_camera",
@@ -24668,7 +24703,14 @@
    "added_at": "2026-11-10",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "johannesboernsen/ScopeBuddy",
@@ -25206,7 +25248,14 @@
    "added_at": "2026-11-10",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "chibios-upstream/chibios",
@@ -26038,6 +26087,27 @@
    ],
    "hot_dates": [
     "2026-10-28"
+   ]
+  },
+  {
+   "full_name": "GoodPerson42/FM1-Unbricking-For-Dummies",
+   "url": "https://github.com/GoodPerson42/FM1-Unbricking-For-Dummies",
+   "description": "用 RP2040-Zero 给变砖的 MVave FM1 MIDI 控制器救砖的完整步骤与固件",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-10",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
    ]
   },
   {
@@ -31607,7 +31677,14 @@
    "added_at": "2026-11-10",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "John-owo/pcb-agent-workflow",
@@ -31859,6 +31936,48 @@
    ],
    "hot_dates": [
     "2026-10-31"
+   ]
+  },
+  {
+   "full_name": "hrvach/unixpc",
+   "url": "https://github.com/hrvach/unixpc",
+   "description": "用 SystemVerilog 在 FPGA 里复刻 1985 年 AT&T UNIX PC（3B1）：68010 CPU 与 MMU 周期精确，跑成 MiSTer 核心即可启动 System V UNIX",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-10",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
+  },
+  {
+   "full_name": "jrrk2/synthgui",
+   "url": "https://github.com/jrrk2/synthgui",
+   "description": "FPGA 图形化流程串接工具：把 Verilog 综合、布局布线、时序分析、LVS 与比特流生成连成一条可视流水线",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-10",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
    ]
   },
   {
@@ -32174,6 +32293,48 @@
    ],
    "hot_dates": [
     "2026-09-29"
+   ]
+  },
+  {
+   "full_name": "xingyan4117-sketch/OpenDM40-Chinese",
+   "url": "https://github.com/xingyan4117-sketch/OpenDM40-Chinese",
+   "description": "正点原子 DM40A/B/C 万用表的开源固件 opendm40 简体中文汉化版，含中文说明书，仪器固件可改可刷",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-10",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
+  },
+  {
+   "full_name": "Cyclotronic/OpenRMH-IRCAM",
+   "url": "https://github.com/Cyclotronic/OpenRMH-IRCAM",
+   "description": "开源 USB 红外热像仪查看器（Windows），基于 IRCAM Thermal Viewer 重写，支持常见手持热像模块出图与测温",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-10",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
    ]
   },
   {
@@ -33573,7 +33734,14 @@
    "added_at": "2026-11-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "AnthonySturdy/micro-radar",
@@ -34931,7 +35099,14 @@
    "added_at": "2026-11-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "liynjy/FMCW-Radar-Simulator",
@@ -35735,7 +35910,14 @@
    "added_at": "2026-11-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "FanJunqiao/M4Human",
@@ -36148,7 +36330,14 @@
    "added_at": "2026-11-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "DarriusL/IDLab",
@@ -36246,7 +36435,14 @@
    "added_at": "2026-11-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "vincenzo-afk/WIFI-based-human-presence-detection-system",
@@ -37016,7 +37212,14 @@
    "added_at": "2026-11-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "tak-wong/THz-AutoEncoder",
@@ -37240,7 +37443,14 @@
    "added_at": "2026-11-10",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-10"
+   ]
   },
   {
    "full_name": "ganghui0/dcs-thz-mimo-ce",
@@ -37756,7 +37966,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 100524,
+   "stars": 100525,
    "topics": [
     "ai",
     "ai-scraping",
@@ -38051,7 +38261,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 67089,
+   "stars": 67090,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -38326,7 +38536,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 38429,
+   "stars": 38430,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -39336,7 +39546,7 @@
    "url": "https://github.com/JetBrains/thinkrail",
    "description": "ThinkRail is the agentic IDE that gets better every time you use it",
    "language": "TypeScript",
-   "stars": 8046,
+   "stars": 8047,
    "topics": [
     "agent",
     "agent-skills",
@@ -43754,7 +43964,7 @@
    "url": "https://github.com/521xueweihan/HelloGitHub",
    "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
    "language": "Python",
-   "stars": 187822,
+   "stars": 187823,
    "topics": [
     "awesome",
     "github",
@@ -44600,76 +44810,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "hrvach/unixpc",
-   "url": "https://github.com/hrvach/unixpc",
-   "description": "用 SystemVerilog 在 FPGA 里复刻 1985 年 AT&T UNIX PC（3B1）：68010 CPU 与 MMU 周期精确，跑成 MiSTer 核心即可启动 System V UNIX",
-   "language": "",
-   "stars": 23,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jrrk2/synthgui",
-   "url": "https://github.com/jrrk2/synthgui",
-   "description": "FPGA 图形化流程串接工具：把 Verilog 综合、布局布线、时序分析、LVS 与比特流生成连成一条可视流水线",
-   "language": "",
-   "stars": 23,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "xingyan4117-sketch/OpenDM40-Chinese",
-   "url": "https://github.com/xingyan4117-sketch/OpenDM40-Chinese",
-   "description": "正点原子 DM40A/B/C 万用表的开源固件 opendm40 简体中文汉化版，含中文说明书，仪器固件可改可刷",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Cyclotronic/OpenRMH-IRCAM",
-   "url": "https://github.com/Cyclotronic/OpenRMH-IRCAM",
-   "description": "开源 USB 红外热像仪查看器（Windows），基于 IRCAM Thermal Viewer 重写，支持常见手持热像模块出图与测温",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-10",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "GoodPerson42/FM1-Unbricking-For-Dummies",
-   "url": "https://github.com/GoodPerson42/FM1-Unbricking-For-Dummies",
-   "description": "用 RP2040-Zero 给变砖的 MVave FM1 MIDI 控制器救砖的完整步骤与固件",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-10",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

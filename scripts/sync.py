@@ -1032,6 +1032,17 @@ OVERRIDES: dict[str, str] = {
     "rardino/fpga-design-implview": "硬件设计与 EDA",
     # 嵌入式与单片机（开发板外设的 QEMU 数字孪生 + 与真硅差分校验，属固件测试工具；原被「仿真」误判进电磁）
     "Clifford-Swartz/peripheral-pretender": "嵌入式与单片机",
+    # ---- 2026-11-10：本轮 20 条，待归类 5 条 ----
+    # 硬件设计与 EDA（FPGA 整机复刻：AT&T UNIX PC 3B1 做成 MiSTer 核心）
+    "hrvach/unixpc": "硬件设计与 EDA",
+    # 硬件设计与 EDA（FPGA 综合→布局布线→时序→LVS→比特流 的图形化流程串接）
+    "jrrk2/synthgui": "硬件设计与 EDA",
+    # 硬件设计与 EDA（正点原子 DM40 万用表的开源固件汉化，仪器固件口径）
+    "xingyan4117-sketch/OpenDM40-Chinese": "硬件设计与 EDA",
+    # 硬件设计与 EDA（USB 红外热像仪查看器；热像类历史口径同 libseek-thermal/flirpy）
+    "Cyclotronic/OpenRMH-IRCAM": "硬件设计与 EDA",
+    # 嵌入式与单片机（RP2040 Zero 给变砖 MIDI 控制器救砖，RP2040 固件口径）
+    "GoodPerson42/FM1-Unbricking-For-Dummies": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"

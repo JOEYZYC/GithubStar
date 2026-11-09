@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 277 个项目 · 数据更新时间 2026-11-10 · [返回总览](../README.md)
+> 共 281 个项目 · 数据更新时间 2026-11-10 · [返回总览](../README.md)
 
 ---
 
@@ -1762,8 +1762,9 @@ RTL 形式验证 agent 技能库：JasperGold FPV、SVA、TCL 工作流
 ---
 
 #### [Liren66/OmniCore-SDR-Hardware](https://github.com/Liren66/OmniCore-SDR-Hardware)
-`★34 · 🔥 热点推荐`
+`★34 · ⭐🔥 已 star + 热点推荐`
 AD9361 + Zynq-7020 + CH32H417 的开源 SDR 收发板硬件工程，8 层 PCB、双收双发、USB3.0 与千兆网，含原理图/PCB/外壳
+> 热点推荐于 2026-11-10
 > 收录日期：2026-11-10
 
 ---
@@ -1861,6 +1862,22 @@ Gaelco 街机基板的 FPGA 复刻核心（Verilog），可作 HDL 逆向与总�
 可视化分析 Vivado/Zynq/PYNQ 等 FPGA 工程：时钟域、约束与框图下钻
 > 热点推荐于 2026-10-31
 > 收录日期：2026-10-31
+
+---
+
+#### [hrvach/unixpc](https://github.com/hrvach/unixpc)
+`★23 · ⭐🔥 已 star + 热点推荐`
+用 SystemVerilog 在 FPGA 里复刻 1985 年 AT&T UNIX PC（3B1）：68010 CPU 与 MMU 周期精确，跑成 MiSTer 核心即可启动 System V UNIX
+> 热点推荐于 2026-11-10
+> 收录日期：2026-11-10
+
+---
+
+#### [jrrk2/synthgui](https://github.com/jrrk2/synthgui)
+`★23 · ⭐🔥 已 star + 热点推荐`
+FPGA 图形化流程串接工具：把 Verilog 综合、布局布线、时序分析、LVS 与比特流生成连成一条可视流水线
+> 热点推荐于 2026-11-10
+> 收录日期：2026-11-10
 
 ---
 
@@ -1981,6 +1998,22 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-3.0）
 > 热点推荐于 2026-09-29
 > 收录日期：2026-09-29
+
+---
+
+#### [xingyan4117-sketch/OpenDM40-Chinese](https://github.com/xingyan4117-sketch/OpenDM40-Chinese)
+`★17 · ⭐🔥 已 star + 热点推荐`
+正点原子 DM40A/B/C 万用表的开源固件 opendm40 简体中文汉化版，含中文说明书，仪器固件可改可刷
+> 热点推荐于 2026-11-10
+> 收录日期：2026-11-10
+
+---
+
+#### [Cyclotronic/OpenRMH-IRCAM](https://github.com/Cyclotronic/OpenRMH-IRCAM)
+`★17 · ⭐🔥 已 star + 热点推荐`
+开源 USB 红外热像仪查看器（Windows），基于 IRCAM Thermal Viewer 重写，支持常见手持热像模块出图与测温
+> 热点推荐于 2026-11-10
+> 收录日期：2026-11-10
 
 ---
 

@@ -138,7 +138,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 ---
 
 #### [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-`★100,524 · Python · ⭐ 已 star`
+`★100,525 · Python · ⭐ 已 star`
 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev
 > 收录日期：2026-09-13
 
@@ -230,7 +230,7 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★67,089 · Python · ⭐ 已 star`
+`★67,090 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
@@ -327,7 +327,7 @@ Lightpanda: the headless browser designed for AI and automation
 ---
 
 #### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-`★38,429 · TypeScript · ⭐ 已 star`
+`★38,430 · TypeScript · ⭐ 已 star`
 ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 > 收录日期：2026-09-13
 
@@ -689,7 +689,7 @@ Windows 上的计算机操作 MCP 服务器，让 AI 代理直接操控桌面应
 ---
 
 #### [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
-`★8,046 · TypeScript · ⭐ 已 star`
+`★8,047 · TypeScript · ⭐ 已 star`
 ThinkRail is the agentic IDE that gets better every time you use it
 > 收录日期：2026-10-21
 
