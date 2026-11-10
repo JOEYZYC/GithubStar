@@ -1925,3 +1925,23 @@
 {"url": "https://github.com/loganzarov-alt/D325f-SDR", "stars": 14, "desc": "把一部 LG 安卓手机改造成宽带 SDR 接收机：root + 改调制解调器固件取基带 I/Q，借用蓝牙射频当本振，可收短波", "date": "2026-11-10"}
 {"url": "https://github.com/GoodPerson42/FM1-Unbricking-For-Dummies", "stars": 12, "desc": "用 RP2040-Zero 给变砖的 MVave FM1 MIDI 控制器救砖的完整步骤与固件", "date": "2026-11-10"}
 {"url": "https://github.com/Liren66/OmniCore-SDR-Linux", "stars": 11, "desc": "OmniCore SDR 的板端 Linux 与 SDK，Zynq-7020 + AD9361 + CH32H417，USB3 零拷贝 libiio 接口", "date": "2026-11-10"}
+{"url": "https://github.com/dashersw/coyopedal", "stars": 294, "desc": "ESP32-S3 吉他效果器踏板固件：SD 卡直读 NAM 模型，Gea 编译的原生前端，嵌入式音频链路", "date": "2026-11-11"}
+{"url": "https://github.com/aronreid/ups-to-esp32", "stars": 134, "desc": "把只带 USB 的 UPS 接上网：ESP32-S3 板 + 固件对局域网提供 NUT 服务（TCP 3493）与 Web 界面", "date": "2026-11-11"}
+{"url": "https://github.com/chip-ai-agent/PCBRouteAgent", "stars": 47, "desc": "论文实现：LLM agent 做 PCB 布线——全局布线规划 + 详细布线执行器两段式框架", "date": "2026-11-11"}
+{"url": "https://github.com/hevangel/computer_architecture_a_quantitative_approach", "stars": 42, "desc": "把《计算机体系结构：量化研究方法》的练习用 SystemVerilog / VHDL 实现，配仿真与验证", "date": "2026-11-11"}
+{"url": "https://github.com/arslansadiq87/esp32-vga-dashboard-cctv-homeassistant", "stars": 38, "desc": "ESP32-S3 + LVGL 输出 640×480 RGB565 VGA 仪表盘：轮询 Home Assistant，并显示 DVR 抓拍 JPEG", "date": "2026-11-11"}
+{"url": "https://github.com/MusicTribeOpenSource/PRO800-Firmware-Packer", "stars": 37, "desc": "为 Behringer PRO800 合成器生成自定义 firmware 升级包，可改机内固件内容", "date": "2026-11-11"}
+{"url": "https://github.com/MindReset/read_pico_firmware", "stars": 36, "desc": "Read Pico（ESP32-S3 电子纸开发板）的示例固件：墨水屏刷新与低功耗演示", "date": "2026-11-11"}
+{"url": "https://github.com/PIPA12344/NikonFirmwarePatch-04.18", "stars": 36, "desc": "尼康 Z8 的 firmware 固件补丁分支：机内加 H.265 Log3G10 / S-Log3，附源码与刷写方法", "date": "2026-11-11"}
+{"url": "https://github.com/Jeremy-Ngai-Sew-Poh/InkQuest-ESP32", "stars": 32, "desc": "ESP32 电子纸文字冒险机：旋转编码器操作，墨水屏显示", "date": "2026-11-11"}
+{"url": "https://github.com/valleytechsolutions/LORA-Tunnel", "stars": 25, "desc": "Heltec 扩展板与 Cardputer 上的固件：WiFi/BLE 扫描 + 只收 LoRa 的 wardriving 记录仪", "date": "2026-11-11"}
+{"url": "https://github.com/Pan-wh/esp32-car-dashboard", "stars": 20, "desc": "ESP32-S3 圆屏 AMOLED 车载仪表：6 种表盘 + BLE 遥测 + iPhone 导航投屏", "date": "2026-11-11"}
+{"url": "https://github.com/YLabs-FPV/ShutterBridge", "stars": 18, "desc": "用 ESP32 经 Betaflight 遥控运动相机：快门/录制挂到飞控通道上", "date": "2026-11-11"}
+{"url": "https://github.com/wilsonchenghy/prometheus-pcb-harness", "stars": 17, "desc": "AI agent 做 PCB：调 KiCad 封装库与 LCSC 料号，出 Gerber/BOM/贴片坐标，改版时整板重跑检查", "date": "2026-11-11"}
+{"url": "https://github.com/Esmail-sarhadi/esp32-agent-skills", "stars": 16, "desc": "201 条 agent skill 与 10 个检查器：拦住 AI 编码代理写出的不合格 ESP32 固件", "date": "2026-11-11"}
+{"url": "https://github.com/exder145/esp32-p4-music-page", "stars": 15, "desc": "ESP32-P4 触摸屏上的黑胶唱片页：镜像并控制 PC 播放器，实时封面，LVGL 界面", "date": "2026-11-11"}
+{"url": "https://github.com/alexkid77/ESP32_QUAKE2", "stars": 14, "desc": "ESP32-P4 上的裸机 Quake 2 移植：硬件 PPA 放大 + PIE SIMD 优化，MCU 跑 3D 游戏", "date": "2026-11-11"}
+{"url": "https://github.com/will127534/mt7915-sdr-driver", "stars": 12, "desc": "把 MT7915 这款 MTK WiFi 芯片当 SDR 接收机：从驱动取 I/Q，WiFi 前端变宽带接收", "date": "2026-11-11"}
+{"url": "https://github.com/mohith-das/wiview", "stars": 11, "desc": "M5Stack Cardputer-Adv 上的 WiFi CSI 人体感知：存在、动作与呼吸率检测", "date": "2026-11-11"}
+{"url": "https://github.com/octopus287/-STM32H7-", "stars": 10, "desc": "基于 STM32H7 的半自主智慧农业机器人：边缘 AI、巡检与变量施药", "date": "2026-11-11"}
+{"url": "https://github.com/keysking/STM32C5DevSkills", "stars": 10, "desc": "STM32C5 开发技能集：CubeMX2、HAL2/LL 与 FreeRTOS 的操作路径", "date": "2026-11-11"}

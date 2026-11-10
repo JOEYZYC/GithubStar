@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/adswill/OnAir",
-  "stars": 743,
-  "desc": "跨平台开源 SDR 接收软件，一套射频前端覆盖 191 种调制模式（DVB-T/C/S、ATSC、DTMB、DAB+、FM、DRM、ADS-B、AIS 等），C++ 实现，Windows/macOS/Linux/Android"
+  "url": "https://github.com/dashersw/coyopedal",
+  "stars": 294,
+  "desc": "ESP32-S3 吉他效果器踏板固件：SD 卡直读 NAM 模型，Gea 编译的原生前端，嵌入式音频链路"
  },
  {
-  "url": "https://github.com/zou-shui/MugglesWand",
-  "stars": 144,
-  "desc": "基于 ESP32-S3 + TinyML 的手势魔杖固件，挥动即可触发效果，支持手势识别、低功耗待机与个性化模型训练，软硬件全开源"
+  "url": "https://github.com/aronreid/ups-to-esp32",
+  "stars": 134,
+  "desc": "把只带 USB 的 UPS 接上网：ESP32-S3 板 + 固件对局域网提供 NUT 服务（TCP 3493）与 Web 界面"
  },
  {
-  "url": "https://github.com/lokutor-ai/oido",
-  "stars": 131,
-  "desc": "在 5 美元的 ESP32-S3 上跑全离线开放式语音识别，无云端无 NPU，纯 C 的 CTC 引擎配 int8/int4 量化模型，比实时更快"
+  "url": "https://github.com/chip-ai-agent/PCBRouteAgent",
+  "stars": 47,
+  "desc": "论文实现：LLM agent 做 PCB 布线——全局布线规划 + 详细布线执行器两段式框架"
  },
  {
-  "url": "https://github.com/EEddeenn/Pharos",
-  "stars": 101,
-  "desc": "GNSS 中频信号模拟器，Zig 实现，生成卫星导航基带信号用于接收机与定位算法测试"
+  "url": "https://github.com/hevangel/computer_architecture_a_quantitative_approach",
+  "stars": 42,
+  "desc": "把《计算机体系结构：量化研究方法》的练习用 SystemVerilog / VHDL 实现，配仿真与验证"
  },
  {
-  "url": "https://github.com/rafafunt/FalconSDR",
-  "stars": 60,
-  "desc": "宽带 SDR 扫描器，只录制真出现信号的片段，带本地浏览器界面，也能跑无头接收机并检索历史录音"
+  "url": "https://github.com/arslansadiq87/esp32-vga-dashboard-cctv-homeassistant",
+  "stars": 38,
+  "desc": "ESP32-S3 + LVGL 输出 640×480 RGB565 VGA 仪表盘：轮询 Home Assistant，并显示 DVR 抓拍 JPEG"
  },
  {
-  "url": "https://github.com/night-watchman401/hdbot-navigation",
-  "stars": 40,
-  "desc": "ROS 2 Jazzy 移动机器人导航栈，GNSS 多普勒与 2D 激光紧耦合 SLAM（GTSAM），含建图、路径规划与自主导航"
- },
- {
-  "url": "https://github.com/alphafox02/s31-sdr",
+  "url": "https://github.com/MusicTribeOpenSource/PRO800-Firmware-Packer",
   "stars": 37,
-  "desc": "把 ESP32-S31 开发板变成只收 SDR 的固件：取片上 2.4 GHz 射频的 10 位 I/Q，以 VITA-49 经千兆以太网推流，GNU Radio / gqrx 直接可用"
+  "desc": "为 Behringer PRO800 合成器生成自定义 firmware 升级包，可改机内固件内容"
  },
  {
-  "url": "https://github.com/ToftMalone/All-Radio-Tools",
+  "url": "https://github.com/MindReset/read_pico_firmware",
   "stars": 36,
-  "desc": "安卓端一体化无线工具箱，覆盖 WiFi、蓝牙、蜂窝、GNSS 与 HackRF 的收发扫描与信号查看"
+  "desc": "Read Pico（ESP32-S3 电子纸开发板）的示例固件：墨水屏刷新与低功耗演示"
  },
  {
-  "url": "https://github.com/Liren66/OmniCore-SDR-Hardware",
-  "stars": 34,
-  "desc": "AD9361 + Zynq-7020 + CH32H417 的开源 SDR 收发板硬件工程，8 层 PCB、双收双发、USB3.0 与千兆网，含原理图/PCB/外壳"
+  "url": "https://github.com/PIPA12344/NikonFirmwarePatch-04.18",
+  "stars": 36,
+  "desc": "尼康 Z8 的 firmware 固件补丁分支：机内加 H.265 Log3G10 / S-Log3，附源码与刷写方法"
  },
  {
-  "url": "https://github.com/mihalinn/torne_drv",
-  "stars": 24,
-  "desc": "PS3 地面数字电视调谐器（Sony CECH-ZD1）的 Linux 驱动，/dev 接口对齐 px4_drv，可当廉价 SDR 接收前端"
+  "url": "https://github.com/Jeremy-Ngai-Sew-Poh/InkQuest-ESP32",
+  "stars": 32,
+  "desc": "ESP32 电子纸文字冒险机：旋转编码器操作，墨水屏显示"
  },
  {
-  "url": "https://github.com/hrvach/unixpc",
-  "stars": 23,
-  "desc": "用 SystemVerilog 在 FPGA 里复刻 1985 年 AT&T UNIX PC（3B1）：68010 CPU 与 MMU 周期精确，跑成 MiSTer 核心即可启动 System V UNIX"
+  "url": "https://github.com/valleytechsolutions/LORA-Tunnel",
+  "stars": 25,
+  "desc": "Heltec 扩展板与 Cardputer 上的固件：WiFi/BLE 扫描 + 只收 LoRa 的 wardriving 记录仪"
  },
  {
-  "url": "https://github.com/jrrk2/synthgui",
-  "stars": 23,
-  "desc": "FPGA 图形化流程串接工具：把 Verilog 综合、布局布线、时序分析、LVS 与比特流生成连成一条可视流水线"
+  "url": "https://github.com/Pan-wh/esp32-car-dashboard",
+  "stars": 20,
+  "desc": "ESP32-S3 圆屏 AMOLED 车载仪表：6 种表盘 + BLE 遥测 + iPhone 导航投屏"
  },
  {
-  "url": "https://github.com/tryedgetech/PicoVoxel",
-  "stars": 19,
-  "desc": "在单颗 RP2350（Pico 2）MCU 上跑的完整 3D 体素世界引擎，纯 C，含 MCU 侧渲染管线"
+  "url": "https://github.com/YLabs-FPV/ShutterBridge",
+  "stars": 18,
+  "desc": "用 ESP32 经 Betaflight 遥控运动相机：快门/录制挂到飞控通道上"
  },
  {
-  "url": "https://github.com/ArduLoops/ArduLoops",
+  "url": "https://github.com/wilsonchenghy/prometheus-pcb-harness",
   "stars": 17,
-  "desc": "ArduPilot 多旋翼/固定翼飞控地面站，经 MAVLink 实时显示当前模式闭了哪些控制环（TECS 等），同窗读 DataFlash 日志、画航线、改板载 Lua"
+  "desc": "AI agent 做 PCB：调 KiCad 封装库与 LCSC 料号，出 Gerber/BOM/贴片坐标，改版时整板重跑检查"
  },
  {
-  "url": "https://github.com/xingyan4117-sketch/OpenDM40-Chinese",
-  "stars": 17,
-  "desc": "正点原子 DM40A/B/C 万用表的开源固件 opendm40 简体中文汉化版，含中文说明书，仪器固件可改可刷"
- },
- {
-  "url": "https://github.com/Cyclotronic/OpenRMH-IRCAM",
-  "stars": 17,
-  "desc": "开源 USB 红外热像仪查看器（Windows），基于 IRCAM Thermal Viewer 重写，支持常见手持热像模块出图与测温"
- },
- {
-  "url": "https://github.com/LouisHitchcock/FPVGateC5RX",
+  "url": "https://github.com/Esmail-sarhadi/esp32-agent-skills",
   "stars": 16,
-  "desc": "ESP32-C5 固件，做 FPV 图传接收模块 RX5808 的直插替代，配合 FPVGate 计时系统使用"
+  "desc": "201 条 agent skill 与 10 个检查器：拦住 AI 编码代理写出的不合格 ESP32 固件"
  },
  {
-  "url": "https://github.com/loganzarov-alt/D325f-SDR",
+  "url": "https://github.com/exder145/esp32-p4-music-page",
+  "stars": 15,
+  "desc": "ESP32-P4 触摸屏上的黑胶唱片页：镜像并控制 PC 播放器，实时封面，LVGL 界面"
+ },
+ {
+  "url": "https://github.com/alexkid77/ESP32_QUAKE2",
   "stars": 14,
-  "desc": "把一部 LG 安卓手机改造成宽带 SDR 接收机：root + 改调制解调器固件取基带 I/Q，借用蓝牙射频当本振，可收短波"
+  "desc": "ESP32-P4 上的裸机 Quake 2 移植：硬件 PPA 放大 + PIE SIMD 优化，MCU 跑 3D 游戏"
  },
  {
-  "url": "https://github.com/GoodPerson42/FM1-Unbricking-For-Dummies",
+  "url": "https://github.com/will127534/mt7915-sdr-driver",
   "stars": 12,
-  "desc": "用 RP2040-Zero 给变砖的 MVave FM1 MIDI 控制器救砖的完整步骤与固件"
+  "desc": "把 MT7915 这款 MTK WiFi 芯片当 SDR 接收机：从驱动取 I/Q，WiFi 前端变宽带接收"
  },
  {
-  "url": "https://github.com/Liren66/OmniCore-SDR-Linux",
+  "url": "https://github.com/mohith-das/wiview",
   "stars": 11,
-  "desc": "OmniCore SDR 的板端 Linux 与 SDK，Zynq-7020 + AD9361 + CH32H417，USB3 零拷贝 libiio 接口"
+  "desc": "M5Stack Cardputer-Adv 上的 WiFi CSI 人体感知：存在、动作与呼吸率检测"
+ },
+ {
+  "url": "https://github.com/octopus287/-STM32H7-",
+  "stars": 10,
+  "desc": "基于 STM32H7 的半自主智慧农业机器人：边缘 AI、巡检与变量施药"
+ },
+ {
+  "url": "https://github.com/keysking/STM32C5DevSkills",
+  "stars": 10,
+  "desc": "STM32C5 开发技能集：CubeMX2、HAL2/LL 与 FreeRTOS 的操作路径"
  }
 ]

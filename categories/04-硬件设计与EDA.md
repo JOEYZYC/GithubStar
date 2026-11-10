@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 281 个项目 · 数据更新时间 2026-11-10 · [返回总览](../README.md)
+> 共 283 个项目 · 数据更新时间 2026-11-11 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,310 · C++ · ⭐ 已 star`
+`★35,342 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★15,285 · Rust · ⭐ 已 star`
+`★15,500 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -90,18 +90,18 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★3,969 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [verilator/verilator](https://github.com/verilator/verilator)
 `★3,936 · ⭐🔥 已 star + 热点推荐`
 最快的开源 Verilog/SystemVerilog 仿真器与 lint 工具，RTL 验证的主力
 > 热点推荐于 2026-09-19
 > 收录日期：2026-09-19
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,933 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,270 · Python · ⭐ 已 star`
+`★3,284 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,149 · C++ · ⭐ 已 star`
+`★3,152 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -786,18 +786,18 @@ KiCad 自动布线工具集，Python + Rust 实现
 
 ---
 
+#### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
+`★425 · Python · ⭐ 已 star`
+KiStack is a HUMAN WRITTEN bunch of skills for KiCad
+> 收录日期：2026-10-27
+
+---
+
 #### [Kevincoooool/OpenMV_PCB](https://github.com/Kevincoooool/OpenMV_PCB)
 `★422 · ⭐🔥 已 star + 热点推荐`
 OpenMV4 / 4 Plus / MT9V034 开源 PCB 与 Keil 工程，机器视觉硬件参考
 > 热点推荐于 2026-09-13
 > 收录日期：2026-09-13
-
----
-
-#### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★422 · Python · ⭐ 已 star`
-KiStack is a HUMAN WRITTEN bunch of skills for KiCad
-> 收录日期：2026-10-27
 
 ---
 
@@ -1650,6 +1650,13 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 
 ---
 
+#### [chip-ai-agent/PCBRouteAgent](https://github.com/chip-ai-agent/PCBRouteAgent)
+`★47 · 🔥 热点推荐`
+论文实现：LLM agent 做 PCB 布线——全局布线规划 + 详细布线执行器两段式框架
+> 收录日期：2026-11-11
+
+---
+
 #### [amoslee2026/Babel](https://github.com/amoslee2026/Babel)
 `★45 · ⭐🔥 已 star + 热点推荐`
 AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
@@ -2014,6 +2021,13 @@ MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-
 开源 USB 红外热像仪查看器（Windows），基于 IRCAM Thermal Viewer 重写，支持常见手持热像模块出图与测温
 > 热点推荐于 2026-11-10
 > 收录日期：2026-11-10
+
+---
+
+#### [wilsonchenghy/prometheus-pcb-harness](https://github.com/wilsonchenghy/prometheus-pcb-harness)
+`★17 · 🔥 热点推荐`
+AI agent 做 PCB：调 KiCad 封装库与 LCSC 料号，出 Gerber/BOM/贴片坐标，改版时整板重跑检查
+> 收录日期：2026-11-11
 
 ---
 
