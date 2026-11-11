@@ -6451,7 +6451,14 @@
    "added_at": "2026-11-12",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "012345kxy/ch32v307-multirotor-flight-controller",
@@ -6869,7 +6876,14 @@
    "added_at": "2026-11-12",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "jdesbonnet/RCWL-0516",
@@ -21873,7 +21887,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "gcallipo/RadioDSP-DNR-Stm32f407",
@@ -22013,7 +22034,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "Clifford-Swartz/peripheral-pretender",
@@ -23905,7 +23933,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "hey-its-brian/tab5-cyberdeck",
@@ -25814,7 +25849,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "RTechAI/ForgeUI-P4",
@@ -25954,7 +25996,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -26262,7 +26311,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -26493,6 +26549,27 @@
    ],
    "hot_dates": [
     "2026-11-10"
+   ]
+  },
+  {
+   "full_name": "463N7/Cerberus-Dev-Board",
+   "url": "https://github.com/463N7/Cerberus-Dev-Board",
+   "description": "Cerberus 开发板的硬件与编程参考：引脚、固件接口、扩展板、电池与天线",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-12",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -26730,7 +26807,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -27192,7 +27276,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "mh1412/Open8030",
@@ -27206,7 +27297,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "zoppp/CANopener",
@@ -27220,7 +27318,14 @@
    "added_at": "2026-11-12",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -27552,7 +27657,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 15786,
+   "stars": 15787,
    "topics": [
     "3d-modeling",
     "brep",
@@ -31342,7 +31447,14 @@
    "added_at": "2026-11-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "oaslananka/kicad-mcp-pro",
@@ -31712,7 +31824,14 @@
    "added_at": "2026-11-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "zrrraa/X-Laser",
@@ -31864,6 +31983,27 @@
    ],
    "hot_dates": [
     "2026-09-22"
+   ]
+  },
+  {
+   "full_name": "opendm40/opendm40",
+   "url": "https://github.com/opendm40/opendm40",
+   "description": "Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具链",
+   "language": "",
+   "stars": 52,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-12",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -32836,7 +32976,14 @@
    "added_at": "2026-11-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "rossops/Arcade-SegaXBoard_MiSTer",
@@ -33396,7 +33543,14 @@
    "added_at": "2026-11-12",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "uchan-nos/prepare-ai-review-for-kicad",
@@ -37769,7 +37923,14 @@
    "added_at": "2026-11-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "Stevee87/Lidar-Radar-combination-Raspberry",
@@ -38224,7 +38385,14 @@
    "added_at": "2026-11-12",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-12"
+   ]
   },
   {
    "full_name": "BushlanovDev/ble-telemetry-lite",
@@ -38294,7 +38462,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 301349,
+   "stars": 301350,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -38345,7 +38513,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 278972,
+   "stars": 278973,
    "topics": [
     "ai-agents",
     "cordis",
@@ -38383,7 +38551,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 232211,
+   "stars": 232212,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -38396,7 +38564,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 226163,
+   "stars": 226164,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -38474,7 +38642,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 148208,
+   "stars": 148207,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -38562,7 +38730,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 122354,
+   "stars": 122359,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -38951,7 +39119,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 67964,
+   "stars": 67965,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -39412,7 +39580,7 @@
    "url": "https://github.com/h4ckf0r0day/obscura",
    "description": "The headless browser for AI agents and web scraping",
    "language": "Rust",
-   "stars": 32915,
+   "stars": 32918,
    "topics": [
     "antidetect",
     "antidetect-browser",
@@ -41923,7 +42091,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 146148,
+   "stars": 146150,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -41957,7 +42125,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 92172,
+   "stars": 92173,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -42085,7 +42253,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 58309,
+   "stars": 58311,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -44727,7 +44895,7 @@
    "url": "https://github.com/apple/container",
    "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
    "language": "Swift",
-   "stars": 51176,
+   "stars": 51177,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -44740,7 +44908,7 @@
    "url": "https://github.com/hmjz100/LinkSwift",
    "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
    "language": "JavaScript",
-   "stars": 39405,
+   "stars": 39406,
    "topics": [
     "123pan",
     "aliyun-drive",
@@ -45520,34 +45688,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "opendm40/opendm40",
-   "url": "https://github.com/opendm40/opendm40",
-   "description": "Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具链",
-   "language": "",
-   "stars": 52,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-12",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "463N7/Cerberus-Dev-Board",
-   "url": "https://github.com/463N7/Cerberus-Dev-Board",
-   "description": "Cerberus 开发板的硬件与编程参考：引脚、固件接口、扩展板、电池与天线",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-12",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

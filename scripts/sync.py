@@ -1043,6 +1043,11 @@ OVERRIDES: dict[str, str] = {
     "Cyclotronic/OpenRMH-IRCAM": "硬件设计与 EDA",
     # 嵌入式与单片机（RP2040 Zero 给变砖 MIDI 控制器救砖，RP2040 固件口径）
     "GoodPerson42/FM1-Unbricking-For-Dummies": "嵌入式与单片机",
+    # ---- 2026-11-12：本轮 20 条，待归类 2 条 ----
+    # 硬件设计与 EDA（正点原子 DM40 万用表/示波器/信号发生器的开源固件与工具链，与 OpenDM40-Chinese 同口径）
+    "opendm40/opendm40": "硬件设计与 EDA",
+    # 嵌入式与单片机（开发板硬件/编程参考：引脚、固件接口、扩展板、天线）
+    "463N7/Cerberus-Dev-Board": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"

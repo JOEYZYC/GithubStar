@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 288 个项目 · 数据更新时间 2026-11-12 · [返回总览](../README.md)
+> 共 289 个项目 · 数据更新时间 2026-11-12 · [返回总览](../README.md)
 
 ---
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★15,786 · Rust · ⭐ 已 star`
+`★15,787 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -1452,8 +1452,9 @@ STM32G431 电机控制板的生产级 FOC 固件：20kHz 电流环、DS402 状�
 ---
 
 #### [Luq1308/Forwarder1kW](https://github.com/Luq1308/Forwarder1kW)
-`★105 · 🔥 热点推荐`
+`★105 · ⭐🔥 已 star + 热点推荐`
 开源 1kW 实验室台式电源模块的硬件设计：电路、原理图与 PCB，面向 DIY 电源
+> 热点推荐于 2026-11-12
 > 收录日期：2026-11-12
 
 ---
@@ -1587,8 +1588,9 @@ VHDL 的 Python 抽象语言模型，用于 HDL 工具链
 ---
 
 #### [aziz123456789123456789/pcb-wizard](https://github.com/aziz123456789123456789/pcb-wizard)
-`★65 · 🔥 热点推荐`
+`★65 · ⭐🔥 已 star + 热点推荐`
 Windows 上的 PCB 设计软件，面向单/双面板的手工布线（原理图到 PCB）
+> 热点推荐于 2026-11-12
 > 收录日期：2026-11-12
 
 ---
@@ -1652,6 +1654,14 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 端到端 SystemVerilog SoC：在 Tang Nano 20K FPGA 上实现量化 MicroCNN 加速器做 BloodMNIST 分类
 > 热点推荐于 2026-09-22
 > 收录日期：2026-09-22
+
+---
+
+#### [opendm40/opendm40](https://github.com/opendm40/opendm40)
+`★52 · ⭐🔥 已 star + 热点推荐`
+Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具链
+> 热点推荐于 2026-11-12
+> 收录日期：2026-11-12
 
 ---
 
@@ -2023,8 +2033,9 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 ---
 
 #### [ccc-eda/veryl2chip](https://github.com/ccc-eda/veryl2chip)
-`★18 · 🔥 热点推荐`
+`★18 · ⭐🔥 已 star + 热点推荐`
 面向 Veryl HDL 的 EDA 工具链（芯片设计流程）
+> 热点推荐于 2026-11-12
 > 收录日期：2026-11-12
 
 ---
@@ -2238,8 +2249,9 @@ KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计�
 ---
 
 #### [jackwang988/jlceda-pcb-ai-workflow](https://github.com/jackwang988/jlceda-pcb-ai-workflow)
-`★10 · 🔥 热点推荐`
+`★10 · ⭐🔥 已 star + 热点推荐`
 嘉立创 EDA 专业版 AI 设计工作流：原理图/模块检查、PCB 制板规则核对、Gerber/BOM 导出与 G1–G5 评审门禁
+> 热点推荐于 2026-11-12
 > 收录日期：2026-11-12
 
 ---
