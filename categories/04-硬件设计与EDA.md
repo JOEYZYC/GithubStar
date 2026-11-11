@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 283 个项目 · 数据更新时间 2026-11-11 · [返回总览](../README.md)
+> 共 288 个项目 · 数据更新时间 2026-11-12 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,342 · C++ · ⭐ 已 star`
+`★35,365 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★15,500 · Rust · ⭐ 已 star`
+`★15,786 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -91,7 +91,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★3,969 · Rust · ⭐ 已 star`
+`★4,005 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,284 · Python · ⭐ 已 star`
+`★3,293 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,152 · C++ · ⭐ 已 star`
+`★3,155 · C++ · ⭐ 已 star`
 Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -660,7 +660,7 @@ SystemVerilog 语言服务器，为 Verilog/HDL 编辑与 EDA 工具链提供补
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★586 · C · ⭐ 已 star`
+`★587 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -969,17 +969,17 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★276 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [salitronic/eda-agent](https://github.com/salitronic/eda-agent)
 `★275 · ⭐🔥 已 star + 热点推荐`
 用 AI（MCP）驱动 Altium Designer 与 KiCad 实时会话，直接改原理图与 PCB
 > 热点推荐于 2026-10-26
 > 收录日期：2026-10-26
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★272 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 
@@ -1309,6 +1309,13 @@ Tinkerforge 硬件的 KiCad 元件库
 
 ---
 
+#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
+`★128 · HTML · ⭐ 已 star`
+USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
+> 收录日期：2026-11-12
+
+---
+
 #### [jcyrax/pcbmodelgen](https://github.com/jcyrax/pcbmodelgen)
 `★123 · ⭐🔥 已 star + 热点推荐`
 把 KiCad PCB 文件转成可导入 openEMS 的模型
@@ -1444,6 +1451,13 @@ STM32G431 电机控制板的生产级 FOC 固件：20kHz 电流环、DS402 状�
 
 ---
 
+#### [Luq1308/Forwarder1kW](https://github.com/Luq1308/Forwarder1kW)
+`★105 · 🔥 热点推荐`
+开源 1kW 实验室台式电源模块的硬件设计：电路、原理图与 PCB，面向 DIY 电源
+> 收录日期：2026-11-12
+
+---
+
 #### [oaslananka/kicad-mcp-pro](https://github.com/oaslananka/kicad-mcp-pro)
 `★102 · Python · ⭐🔥 已 star + 热点推荐`
 MCP server for KiCad, connecting AI agents to schematic and PCB workflows, ERC/DRC validation, DFM checks, BOM analysis, and manufacturing preparation—with controlled edits and human-gated release workflows.
@@ -1572,6 +1586,13 @@ VHDL 的 Python 抽象语言模型，用于 HDL 工具链
 
 ---
 
+#### [aziz123456789123456789/pcb-wizard](https://github.com/aziz123456789123456789/pcb-wizard)
+`★65 · 🔥 热点推荐`
+Windows 上的 PCB 设计软件，面向单/双面板的手工布线（原理图到 PCB）
+> 收录日期：2026-11-12
+
+---
+
 #### [zrrraa/X-Laser](https://github.com/zrrraa/X-Laser)
 `★64 · C · ⭐ 已 star`
 X-Laser，一款小型的矢量激光投影仪
@@ -1651,8 +1672,9 @@ comma.ai 的 PCB 自动布线挑战：你能比自动布线器布得更好吗
 ---
 
 #### [chip-ai-agent/PCBRouteAgent](https://github.com/chip-ai-agent/PCBRouteAgent)
-`★47 · 🔥 热点推荐`
+`★47 · ⭐🔥 已 star + 热点推荐`
 论文实现：LLM agent 做 PCB 布线——全局布线规划 + 详细布线执行器两段式框架
+> 热点推荐于 2026-11-11
 > 收录日期：2026-11-11
 
 ---
@@ -2000,6 +2022,13 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 
 ---
 
+#### [ccc-eda/veryl2chip](https://github.com/ccc-eda/veryl2chip)
+`★18 · 🔥 热点推荐`
+面向 Veryl HDL 的 EDA 工具链（芯片设计流程）
+> 收录日期：2026-11-12
+
+---
+
 #### [rossops/Arcade-SegaXBoard_MiSTer](https://github.com/rossops/Arcade-SegaXBoard_MiSTer)
 `★17 · ⭐🔥 已 star + 热点推荐`
 MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-3.0）
@@ -2025,8 +2054,9 @@ MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-
 ---
 
 #### [wilsonchenghy/prometheus-pcb-harness](https://github.com/wilsonchenghy/prometheus-pcb-harness)
-`★17 · 🔥 热点推荐`
+`★17 · ⭐🔥 已 star + 热点推荐`
 AI agent 做 PCB：调 KiCad 封装库与 LCSC 料号，出 Gerber/BOM/贴片坐标，改版时整板重跑检查
+> 热点推荐于 2026-11-11
 > 收录日期：2026-11-11
 
 ---
@@ -2204,6 +2234,13 @@ FPGA 的 DMA 调试多功能工具，用于验证 DMA 通路与数据传输
 KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计意图、AI 评审与制造门禁
 > 热点推荐于 2026-10-25
 > 收录日期：2026-10-25
+
+---
+
+#### [jackwang988/jlceda-pcb-ai-workflow](https://github.com/jackwang988/jlceda-pcb-ai-workflow)
+`★10 · 🔥 热点推荐`
+嘉立创 EDA 专业版 AI 设计工作流：原理图/模块检查、PCB 制板规则核对、Gerber/BOM 导出与 G1–G5 评审门禁
+> 收录日期：2026-11-12
 
 ---
 

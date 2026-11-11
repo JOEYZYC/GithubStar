@@ -1945,3 +1945,23 @@
 {"url": "https://github.com/mohith-das/wiview", "stars": 11, "desc": "M5Stack Cardputer-Adv 上的 WiFi CSI 人体感知：存在、动作与呼吸率检测", "date": "2026-11-11"}
 {"url": "https://github.com/octopus287/-STM32H7-", "stars": 10, "desc": "基于 STM32H7 的半自主智慧农业机器人：边缘 AI、巡检与变量施药", "date": "2026-11-11"}
 {"url": "https://github.com/keysking/STM32C5DevSkills", "stars": 10, "desc": "STM32C5 开发技能集：CubeMX2、HAL2/LL 与 FreeRTOS 的操作路径", "date": "2026-11-11"}
+{"url": "https://github.com/agharsallah/esp-labs-web", "stars": 818, "desc": "ESP32-S3 开发板实验手册的 React 版：实时引脚图、带交互仿真的嵌入式课程与固件代码阅读器，支持中文", "date": "2026-11-12"}
+{"url": "https://github.com/Luq1308/Forwarder1kW", "stars": 105, "desc": "开源 1kW 实验室台式电源模块的硬件设计：电路、原理图与 PCB，面向 DIY 电源", "date": "2026-11-12"}
+{"url": "https://github.com/aziz123456789123456789/pcb-wizard", "stars": 65, "desc": "Windows 上的 PCB 设计软件，面向单/双面板的手工布线（原理图到 PCB）", "date": "2026-11-12"}
+{"url": "https://github.com/jlcjak/neurband", "stars": 55, "desc": "开源 sEMG 腕带（类 Meta Neural Band）：8 通道 ADS1298 + nRF52832 BLE、柔性干电极，KiCad/FreeCAD/Zephyr", "date": "2026-11-12"}
+{"url": "https://github.com/drmakerr/DrWalls", "stars": 52, "desc": "基于 ESP32 的 WiFi CSI 人体感知与摔倒检测：无需摄像头或额外传感器", "date": "2026-11-12"}
+{"url": "https://github.com/opendm40/opendm40", "stars": 52, "desc": "Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具链", "date": "2026-11-12"}
+{"url": "https://github.com/FireMarshmellow/Mellow_Lab_bench_power_supply", "stars": 28, "desc": "开源实验室台式电源的硬件设计（电路/原理图/PCB）与嵌入式控制", "date": "2026-11-12"}
+{"url": "https://github.com/ccc-eda/veryl2chip", "stars": 18, "desc": "面向 Veryl HDL 的 EDA 工具链（芯片设计流程）", "date": "2026-11-12"}
+{"url": "https://github.com/gilankpam/kepyur", "stars": 16, "desc": "把 RTL8812BU 当 SDR 的安卓模拟 FPV 接收机（射频/无线）", "date": "2026-11-12"}
+{"url": "https://github.com/TonyInvent/OpenIMU", "stars": 15, "desc": "OpenIMU 开源固件：ICM-45686 IMU 转 CAN 总线 FD（嵌入式/传感器）", "date": "2026-11-12"}
+{"url": "https://github.com/YuzukiHD/zephyr-components", "stars": 14, "desc": "为 YuzukiHD 开发板提供的 Zephyr 组件（嵌入式/RTOS）", "date": "2026-11-12"}
+{"url": "https://github.com/Cambrian-yzt/IMUDINO-Release", "stars": 13, "desc": "开源 IMU 开发板 IMUDINO 的官方固件与资料（传感器/嵌入式）", "date": "2026-11-12"}
+{"url": "https://github.com/463N7/Cerberus-Dev-Board", "stars": 12, "desc": "Cerberus 开发板的硬件与编程参考：引脚、固件接口、扩展板、电池与天线", "date": "2026-11-12"}
+{"url": "https://github.com/Pupariaa/18650-4CHN-SWD-Monitor", "stars": 11, "desc": "18650-4CHN 四通道锂电充电/测试器的实时遥测：经 SWD 直读 MCU SRAM，不改固件", "date": "2026-11-12"}
+{"url": "https://github.com/Liren66/OmniCore-SDR-Firmware", "stars": 10, "desc": "OmniCore SDR 板端固件与下载工具：Zynq-7020/AD9361 FPGA no-OS 固件、CH32H417 USB3.0 双核桥接与 JTAG 配置", "date": "2026-11-12"}
+{"url": "https://github.com/Liren66/OmniCore-SDR-Host", "stars": 10, "desc": "OmniCore SDR 上位机软件（软件无线电/射频）", "date": "2026-11-12"}
+{"url": "https://github.com/jackwang988/jlceda-pcb-ai-workflow", "stars": 10, "desc": "嘉立创 EDA 专业版 AI 设计工作流：原理图/模块检查、PCB 制板规则核对、Gerber/BOM 导出与 G1–G5 评审门禁", "date": "2026-11-12"}
+{"url": "https://github.com/mh1412/Open8030", "stars": 10, "desc": "基于 Zephyr 的 AR8030 无线固件，面向 FPV 系统（嵌入式/射频）", "date": "2026-11-12"}
+{"url": "https://github.com/EdwardBlair/dji-droneid-spec", "stars": 10, "desc": "DJI DroneID v3 协议规范（无人机/射频）", "date": "2026-11-12"}
+{"url": "https://github.com/zoppp/CANopener", "stars": 10, "desc": "工程用 CAN 总线分析工具（嵌入式总线）", "date": "2026-11-12"}
