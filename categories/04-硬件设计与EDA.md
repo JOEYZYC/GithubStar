@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 291 个项目 · 数据更新时间 2026-11-13 · [返回总览](../README.md)
+> 共 292 个项目 · 数据更新时间 2026-11-13 · [返回总览](../README.md)
 
 ---
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★15,992 · Rust · ⭐ 已 star`
+`★15,993 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -1674,8 +1674,9 @@ Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具�
 ---
 
 #### [partcleda/eda-3d-routing-challenge](https://github.com/partcleda/eda-3d-routing-challenge)
-`★51 · 🔥 热点推荐`
+`★51 · ⭐🔥 已 star + 热点推荐`
 可复现的 EDA 布线基准：三维单片堆叠的生成器、检查器、评分器、基线与可视化（PCB/EDA）
+> 热点推荐于 2026-11-13
 > 收录日期：2026-11-13
 
 ---
@@ -1983,6 +1984,14 @@ FPGA 实验源码归档：Verilog + Vivado，Arty S7-25 开发板
 
 ---
 
+#### [enjoy-digital/slogic16u3](https://github.com/enjoy-digital/slogic16u3)
+`★20 · ⭐🔥 已 star + 热点推荐`
+Sipeed SLogic16U3 USB3 逻辑分析仪的 LiteX FPGA gateware 与工具（仪器/FPGA）
+> 热点推荐于 2026-11-13
+> 收录日期：2026-11-13
+
+---
+
 #### [10-X-eng/KiChad](https://github.com/10-X-eng/KiChad)
 `★19 · ⭐🔥 已 star + 热点推荐`
 集成 Codex 的 KiCad 下游工具
@@ -2168,8 +2177,9 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 ---
 
 #### [FLASHICON/systemverilog-assertions-functional-coverage-framework](https://github.com/FLASHICON/systemverilog-assertions-functional-coverage-framework)
-`★13 · 🔥 热点推荐`
+`★13 · ⭐🔥 已 star + 热点推荐`
 SystemVerilog 验证框架：即时/并发断言配功能覆盖率，协议与复位检查报违规（HDL/EDA）
+> 热点推荐于 2026-11-13
 > 收录日期：2026-11-13
 
 ---

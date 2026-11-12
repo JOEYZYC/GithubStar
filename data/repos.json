@@ -5989,7 +5989,14 @@
    "added_at": "2026-11-13",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "ZSN2024/AGC-VLN",
@@ -10934,7 +10941,14 @@
    "added_at": "2026-11-13",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "ckflight/CST-ADS-Simulations",
@@ -16956,7 +16970,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "maksimdrachov/zephyr-rtos-tutorial",
@@ -20368,7 +20389,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "Zeloksa/Cardputer-ADV-CSI-Radar",
@@ -20823,7 +20851,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "pit711/v2x2map",
@@ -24066,7 +24101,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "alexkid77/openlara_esp32p4",
@@ -25249,7 +25291,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "simplefoc/SimpleFOC-microspora",
@@ -25263,7 +25312,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "alexex1993/mcu-skills",
@@ -25550,7 +25606,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "DangLamTung/ESP32_OSM_NAV",
@@ -26143,7 +26206,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -26724,7 +26794,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "FLASHICON/risc-v-rtl-to-gdsii-physical-design",
@@ -26738,7 +26815,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "FLASHICON/risc-v-soc-cpu-sram-amba-peripherals",
@@ -26752,7 +26836,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "FLASHICON/risc-v-rtl-to-gates-synthesis-netlist",
@@ -26766,7 +26857,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "FLASHICON/rv32i-single-cycle-risc-v-processor",
@@ -26780,7 +26878,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "FLASHICON/risc-v-static-timing-analysis-ppa-optimization",
@@ -26794,7 +26899,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "EIC-UESTC/aCoral",
@@ -27563,7 +27675,14 @@
    "added_at": "2026-11-13",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -27895,7 +28014,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 15992,
+   "stars": 15993,
    "topics": [
     "3d-modeling",
     "brep",
@@ -32277,7 +32396,14 @@
    "added_at": "2026-11-13",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "drewsum/KiPI",
@@ -33070,6 +33196,27 @@
    ]
   },
   {
+   "full_name": "enjoy-digital/slogic16u3",
+   "url": "https://github.com/enjoy-digital/slogic16u3",
+   "description": "Sipeed SLogic16U3 USB3 逻辑分析仪的 LiteX FPGA gateware 与工具（仪器/FPGA）",
+   "language": "",
+   "stars": 20,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-13",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
+  },
+  {
    "full_name": "10-X-eng/KiChad",
    "url": "https://github.com/10-X-eng/KiChad",
    "description": "集成 Codex 的 KiCad 下游工具",
@@ -33564,7 +33711,14 @@
    "added_at": "2026-11-13",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
+   ]
   },
   {
    "full_name": "serjster/neowon",
@@ -33939,7 +34093,7 @@
    "url": "https://github.com/AprilNEA/OpenLogi",
    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
    "language": "Rust",
-   "stars": 25633,
+   "stars": 25634,
    "topics": [
     "dpi",
     "gpui",
@@ -38728,7 +38882,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 302002,
+   "stars": 302003,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -38779,7 +38933,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 279766,
+   "stars": 279767,
    "topics": [
     "ai-agents",
     "cordis",
@@ -38996,7 +39150,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 123446,
+   "stars": 123452,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -39090,7 +39244,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 102116,
+   "stars": 102119,
    "topics": [
     "ai",
     "ai-scraping",
@@ -39385,7 +39539,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 68395,
+   "stars": 68397,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -39667,7 +39821,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 38834,
+   "stars": 38836,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -39797,7 +39951,7 @@
    "url": "https://github.com/h4ckf0r0day/obscura",
    "description": "The headless browser for AI agents and web scraping",
    "language": "Rust",
-   "stars": 33877,
+   "stars": 33882,
    "topics": [
     "antidetect",
     "antidetect-browser",
@@ -40112,7 +40266,7 @@
    "url": "https://github.com/browser-use/jev-ultrafast",
    "description": "Fastest and cheapest web agent",
    "language": "Python",
-   "stars": 24460,
+   "stars": 24461,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -40151,7 +40305,7 @@
    "url": "https://github.com/NVIDIA/OpenShell",
    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
    "language": "Rust",
-   "stars": 21516,
+   "stars": 21517,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -42357,7 +42511,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 146732,
+   "stars": 146733,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -42391,7 +42545,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 92386,
+   "stars": 92387,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -42422,7 +42576,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 78588,
+   "stars": 78589,
    "topics": [
     "agents",
     "ai",
@@ -45954,20 +46108,6 @@
    "source": "star",
    "added_at": "2026-10-19",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "enjoy-digital/slogic16u3",
-   "url": "https://github.com/enjoy-digital/slogic16u3",
-   "description": "Sipeed SLogic16U3 USB3 逻辑分析仪的 LiteX FPGA gateware 与工具（仪器/FPGA）",
-   "language": "",
-   "stars": 20,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-13",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
