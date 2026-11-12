@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/agharsallah/esp-labs-web",
-  "stars": 818,
-  "desc": "ESP32-S3 开发板实验手册的 React 版：实时引脚图、带交互仿真的嵌入式课程与固件代码阅读器，支持中文"
+  "url": "https://github.com/kissqy/Microduck-kissqy",
+  "stars": 488,
+  "desc": "飞特 HD1910 机器人鸭复刻：单脚独立平衡实机、自制 HAT 与 IMU、中文中控，含现成动作模型与三步教程（嵌入式机器人/电机控制）"
  },
  {
-  "url": "https://github.com/Luq1308/Forwarder1kW",
+  "url": "https://github.com/tinydesk-project/tinydesk",
   "stars": 105,
-  "desc": "开源 1kW 实验室台式电源模块的硬件设计：电路、原理图与 PCB，面向 DIY 电源"
+  "desc": "跑在单片机上的鼠标操作窗口桌面：终端里的文件、编辑器、Shell、MQTT 与 Modbus，已在 ESP32 板实测（FreeRTOS）"
  },
  {
-  "url": "https://github.com/aziz123456789123456789/pcb-wizard",
-  "stars": 65,
-  "desc": "Windows 上的 PCB 设计软件，面向单/双面板的手工布线（原理图到 PCB）"
+  "url": "https://github.com/peterroe/magpie-usage-display",
+  "stars": 86,
+  "desc": "ESP32 开发板小屏：把 magpie 用量实时显示出来的嵌入式显示项目（LVGL）"
  },
  {
-  "url": "https://github.com/jlcjak/neurband",
-  "stars": 55,
-  "desc": "开源 sEMG 腕带（类 Meta Neural Band）：8 通道 ADS1298 + nRF52832 BLE、柔性干电极，KiCad/FreeCAD/Zephyr"
+  "url": "https://github.com/partcleda/eda-3d-routing-challenge",
+  "stars": 51,
+  "desc": "可复现的 EDA 布线基准：三维单片堆叠的生成器、检查器、评分器、基线与可视化（PCB/EDA）"
  },
  {
-  "url": "https://github.com/drmakerr/DrWalls",
-  "stars": 52,
-  "desc": "基于 ESP32 的 WiFi CSI 人体感知与摔倒检测：无需摄像头或额外传感器"
+  "url": "https://github.com/eriktaveras/pana-companion",
+  "stars": 27,
+  "desc": "Waveshare 圆屏（ESP32-S3 AMOLED / ESP32-P4）上的 AI 助手脸与声音：Hermes Agent + Whisper + Piper（嵌入式/LVGL）"
  },
  {
-  "url": "https://github.com/opendm40/opendm40",
-  "stars": 52,
-  "desc": "Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具链"
+  "url": "https://github.com/enjoy-digital/slogic16u3",
+  "stars": 20,
+  "desc": "Sipeed SLogic16U3 USB3 逻辑分析仪的 LiteX FPGA gateware 与工具（仪器/FPGA）"
  },
  {
-  "url": "https://github.com/FireMarshmellow/Mellow_Lab_bench_power_supply",
-  "stars": 28,
-  "desc": "开源实验室台式电源的硬件设计（电路/原理图/PCB）与嵌入式控制"
- },
- {
-  "url": "https://github.com/ccc-eda/veryl2chip",
+  "url": "https://github.com/at0m-b0mb/Nyx-FlipperZero",
   "stars": 18,
-  "desc": "面向 Veryl HDL 的 EDA 工具链（芯片设计流程）"
+  "desc": "Flipper Zero 上的隐藏摄像头/红外扫描仪：靠 850/940nm 红外泄漏找出夜视偷拍设备（红外/嵌入式）"
  },
  {
-  "url": "https://github.com/gilankpam/kepyur",
-  "stars": 16,
-  "desc": "把 RTL8812BU 当 SDR 的安卓模拟 FPV 接收机（射频/无线）"
+  "url": "https://github.com/simplefoc/SimpleFOC-microspora",
+  "stars": 18,
+  "desc": "面向 SimpleFOC 的一体化 BLDC/步进电机驱动板（电机控制嵌入式硬件）"
  },
  {
-  "url": "https://github.com/TonyInvent/OpenIMU",
-  "stars": 15,
-  "desc": "OpenIMU 开源固件：ICM-45686 IMU 转 CAN 总线 FD（嵌入式/传感器）"
+  "url": "https://github.com/WeActStudio/WeActStudio.LogicAnalyzerV2",
+  "stars": 17,
+  "desc": "基于 CH32H417 的逻辑分析仪 V2 硬件与固件（开源仪器/嵌入式）"
  },
  {
-  "url": "https://github.com/YuzukiHD/zephyr-components",
+  "url": "https://github.com/MakersFunDuck/usb_extend_screen_CrowPanel_Advanced_10.1inch",
   "stars": 14,
-  "desc": "为 YuzukiHD 开发板提供的 Zephyr 组件（嵌入式/RTOS）"
+  "desc": "CrowPanel 10.1 寸 ESP32-P4 开发板的 USB 扩展屏示例（嵌入式/LVGL）"
  },
  {
-  "url": "https://github.com/Cambrian-yzt/IMUDINO-Release",
+  "url": "https://github.com/ru551n/yavs",
+  "stars": 14,
+  "desc": "Rust 写的另一个 VHDL 仿真器（HDL/EDA 仿真工具）"
+ },
+ {
+  "url": "https://github.com/vcazan/fpvdash",
+  "stars": 14,
+  "desc": "EdgeTX 彩屏遥控器的全屏遥测仪表盘：Betaflight 四轴 + ExpressLRS/Crossfire，带找机二维码与语音播报（飞控/FPV）"
+ },
+ {
+  "url": "https://github.com/FLASHICON/systemverilog-assertions-functional-coverage-framework",
   "stars": 13,
-  "desc": "开源 IMU 开发板 IMUDINO 的官方固件与资料（传感器/嵌入式）"
+  "desc": "SystemVerilog 验证框架：即时/并发断言配功能覆盖率，协议与复位检查报违规（HDL/EDA）"
  },
  {
-  "url": "https://github.com/463N7/Cerberus-Dev-Board",
+  "url": "https://github.com/FLASHICON/risc-v-mini-soc-end-to-end-asic-implementation",
   "stars": 12,
-  "desc": "Cerberus 开发板的硬件与编程参考：引脚、固件接口、扩展板、电池与天线"
+  "desc": "RISC-V mini-SoC 的完整数字 ASIC 流程：RTL、UVM 验证、综合、时序、布局布线到 DRC（EDA/HDL）"
  },
  {
-  "url": "https://github.com/Pupariaa/18650-4CHN-SWD-Monitor",
-  "stars": 11,
-  "desc": "18650-4CHN 四通道锂电充电/测试器的实时遥测：经 SWD 直读 MCU SRAM，不改固件"
+  "url": "https://github.com/FLASHICON/risc-v-rtl-to-gdsii-physical-design",
+  "stars": 12,
+  "desc": "RISC-V SoC 从门级网表到 GDSII 的物理设计：布局、电源网格、时钟树与布线（EDA/HDL）"
  },
  {
-  "url": "https://github.com/Liren66/OmniCore-SDR-Firmware",
+  "url": "https://github.com/FLASHICON/risc-v-soc-cpu-sram-amba-peripherals",
+  "stars": 12,
+  "desc": "SystemVerilog 写的 RISC-V SoC：RV32I 流水线 CPU、SRAM 与 UART/GPIO/定时器经 AXI4 互联（HDL/EDA）"
+ },
+ {
+  "url": "https://github.com/FLASHICON/risc-v-rtl-to-gates-synthesis-netlist",
+  "stars": 12,
+  "desc": "约束驱动的综合流程：把 SystemVerilog 的 RISC-V SoC 映射成门级网表，含时序/面积/功耗报告（EDA/HDL）"
+ },
+ {
+  "url": "https://github.com/FLASHICON/rv32i-single-cycle-risc-v-processor",
+  "stars": 12,
+  "desc": "可综合的单周期 RV32I RISC-V 核：取指/译码/执行/访存/写回一拍完成（HDL/EDA）"
+ },
+ {
+  "url": "https://github.com/FLASHICON/risc-v-static-timing-analysis-ppa-optimization",
+  "stars": 12,
+  "desc": "RISC-V 网表的静态时序分析与 PPA 调优：SDC 约束、建立/保持裕量、关键路径（EDA/HDL）"
+ },
+ {
+  "url": "https://github.com/bitshiftcrazy/clotty",
   "stars": 10,
-  "desc": "OmniCore SDR 板端固件与下载工具：Zynq-7020/AD9361 FPGA no-OS 固件、CH32H417 USB3.0 双核桥接与 JTAG 配置"
- },
- {
-  "url": "https://github.com/Liren66/OmniCore-SDR-Host",
-  "stars": 10,
-  "desc": "OmniCore SDR 上位机软件（软件无线电/射频）"
- },
- {
-  "url": "https://github.com/jackwang988/jlceda-pcb-ai-workflow",
-  "stars": 10,
-  "desc": "嘉立创 EDA 专业版 AI 设计工作流：原理图/模块检查、PCB 制板规则核对、Gerber/BOM 导出与 G1–G5 评审门禁"
- },
- {
-  "url": "https://github.com/mh1412/Open8030",
-  "stars": 10,
-  "desc": "基于 Zephyr 的 AR8030 无线固件，面向 FPV 系统（嵌入式/射频）"
- },
- {
-  "url": "https://github.com/EdwardBlair/dji-droneid-spec",
-  "stars": 10,
-  "desc": "DJI DroneID v3 协议规范（无人机/射频）"
- },
- {
-  "url": "https://github.com/zoppp/CANopener",
-  "stars": 10,
-  "desc": "工程用 CAN 总线分析工具（嵌入式总线）"
+  "desc": "子宫形 RP2040 PCB：经期追踪、传感器板与微型游戏机（嵌入式/PCB）"
  }
 ]

@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 289 个项目 · 数据更新时间 2026-11-12 · [返回总览](../README.md)
+> 共 291 个项目 · 数据更新时间 2026-11-13 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,365 · C++ · ⭐ 已 star`
+`★35,394 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★15,787 · Rust · ⭐ 已 star`
+`★15,992 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -91,7 +91,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,005 · Rust · ⭐ 已 star`
+`★4,023 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,15 +138,15 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,293 · Python · ⭐ 已 star`
+`★3,311 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,155 · C++ · ⭐ 已 star`
-Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+`★3,160 · C++ · ⭐ 已 star`
+OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
 ---
@@ -1253,6 +1253,13 @@ XCircuit 电路绘制与原理图捕捉工具
 
 ---
 
+#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
+`★137 · C · ⭐ 已 star`
+USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
+> 收录日期：2026-11-12
+
+---
+
 #### [daishuge/pcb-skill](https://github.com/daishuge/pcb-skill)
 `★136 · ⭐🔥 已 star + 热点推荐`
 从硬件想法到可制造 PCB 的 agent skill：概念、原理图、选料、布局、布线、验证与下单
@@ -1306,13 +1313,6 @@ AI 驱动 PCB 设计自动化：元件布局、布线优化与信号完整性检
 Tinkerforge 硬件的 KiCad 元件库
 > 热点推荐于 2026-10-29
 > 收录日期：2026-10-29
-
----
-
-#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★128 · HTML · ⭐ 已 star`
-USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
-> 收录日期：2026-11-12
 
 ---
 
@@ -1670,6 +1670,13 @@ Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具�
 23cm 波段经济型射频功率放大器设计（业余无线电），含功放电路与 PCB
 > 热点推荐于 2026-10-12
 > 收录日期：2026-10-12
+
+---
+
+#### [partcleda/eda-3d-routing-challenge](https://github.com/partcleda/eda-3d-routing-challenge)
+`★51 · 🔥 热点推荐`
+可复现的 EDA 布线基准：三维单片堆叠的生成器、检查器、评分器、基线与可视化（PCB/EDA）
+> 收录日期：2026-11-13
 
 ---
 
@@ -2157,6 +2164,13 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 用 RP2040/RP2350 的 PIO 把芯片变成 FTDI FT232H JTAG 适配器（2026-08 新建，GPL-2.0）
 > 热点推荐于 2026-09-27
 > 收录日期：2026-09-27
+
+---
+
+#### [FLASHICON/systemverilog-assertions-functional-coverage-framework](https://github.com/FLASHICON/systemverilog-assertions-functional-coverage-framework)
+`★13 · 🔥 热点推荐`
+SystemVerilog 验证框架：即时/并发断言配功能覆盖率，协议与复位检查报违规（HDL/EDA）
+> 收录日期：2026-11-13
 
 ---
 
