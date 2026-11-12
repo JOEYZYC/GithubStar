@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 292 个项目 · 数据更新时间 2026-11-13 · [返回总览](../README.md)
+> 共 293 个项目 · 数据更新时间 2026-11-13 · [返回总览](../README.md)
 
 ---
 
@@ -145,7 +145,7 @@ FreeCAD MCP(Model Context Protocol) server
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,160 · C++ · ⭐ 已 star`
+`★3,161 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -2125,6 +2125,14 @@ BLDC 无刷电机 FOC 驱动板 PCB 设计，含原理图与固件脚手架
 FPGA 上的流水线压缩缓存架构，运行时可变相联度
 > 热点推荐于 2026-10-30
 > 收录日期：2026-10-30
+
+---
+
+#### [ru551n/yavs](https://github.com/ru551n/yavs)
+`★14 · ⭐🔥 已 star + 热点推荐`
+Rust 写的另一个 VHDL 仿真器（HDL/EDA 仿真工具）
+> 热点推荐于 2026-11-13
+> 收录日期：2026-11-13
 
 ---
 

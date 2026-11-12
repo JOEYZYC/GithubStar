@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★302,003 · JavaScript · ⭐ 已 star`
+`★302,006 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -49,14 +49,14 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★226,459 · TypeScript · ⭐ 已 star`
+`★226,458 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★167,936 · Shell · ⭐ 已 star`
+`★167,937 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -78,7 +78,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★148,653 · Python · ⭐ 已 star`
+`★148,654 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -131,7 +131,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★108,971 · Rust · ⭐ 已 star`
+`★108,973 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -230,7 +230,7 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★68,397 · Python · ⭐ 已 star`
+`★68,398 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
@@ -245,7 +245,7 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★56,407 · Markdown · ⭐ 已 star`
+`★56,408 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -365,7 +365,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 ---
 
 #### [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-`★33,882 · Rust · ⭐ 已 star`
+`★33,890 · Rust · ⭐ 已 star`
 The headless browser for AI agents and web scraping
 > 收录日期：2026-09-13
 
@@ -410,7 +410,7 @@ Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchma
 ---
 
 #### [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
-`★29,777 · TypeScript · ⭐ 已 star`
+`★29,780 · TypeScript · ⭐ 已 star`
 An open-source AI coding agent that lives in your terminal.
 > 收录日期：2026-09-13
 

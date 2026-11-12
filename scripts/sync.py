@@ -89,9 +89,11 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
-    # ---- 2026-11-13：本轮 20 条，待归类 1 条 ----
+    # ---- 2026-11-13：本轮 20 条，待归类 1 条 + 1 条规则误判 ----
     # 硬件设计与 EDA（开源逻辑分析仪 FPGA gateware/仪器工具，与 verilator/yosys/OpenROAD 同口径）
     "enjoy-digital/slogic16u3": "硬件设计与 EDA",
+    # 硬件设计与 EDA（VHDL 仿真器；简介含「仿真」触发电磁规则，属规则误判，与 verilator/iverilog 同口径）
+    "ru551n/yavs": "硬件设计与 EDA",
     # ---- 2026-11-09：本轮 20 条，待归类 3 条 ----
     # 嵌入式与单片机（PS5 Zen2 SoC 裸机引导 XNU，属裸机固件/bring-up）
     "rodri0x/ps5-hackintosh": "嵌入式与单片机",

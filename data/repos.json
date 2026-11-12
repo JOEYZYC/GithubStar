@@ -10930,27 +10930,6 @@
    "note": ""
   },
   {
-   "full_name": "ru551n/yavs",
-   "url": "https://github.com/ru551n/yavs",
-   "description": "Rust 写的另一个 VHDL 仿真器（HDL/EDA 仿真工具）",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-13",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-13"
-   ]
-  },
-  {
    "full_name": "ckflight/CST-ADS-Simulations",
    "url": "https://github.com/ckflight/CST-ADS-Simulations",
    "description": "CST Studio 与 Keysight ADS 的仿真工程与结果归档",
@@ -28366,7 +28345,7 @@
    "url": "https://github.com/Open-Cascade-SAS/OCCT",
    "description": "OCCT is an open-source software development platform for 3D CAD, CAM, CAE.",
    "language": "C++",
-   "stars": 3160,
+   "stars": 3161,
    "topics": [
     "3d",
     "3d-cad",
@@ -33571,6 +33550,27 @@
    ],
    "hot_dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "full_name": "ru551n/yavs",
+   "url": "https://github.com/ru551n/yavs",
+   "description": "Rust 写的另一个 VHDL 仿真器（HDL/EDA 仿真工具）",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-13",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-13"
    ]
   },
   {
@@ -38882,7 +38882,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 302003,
+   "stars": 302006,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -38984,7 +38984,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 226459,
+   "stars": 226458,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -38997,7 +38997,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 167936,
+   "stars": 167937,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -39062,7 +39062,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 148653,
+   "stars": 148654,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -39225,7 +39225,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 108971,
+   "stars": 108973,
    "topics": [
     "agent-skills",
     "ai",
@@ -39539,7 +39539,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 68397,
+   "stars": 68398,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -39587,7 +39587,7 @@
    "url": "https://github.com/emilkowalski/skills",
    "description": "Skills for Designers and Engineers.",
    "language": "Markdown",
-   "stars": 56407,
+   "stars": 56408,
    "topics": [
     "agent-skills",
     "animation",
@@ -39951,7 +39951,7 @@
    "url": "https://github.com/h4ckf0r0day/obscura",
    "description": "The headless browser for AI agents and web scraping",
    "language": "Rust",
-   "stars": 33882,
+   "stars": 33890,
    "topics": [
     "antidetect",
     "antidetect-browser",
@@ -40097,7 +40097,7 @@
    "url": "https://github.com/QwenLM/qwen-code",
    "description": "An open-source AI coding agent that lives in your terminal.",
    "language": "TypeScript",
-   "stars": 29777,
+   "stars": 29780,
    "topics": [
     "agentic",
     "ai",
@@ -42511,7 +42511,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 146733,
+   "stars": 146736,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -42545,7 +42545,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 92387,
+   "stars": 92388,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -42673,7 +42673,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 58634,
+   "stars": 58637,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -42696,7 +42696,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 57866,
+   "stars": 57867,
    "topics": [
     "agent",
     "agent-memory",
@@ -42757,7 +42757,7 @@
    "url": "https://github.com/rossant/awesome-math",
    "description": "A curated list of awesome mathematics resources",
    "language": "Python",
-   "stars": 16948,
+   "stars": 16947,
    "topics": [
     "awesome",
     "awesome-list",
@@ -45235,7 +45235,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 498523,
+   "stars": 498524,
    "topics": [
     "api",
     "apis",
