@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 296 个项目 · 数据更新时间 2026-11-14 · [返回总览](../README.md)
+> 共 297 个项目 · 数据更新时间 2026-11-14 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,422 · C++ · ⭐ 已 star`
+`★35,423 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -1698,8 +1698,9 @@ Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具�
 ---
 
 #### [hridaya423/silkreel](https://github.com/hridaya423/silkreel)
-`★50 · 🔥 热点推荐`
+`★50 · ⭐🔥 已 star + 热点推荐`
 把你的 KiCad PCB 变成一段 12 秒影片，展示真实铜箔走线与元件布局
+> 热点推荐于 2026-11-14
 > 收录日期：2026-11-14
 
 ---
@@ -1872,8 +1873,9 @@ RoboCup 小型组足球机器人的 KiCad 电路设计文件
 ---
 
 #### [opencad-abu/SiCo](https://github.com/opencad-abu/SiCo)
-`★30 · 🔥 热点推荐`
+`★30 · ⭐🔥 已 star + 热点推荐`
 SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计平台智能助手
+> 热点推荐于 2026-11-14
 > 收录日期：2026-11-14
 
 ---
@@ -2107,6 +2109,14 @@ MiSTer FPGA 的 Sega X Board 街机核心，After Burner II 等（Verilog，GPL-
 AI agent 做 PCB：调 KiCad 封装库与 LCSC 料号，出 Gerber/BOM/贴片坐标，改版时整板重跑检查
 > 热点推荐于 2026-11-11
 > 收录日期：2026-11-11
+
+---
+
+#### [BerkmKuzu1/Serdes-Practice](https://github.com/BerkmKuzu1/Serdes-Practice)
+`★17 · ⭐🔥 已 star + 热点推荐`
+在 FPGA（ALINX AX7101 / Artix-7）上学习 SerDes 的 VHDL 实验课：OSERDES/ISERDES、眼图扫描、CDC FIFO
+> 热点推荐于 2026-11-14
+> 收录日期：2026-11-14
 
 ---
 

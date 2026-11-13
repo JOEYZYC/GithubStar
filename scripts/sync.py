@@ -89,6 +89,13 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-14：本轮 20 条，待归类 3 条 ----
+    # 无线通信与感知（宝锋 DM-32UV 对讲机 P25 固件，射频收发口径）
+    "tylerwatt12/Open25-DM32": "无线通信与感知",
+    # 飞控与无人机（ROS 2 仓储移动机器人 + LiDAR SLAM，与 ros2/navigation2 同口径）
+    "azerbenali/wsl": "飞控与无人机",
+    # 硬件设计与 EDA（FPGA SerDes 的 VHDL 实验，HDL 设计口径，与 yosys/verilator 同口径）
+    "BerkmKuzu1/Serdes-Practice": "硬件设计与 EDA",
     # ---- 2026-11-13：本轮 20 条，待归类 1 条 + 1 条规则误判 ----
     # 硬件设计与 EDA（开源逻辑分析仪 FPGA gateware/仪器工具，与 verilator/yosys/OpenROAD 同口径）
     "enjoy-digital/slogic16u3": "硬件设计与 EDA",

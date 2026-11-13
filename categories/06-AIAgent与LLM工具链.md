@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★302,439 · JavaScript · ⭐ 已 star`
+`★302,441 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -42,7 +42,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★232,865 · ⭐ 已 star`
+`★232,866 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -78,7 +78,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 ---
 
 #### [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-`★149,086 · Python · ⭐ 已 star`
+`★149,087 · Python · ⭐ 已 star`
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 > 收录日期：2026-09-13
 
@@ -108,7 +108,7 @@ OpenAI 官方终端编码 agent，Rust 实现，当日涨星 172★
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★124,383 · TypeScript · ⭐ 已 star`
+`★124,384 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -123,7 +123,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★109,567 · Rust · ⭐ 已 star`
+`★109,569 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -245,7 +245,7 @@ Universal memory layer，为 AI Agent 提供持久记忆基础设施
 ---
 
 #### [emilkowalski/skills](https://github.com/emilkowalski/skills)
-`★56,667 · Markdown · ⭐ 已 star`
+`★56,668 · Markdown · ⭐ 已 star`
 Skills for Designers and Engineers.
 > 收录日期：2026-09-13
 
@@ -365,7 +365,7 @@ A curated collection of 1000+ agent skills from official dev teams and the commu
 ---
 
 #### [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-`★34,978 · Rust · ⭐ 已 star`
+`★34,979 · Rust · ⭐ 已 star`
 The headless browser for AI agents and web scraping
 > 收录日期：2026-09-13
 
@@ -1056,8 +1056,9 @@ RSI-Anything: Unlocking Recursive Self-Improvement with World Models
 ---
 
 #### [avenoxai/avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)
-`★455 · 🔥 热点推荐`
+`★455 · ⭐🔥 已 star + 热点推荐`
 开源 Obsidian + Claude Code 第二大脑系统，跨会话持久记忆（知识管理）
+> 热点推荐于 2026-11-14
 > 收录日期：2026-11-14
 
 ---
