@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/kissqy/Microduck-kissqy",
-  "stars": 488,
-  "desc": "飞特 HD1910 机器人鸭复刻：单脚独立平衡实机、自制 HAT 与 IMU、中文中控，含现成动作模型与三步教程（嵌入式机器人/电机控制）"
+  "url": "https://github.com/avenoxai/avenoxbeyin",
+  "stars": 455,
+  "desc": "开源 Obsidian + Claude Code 第二大脑系统，跨会话持久记忆（知识管理）"
  },
  {
-  "url": "https://github.com/tinydesk-project/tinydesk",
-  "stars": 105,
-  "desc": "跑在单片机上的鼠标操作窗口桌面：终端里的文件、编辑器、Shell、MQTT 与 Modbus，已在 ESP32 板实测（FreeRTOS）"
+  "url": "https://github.com/cocel-postech/genz-lio",
+  "stars": 162,
+  "desc": "面向退化环境的鲁棒 LiDAR-惯性里程计（IEEE T-FR 2026），用于机器人/无人机 SLAM 定位"
  },
  {
-  "url": "https://github.com/peterroe/magpie-usage-display",
-  "stars": 86,
-  "desc": "ESP32 开发板小屏：把 magpie 用量实时显示出来的嵌入式显示项目（LVGL）"
+  "url": "https://github.com/lwh0630/SignalScope",
+  "stars": 142,
+  "desc": "Android 网络信号检测器：SIM、LTE/5G、Wi-Fi、GNSS 与延迟测试"
  },
  {
-  "url": "https://github.com/partcleda/eda-3d-routing-challenge",
+  "url": "https://github.com/CLHfeiyi/dual_lidar_constraint_fusion",
+  "stars": 97,
+  "desc": "双 LiDAR 约束级融合的 LIO 里程计，专攻退化环境，机器人/无人机定位可用"
+ },
+ {
+  "url": "https://github.com/Ammaar-Alam/goggles-bridge",
+  "stars": 77,
+  "desc": "给原厂 DJI Goggles 2/Integra FPV 眼镜做 USB 显示桥，供无人机 FPV 图传，Windows/macOS 通用"
+ },
+ {
+  "url": "https://github.com/tylerwatt12/Open25-DM32",
+  "stars": 68,
+  "desc": "宝锋 DM-32UV 对讲机的 P25 射频固件"
+ },
+ {
+  "url": "https://github.com/claynicholson/copper-kicad-mcp",
+  "stars": 62,
+  "desc": "MCP 服务器：让 AI 应用直接画可下单的 KiCad 板——原理图、LCSC 元器件、PCB 布线与 JLCPCB 制造文件"
+ },
+ {
+  "url": "https://github.com/Javi-vahe/Naro",
+  "stars": 52,
+  "desc": "轻量级全局 LiDAR 重定位：离线索引 + 在线几何校验，机器人/无人机可用"
+ },
+ {
+  "url": "https://github.com/jthwho/bmds",
   "stars": 51,
-  "desc": "可复现的 EDA 布线基准：三维单片堆叠的生成器、检查器、评分器、基线与可视化（PCB/EDA）"
+  "desc": "BMDS：跑在 ESP32-P4（Olimex ESP32-P4-PC）上的小型 DOS 式裸机嵌入式操作系统"
  },
  {
-  "url": "https://github.com/eriktaveras/pana-companion",
-  "stars": 27,
-  "desc": "Waveshare 圆屏（ESP32-S3 AMOLED / ESP32-P4）上的 AI 助手脸与声音：Hermes Agent + Whisper + Piper（嵌入式/LVGL）"
+  "url": "https://github.com/hridaya423/silkreel",
+  "stars": 50,
+  "desc": "把你的 KiCad PCB 变成一段 12 秒影片，展示真实铜箔走线与元件布局"
  },
  {
-  "url": "https://github.com/enjoy-digital/slogic16u3",
+  "url": "https://github.com/opencad-abu/SiCo",
+  "stars": 30,
+  "desc": "SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计平台智能助手"
+ },
+ {
+  "url": "https://github.com/Renbrant/MeshCrossway",
+  "stars": 29,
+  "desc": "开源 ESP32 便携无线通信器，面向旅行者与搜救的 Mesh 组网电台"
+ },
+ {
+  "url": "https://github.com/kaiwalyakhasnis/embedded-compose",
+  "stars": 22,
+  "desc": "在裸机嵌入式 Linux 上跑 Compose UI：不经 Android/Skia，直连 fbdev/DRM 或 LED 点阵"
+ },
+ {
+  "url": "https://github.com/azerbenali/wsl",
   "stars": 20,
-  "desc": "Sipeed SLogic16U3 USB3 逻辑分析仪的 LiteX FPGA gateware 与工具（仪器/FPGA）"
+  "desc": "ROS 2 仓储机器人：LiDAR SLAM 建图与导航"
  },
  {
-  "url": "https://github.com/at0m-b0mb/Nyx-FlipperZero",
+  "url": "https://github.com/kodediy/kode-sdk",
   "stars": 18,
-  "desc": "Flipper Zero 上的隐藏摄像头/红外扫描仪：靠 850/940nm 红外泄漏找出夜视偷拍设备（红外/嵌入式）"
+  "desc": "Kode Dot 开发板的 C 应用 SDK，在板子上跑 FreeRTOS 应用"
  },
  {
-  "url": "https://github.com/simplefoc/SimpleFOC-microspora",
-  "stars": 18,
-  "desc": "面向 SimpleFOC 的一体化 BLDC/步进电机驱动板（电机控制嵌入式硬件）"
- },
- {
-  "url": "https://github.com/WeActStudio/WeActStudio.LogicAnalyzerV2",
+  "url": "https://github.com/BerkmKuzu1/Serdes-Practice",
   "stars": 17,
-  "desc": "基于 CH32H417 的逻辑分析仪 V2 硬件与固件（开源仪器/嵌入式）"
+  "desc": "在 FPGA（ALINX AX7101 / Artix-7）上学习 SerDes 的 VHDL 实验课：OSERDES/ISERDES、眼图扫描、CDC FIFO"
  },
  {
-  "url": "https://github.com/MakersFunDuck/usb_extend_screen_CrowPanel_Advanced_10.1inch",
-  "stars": 14,
-  "desc": "CrowPanel 10.1 寸 ESP32-P4 开发板的 USB 扩展屏示例（嵌入式/LVGL）"
- },
- {
-  "url": "https://github.com/ru551n/yavs",
-  "stars": 14,
-  "desc": "Rust 写的另一个 VHDL 仿真器（HDL/EDA 仿真工具）"
- },
- {
-  "url": "https://github.com/vcazan/fpvdash",
-  "stars": 14,
-  "desc": "EdgeTX 彩屏遥控器的全屏遥测仪表盘：Betaflight 四轴 + ExpressLRS/Crossfire，带找机二维码与语音播报（飞控/FPV）"
- },
- {
-  "url": "https://github.com/FLASHICON/systemverilog-assertions-functional-coverage-framework",
+  "url": "https://github.com/1908600638/freertos-stm32-ultrasonic-beacon",
   "stars": 13,
-  "desc": "SystemVerilog 验证框架：即时/并发断言配功能覆盖率，协议与复位检查报违规（HDL/EDA）"
+  "desc": "2025 电赛 J 题超声信标定位系统：STM32F103ZET6 + FreeRTOS + 42 步进电机扫描测距"
  },
  {
-  "url": "https://github.com/FLASHICON/risc-v-mini-soc-end-to-end-asic-implementation",
+  "url": "https://github.com/1908600638/stm32-flow-totalizer",
   "stars": 12,
-  "desc": "RISC-V mini-SoC 的完整数字 ASIC 流程：RTL、UVM 验证、综合、时序、布局布线到 DRC（EDA/HDL）"
+  "desc": "STM32F405 流量积算仪：脉冲/4~20mA/差压三路传感器接入、K 型热电偶测温、RS485 Modbus 输出"
  },
  {
-  "url": "https://github.com/FLASHICON/risc-v-rtl-to-gdsii-physical-design",
-  "stars": 12,
-  "desc": "RISC-V SoC 从门级网表到 GDSII 的物理设计：布局、电源网格、时钟树与布线（EDA/HDL）"
- },
- {
-  "url": "https://github.com/FLASHICON/risc-v-soc-cpu-sram-amba-peripherals",
-  "stars": 12,
-  "desc": "SystemVerilog 写的 RISC-V SoC：RV32I 流水线 CPU、SRAM 与 UART/GPIO/定时器经 AXI4 互联（HDL/EDA）"
- },
- {
-  "url": "https://github.com/FLASHICON/risc-v-rtl-to-gates-synthesis-netlist",
-  "stars": 12,
-  "desc": "约束驱动的综合流程：把 SystemVerilog 的 RISC-V SoC 映射成门级网表，含时序/面积/功耗报告（EDA/HDL）"
- },
- {
-  "url": "https://github.com/FLASHICON/rv32i-single-cycle-risc-v-processor",
-  "stars": 12,
-  "desc": "可综合的单周期 RV32I RISC-V 核：取指/译码/执行/访存/写回一拍完成（HDL/EDA）"
- },
- {
-  "url": "https://github.com/FLASHICON/risc-v-static-timing-analysis-ppa-optimization",
-  "stars": 12,
-  "desc": "RISC-V 网表的静态时序分析与 PPA 调优：SDC 约束、建立/保持裕量、关键路径（EDA/HDL）"
- },
- {
-  "url": "https://github.com/bitshiftcrazy/clotty",
+  "url": "https://github.com/egorsmkv/imu-nav",
   "stars": 10,
-  "desc": "子宫形 RP2040 PCB：经期追踪、传感器板与微型游戏机（嵌入式/PCB）"
+  "desc": "用惯性测量单元（IMU）做离线导航定位"
+ },
+ {
+  "url": "https://github.com/erwinquilloy/OmniDeck",
+  "stars": 10,
+  "desc": "在 FrSky Ethos/EdgeTX 遥控器上统一显示 ArduPilot、INAV、Betaflight 的遥测数据"
  }
 ]

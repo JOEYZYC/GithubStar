@@ -1985,3 +1985,23 @@
 {"url": "https://github.com/FLASHICON/rv32i-single-cycle-risc-v-processor", "stars": 12, "desc": "可综合的单周期 RV32I RISC-V 核：取指/译码/执行/访存/写回一拍完成（HDL/EDA）", "date": "2026-11-13"}
 {"url": "https://github.com/FLASHICON/risc-v-static-timing-analysis-ppa-optimization", "stars": 12, "desc": "RISC-V 网表的静态时序分析与 PPA 调优：SDC 约束、建立/保持裕量、关键路径（EDA/HDL）", "date": "2026-11-13"}
 {"url": "https://github.com/bitshiftcrazy/clotty", "stars": 10, "desc": "子宫形 RP2040 PCB：经期追踪、传感器板与微型游戏机（嵌入式/PCB）", "date": "2026-11-13"}
+{"url": "https://github.com/avenoxai/avenoxbeyin", "stars": 455, "desc": "开源 Obsidian + Claude Code 第二大脑系统，跨会话持久记忆（知识管理）", "date": "2026-11-14"}
+{"url": "https://github.com/cocel-postech/genz-lio", "stars": 162, "desc": "面向退化环境的鲁棒 LiDAR-惯性里程计（IEEE T-FR 2026），用于机器人/无人机 SLAM 定位", "date": "2026-11-14"}
+{"url": "https://github.com/lwh0630/SignalScope", "stars": 142, "desc": "Android 网络信号检测器：SIM、LTE/5G、Wi-Fi、GNSS 与延迟测试", "date": "2026-11-14"}
+{"url": "https://github.com/CLHfeiyi/dual_lidar_constraint_fusion", "stars": 97, "desc": "双 LiDAR 约束级融合的 LIO 里程计，专攻退化环境，机器人/无人机定位可用", "date": "2026-11-14"}
+{"url": "https://github.com/Ammaar-Alam/goggles-bridge", "stars": 77, "desc": "给原厂 DJI Goggles 2/Integra FPV 眼镜做 USB 显示桥，供无人机 FPV 图传，Windows/macOS 通用", "date": "2026-11-14"}
+{"url": "https://github.com/tylerwatt12/Open25-DM32", "stars": 68, "desc": "宝锋 DM-32UV 对讲机的 P25 射频固件", "date": "2026-11-14"}
+{"url": "https://github.com/claynicholson/copper-kicad-mcp", "stars": 62, "desc": "MCP 服务器：让 AI 应用直接画可下单的 KiCad 板——原理图、LCSC 元器件、PCB 布线与 JLCPCB 制造文件", "date": "2026-11-14"}
+{"url": "https://github.com/Javi-vahe/Naro", "stars": 52, "desc": "轻量级全局 LiDAR 重定位：离线索引 + 在线几何校验，机器人/无人机可用", "date": "2026-11-14"}
+{"url": "https://github.com/jthwho/bmds", "stars": 51, "desc": "BMDS：跑在 ESP32-P4（Olimex ESP32-P4-PC）上的小型 DOS 式裸机嵌入式操作系统", "date": "2026-11-14"}
+{"url": "https://github.com/hridaya423/silkreel", "stars": 50, "desc": "把你的 KiCad PCB 变成一段 12 秒影片，展示真实铜箔走线与元件布局", "date": "2026-11-14"}
+{"url": "https://github.com/opencad-abu/SiCo", "stars": 30, "desc": "SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计平台智能助手", "date": "2026-11-14"}
+{"url": "https://github.com/Renbrant/MeshCrossway", "stars": 29, "desc": "开源 ESP32 便携无线通信器，面向旅行者与搜救的 Mesh 组网电台", "date": "2026-11-14"}
+{"url": "https://github.com/kaiwalyakhasnis/embedded-compose", "stars": 22, "desc": "在裸机嵌入式 Linux 上跑 Compose UI：不经 Android/Skia，直连 fbdev/DRM 或 LED 点阵", "date": "2026-11-14"}
+{"url": "https://github.com/azerbenali/wsl", "stars": 20, "desc": "ROS 2 仓储机器人：LiDAR SLAM 建图与导航", "date": "2026-11-14"}
+{"url": "https://github.com/kodediy/kode-sdk", "stars": 18, "desc": "Kode Dot 开发板的 C 应用 SDK，在板子上跑 FreeRTOS 应用", "date": "2026-11-14"}
+{"url": "https://github.com/BerkmKuzu1/Serdes-Practice", "stars": 17, "desc": "在 FPGA（ALINX AX7101 / Artix-7）上学习 SerDes 的 VHDL 实验课：OSERDES/ISERDES、眼图扫描、CDC FIFO", "date": "2026-11-14"}
+{"url": "https://github.com/1908600638/freertos-stm32-ultrasonic-beacon", "stars": 13, "desc": "2025 电赛 J 题超声信标定位系统：STM32F103ZET6 + FreeRTOS + 42 步进电机扫描测距", "date": "2026-11-14"}
+{"url": "https://github.com/1908600638/stm32-flow-totalizer", "stars": 12, "desc": "STM32F405 流量积算仪：脉冲/4~20mA/差压三路传感器接入、K 型热电偶测温、RS485 Modbus 输出", "date": "2026-11-14"}
+{"url": "https://github.com/egorsmkv/imu-nav", "stars": 10, "desc": "用惯性测量单元（IMU）做离线导航定位", "date": "2026-11-14"}
+{"url": "https://github.com/erwinquilloy/OmniDeck", "stars": 10, "desc": "在 FrSky Ethos/EdgeTX 遥控器上统一显示 ArduPilot、INAV、Betaflight 的遥测数据", "date": "2026-11-14"}
