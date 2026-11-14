@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/avenoxai/avenoxbeyin",
-  "stars": 455,
-  "desc": "开源 Obsidian + Claude Code 第二大脑系统，跨会话持久记忆（知识管理）"
+  "url": "https://github.com/skizzophrenic/SquachWatch-CYD",
+  "stars": 503,
+  "desc": "跑在 ESP32「廉价黄色开发板」上的固件：扫描并识别 Flock 摄像头、蓝牙追踪器、Meta 眼镜等无线监控设备"
  },
  {
-  "url": "https://github.com/cocel-postech/genz-lio",
-  "stars": 162,
-  "desc": "面向退化环境的鲁棒 LiDAR-惯性里程计（IEEE T-FR 2026），用于机器人/无人机 SLAM 定位"
+  "url": "https://github.com/qkaiser/broadcom-wps",
+  "stars": 324,
+  "desc": "识别采用 Broadcom SDK 的 WiFi 接入点并附已知受影响设备清单，用于无线/射频侧的路由器指纹排查（嵌入式 Linux 固件）"
  },
  {
-  "url": "https://github.com/lwh0630/SignalScope",
-  "stars": 142,
-  "desc": "Android 网络信号检测器：SIM、LTE/5G、Wi-Fi、GNSS 与延迟测试"
+  "url": "https://github.com/FutureSharks/e-paper-art-display",
+  "stars": 260,
+  "desc": "ESP32 电子纸艺术相框固件：低功耗开发板驱动墨水屏显示画作，可挂墙长期显示"
  },
  {
-  "url": "https://github.com/CLHfeiyi/dual_lidar_constraint_fusion",
-  "stars": 97,
-  "desc": "双 LiDAR 约束级融合的 LIO 里程计，专攻退化环境，机器人/无人机定位可用"
+  "url": "https://github.com/FlashCat-Jordan/Flashduck",
+  "stars": 182,
+  "desc": "开源 ESP32-S3 桌面鸭机器人：六个舵机、单只动画眼睛、LVGL 界面与本地语音交互，含嵌入式固件与 3D 打印结构"
  },
  {
-  "url": "https://github.com/Ammaar-Alam/goggles-bridge",
-  "stars": 77,
-  "desc": "给原厂 DJI Goggles 2/Integra FPV 眼镜做 USB 显示桥，供无人机 FPV 图传，Windows/macOS 通用"
+  "url": "https://github.com/mozihe/z-localization",
+  "stars": 126,
+  "desc": "东北大学 RoboMaster 哨兵定位开源：LiDAR-IMU 里程计 + 重定位，ROS 2 机器人定位方案"
  },
  {
-  "url": "https://github.com/tylerwatt12/Open25-DM32",
-  "stars": 68,
-  "desc": "宝锋 DM-32UV 对讲机的 P25 射频固件"
+  "url": "https://github.com/roboninecom/STS32XX-Firmware",
+  "stars": 87,
+  "desc": "面向 Feetech STS32XX 舵机的开源固件（GD32F130 单片机），用于 SO-ARM100/101/102 机械臂：平滑运动、可调 PID、重力补偿"
  },
  {
-  "url": "https://github.com/claynicholson/copper-kicad-mcp",
-  "stars": 62,
-  "desc": "MCP 服务器：让 AI 应用直接画可下单的 KiCad 板——原理图、LCSC 元器件、PCB 布线与 JLCPCB 制造文件"
+  "url": "https://github.com/777arc/gnuradio-world",
+  "stars": 82,
+  "desc": "把 GNU Radio 整个搬进浏览器（WebAssembly）：附带大量示例流图、IQ 录制样例，支持 RTL-SDR/PlutoSDR/HackRF，零安装玩软件无线电"
  },
  {
-  "url": "https://github.com/Javi-vahe/Naro",
-  "stars": 52,
-  "desc": "轻量级全局 LiDAR 重定位：离线索引 + 在线几何校验，机器人/无人机可用"
+  "url": "https://github.com/CapnBry/widscan58",
+  "stars": 73,
+  "desc": "跑在 ESP32-S3 上的 SDR 扫描仪，专门扫 FPV 图传（VTX）频段，用来找空闲信道、避开干扰"
  },
  {
-  "url": "https://github.com/jthwho/bmds",
-  "stars": 51,
-  "desc": "BMDS：跑在 ESP32-P4（Olimex ESP32-P4-PC）上的小型 DOS 式裸机嵌入式操作系统"
+  "url": "https://github.com/fpv-labs/ego-oscar",
+  "stars": 55,
+  "desc": "开源硬件 + 采集软件：Ego-OSCAR 双目-惯性第一人称摄像头（ESP32 + Radxa），用于 egocentric 视觉数据集采集"
  },
  {
-  "url": "https://github.com/hridaya423/silkreel",
+  "url": "https://github.com/HenrysCat/esp32-cyd-ham-dashboard",
   "stars": 50,
-  "desc": "把你的 KiCad PCB 变成一段 12 秒影片，展示真实铜箔走线与元件布局"
+  "desc": "仿 Ham Clock 的业余无线电台仪表盘固件，跑在 ESP32-2432S028R 廉价黄色开发板上，显示太阳/传播/短波信息"
  },
  {
-  "url": "https://github.com/opencad-abu/SiCo",
+  "url": "https://github.com/adamsthws/firmware-liberator",
+  "stars": 34,
+  "desc": "把 Sonoff 智能开关通过无线自动刷成 Tasmota/ESPHome/OpenBeken 的 OTA 工具，无需焊接，支持 ESP32 与 Beken 芯片"
+ },
+ {
+  "url": "https://github.com/hyulin472-dotcom/yolopoint11-vins-slam",
   "stars": 30,
-  "desc": "SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计平台智能助手"
+  "desc": "基于 YOLOPointv11 + LightGlue 的双目视觉-惯性 SLAM，跑在 ROS 2 上，含特征点前后端"
  },
  {
-  "url": "https://github.com/Renbrant/MeshCrossway",
-  "stars": 29,
-  "desc": "开源 ESP32 便携无线通信器，面向旅行者与搜救的 Mesh 组网电台"
+  "url": "https://github.com/OpenDrone-hw/OpenFrame-5F",
+  "stars": 23,
+  "desc": "开源 5 寸碳纤维自由飞 FPV 机架：Onshape CAD 源文件 + 零件清单，STEP 与图纸随 release 发布"
  },
  {
-  "url": "https://github.com/kaiwalyakhasnis/embedded-compose",
-  "stars": 22,
-  "desc": "在裸机嵌入式 Linux 上跑 Compose UI：不经 Android/Skia，直连 fbdev/DRM 或 LED 点阵"
+  "url": "https://github.com/Secret-G/STM32-BMS-48Pro",
+  "stars": 19,
+  "desc": "STM32F103 + BQ76940 的 48V 电池管理系统：FreeRTOS 调度、CAN 总线通信、电芯均衡与失效保护"
  },
  {
-  "url": "https://github.com/azerbenali/wsl",
-  "stars": 20,
-  "desc": "ROS 2 仓储机器人：LiDAR SLAM 建图与导航"
+  "url": "https://github.com/mushBrainDave/esp32-p4-imx-camera",
+  "stars": 15,
+  "desc": "用 ESP32-P4 替代树莓派 Zero 2W 接 IMX219/IMX708 摄像头：MIPI-CSI 驱动与 ESP-IDF 工程"
  },
  {
-  "url": "https://github.com/kodediy/kode-sdk",
-  "stars": 18,
-  "desc": "Kode Dot 开发板的 C 应用 SDK，在板子上跑 FreeRTOS 应用"
+  "url": "https://github.com/JosiahWhite/rp2040-glitch-tool",
+  "stars": 14,
+  "desc": "RP2040 硬件测试夹具固件：USB CDC + Python API 做 I2C 读写、GPIO 脉冲序列、PWM 与硬件触发，用于故障注入与靶标控制"
  },
  {
-  "url": "https://github.com/BerkmKuzu1/Serdes-Practice",
-  "stars": 17,
-  "desc": "在 FPGA（ALINX AX7101 / Artix-7）上学习 SerDes 的 VHDL 实验课：OSERDES/ISERDES、眼图扫描、CDC FIFO"
+  "url": "https://github.com/frank26080115/Hot-Wand",
+  "stars": 14,
+  "desc": "便携紧凑的射频焊接台：可调温烙铁控制电路 + 固件，小众开源硬件"
  },
  {
-  "url": "https://github.com/1908600638/freertos-stm32-ultrasonic-beacon",
+  "url": "https://github.com/gnuradio/gnuradio4-studio",
   "stars": 13,
-  "desc": "2025 电赛 J 题超声信标定位系统：STM32F103ZET6 + FreeRTOS + 42 步进电机扫描测距"
+  "desc": "GNU Radio 4 的浏览器/桌面 Studio：可视化搭流图、实时频谱/瀑布/时域面板，并把运行中的图变成应用的软件无线电工具"
  },
  {
-  "url": "https://github.com/1908600638/stm32-flow-totalizer",
-  "stars": 12,
-  "desc": "STM32F405 流量积算仪：脉冲/4~20mA/差压三路传感器接入、K 型热电偶测温、RS485 Modbus 输出"
+  "url": "https://github.com/guyue-maple1314/lingshu-ros2_quadruped_inspection",
+  "stars": 13,
+  "desc": "灵枢四足机器人巡检项目：ROS 2 三层架构、行为树与 PPO，覆盖 9 项核心技术"
  },
  {
-  "url": "https://github.com/egorsmkv/imu-nav",
+  "url": "https://github.com/KoshiroRobot/KRC-Actuator",
   "stars": 10,
-  "desc": "用惯性测量单元（IMU）做离线导航定位"
- },
- {
-  "url": "https://github.com/erwinquilloy/OmniDeck",
-  "stars": 10,
-  "desc": "在 FrSky Ethos/EdgeTX 遥控器上统一显示 ArduPilot、INAV、Betaflight 的遥测数据"
+  "desc": "DIY 机器人关节执行器：自研 FOC 驱动板 + 摆线减速器，含 CAD、PCB 与固件"
  }
 ]

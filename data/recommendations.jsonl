@@ -2005,3 +2005,23 @@
 {"url": "https://github.com/1908600638/stm32-flow-totalizer", "stars": 12, "desc": "STM32F405 流量积算仪：脉冲/4~20mA/差压三路传感器接入、K 型热电偶测温、RS485 Modbus 输出", "date": "2026-11-14"}
 {"url": "https://github.com/egorsmkv/imu-nav", "stars": 10, "desc": "用惯性测量单元（IMU）做离线导航定位", "date": "2026-11-14"}
 {"url": "https://github.com/erwinquilloy/OmniDeck", "stars": 10, "desc": "在 FrSky Ethos/EdgeTX 遥控器上统一显示 ArduPilot、INAV、Betaflight 的遥测数据", "date": "2026-11-14"}
+{"url": "https://github.com/skizzophrenic/SquachWatch-CYD", "stars": 503, "desc": "跑在 ESP32「廉价黄色开发板」上的固件：扫描并识别 Flock 摄像头、蓝牙追踪器、Meta 眼镜等无线监控设备", "date": "2026-11-15"}
+{"url": "https://github.com/qkaiser/broadcom-wps", "stars": 324, "desc": "识别采用 Broadcom SDK 的 WiFi 接入点并附已知受影响设备清单，用于无线/射频侧的路由器指纹排查（嵌入式 Linux 固件）", "date": "2026-11-15"}
+{"url": "https://github.com/FutureSharks/e-paper-art-display", "stars": 260, "desc": "ESP32 电子纸艺术相框固件：低功耗开发板驱动墨水屏显示画作，可挂墙长期显示", "date": "2026-11-15"}
+{"url": "https://github.com/FlashCat-Jordan/Flashduck", "stars": 182, "desc": "开源 ESP32-S3 桌面鸭机器人：六个舵机、单只动画眼睛、LVGL 界面与本地语音交互，含嵌入式固件与 3D 打印结构", "date": "2026-11-15"}
+{"url": "https://github.com/mozihe/z-localization", "stars": 126, "desc": "东北大学 RoboMaster 哨兵定位开源：LiDAR-IMU 里程计 + 重定位，ROS 2 机器人定位方案", "date": "2026-11-15"}
+{"url": "https://github.com/roboninecom/STS32XX-Firmware", "stars": 87, "desc": "面向 Feetech STS32XX 舵机的开源固件（GD32F130 单片机），用于 SO-ARM100/101/102 机械臂：平滑运动、可调 PID、重力补偿", "date": "2026-11-15"}
+{"url": "https://github.com/777arc/gnuradio-world", "stars": 82, "desc": "把 GNU Radio 整个搬进浏览器（WebAssembly）：附带大量示例流图、IQ 录制样例，支持 RTL-SDR/PlutoSDR/HackRF，零安装玩软件无线电", "date": "2026-11-15"}
+{"url": "https://github.com/CapnBry/widscan58", "stars": 73, "desc": "跑在 ESP32-S3 上的 SDR 扫描仪，专门扫 FPV 图传（VTX）频段，用来找空闲信道、避开干扰", "date": "2026-11-15"}
+{"url": "https://github.com/fpv-labs/ego-oscar", "stars": 55, "desc": "开源硬件 + 采集软件：Ego-OSCAR 双目-惯性第一人称摄像头（ESP32 + Radxa），用于 egocentric 视觉数据集采集", "date": "2026-11-15"}
+{"url": "https://github.com/HenrysCat/esp32-cyd-ham-dashboard", "stars": 50, "desc": "仿 Ham Clock 的业余无线电台仪表盘固件，跑在 ESP32-2432S028R 廉价黄色开发板上，显示太阳/传播/短波信息", "date": "2026-11-15"}
+{"url": "https://github.com/adamsthws/firmware-liberator", "stars": 34, "desc": "把 Sonoff 智能开关通过无线自动刷成 Tasmota/ESPHome/OpenBeken 的 OTA 工具，无需焊接，支持 ESP32 与 Beken 芯片", "date": "2026-11-15"}
+{"url": "https://github.com/hyulin472-dotcom/yolopoint11-vins-slam", "stars": 30, "desc": "基于 YOLOPointv11 + LightGlue 的双目视觉-惯性 SLAM，跑在 ROS 2 上，含特征点前后端", "date": "2026-11-15"}
+{"url": "https://github.com/OpenDrone-hw/OpenFrame-5F", "stars": 23, "desc": "开源 5 寸碳纤维自由飞 FPV 机架：Onshape CAD 源文件 + 零件清单，STEP 与图纸随 release 发布", "date": "2026-11-15"}
+{"url": "https://github.com/Secret-G/STM32-BMS-48Pro", "stars": 19, "desc": "STM32F103 + BQ76940 的 48V 电池管理系统：FreeRTOS 调度、CAN 总线通信、电芯均衡与失效保护", "date": "2026-11-15"}
+{"url": "https://github.com/mushBrainDave/esp32-p4-imx-camera", "stars": 15, "desc": "用 ESP32-P4 替代树莓派 Zero 2W 接 IMX219/IMX708 摄像头：MIPI-CSI 驱动与 ESP-IDF 工程", "date": "2026-11-15"}
+{"url": "https://github.com/JosiahWhite/rp2040-glitch-tool", "stars": 14, "desc": "RP2040 硬件测试夹具固件：USB CDC + Python API 做 I2C 读写、GPIO 脉冲序列、PWM 与硬件触发，用于故障注入与靶标控制", "date": "2026-11-15"}
+{"url": "https://github.com/frank26080115/Hot-Wand", "stars": 14, "desc": "便携紧凑的射频焊接台：可调温烙铁控制电路 + 固件，小众开源硬件", "date": "2026-11-15"}
+{"url": "https://github.com/gnuradio/gnuradio4-studio", "stars": 13, "desc": "GNU Radio 4 的浏览器/桌面 Studio：可视化搭流图、实时频谱/瀑布/时域面板，并把运行中的图变成应用的软件无线电工具", "date": "2026-11-15"}
+{"url": "https://github.com/guyue-maple1314/lingshu-ros2_quadruped_inspection", "stars": 13, "desc": "灵枢四足机器人巡检项目：ROS 2 三层架构、行为树与 PPO，覆盖 9 项核心技术", "date": "2026-11-15"}
+{"url": "https://github.com/KoshiroRobot/KRC-Actuator", "stars": 10, "desc": "DIY 机器人关节执行器：自研 FOC 驱动板 + 摆线减速器，含 CAD、PCB 与固件", "date": "2026-11-15"}

@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 297 个项目 · 数据更新时间 2026-11-14 · [返回总览](../README.md)
+> 共 300 个项目 · 数据更新时间 2026-11-15 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,423 · C++ · ⭐ 已 star`
+`★35,451 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★16,151 · Rust · ⭐ 已 star`
+`★16,314 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -91,7 +91,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,036 · Rust · ⭐ 已 star`
+`★4,061 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,321 · Python · ⭐ 已 star`
+`★3,334 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,169 · C++ · ⭐ 已 star`
+`★3,171 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -1056,7 +1056,7 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 ---
 
 #### [zelea2/rigol_vendor_bin](https://github.com/zelea2/rigol_vendor_bin)
-`★224 · C · ⭐ 已 star`
+`★225 · C · ⭐ 已 star`
 > 收录日期：2026-10-21
 
 ---
@@ -1254,7 +1254,7 @@ XCircuit 电路绘制与原理图捕捉工具
 ---
 
 #### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★139 · C · ⭐ 已 star`
+`★143 · C · ⭐ 已 star`
 USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
 > 收录日期：2026-11-12
 
@@ -1313,6 +1313,13 @@ AI 驱动 PCB 设计自动化：元件布局、布线优化与信号完整性检
 Tinkerforge 硬件的 KiCad 元件库
 > 热点推荐于 2026-10-29
 > 收录日期：2026-10-29
+
+---
+
+#### [mozihe/z-localization](https://github.com/mozihe/z-localization)
+`★126 · 🔥 热点推荐`
+东北大学 RoboMaster 哨兵定位开源：LiDAR-IMU 里程计 + 重定位，ROS 2 机器人定位方案
+> 收录日期：2026-11-15
 
 ---
 
@@ -2192,6 +2199,13 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 
 ---
 
+#### [frank26080115/Hot-Wand](https://github.com/frank26080115/Hot-Wand)
+`★14 · 🔥 热点推荐`
+便携紧凑的射频焊接台：可调温烙铁控制电路 + 固件，小众开源硬件
+> 收录日期：2026-11-15
+
+---
+
 #### [biosshot/kicad-copilot](https://github.com/biosshot/kicad-copilot)
 `★13 · ⭐🔥 已 star + 热点推荐`
 面向 KiCad 的 MCP 服务器，支持原理图生成与布局
@@ -2317,6 +2331,13 @@ KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计�
 嘉立创 EDA 专业版 AI 设计工作流：原理图/模块检查、PCB 制板规则核对、Gerber/BOM 导出与 G1–G5 评审门禁
 > 热点推荐于 2026-11-12
 > 收录日期：2026-11-12
+
+---
+
+#### [KoshiroRobot/KRC-Actuator](https://github.com/KoshiroRobot/KRC-Actuator)
+`★10 · 🔥 热点推荐`
+DIY 机器人关节执行器：自研 FOC 驱动板 + 摆线减速器，含 CAD、PCB 与固件
+> 收录日期：2026-11-15
 
 ---
 
