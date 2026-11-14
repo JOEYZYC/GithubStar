@@ -1060,6 +1060,15 @@ OVERRIDES: dict[str, str] = {
     "opendm40/opendm40": "硬件设计与 EDA",
     # 嵌入式与单片机（开发板硬件/编程参考：引脚、固件接口、扩展板、天线）
     "463N7/Cerberus-Dev-Board": "嵌入式与单片机",
+    # ---- 2026-11-15：本轮 20 条，待归类 1 条 + 3 条规则误判 ----
+    # 无线通信与感知（GNU Radio 4 的可视化 Studio，与 gnuradio/gnuradio 同口径）
+    "gnuradio/gnuradio4-studio": "无线通信与感知",
+    # 飞控与无人机（LiDAR-IMU 里程计 + 重定位，与 genz-lio/Naro/dual_lidar 同口径；误命中「仿真」进 EDA）
+    "mozihe/z-localization": "飞控与无人机",
+    # 飞控与无人机（双目视觉-惯性 SLAM，机器人定位口径，与 genz-lio/wsl 同类）
+    "hyulin472-dotcom/yolopoint11-vins-slam": "飞控与无人机",
+    # 嵌入式与单片机（FOC 驱动板 + 减速器的执行器硬件/固件，与 simplefoc/cdfoc/FOC-Servo 同口径）
+    "KoshiroRobot/KRC-Actuator": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"

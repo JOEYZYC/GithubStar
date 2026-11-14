@@ -3731,6 +3731,27 @@
    ]
   },
   {
+   "full_name": "mozihe/z-localization",
+   "url": "https://github.com/mozihe/z-localization",
+   "description": "东北大学 RoboMaster 哨兵定位开源：LiDAR-IMU 里程计 + 重定位，ROS 2 机器人定位方案",
+   "language": "",
+   "stars": 126,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-15",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
+  },
+  {
    "full_name": "skybrush-io/skybrush-server",
    "url": "https://github.com/skybrush-io/skybrush-server",
    "description": "无人机灯光秀与蜂群编队控制服务端",
@@ -4225,7 +4246,14 @@
    "added_at": "2026-11-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "PulkitRustagi/UWB-Localization",
@@ -5223,6 +5251,27 @@
    ]
   },
   {
+   "full_name": "hyulin472-dotcom/yolopoint11-vins-slam",
+   "url": "https://github.com/hyulin472-dotcom/yolopoint11-vins-slam",
+   "description": "基于 YOLOPointv11 + LightGlue 的双目视觉-惯性 SLAM，跑在 ROS 2 上，含特征点前后端",
+   "language": "",
+   "stars": 30,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-15",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
+  },
+  {
    "full_name": "ruvnet/ruv-drone",
    "url": "https://github.com/ruvnet/ruv-drone",
    "description": "Rust 实现的工业级协作无人机集群协调框架，含编队保持、Raft 共识与协同任务分配",
@@ -5562,7 +5611,14 @@
    "added_at": "2026-11-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "Jiahuan-Long/MSDrone-dataset",
@@ -6269,7 +6325,14 @@
    "added_at": "2026-11-15",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "HGSAFD8162/Expresslrs-Ghost-RX",
@@ -17075,7 +17138,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "v923z/micropython-ulab",
@@ -17984,7 +18054,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "motionlayer/Tinymovr",
@@ -18481,7 +18558,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "rh1tech/frank-os",
@@ -19179,7 +19263,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "mx3353672833-debug/moto-gps-waveshare",
@@ -21464,7 +21555,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "RockBase-iot/NM-CYD-C5",
@@ -22251,7 +22349,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "gcallipo/RadioDSP-DNR-Stm32f407",
@@ -22538,7 +22643,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "cn0xroot/IFDA",
@@ -23800,7 +23912,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "lalitshankarch/rvcore",
@@ -25487,7 +25606,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "johannesboernsen/ScopeBuddy",
@@ -26416,7 +26542,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "RTechAI/ForgeUI-P4",
@@ -26598,7 +26731,14 @@
    "added_at": "2026-11-15",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -28109,6 +28249,27 @@
    ],
    "hot_dates": [
     "2026-11-13"
+   ]
+  },
+  {
+   "full_name": "KoshiroRobot/KRC-Actuator",
+   "url": "https://github.com/KoshiroRobot/KRC-Actuator",
+   "description": "DIY 机器人关节执行器：自研 FOC 驱动板 + 摆线减速器，含 CAD、PCB 与固件",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-15",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
    ]
   },
   {
@@ -31886,20 +32047,6 @@
    ]
   },
   {
-   "full_name": "mozihe/z-localization",
-   "url": "https://github.com/mozihe/z-localization",
-   "description": "东北大学 RoboMaster 哨兵定位开源：LiDAR-IMU 里程计 + 重定位，ROS 2 机器人定位方案",
-   "language": "",
-   "stars": 126,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-15",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "jcyrax/pcbmodelgen",
    "url": "https://github.com/jcyrax/pcbmodelgen",
    "description": "把 KiCad PCB 文件转成可导入 openEMS 的模型",
@@ -34223,7 +34370,14 @@
    "added_at": "2026-11-15",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "biosshot/kicad-copilot",
@@ -34560,20 +34714,6 @@
    "hot_dates": [
     "2026-11-12"
    ]
-  },
-  {
-   "full_name": "KoshiroRobot/KRC-Actuator",
-   "url": "https://github.com/KoshiroRobot/KRC-Actuator",
-   "description": "DIY 机器人关节执行器：自研 FOC 驱动板 + 摆线减速器，含 CAD、PCB 与固件",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-15",
-   "category": "硬件设计与 EDA",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "uchan-nos/prepare-ai-review-for-kicad",
@@ -37329,7 +37469,14 @@
    "added_at": "2026-11-15",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
   },
   {
    "full_name": "srsran/zynq_timestamping",
@@ -39138,6 +39285,27 @@
    ]
   },
   {
+   "full_name": "gnuradio/gnuradio4-studio",
+   "url": "https://github.com/gnuradio/gnuradio4-studio",
+   "description": "GNU Radio 4 的浏览器/桌面 Studio：可视化搭流图、实时频谱/瀑布/时域面板，并把运行中的图变成应用的软件无线电工具",
+   "language": "",
+   "stars": 13,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-15",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-15"
+   ]
+  },
+  {
    "full_name": "KI3P/VWS-SDR",
    "url": "https://github.com/KI3P/VWS-SDR",
    "description": "软件定义接收机的射频前端硬件设计，含前端链路与滤波方案",
@@ -39562,7 +39730,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 303024,
+   "stars": 303025,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -39924,7 +40092,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 102913,
+   "stars": 102915,
    "topics": [
     "ai",
     "ai-scraping",
@@ -40416,7 +40584,7 @@
    "url": "https://github.com/lightpanda-io/browser",
    "description": "Lightpanda: the headless browser designed for AI and automation",
    "language": "Zig",
-   "stars": 42042,
+   "stars": 42043,
    "topics": [
     "browser",
     "browser-automation",
@@ -40777,7 +40945,7 @@
    "url": "https://github.com/QwenLM/qwen-code",
    "description": "An open-source AI coding agent that lives in your terminal.",
    "language": "TypeScript",
-   "stars": 30310,
+   "stars": 30311,
    "topics": [
     "agentic",
     "ai",
@@ -43397,7 +43565,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 58027,
+   "stars": 58028,
    "topics": [
     "agent",
     "agent-memory",
@@ -43458,7 +43626,7 @@
    "url": "https://github.com/rossant/awesome-math",
    "description": "A curated list of awesome mathematics resources",
    "language": "Python",
-   "stars": 16961,
+   "stars": 16962,
    "topics": [
     "awesome",
     "awesome-list",
@@ -44095,7 +44263,7 @@
    "url": "https://github.com/MakazhanAlpamys/Soup",
    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
    "language": "Python",
-   "stars": 10546,
+   "stars": 10547,
    "topics": [
     "cli",
     "consumer-gpu",
@@ -45533,20 +45701,6 @@
    ]
   },
   {
-   "full_name": "hyulin472-dotcom/yolopoint11-vins-slam",
-   "url": "https://github.com/hyulin472-dotcom/yolopoint11-vins-slam",
-   "description": "基于 YOLOPointv11 + LightGlue 的双目视觉-惯性 SLAM，跑在 ROS 2 上，含特征点前后端",
-   "language": "",
-   "stars": 30,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-15",
-   "category": "AI 模型与视觉",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "Scientist888-star/GDAFusion",
    "url": "https://github.com/Scientist888-star/GDAFusion",
    "description": "Pattern Recognition 2026 信息解耦的生成式红外可见光融合",
@@ -46838,20 +46992,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "待归类",
-   "note": ""
-  },
-  {
-   "full_name": "gnuradio/gnuradio4-studio",
-   "url": "https://github.com/gnuradio/gnuradio4-studio",
-   "description": "GNU Radio 4 的浏览器/桌面 Studio：可视化搭流图、实时频谱/瀑布/时域面板，并把运行中的图变成应用的软件无线电工具",
-   "language": "",
-   "stars": 13,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-15",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   },
   {

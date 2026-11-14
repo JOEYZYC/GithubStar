@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 300 个项目 · 数据更新时间 2026-11-15 · [返回总览](../README.md)
+> 共 298 个项目 · 数据更新时间 2026-11-15 · [返回总览](../README.md)
 
 ---
 
@@ -1316,13 +1316,6 @@ Tinkerforge 硬件的 KiCad 元件库
 
 ---
 
-#### [mozihe/z-localization](https://github.com/mozihe/z-localization)
-`★126 · 🔥 热点推荐`
-东北大学 RoboMaster 哨兵定位开源：LiDAR-IMU 里程计 + 重定位，ROS 2 机器人定位方案
-> 收录日期：2026-11-15
-
----
-
 #### [jcyrax/pcbmodelgen](https://github.com/jcyrax/pcbmodelgen)
 `★123 · ⭐🔥 已 star + 热点推荐`
 把 KiCad PCB 文件转成可导入 openEMS 的模型
@@ -2200,8 +2193,9 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 ---
 
 #### [frank26080115/Hot-Wand](https://github.com/frank26080115/Hot-Wand)
-`★14 · 🔥 热点推荐`
+`★14 · ⭐🔥 已 star + 热点推荐`
 便携紧凑的射频焊接台：可调温烙铁控制电路 + 固件，小众开源硬件
+> 热点推荐于 2026-11-15
 > 收录日期：2026-11-15
 
 ---
@@ -2331,13 +2325,6 @@ KiCad 上约束驱动的 AI 原理图/PCB 工作流，覆盖 RF 与电源设计�
 嘉立创 EDA 专业版 AI 设计工作流：原理图/模块检查、PCB 制板规则核对、Gerber/BOM 导出与 G1–G5 评审门禁
 > 热点推荐于 2026-11-12
 > 收录日期：2026-11-12
-
----
-
-#### [KoshiroRobot/KRC-Actuator](https://github.com/KoshiroRobot/KRC-Actuator)
-`★10 · 🔥 热点推荐`
-DIY 机器人关节执行器：自研 FOC 驱动板 + 摆线减速器，含 CAD、PCB 与固件
-> 收录日期：2026-11-15
 
 ---
 
