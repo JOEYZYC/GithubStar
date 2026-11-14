@@ -28954,7 +28954,7 @@
    "url": "https://github.com/Open-Cascade-SAS/OCCT",
    "description": "OCCT is an open-source software development platform for 3D CAD, CAM, CAE.",
    "language": "C++",
-   "stars": 3171,
+   "stars": 3172,
    "topics": [
     "3d",
     "3d-cad",
@@ -43492,7 +43492,7 @@
    "url": "https://github.com/byoungd/up",
    "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
    "language": "JavaScript",
-   "stars": 70537,
+   "stars": 70538,
    "topics": [
     "ai-literacy",
     "chinese",
@@ -46104,7 +46104,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 499028,
+   "stars": 499029,
    "topics": [
     "api",
     "apis",
@@ -46652,6 +46652,21 @@
    "note": ""
   },
   {
+   "full_name": "UniXNU/UniXNU",
+   "url": "https://github.com/UniXNU/UniXNU",
+   "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+   "language": "Python",
+   "stars": 2898,
+   "topics": [
+    "unixnu"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-11-15",
+   "category": "开发工具与系统资源",
+   "note": ""
+  },
+  {
    "full_name": "Taiizor/Sucrose",
    "url": "https://github.com/Taiizor/Sucrose",
    "description": "Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.",
@@ -46980,21 +46995,6 @@
    "note": ""
   },
   {
-   "full_name": "UniXNU/UniXNU",
-   "url": "https://github.com/UniXNU/UniXNU",
-   "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-   "language": "Python",
-   "stars": 2898,
-   "topics": [
-    "unixnu"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-11-15",
-   "category": "待归类",
-   "note": ""
-  },
-  {
    "full_name": "gnimaijil11/UniXNU-sheng-build",
    "url": "https://github.com/gnimaijil11/UniXNU-sheng-build",
    "description": "macOS 27.3 build for Xiaomi Pad 6S Pro (sheng) - rebuilt repo",
@@ -47004,7 +47004,7 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-11-15",
-   "category": "待归类",
+   "category": "开发工具与系统资源",
    "note": ""
   }
  ]

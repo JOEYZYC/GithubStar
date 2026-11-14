@@ -19,8 +19,7 @@
 | [AI Agent 与 LLM 工具链](categories/06-AIAgent与LLM工具链.md) | 170 | 编码 Agent、Skills、MCP、浏览器与自动化 |
 | [知识管理与笔记](categories/07-知识管理与笔记.md) | 32 | Obsidian、知识图谱、RAG、教程与书籍 |
 | [AI 模型与视觉](categories/08-AI模型与视觉.md) | 96 | 语音、视觉、模型训练 / 压缩 / 推理 |
-| [开发工具与系统资源](categories/09-开发工具与系统资源.md) | 46 | 系统工具、字体、容器、资源清单等 |
-| [待归类](categories/10-待归类.md) | 2 | 尚未归入上述分类的项目 |
+| [开发工具与系统资源](categories/09-开发工具与系统资源.md) | 48 | 系统工具、字体、容器、资源清单等 |
 
 ## 目录结构
 

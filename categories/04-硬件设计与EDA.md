@@ -145,7 +145,7 @@ FreeCAD MCP(Model Context Protocol) server
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,171 · C++ · ⭐ 已 star`
+`★3,172 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 

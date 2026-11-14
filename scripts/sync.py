@@ -1069,6 +1069,9 @@ OVERRIDES: dict[str, str] = {
     "hyulin472-dotcom/yolopoint11-vins-slam": "飞控与无人机",
     # 嵌入式与单片机（FOC 驱动板 + 减速器的执行器硬件/固件，与 simplefoc/cdfoc/FOC-Servo 同口径）
     "KoshiroRobot/KRC-Actuator": "嵌入式与单片机",
+    # 开发工具与系统资源（在非苹果 ARM64 硬件上经 UEFI 跑 iOS/macOS，与 xv6-riscv/apple-container 同桶）
+    "UniXNU/UniXNU": "开发工具与系统资源",
+    "gnimaijil11/UniXNU-sheng-build": "开发工具与系统资源",
 }
 
 UNCLASSIFIED = "待归类"
