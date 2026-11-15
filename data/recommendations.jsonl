@@ -2025,3 +2025,23 @@
 {"url": "https://github.com/gnuradio/gnuradio4-studio", "stars": 13, "desc": "GNU Radio 4 的浏览器/桌面 Studio：可视化搭流图、实时频谱/瀑布/时域面板，并把运行中的图变成应用的软件无线电工具", "date": "2026-11-15"}
 {"url": "https://github.com/guyue-maple1314/lingshu-ros2_quadruped_inspection", "stars": 13, "desc": "灵枢四足机器人巡检项目：ROS 2 三层架构、行为树与 PPO，覆盖 9 项核心技术", "date": "2026-11-15"}
 {"url": "https://github.com/KoshiroRobot/KRC-Actuator", "stars": 10, "desc": "DIY 机器人关节执行器：自研 FOC 驱动板 + 摆线减速器，含 CAD、PCB 与固件", "date": "2026-11-15"}
+{"url": "https://github.com/Roboparty/P-BFM", "stars": 128, "desc": "人形机器人运动控制基础模型：地形自适应、运动跟踪与目标到达", "date": "2026-11-16"}
+{"url": "https://github.com/AlyThawne/hamsphere-desktop", "stars": 102, "desc": "虚拟业余无线电收发机软件：11 个频段、双边带调制，模拟射频通信", "date": "2026-11-16"}
+{"url": "https://github.com/CloudZao/Metalio-E-INK4", "stars": 70, "desc": "开源墨水屏阅读设备整机：3.97 寸电子纸 + SSD1677 驱动 + CST816S 触控，含嵌入式固件与 ESP32 方案", "date": "2026-11-16"}
+{"url": "https://github.com/CloudZao/Metalio-E-INK4-Plus", "stars": 66, "desc": "墨水屏阅读设备 Plus 版：4.7 寸并行电子纸 + EPDiy/TPS65185 电源方案，嵌入式固件开源", "date": "2026-11-16"}
+{"url": "https://github.com/nv-tlabs/lidarverse", "stars": 50, "desc": "实时 LiDAR 世界模型：生成、预测与重仿真一体化，自动驾驶感知仿真", "date": "2026-11-16"}
+{"url": "https://github.com/dinggefei/fridge-eink-display", "stars": 50, "desc": "冰箱水墨屏信息屏：ESP32-S3 四色电子纸 + 嵌入式固件，配微信小程序与 FastAPI 后端", "date": "2026-11-16"}
+{"url": "https://github.com/Fluddel94/MVG_Abfahrtsdisplay_E290", "stars": 47, "desc": "慕尼黑公交电子纸到站显示屏，基于 Heltec Vision Master E290（ESP32-S3）嵌入式方案", "date": "2026-11-16"}
+{"url": "https://github.com/gehee/fpvOS", "stars": 38, "desc": "面向 FPV 图传接收/发射的开源固件，无人机视频链路", "date": "2026-11-16"}
+{"url": "https://github.com/Huashuijingying/SA-LIVO-Reimpl", "stars": 35, "desc": "SA-LIVO 的开源复现：LiDAR-惯性-视觉里程计，含退化处理，SLAM 导航定位", "date": "2026-11-16"}
+{"url": "https://github.com/NovikovVisuals/Pip-KeyPet", "stars": 31, "desc": "钥匙扣电子宠物：Waveshare ESP32-S3 AMOLED 1.75 寸屏 + LVGL 固件，浏览器一键烧录", "date": "2026-11-16"}
+{"url": "https://github.com/J-Rod-Ay/eink-quad", "stars": 31, "desc": "厨房电子纸仪表盘（Seeed reTerminal E1001 / ESP32-S3）：天气、新闻与行情，嵌入式固件", "date": "2026-11-16"}
+{"url": "https://github.com/fuxingyin/scan2mesh", "stars": 30, "desc": "高性能基于网格的 LiDAR 定位与跟踪，估计 LiDAR 位姿（SLAM 导航定位）", "date": "2026-11-16"}
+{"url": "https://github.com/hanjun815/RAGNAROK", "stars": 29, "desc": "IEEE RA-L 2026：面向腿式机器人的雷达-视觉-惯性 SLAM，鲁棒导航定位", "date": "2026-11-16"}
+{"url": "https://github.com/uzh-rpg/why_does_deep_learning_improve_visual_slam", "stars": 29, "desc": "研究深度学习为何能改进视觉 SLAM 的论文配套代码与实验", "date": "2026-11-16"}
+{"url": "https://github.com/Cartwhl/cartwheel-control", "stars": 25, "desc": "人形机器人的全身运动控制策略模型：运动跟踪与人形控制", "date": "2026-11-16"}
+{"url": "https://github.com/M5RogueOps/Periscope-OS", "stars": 21, "desc": "潜艇主题的 Wi-Fi 攻防雷达 + Spectrum Analyzer 与寻狐（M5 StickS3），无线安全工具", "date": "2026-11-16"}
+{"url": "https://github.com/poorDevMan/ps5-webkit-autoloader-esp32-DISPLAY", "stars": 18, "desc": "ESP32 显示屏上的 WebKit 自动加载器（PS5 主题），嵌入式显示玩法", "date": "2026-11-16"}
+{"url": "https://github.com/imsaiguy/TinySA-NanoVNA-for-Windows", "stars": 14, "desc": "tinySA Ultra 与 NanoVNA-F V3 的台式风格上位机：VNA 实时曲线、标记、Smith 圆与校准，射频仪器软件", "date": "2026-11-16"}
+{"url": "https://github.com/arlenko/gem-solder", "stars": 13, "desc": "DIY soldering 烙铁控制器：硬件 + 嵌入式固件，焊接工具", "date": "2026-11-16"}
+{"url": "https://github.com/gbulleryahen-hash/copo", "stars": 11, "desc": "浏览器里的开源 2D CNC 加工：V 雕刻/口袋/轮廓/双面 + 3D 仿真 + G-code，数控工具", "date": "2026-11-16"}

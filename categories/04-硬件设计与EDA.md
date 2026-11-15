@@ -1,11 +1,11 @@
 # 硬件设计与 EDA
 
-> 共 298 个项目 · 数据更新时间 2026-11-15 · [返回总览](../README.md)
+> 共 298 个项目 · 数据更新时间 2026-11-16 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,451 · C++ · ⭐ 已 star`
+`★35,479 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
@@ -20,7 +20,7 @@ Design physical products with AI
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★16,314 · Rust · ⭐ 已 star`
+`★16,494 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -91,7 +91,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,061 · Rust · ⭐ 已 star`
+`★4,076 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,334 · Python · ⭐ 已 star`
+`★3,349 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,172 · C++ · ⭐ 已 star`
+`★3,176 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -953,6 +953,12 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★279 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [Eriemon/verilog-generator](https://github.com/Eriemon/verilog-generator)
 `★278 · ⭐🔥 已 star + 热点推荐`
 面向 Verilog-2001 RTL 生成与 FPGA 设计流程的 Agent Skill
@@ -966,12 +972,6 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 自托管的 KiCad 工程浏览与可视化应用
 > 热点推荐于 2026-09-18
 > 收录日期：2026-09-18
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★277 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 
@@ -1056,7 +1056,7 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 ---
 
 #### [zelea2/rigol_vendor_bin](https://github.com/zelea2/rigol_vendor_bin)
-`★225 · C · ⭐ 已 star`
+`★226 · C · ⭐ 已 star`
 > 收录日期：2026-10-21
 
 ---
@@ -1237,6 +1237,13 @@ Rust 写的 EDA 编辑器，单窗口多标签、兼容 KiCad 文件格式，支
 
 ---
 
+#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
+`★150 · C · ⭐ 已 star`
+USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
+> 收录日期：2026-11-12
+
+---
+
 #### [Ashlixy17/PCB_lightgraph_Portable](https://github.com/Ashlixy17/PCB_lightgraph_Portable)
 `★148 · ⭐🔥 已 star + 热点推荐`
 PCB 光绘可视化工具的网页移植版，浏览器里直接看 Gerber 与板层叠构
@@ -1250,13 +1257,6 @@ PCB 光绘可视化工具的网页移植版，浏览器里直接看 Gerber 与�
 XCircuit 电路绘制与原理图捕捉工具
 > 热点推荐于 2026-09-17
 > 收录日期：2026-09-17
-
----
-
-#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★143 · C · ⭐ 已 star`
-USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
-> 收录日期：2026-11-12
 
 ---
 
@@ -1762,7 +1762,7 @@ RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立�
 ---
 
 #### [easyeda/easyeda-simulation-engine](https://github.com/easyeda/easyeda-simulation-engine)
-`★40 · C++ · ⭐ 已 star`
+`★41 · C++ · ⭐ 已 star`
 嘉立创EDA专业版原理图仿真引擎，基于NGspice和SimulIDE；EasyEDA Pro schematic local simulation engine, it is based on NGSpice and SimulIDE
 > 收录日期：2026-09-13
 
