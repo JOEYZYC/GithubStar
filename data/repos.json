@@ -3710,6 +3710,27 @@
    ]
   },
   {
+   "full_name": "Roboparty/P-BFM",
+   "url": "https://github.com/Roboparty/P-BFM",
+   "description": "人形机器人运动控制基础模型：地形自适应、运动跟踪与目标到达",
+   "language": "",
+   "stars": 128,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
+  },
+  {
    "full_name": "SpikeCalls/FlyDrones",
    "url": "https://github.com/SpikeCalls/FlyDrones",
    "description": "用果蝇连接组驱动无人机，神经元读数转为摇杆指令",
@@ -4755,6 +4776,27 @@
    ]
   },
   {
+   "full_name": "nv-tlabs/lidarverse",
+   "url": "https://github.com/nv-tlabs/lidarverse",
+   "description": "实时 LiDAR 世界模型：生成、预测与重仿真一体化，自动驾驶感知仿真",
+   "language": "",
+   "stars": 50,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
+  },
+  {
    "full_name": "piecol/LEVIA-H7",
    "url": "https://github.com/piecol/LEVIA-H7",
    "description": "开源硬件 STM32H743 无人机飞控板（原理图 + PCB + 固件）",
@@ -5081,7 +5123,14 @@
    "added_at": "2026-11-16",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "Den41k92/crsf-link-tester",
@@ -5116,6 +5165,27 @@
    "added_at": "2026-09-13",
    "category": "飞控与无人机",
    "note": ""
+  },
+  {
+   "full_name": "Huashuijingying/SA-LIVO-Reimpl",
+   "url": "https://github.com/Huashuijingying/SA-LIVO-Reimpl",
+   "description": "SA-LIVO 的开源复现：LiDAR-惯性-视觉里程计，含退化处理，SLAM 导航定位",
+   "language": "",
+   "stars": 35,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "jackgibbons85/ductgen",
@@ -5286,6 +5356,27 @@
    ]
   },
   {
+   "full_name": "fuxingyin/scan2mesh",
+   "url": "https://github.com/fuxingyin/scan2mesh",
+   "description": "高性能基于网格的 LiDAR 定位与跟踪，估计 LiDAR 位姿（SLAM 导航定位）",
+   "language": "",
+   "stars": 30,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
+  },
+  {
    "full_name": "ruvnet/ruv-drone",
    "url": "https://github.com/ruvnet/ruv-drone",
    "description": "Rust 实现的工业级协作无人机集群协调框架，含编队保持、Raft 共识与协同任务分配",
@@ -5304,6 +5395,27 @@
    ],
    "hot_dates": [
     "2026-10-04"
+   ]
+  },
+  {
+   "full_name": "hanjun815/RAGNAROK",
+   "url": "https://github.com/hanjun815/RAGNAROK",
+   "description": "IEEE RA-L 2026：面向腿式机器人的雷达-视觉-惯性 SLAM，鲁棒导航定位",
+   "language": "",
+   "stars": 29,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
    ]
   },
   {
@@ -5535,6 +5647,27 @@
    ],
    "hot_dates": [
     "2026-09-22"
+   ]
+  },
+  {
+   "full_name": "Cartwhl/cartwheel-control",
+   "url": "https://github.com/Cartwhl/cartwheel-control",
+   "description": "人形机器人的全身运动控制策略模型：运动跟踪与人形控制",
+   "language": "",
+   "stars": 25,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
    ]
   },
   {
@@ -8898,7 +9031,14 @@
    "added_at": "2026-11-16",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "bgin/RF-EMT",
@@ -9298,20 +9438,6 @@
    "hot_dates": [
     "2026-09-21"
    ]
-  },
-  {
-   "full_name": "nv-tlabs/lidarverse",
-   "url": "https://github.com/nv-tlabs/lidarverse",
-   "description": "实时 LiDAR 世界模型：生成、预测与重仿真一体化，自动驾驶感知仿真",
-   "language": "",
-   "stars": 50,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "AMReX-Microelectronics/artemis",
@@ -11508,7 +11634,14 @@
    "added_at": "2026-11-16",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "eye1patch/merlin",
@@ -21960,7 +22093,14 @@
    "added_at": "2026-11-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "Evil-Project-Team/ESP32-C5-J4CK3D",
@@ -22734,7 +22874,14 @@
    "added_at": "2026-11-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "cn0xroot/IFDA",
@@ -22895,7 +23042,14 @@
    "added_at": "2026-11-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "Mazin-O3/cpm-neo",
@@ -24346,7 +24500,14 @@
    "added_at": "2026-11-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "J-Rod-Ay/eink-quad",
@@ -24360,7 +24521,14 @@
    "added_at": "2026-11-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "bqy12346/Fall-Detection",
@@ -25942,7 +26110,14 @@
    "added_at": "2026-11-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "alexex1993/mcu-skills",
@@ -27228,7 +27403,14 @@
    "added_at": "2026-11-16",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -34534,6 +34716,27 @@
    ]
   },
   {
+   "full_name": "imsaiguy/TinySA-NanoVNA-for-Windows",
+   "url": "https://github.com/imsaiguy/TinySA-NanoVNA-for-Windows",
+   "description": "tinySA Ultra 与 NanoVNA-F V3 的台式风格上位机：VNA 实时曲线、标记、Smith 圆与校准，射频仪器软件",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
+  },
+  {
    "full_name": "biosshot/kicad-copilot",
    "url": "https://github.com/biosshot/kicad-copilot",
    "description": "面向 KiCad 的 MCP 服务器，支持原理图生成与布局",
@@ -37179,6 +37382,27 @@
    ]
   },
   {
+   "full_name": "AlyThawne/hamsphere-desktop",
+   "url": "https://github.com/AlyThawne/hamsphere-desktop",
+   "description": "虚拟业余无线电收发机软件：11 个频段、双边带调制，模拟射频通信",
+   "language": "",
+   "stars": 102,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-16",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
+  },
+  {
    "full_name": "EEddeenn/Pharos",
    "url": "https://github.com/EEddeenn/Pharos",
    "description": "GNSS 中频信号模拟器，Zig 实现，生成卫星导航基带信号用于接收机与定位算法测试",
@@ -39030,7 +39254,14 @@
    "added_at": "2026-11-16",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "GREAT-ISAC/CSI-MAE",
@@ -39898,7 +40129,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 303815,
+   "stars": 303816,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -39949,7 +40180,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 281601,
+   "stars": 281600,
    "topics": [
     "ai-agents",
     "cordis",
@@ -39987,7 +40218,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 233441,
+   "stars": 233442,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -40294,7 +40525,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 96785,
+   "stars": 96787,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -43549,7 +43780,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 148404,
+   "stars": 148405,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -44542,7 +44773,7 @@
    "url": "https://github.com/anomalyco/hex",
    "description": "Local voice dictation for mac, windows and linux",
    "language": "Rust",
-   "stars": 6896,
+   "stars": 6897,
    "topics": [
     "dictation",
     "linux",
@@ -45849,20 +46080,6 @@
    ]
   },
   {
-   "full_name": "Huashuijingying/SA-LIVO-Reimpl",
-   "url": "https://github.com/Huashuijingying/SA-LIVO-Reimpl",
-   "description": "SA-LIVO 的开源复现：LiDAR-惯性-视觉里程计，含退化处理，SLAM 导航定位",
-   "language": "",
-   "stars": 35,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "AI 模型与视觉",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "Beate-Suy-Zhang/EvoFuse",
    "url": "https://github.com/Beate-Suy-Zhang/EvoFuse",
    "description": "TPAMI 2026 红外与可见光融合的共生进化学习",
@@ -45926,20 +46143,6 @@
    ]
   },
   {
-   "full_name": "hanjun815/RAGNAROK",
-   "url": "https://github.com/hanjun815/RAGNAROK",
-   "description": "IEEE RA-L 2026：面向腿式机器人的雷达-视觉-惯性 SLAM，鲁棒导航定位",
-   "language": "",
-   "stars": 29,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "AI 模型与视觉",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "uzh-rpg/why_does_deep_learning_improve_visual_slam",
    "url": "https://github.com/uzh-rpg/why_does_deep_learning_improve_visual_slam",
    "description": "研究深度学习为何能改进视觉 SLAM 的论文配套代码与实验",
@@ -45951,7 +46154,14 @@
    "added_at": "2026-11-16",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-16"
+   ]
   },
   {
    "full_name": "senguptaa/mmpose",
@@ -46315,7 +46525,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 499293,
+   "stars": 499294,
    "topics": [
     "api",
     "apis",
@@ -47216,76 +47426,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "Roboparty/P-BFM",
-   "url": "https://github.com/Roboparty/P-BFM",
-   "description": "人形机器人运动控制基础模型：地形自适应、运动跟踪与目标到达",
-   "language": "",
-   "stars": 128,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "AlyThawne/hamsphere-desktop",
-   "url": "https://github.com/AlyThawne/hamsphere-desktop",
-   "description": "虚拟业余无线电收发机软件：11 个频段、双边带调制，模拟射频通信",
-   "language": "",
-   "stars": 102,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "fuxingyin/scan2mesh",
-   "url": "https://github.com/fuxingyin/scan2mesh",
-   "description": "高性能基于网格的 LiDAR 定位与跟踪，估计 LiDAR 位姿（SLAM 导航定位）",
-   "language": "",
-   "stars": 30,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Cartwhl/cartwheel-control",
-   "url": "https://github.com/Cartwhl/cartwheel-control",
-   "description": "人形机器人的全身运动控制策略模型：运动跟踪与人形控制",
-   "language": "",
-   "stars": 25,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "imsaiguy/TinySA-NanoVNA-for-Windows",
-   "url": "https://github.com/imsaiguy/TinySA-NanoVNA-for-Windows",
-   "description": "tinySA Ultra 与 NanoVNA-F V3 的台式风格上位机：VNA 实时曲线、标记、Smith 圆与校准，射频仪器软件",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-16",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

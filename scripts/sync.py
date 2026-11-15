@@ -1072,6 +1072,21 @@ OVERRIDES: dict[str, str] = {
     # 开发工具与系统资源（在非苹果 ARM64 硬件上经 UEFI 跑 iOS/macOS，与 xv6-riscv/apple-container 同桶）
     "UniXNU/UniXNU": "开发工具与系统资源",
     "gnimaijil11/UniXNU-sheng-build": "开发工具与系统资源",
+    # ---- 2026-11-16：本轮 20 条，待归类 5 条 + 3 条规则误判 ----
+    # 飞控与无人机（人形机器人运动控制基础模型/全身跟踪策略，机器人控制口径，与 KRC-Actuator/z-localization 同桶）
+    "Roboparty/P-BFM": "飞控与无人机",
+    "Cartwhl/cartwheel-control": "飞控与无人机",
+    # 飞控与无人机（LiDAR 定位与跟踪，与 z-localization/yolopoint11 同口径；简介含「SLAM」易被 AI 规则抢走）
+    "fuxingyin/scan2mesh": "飞控与无人机",
+    # 无线通信与感知（业余无线电虚拟收发机软件，射频通信口径）
+    "AlyThawne/hamsphere-desktop": "无线通信与感知",
+    # 硬件设计与 EDA（tinySA/NanoVNA 上位机/仪器工具，与 opendm40/Hot-Wand 同口径）
+    "imsaiguy/TinySA-NanoVNA-for-Windows": "硬件设计与 EDA",
+    # 飞控与无人机（LiDAR 世界模型，属定位/感知而非电磁仿真；误命中「仿真」进电磁桶）
+    "nv-tlabs/lidarverse": "飞控与无人机",
+    # 飞控与无人机（LiDAR-惯性-视觉里程计与雷达-视觉-惯性 SLAM，机器人定位口径；历史上被 AI 规则抢走）
+    "Huashuijingying/SA-LIVO-Reimpl": "飞控与无人机",
+    "hanjun815/RAGNAROK": "飞控与无人机",
 }
 
 UNCLASSIFIED = "待归类"

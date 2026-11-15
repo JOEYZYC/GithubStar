@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★303,815 · JavaScript · ⭐ 已 star`
+`★303,816 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -27,7 +27,7 @@ An agentic skills framework & software development methodology that works.
 ---
 
 #### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
-`★281,601 · TypeScript · ⭐ 已 star`
+`★281,600 · TypeScript · ⭐ 已 star`
 DeepSeek Harness: Everything is a Plugin.
 > 收录日期：2026-10-01
 
@@ -42,7 +42,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★233,441 · ⭐ 已 star`
+`★233,442 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -145,7 +145,7 @@ The design vocabulary for your coding agent. Steer with polish and bolder, revie
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★96,785 · JavaScript · ⭐ 已 star`
+`★96,787 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 

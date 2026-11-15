@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 298 个项目 · 数据更新时间 2026-11-16 · [返回总览](../README.md)
+> 共 299 个项目 · 数据更新时间 2026-11-16 · [返回总览](../README.md)
 
 ---
 
@@ -2197,6 +2197,14 @@ Verilator + PyQt6 驱动的交互式虚拟 FPGA 实验室，支持 Verilog 与 I
 便携紧凑的射频焊接台：可调温烙铁控制电路 + 固件，小众开源硬件
 > 热点推荐于 2026-11-15
 > 收录日期：2026-11-15
+
+---
+
+#### [imsaiguy/TinySA-NanoVNA-for-Windows](https://github.com/imsaiguy/TinySA-NanoVNA-for-Windows)
+`★14 · ⭐🔥 已 star + 热点推荐`
+tinySA Ultra 与 NanoVNA-F V3 的台式风格上位机：VNA 实时曲线、标记、Smith 圆与校准，射频仪器软件
+> 热点推荐于 2026-11-16
+> 收录日期：2026-11-16
 
 ---
 
