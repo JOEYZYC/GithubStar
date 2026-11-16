@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/Roboparty/P-BFM",
-  "stars": 128,
-  "desc": "人形机器人运动控制基础模型：地形自适应、运动跟踪与目标到达"
+  "url": "https://github.com/Ylianst/HTCommander",
+  "stars": 89,
+  "desc": "UV-Pro、GA-5WB、VR-N76 等业余无线电手台的跨平台控制与射频信道编程工具"
  },
  {
-  "url": "https://github.com/AlyThawne/hamsphere-desktop",
-  "stars": 102,
-  "desc": "虚拟业余无线电收发机软件：11 个频段、双边带调制，模拟射频通信"
- },
- {
-  "url": "https://github.com/CloudZao/Metalio-E-INK4",
-  "stars": 70,
-  "desc": "开源墨水屏阅读设备整机：3.97 寸电子纸 + SSD1677 驱动 + CST816S 触控，含嵌入式固件与 ESP32 方案"
- },
- {
-  "url": "https://github.com/CloudZao/Metalio-E-INK4-Plus",
+  "url": "https://github.com/hthoene/paperpaw",
   "stars": 66,
-  "desc": "墨水屏阅读设备 Plus 版：4.7 寸并行电子纸 + EPDiy/TPS65185 电源方案，嵌入式固件开源"
+  "desc": "面向电子纸（墨水屏）设备的高度可定制阅读器，插件化架构，可跑在嵌入式 Linux 阅读器上"
  },
  {
-  "url": "https://github.com/nv-tlabs/lidarverse",
-  "stars": 50,
-  "desc": "实时 LiDAR 世界模型：生成、预测与重仿真一体化，自动驾驶感知仿真"
+  "url": "https://github.com/ZhaoGY-N/huawei-nfc-eink-android-app",
+  "stars": 61,
+  "desc": "用 Android NFC 给华为 552×768 四色电子纸（墨水屏）传图刷新的工具，走 NXP Q-Poll 与 ISO-DEP"
  },
  {
-  "url": "https://github.com/dinggefei/fridge-eink-display",
-  "stars": 50,
-  "desc": "冰箱水墨屏信息屏：ESP32-S3 四色电子纸 + 嵌入式固件，配微信小程序与 FastAPI 后端"
+  "url": "https://github.com/katadelos/eink-emulator",
+  "stars": 51,
+  "desc": "在 QEMU 里跑 Kindle、Kobo、reMarkable 等电子纸（墨水屏）阅读器的原厂固件，带持久存储与输入"
  },
  {
-  "url": "https://github.com/Fluddel94/MVG_Abfahrtsdisplay_E290",
-  "stars": 47,
-  "desc": "慕尼黑公交电子纸到站显示屏，基于 Heltec Vision Master E290（ESP32-S3）嵌入式方案"
+  "url": "https://github.com/GregTroar/OpsLog",
+  "stars": 49,
+  "desc": "业余无线电（火腿）操作日志本，记录通联、呼号与频率"
  },
  {
-  "url": "https://github.com/gehee/fpvOS",
-  "stars": 38,
-  "desc": "面向 FPV 图传接收/发射的开源固件，无人机视频链路"
- },
- {
-  "url": "https://github.com/Huashuijingying/SA-LIVO-Reimpl",
-  "stars": 35,
-  "desc": "SA-LIVO 的开源复现：LiDAR-惯性-视觉里程计，含退化处理，SLAM 导航定位"
- },
- {
-  "url": "https://github.com/NovikovVisuals/Pip-KeyPet",
-  "stars": 31,
-  "desc": "钥匙扣电子宠物：Waveshare ESP32-S3 AMOLED 1.75 寸屏 + LVGL 固件，浏览器一键烧录"
- },
- {
-  "url": "https://github.com/J-Rod-Ay/eink-quad",
-  "stars": 31,
-  "desc": "厨房电子纸仪表盘（Seeed reTerminal E1001 / ESP32-S3）：天气、新闻与行情，嵌入式固件"
- },
- {
-  "url": "https://github.com/fuxingyin/scan2mesh",
-  "stars": 30,
-  "desc": "高性能基于网格的 LiDAR 定位与跟踪，估计 LiDAR 位姿（SLAM 导航定位）"
- },
- {
-  "url": "https://github.com/hanjun815/RAGNAROK",
-  "stars": 29,
-  "desc": "IEEE RA-L 2026：面向腿式机器人的雷达-视觉-惯性 SLAM，鲁棒导航定位"
- },
- {
-  "url": "https://github.com/uzh-rpg/why_does_deep_learning_improve_visual_slam",
-  "stars": 29,
-  "desc": "研究深度学习为何能改进视觉 SLAM 的论文配套代码与实验"
- },
- {
-  "url": "https://github.com/Cartwhl/cartwheel-control",
+  "url": "https://github.com/STM32World/hybridlink",
   "stars": 25,
-  "desc": "人形机器人的全身运动控制策略模型：运动跟踪与人形控制"
+  "desc": "把 ST-Link 与 DAPLink 合二为一的开源调试探针固件，STM32 上跑 SWD/JTAG"
  },
  {
-  "url": "https://github.com/M5RogueOps/Periscope-OS",
-  "stars": 21,
-  "desc": "潜艇主题的 Wi-Fi 攻防雷达 + Spectrum Analyzer 与寻狐（M5 StickS3），无线安全工具"
+  "url": "https://github.com/runtimerobotics/ros2_gui_installer",
+  "stars": 24,
+  "desc": "ROS 2（Humble/Jazzy）图形化安装器，含仿真与移动机器人组件"
  },
  {
-  "url": "https://github.com/poorDevMan/ps5-webkit-autoloader-esp32-DISPLAY",
+  "url": "https://github.com/SarahRoseLives/DM32Mayhem",
+  "stars": 20,
+  "desc": "仿 HackRF Mayhem 的 DM32 业余无线电手台自定义固件"
+ },
+ {
+  "url": "https://github.com/Djoko-cli/benq-screenbar-halo-matter",
+  "stars": 19,
+  "desc": "用 ESP32-C6 + Matter 接管明基屏幕挂灯的原生 2.4GHz 遥控，含嵌入式固件"
+ },
+ {
+  "url": "https://github.com/alphafox02/halowscope",
   "stars": 18,
-  "desc": "ESP32 显示屏上的 WebKit 自动加载器（PS5 主题），嵌入式显示玩法"
+  "desc": "ESP32-S3 无线频谱分析仪（spectrum analyzer）：经 Wi-Fi HaLow 把 2.4GHz 频谱送到浏览器，开源仪器固件"
  },
  {
-  "url": "https://github.com/imsaiguy/TinySA-NanoVNA-for-Windows",
+  "url": "https://github.com/serialx/eink-qemu",
+  "stars": 18,
+  "desc": "ESP32 电子纸（墨水屏）阅读器的 QEMU 仿真器，能跑原厂固件与第三方分支"
+ },
+ {
+  "url": "https://github.com/IdefixRC/Monitor-Buddy",
+  "stars": 18,
+  "desc": "ESP32-C6 触摸小屏桌面伙伴，Arduino 嵌入式固件：表情动画、时钟天气与月相"
+ },
+ {
+  "url": "https://github.com/MariusAdrian88/FlatCAM_Evo",
+  "stars": 18,
+  "desc": "把 Gerber 转成 CNC 雕刻/隔离布线加工文件（G-code）的工具，自制 PCB 工作流"
+ },
+ {
+  "url": "https://github.com/Natsuki-Min/jd79665aa-driver",
+  "stars": 15,
+  "desc": "3.98 英寸四色电子纸（墨水屏）的 RP2040 驱动，含 R20 LUT 与 MTP LZ 解码及逆向笔记"
+ },
+ {
+  "url": "https://github.com/raphlinus/vic-2350",
   "stars": 14,
-  "desc": "tinySA Ultra 与 NanoVNA-F V3 的台式风格上位机：VNA 实时曲线、标记、Smith 圆与校准，射频仪器软件"
+  "desc": "在 RP2350 开发板上复刻 1980 年代家用计算机的嵌入式方案"
  },
  {
-  "url": "https://github.com/arlenko/gem-solder",
+  "url": "https://github.com/sq6emm/icom-custom-firmware",
   "stars": 13,
-  "desc": "DIY soldering 烙铁控制器：硬件 + 嵌入式固件，焊接工具"
+  "desc": "Icom IC-705/IC-9700 业余无线电收发机的自定义固件补丁工具（变频段支持、A/B 引导）"
  },
  {
-  "url": "https://github.com/gbulleryahen-hash/copo",
+  "url": "https://github.com/Doukeyi-X/OpenSourceLogic-CH32H417",
+  "stars": 12,
+  "desc": "基于 CH32H417 的开源逻辑分析仪（logic analyzer）：16 通道 USB3.0 采样，配上位机与仪器固件"
+ },
+ {
+  "url": "https://github.com/e04/HamNoise",
   "stars": 11,
-  "desc": "浏览器里的开源 2D CNC 加工：V 雕刻/口袋/轮廓/双面 + 3D 仿真 + G-code，数控工具"
+  "desc": "业余无线电（火腿）通联的本地神经网络降噪，支持 CW/SSB 语音的射频信号实时滤波"
+ },
+ {
+  "url": "https://github.com/John-ODell/esp32-p4-rtl-sdr",
+  "stars": 10,
+  "desc": "手持 SDR 接收机固件：ESP-IDF 原生驱动 RTL-SDR V4，在 ESP32-P4 上做无线频谱/瀑布图、ADS-B 与 Wi-Fi/BLE 扫描"
+ },
+ {
+  "url": "https://github.com/ykmint/WirelessDAP-P4-C6",
+  "stars": 10,
+  "desc": "ESP32-P4 + C6 无线调试器：嘉立创 EDA 的 PCB/Gerber/BOM 工程 + CMSIS-DAP/ST-LINK 兼容上位机与固件"
  }
 ]
