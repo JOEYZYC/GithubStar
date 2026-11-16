@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 299 个项目 · 数据更新时间 2026-11-17 · [返回总览](../README.md)
+> 共 300 个项目 · 数据更新时间 2026-11-17 · [返回总览](../README.md)
 
 ---
 
@@ -2261,6 +2261,14 @@ MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）
 面向 ASIC 与 FPGA 设计的 AI Skills 集合，把代码助手接进硬件设计流程
 > 热点推荐于 2026-10-08
 > 收录日期：2026-10-08
+
+---
+
+#### [Doukeyi-X/OpenSourceLogic-CH32H417](https://github.com/Doukeyi-X/OpenSourceLogic-CH32H417)
+`★12 · ⭐🔥 已 star + 热点推荐`
+基于 CH32H417 的开源逻辑分析仪（logic analyzer）：16 通道 USB3.0 采样，配上位机与仪器固件
+> 热点推荐于 2026-11-17
+> 收录日期：2026-11-17
 
 ---
 

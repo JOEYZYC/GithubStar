@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★304,597 · JavaScript · ⭐ 已 star`
+`★304,598 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -42,7 +42,7 @@ Skills for Real Engineers. Straight from my .agents directory.
 ---
 
 #### [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
-`★233,726 · ⭐ 已 star`
+`★233,727 · ⭐ 已 star`
 A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 > 收录日期：2026-09-13
 
@@ -230,7 +230,7 @@ OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of gr
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★69,892 · Python · ⭐ 已 star`
+`★69,893 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 

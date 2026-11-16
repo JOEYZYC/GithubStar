@@ -89,6 +89,29 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-17：本轮 20 条，待归类 5 条 + 规则误判 3 条 + 口径一致性 3 条 ----
+    # 无线通信与感知（业余无线电手台的跨平台控制/信道编程，射频收发口径）
+    "Ylianst/HTCommander": "无线通信与感知",
+    # 无线通信与感知（业余无线电操作日志本，与 ham 口径一致）
+    "GregTroar/OpsLog": "无线通信与感知",
+    # 嵌入式与单片机（华为四色墨水屏的 NFC 刷新工具，与其它电子纸整机同口径）
+    "ZhaoGY-N/huawei-nfc-eink-android-app": "嵌入式与单片机",
+    # 嵌入式与单片机（Kindle/Kobo/reMarkable 电子纸固件 QEMU 模拟器，与其它电子纸件同口径）
+    "katadelos/eink-emulator": "嵌入式与单片机",
+    # 硬件设计与 EDA（开源逻辑分析仪仪器，与 enjoy-digital/slogic16u3 同口径）
+    "Doukeyi-X/OpenSourceLogic-CH32H417": "硬件设计与 EDA",
+    # 飞控与无人机（ROS 2 移动机器人安装器，与 2026-11-14 的 azerbenali/wsl 同口径）
+    "runtimerobotics/ros2_gui_installer": "飞控与无人机",
+    # 嵌入式与单片机（QEMU 里的 ESP32 电子纸固件模拟器；简介含「仿真」触发电磁规则，属规则误判）
+    "serialx/eink-qemu": "嵌入式与单片机",
+    # 嵌入式与单片机（电子纸驱动 IC 逆向；简介含「笔记」触发知识管理规则，属规则误判）
+    "Natsuki-Min/jd79665aa-driver": "嵌入式与单片机",
+    # 无线通信与感知（业余无线电收发机固件，射频收发口径）
+    "sq6emm/icom-custom-firmware": "无线通信与感知",
+    # 无线通信与感知（ESP32-P4 手持 RTL-SDR 接收机固件，与 flightscope-public 同口径）
+    "John-ODell/esp32-p4-rtl-sdr": "无线通信与感知",
+    # 无线通信与感知（业余无线电通联的神经网络降噪，射频信号处理口径）
+    "e04/HamNoise": "无线通信与感知",
     # ---- 2026-11-14：本轮 20 条，待归类 3 条 ----
     # 无线通信与感知（宝锋 DM-32UV 对讲机 P25 固件，射频收发口径）
     "tylerwatt12/Open25-DM32": "无线通信与感知",
