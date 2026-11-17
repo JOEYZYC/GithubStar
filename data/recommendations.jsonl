@@ -2065,3 +2065,23 @@
 {"url": "https://github.com/e04/HamNoise", "stars": 11, "desc": "业余无线电（火腿）通联的本地神经网络降噪，支持 CW/SSB 语音的射频信号实时滤波", "date": "2026-11-17"}
 {"url": "https://github.com/John-ODell/esp32-p4-rtl-sdr", "stars": 10, "desc": "手持 SDR 接收机固件：ESP-IDF 原生驱动 RTL-SDR V4，在 ESP32-P4 上做无线频谱/瀑布图、ADS-B 与 Wi-Fi/BLE 扫描", "date": "2026-11-17"}
 {"url": "https://github.com/ykmint/WirelessDAP-P4-C6", "stars": 10, "desc": "ESP32-P4 + C6 无线调试器：嘉立创 EDA 的 PCB/Gerber/BOM 工程 + CMSIS-DAP/ST-LINK 兼容上位机与固件", "date": "2026-11-17"}
+{"url": "https://github.com/EmirErtorer/ink-away.koplugin", "stars": 167, "desc": "KOReader 的电子纸手写与批注插件：图层绘图、手写转文字、在 EPUB 上直接落墨，面向墨水屏设备的笔记应用", "date": "2026-11-18"}
+{"url": "https://github.com/alimahi360/hamsphere-virtual-radio", "stars": 101, "desc": "HamSphere 虚拟业余无线电台（Windows）：十一个波段加双边带调制，把火腿通联整套搬进软件", "date": "2026-11-18"}
+{"url": "https://github.com/manuelx900/CrossNext", "stars": 74, "desc": "Xteink X4 Pro 电子纸阅读器的第三方固件：阅读、学习工具、游戏与应用，完整整机固件形态", "date": "2026-11-18"}
+{"url": "https://github.com/oneamendez/crate", "stars": 69, "desc": "可嵌入的 arm64 翻译与仿真虚拟机引擎（Rust）：为嵌入式移植与跨架构仿真提供运行环境", "date": "2026-11-18"}
+{"url": "https://github.com/jayesh-cmd/spotify-deck-esp32", "stars": 54, "desc": "ESP32 加 ST7735 小屏做的实体「正在播放」显示牌：显示歌曲、歌手、专辑封面与实时进度条", "date": "2026-11-18"}
+{"url": "https://github.com/lileetung/SparrowFlight", "stars": 46, "desc": "用现成零件自装的微型四轴无人机：ESP32-S3 作主控与飞控，含机架设计与固件", "date": "2026-11-18"}
+{"url": "https://github.com/QinnyuLan/SONIC_unitree_h2", "stars": 46, "desc": "宇树 H2 人形机器人的全身运动控制部署（TRACE/SONIC）：动作回放、规划与 VR 遥操作，基于 MuJoCo", "date": "2026-11-18"}
+{"url": "https://github.com/nvrooijen/KiLeidoscope", "stars": 39, "desc": "KiCad 与 Blender 之间的双向实时桥：实时三维视图、X 光/剖切、柔性板折叠与多板装配，服务 PCB 设计与原理图检查", "date": "2026-11-18"}
+{"url": "https://github.com/senihdal34/DeusNotebook", "stars": 38, "desc": "Onyx Boox 电子纸平板的手写笔记本应用（Kotlin）：针对墨水屏的书写与笔记流程", "date": "2026-11-18"}
+{"url": "https://github.com/Matt-Housley/cyd-dashboard", "stars": 37, "desc": "ESP32「便宜黄屏」业余无线电仪表盘：ISS 追踪、PSK Reporter、FT8/DX/POTA/SOTA 呼号、HF 传播与天气", "date": "2026-11-18"}
+{"url": "https://github.com/boangs/remarkable-space", "stars": 26, "desc": "reMarkable 电子纸平板的自定义主屏与应用平台（Go）：把墨水屏平板改造成可扩展桌面", "date": "2026-11-18"}
+{"url": "https://github.com/skizzophrenic/Tab5-Monster-C5-CSI-Human-Sensing", "stars": 22, "desc": "M5Stack Tab5 配 M5MonsterC5 射频模块做 WiFi CSI 人体感知：存在检测、呼吸率与潜入小游戏，无需加入目标网络", "date": "2026-11-18"}
+{"url": "https://github.com/thaibm/eink-chess", "stars": 16, "desc": "Kindle 电子纸上的国际象棋与残局谜题，按墨水屏刷新特性重做界面", "date": "2026-11-18"}
+{"url": "https://github.com/timofeytkachenko/drone_survival_analysis", "stars": 14, "desc": "无人机机队的失效预测：用生存分析回答「何时会坏、先修哪架、为何风险高」，含固件与载荷变化的对照", "date": "2026-11-18"}
+{"url": "https://github.com/Constant-Digital-Holdings-LLC/hamlive-oss", "stars": 14, "desc": "自托管的业余无线电网络（Net）运营 Web 应用，MIT 开源版", "date": "2026-11-18"}
+{"url": "https://github.com/Cyanat-qt/ros2_vision_grasp", "stars": 13, "desc": "Franka FR3 机械臂抓取仿真（ROS 2 Humble + MoveIt 2 + MuJoCo）：从 RGB-D 相机到运动规划与抓取的完整链路", "date": "2026-11-18"}
+{"url": "https://github.com/Ssbullock/pcb-layout-llm", "stars": 12, "desc": "为 KiCad PCB 布局微调的 Qwen2.5-Coder-32B（SFT + GRPO）：布局规划、布线策略与 23 块板的基准", "date": "2026-11-18"}
+{"url": "https://github.com/rtmux/rtmux", "stars": 11, "desc": "实时 RTOS 微内核（RISC-V）带 POSIX 能力，可选通过 LKL 复用 Linux 内核对齐，面向嵌入式实时系统", "date": "2026-11-18"}
+{"url": "https://github.com/fractional-n/qzss_dcr", "stars": 10, "desc": "QZSS L1S 灾害与危机报文（DCR/DCX）接收与查看器：u-blox 接收机加 GNSS 导航定位", "date": "2026-11-18"}
+{"url": "https://github.com/mohammadHaghpanah/SpectrumAnalyzer", "stars": 10, "desc": "离线 IQ 频谱分析仪（Qt 6 + FFTW3）：时域/频谱/瀑布视图、STFT、信道化与 IQ 导出，常用于软件无线电与射频测量", "date": "2026-11-18"}

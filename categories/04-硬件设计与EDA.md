@@ -1,13 +1,20 @@
 # 硬件设计与 EDA
 
-> 共 300 个项目 · 数据更新时间 2026-11-17 · [返回总览](../README.md)
+> 共 302 个项目 · 数据更新时间 2026-11-18 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,509 · C++ · ⭐ 已 star`
+`★35,549 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
+
+---
+
+#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+`★16,932 · Rust · ⭐ 已 star`
+SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
+> 收录日期：2026-10-17
 
 ---
 
@@ -16,13 +23,6 @@ Official source code of FreeCAD, a free and opensource multiplatform 3D parametr
 Design physical products with AI
 > 热点推荐于 2026-10-05
 > 收录日期：2026-09-13
-
----
-
-#### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★16,668 · Rust · ⭐ 已 star`
-SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
-> 收录日期：2026-10-17
 
 ---
 
@@ -91,7 +91,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,093 · Rust · ⭐ 已 star`
+`★4,128 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,7 +138,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,363 · Python · ⭐ 已 star`
+`★3,380 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -787,7 +787,7 @@ KiCad 自动布线工具集，Python + Rust 实现
 ---
 
 #### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★425 · Python · ⭐ 已 star`
+`★426 · Python · ⭐ 已 star`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 收录日期：2026-10-27
 
@@ -954,7 +954,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★278 · C++ · ⭐ 已 star`
+`★279 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1197,6 +1197,13 @@ Rust 写的开源 EDA：单窗口多标签编辑器、兼容 KiCad 工程格式�
 
 ---
 
+#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
+`★169 · C · ⭐ 已 star`
+USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
+> 收录日期：2026-11-12
+
+---
+
 #### [jvanderberg/kicad_jlcimport](https://github.com/jvanderberg/kicad_jlcimport)
 `★167 · ⭐🔥 已 star + 热点推荐`
 KiCad 插件：从嘉立创/LCSC 导入符号、封装与 3D 模型，含插件/CLI/GUI/TUI 四种用法，支持 KiCad 8/9/10
@@ -1226,13 +1233,6 @@ KiCad 插件：从嘉立创/LCSC 导入符号、封装与 3D 模型，含插件/
 sigrok 生态的图形前端，支持电源、电子负载、万用表与 LCR 表等测量设备
 > 热点推荐于 2026-09-25
 > 收录日期：2026-09-25
-
----
-
-#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★154 · C · ⭐ 已 star`
-USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
-> 收录日期：2026-11-12
 
 ---
 
@@ -1776,6 +1776,13 @@ RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立�
 
 ---
 
+#### [nvrooijen/KiLeidoscope](https://github.com/nvrooijen/KiLeidoscope)
+`★39 · 🔥 热点推荐`
+KiCad 与 Blender 之间的双向实时桥：实时三维视图、X 光/剖切、柔性板折叠与多板装配，服务 PCB 设计与原理图检查
+> 收录日期：2026-11-18
+
+---
+
 #### [Logicademy/HDLGen-ChatGPT](https://github.com/Logicademy/HDLGen-ChatGPT)
 `★37 · ⭐🔥 已 star + 热点推荐`
 与 ChatGPT 配合的对话式 HDL 生成工具，输出 VHDL/Verilog 模型、testbench 与 Vivado/Quartus 工程
@@ -2269,6 +2276,13 @@ MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）
 基于 CH32H417 的开源逻辑分析仪（logic analyzer）：16 通道 USB3.0 采样，配上位机与仪器固件
 > 热点推荐于 2026-11-17
 > 收录日期：2026-11-17
+
+---
+
+#### [Ssbullock/pcb-layout-llm](https://github.com/Ssbullock/pcb-layout-llm)
+`★12 · 🔥 热点推荐`
+为 KiCad PCB 布局微调的 Qwen2.5-Coder-32B（SFT + GRPO）：布局规划、布线策略与 23 块板的基准
+> 收录日期：2026-11-18
 
 ---
 

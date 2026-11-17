@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/Ylianst/HTCommander",
-  "stars": 89,
-  "desc": "UV-Pro、GA-5WB、VR-N76 等业余无线电手台的跨平台控制与射频信道编程工具"
+  "url": "https://github.com/EmirErtorer/ink-away.koplugin",
+  "stars": 167,
+  "desc": "KOReader 的电子纸手写与批注插件：图层绘图、手写转文字、在 EPUB 上直接落墨，面向墨水屏设备的笔记应用"
  },
  {
-  "url": "https://github.com/hthoene/paperpaw",
-  "stars": 66,
-  "desc": "面向电子纸（墨水屏）设备的高度可定制阅读器，插件化架构，可跑在嵌入式 Linux 阅读器上"
+  "url": "https://github.com/alimahi360/hamsphere-virtual-radio",
+  "stars": 101,
+  "desc": "HamSphere 虚拟业余无线电台（Windows）：十一个波段加双边带调制，把火腿通联整套搬进软件"
  },
  {
-  "url": "https://github.com/ZhaoGY-N/huawei-nfc-eink-android-app",
-  "stars": 61,
-  "desc": "用 Android NFC 给华为 552×768 四色电子纸（墨水屏）传图刷新的工具，走 NXP Q-Poll 与 ISO-DEP"
+  "url": "https://github.com/manuelx900/CrossNext",
+  "stars": 74,
+  "desc": "Xteink X4 Pro 电子纸阅读器的第三方固件：阅读、学习工具、游戏与应用，完整整机固件形态"
  },
  {
-  "url": "https://github.com/katadelos/eink-emulator",
-  "stars": 51,
-  "desc": "在 QEMU 里跑 Kindle、Kobo、reMarkable 等电子纸（墨水屏）阅读器的原厂固件，带持久存储与输入"
+  "url": "https://github.com/oneamendez/crate",
+  "stars": 69,
+  "desc": "可嵌入的 arm64 翻译与仿真虚拟机引擎（Rust）：为嵌入式移植与跨架构仿真提供运行环境"
  },
  {
-  "url": "https://github.com/GregTroar/OpsLog",
-  "stars": 49,
-  "desc": "业余无线电（火腿）操作日志本，记录通联、呼号与频率"
+  "url": "https://github.com/jayesh-cmd/spotify-deck-esp32",
+  "stars": 54,
+  "desc": "ESP32 加 ST7735 小屏做的实体「正在播放」显示牌：显示歌曲、歌手、专辑封面与实时进度条"
  },
  {
-  "url": "https://github.com/STM32World/hybridlink",
-  "stars": 25,
-  "desc": "把 ST-Link 与 DAPLink 合二为一的开源调试探针固件，STM32 上跑 SWD/JTAG"
+  "url": "https://github.com/lileetung/SparrowFlight",
+  "stars": 46,
+  "desc": "用现成零件自装的微型四轴无人机：ESP32-S3 作主控与飞控，含机架设计与固件"
  },
  {
-  "url": "https://github.com/runtimerobotics/ros2_gui_installer",
-  "stars": 24,
-  "desc": "ROS 2（Humble/Jazzy）图形化安装器，含仿真与移动机器人组件"
+  "url": "https://github.com/QinnyuLan/SONIC_unitree_h2",
+  "stars": 46,
+  "desc": "宇树 H2 人形机器人的全身运动控制部署（TRACE/SONIC）：动作回放、规划与 VR 遥操作，基于 MuJoCo"
  },
  {
-  "url": "https://github.com/SarahRoseLives/DM32Mayhem",
-  "stars": 20,
-  "desc": "仿 HackRF Mayhem 的 DM32 业余无线电手台自定义固件"
+  "url": "https://github.com/nvrooijen/KiLeidoscope",
+  "stars": 39,
+  "desc": "KiCad 与 Blender 之间的双向实时桥：实时三维视图、X 光/剖切、柔性板折叠与多板装配，服务 PCB 设计与原理图检查"
  },
  {
-  "url": "https://github.com/Djoko-cli/benq-screenbar-halo-matter",
-  "stars": 19,
-  "desc": "用 ESP32-C6 + Matter 接管明基屏幕挂灯的原生 2.4GHz 遥控，含嵌入式固件"
+  "url": "https://github.com/senihdal34/DeusNotebook",
+  "stars": 38,
+  "desc": "Onyx Boox 电子纸平板的手写笔记本应用（Kotlin）：针对墨水屏的书写与笔记流程"
  },
  {
-  "url": "https://github.com/alphafox02/halowscope",
-  "stars": 18,
-  "desc": "ESP32-S3 无线频谱分析仪（spectrum analyzer）：经 Wi-Fi HaLow 把 2.4GHz 频谱送到浏览器，开源仪器固件"
+  "url": "https://github.com/Matt-Housley/cyd-dashboard",
+  "stars": 37,
+  "desc": "ESP32「便宜黄屏」业余无线电仪表盘：ISS 追踪、PSK Reporter、FT8/DX/POTA/SOTA 呼号、HF 传播与天气"
  },
  {
-  "url": "https://github.com/serialx/eink-qemu",
-  "stars": 18,
-  "desc": "ESP32 电子纸（墨水屏）阅读器的 QEMU 仿真器，能跑原厂固件与第三方分支"
+  "url": "https://github.com/boangs/remarkable-space",
+  "stars": 26,
+  "desc": "reMarkable 电子纸平板的自定义主屏与应用平台（Go）：把墨水屏平板改造成可扩展桌面"
  },
  {
-  "url": "https://github.com/IdefixRC/Monitor-Buddy",
-  "stars": 18,
-  "desc": "ESP32-C6 触摸小屏桌面伙伴，Arduino 嵌入式固件：表情动画、时钟天气与月相"
+  "url": "https://github.com/skizzophrenic/Tab5-Monster-C5-CSI-Human-Sensing",
+  "stars": 22,
+  "desc": "M5Stack Tab5 配 M5MonsterC5 射频模块做 WiFi CSI 人体感知：存在检测、呼吸率与潜入小游戏，无需加入目标网络"
  },
  {
-  "url": "https://github.com/MariusAdrian88/FlatCAM_Evo",
-  "stars": 18,
-  "desc": "把 Gerber 转成 CNC 雕刻/隔离布线加工文件（G-code）的工具，自制 PCB 工作流"
+  "url": "https://github.com/thaibm/eink-chess",
+  "stars": 16,
+  "desc": "Kindle 电子纸上的国际象棋与残局谜题，按墨水屏刷新特性重做界面"
  },
  {
-  "url": "https://github.com/Natsuki-Min/jd79665aa-driver",
-  "stars": 15,
-  "desc": "3.98 英寸四色电子纸（墨水屏）的 RP2040 驱动，含 R20 LUT 与 MTP LZ 解码及逆向笔记"
- },
- {
-  "url": "https://github.com/raphlinus/vic-2350",
+  "url": "https://github.com/timofeytkachenko/drone_survival_analysis",
   "stars": 14,
-  "desc": "在 RP2350 开发板上复刻 1980 年代家用计算机的嵌入式方案"
+  "desc": "无人机机队的失效预测：用生存分析回答「何时会坏、先修哪架、为何风险高」，含固件与载荷变化的对照"
  },
  {
-  "url": "https://github.com/sq6emm/icom-custom-firmware",
+  "url": "https://github.com/Constant-Digital-Holdings-LLC/hamlive-oss",
+  "stars": 14,
+  "desc": "自托管的业余无线电网络（Net）运营 Web 应用，MIT 开源版"
+ },
+ {
+  "url": "https://github.com/Cyanat-qt/ros2_vision_grasp",
   "stars": 13,
-  "desc": "Icom IC-705/IC-9700 业余无线电收发机的自定义固件补丁工具（变频段支持、A/B 引导）"
+  "desc": "Franka FR3 机械臂抓取仿真（ROS 2 Humble + MoveIt 2 + MuJoCo）：从 RGB-D 相机到运动规划与抓取的完整链路"
  },
  {
-  "url": "https://github.com/Doukeyi-X/OpenSourceLogic-CH32H417",
+  "url": "https://github.com/Ssbullock/pcb-layout-llm",
   "stars": 12,
-  "desc": "基于 CH32H417 的开源逻辑分析仪（logic analyzer）：16 通道 USB3.0 采样，配上位机与仪器固件"
+  "desc": "为 KiCad PCB 布局微调的 Qwen2.5-Coder-32B（SFT + GRPO）：布局规划、布线策略与 23 块板的基准"
  },
  {
-  "url": "https://github.com/e04/HamNoise",
+  "url": "https://github.com/rtmux/rtmux",
   "stars": 11,
-  "desc": "业余无线电（火腿）通联的本地神经网络降噪，支持 CW/SSB 语音的射频信号实时滤波"
+  "desc": "实时 RTOS 微内核（RISC-V）带 POSIX 能力，可选通过 LKL 复用 Linux 内核对齐，面向嵌入式实时系统"
  },
  {
-  "url": "https://github.com/John-ODell/esp32-p4-rtl-sdr",
+  "url": "https://github.com/fractional-n/qzss_dcr",
   "stars": 10,
-  "desc": "手持 SDR 接收机固件：ESP-IDF 原生驱动 RTL-SDR V4，在 ESP32-P4 上做无线频谱/瀑布图、ADS-B 与 Wi-Fi/BLE 扫描"
+  "desc": "QZSS L1S 灾害与危机报文（DCR/DCX）接收与查看器：u-blox 接收机加 GNSS 导航定位"
  },
  {
-  "url": "https://github.com/ykmint/WirelessDAP-P4-C6",
+  "url": "https://github.com/mohammadHaghpanah/SpectrumAnalyzer",
   "stars": 10,
-  "desc": "ESP32-P4 + C6 无线调试器：嘉立创 EDA 的 PCB/Gerber/BOM 工程 + CMSIS-DAP/ST-LINK 兼容上位机与固件"
+  "desc": "离线 IQ 频谱分析仪（Qt 6 + FFTW3）：时域/频谱/瀑布视图、STFT、信道化与 IQ 导出，常用于软件无线电与射频测量"
  }
 ]
