@@ -89,6 +89,27 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-18：本轮 20 条，待归类 7 条 + 规则误判 1 条 + 口径一致性 2 条 ----
+    # 无线通信与感知（HamSphere 虚拟业余无线电台，ham 口径）
+    "alimahi360/hamsphere-virtual-radio": "无线通信与感知",
+    # 无线通信与感知（自托管的业余无线电网络点名 Web 应用，ham 口径）
+    "Constant-Digital-Holdings-LLC/hamlive-oss": "无线通信与感知",
+    # 无线通信与感知（离线 IQ 频谱分析仪桌面件，与 xmikos/qspectrumanalyzer 同口径）
+    "mohammadHaghpanah/SpectrumAnalyzer": "无线通信与感知",
+    # 嵌入式与单片机（Xteink X4 Pro 电子纸整机固件，与其它电子纸件同口径）
+    "manuelx900/CrossNext": "嵌入式与单片机",
+    # 嵌入式与单片机（reMarkable 电子纸主屏/应用平台，与其它电子纸件同口径）
+    "boangs/remarkable-space": "嵌入式与单片机",
+    # 嵌入式与单片机（Kindle 电子纸棋类应用，与其它电子纸件同口径）
+    "thaibm/eink-chess": "嵌入式与单片机",
+    # 嵌入式与单片机（KOReader 电子纸手写/批注插件，与 paperpaw 等电子纸件同口径）
+    "EmirErtorer/ink-away.koplugin": "嵌入式与单片机",
+    # 嵌入式与单片机（文石 BOOX 电子纸手写笔记本，与其它电子纸件同口径）
+    "senihdal34/DeusNotebook": "嵌入式与单片机",
+    # 飞控与无人机（宇树 H2 人形机器人全身运动控制部署，机器人口径）
+    "QinnyuLan/SONIC_unitree_h2": "飞控与无人机",
+    # 开发工具与系统资源（可嵌入的 arm64 翻译/仿真 VM 引擎，规则因「仿真」误进电磁仿真）
+    "oneamendez/crate": "开发工具与系统资源",
     # ---- 2026-11-17：本轮 20 条，待归类 5 条 + 规则误判 3 条 + 口径一致性 3 条 ----
     # 无线通信与感知（业余无线电手台的跨平台控制/信道编程，射频收发口径）
     "Ylianst/HTCommander": "无线通信与感知",

@@ -1777,8 +1777,9 @@ RP2040 四层开发板设计文件，重点做电源与信号完整性、嘉立�
 ---
 
 #### [nvrooijen/KiLeidoscope](https://github.com/nvrooijen/KiLeidoscope)
-`★39 · 🔥 热点推荐`
+`★39 · ⭐🔥 已 star + 热点推荐`
 KiCad 与 Blender 之间的双向实时桥：实时三维视图、X 光/剖切、柔性板折叠与多板装配，服务 PCB 设计与原理图检查
+> 热点推荐于 2026-11-18
 > 收录日期：2026-11-18
 
 ---
@@ -2280,8 +2281,9 @@ MiSTer 与 SoCKit 上的 CPS3 街机核心（Verilog，GPL-3.0）
 ---
 
 #### [Ssbullock/pcb-layout-llm](https://github.com/Ssbullock/pcb-layout-llm)
-`★12 · 🔥 热点推荐`
+`★12 · ⭐🔥 已 star + 热点推荐`
 为 KiCad PCB 布局微调的 Qwen2.5-Coder-32B（SFT + GRPO）：布局规划、布线策略与 23 块板的基准
+> 热点推荐于 2026-11-18
 > 收录日期：2026-11-18
 
 ---

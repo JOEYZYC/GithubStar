@@ -4913,7 +4913,35 @@
    "added_at": "2026-11-18",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
+   "full_name": "QinnyuLan/SONIC_unitree_h2",
+   "url": "https://github.com/QinnyuLan/SONIC_unitree_h2",
+   "description": "宇树 H2 人形机器人的全身运动控制部署（TRACE/SONIC）：动作回放、规划与 VR 遥操作，基于 MuJoCo",
+   "language": "",
+   "stars": 46,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "Luky-hui/bobac-air-ground-delivery",
@@ -6402,7 +6430,14 @@
    "added_at": "2026-11-18",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "ZSN2024/AGC-VLN",
@@ -6542,7 +6577,14 @@
    "added_at": "2026-11-18",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "HGSAFD8162/Expresslrs-Ghost-RX",
@@ -9102,20 +9144,6 @@
    "hot_dates": [
     "2026-11-16"
    ]
-  },
-  {
-   "full_name": "oneamendez/crate",
-   "url": "https://github.com/oneamendez/crate",
-   "description": "可嵌入的 arm64 翻译与仿真虚拟机引擎（Rust）：为嵌入式移植与跨架构仿真提供运行环境",
-   "language": "",
-   "stars": 69,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "bgin/RF-EMT",
@@ -19812,6 +19840,27 @@
    ]
   },
   {
+   "full_name": "EmirErtorer/ink-away.koplugin",
+   "url": "https://github.com/EmirErtorer/ink-away.koplugin",
+   "description": "KOReader 的电子纸手写与批注插件：图层绘图、手写转文字、在 EPUB 上直接落墨，面向墨水屏设备的笔记应用",
+   "language": "",
+   "stars": 167,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
    "full_name": "andrisgauracs/wifi-sensing-kit",
    "url": "https://github.com/andrisgauracs/wifi-sensing-kit",
    "description": "用三块 ESP32-S3 做 WiFi 感知训练：摄像头当老师，教会设备从 WiFi CSI 变化识别人体动作（MIT）",
@@ -21789,6 +21838,27 @@
    ]
   },
   {
+   "full_name": "manuelx900/CrossNext",
+   "url": "https://github.com/manuelx900/CrossNext",
+   "description": "Xteink X4 Pro 电子纸阅读器的第三方固件：阅读、学习工具、游戏与应用，完整整机固件形态",
+   "language": "",
+   "stars": 74,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
    "full_name": "nichlock/open-linear-scale",
    "url": "https://github.com/nichlock/open-linear-scale",
    "description": "开源电容式直线编码器/数显标尺，STMicroelectronics STM32 固件 + KiCad PCB，自研 DRO 参考",
@@ -22720,7 +22790,14 @@
    "added_at": "2026-11-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "john30/ebusd-esp32",
@@ -23908,6 +23985,27 @@
    ]
   },
   {
+   "full_name": "senihdal34/DeusNotebook",
+   "url": "https://github.com/senihdal34/DeusNotebook",
+   "description": "Onyx Boox 电子纸平板的手写笔记本应用（Kotlin）：针对墨水屏的书写与笔记流程",
+   "language": "",
+   "stars": 38,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
    "full_name": "OpenXiangShan/XiangShanLab",
    "url": "https://github.com/OpenXiangShan/XiangShanLab",
    "description": "香山处理器教学实验平台",
@@ -24066,7 +24164,14 @@
    "added_at": "2026-11-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "lucaong/nerves_thermal_camera",
@@ -25084,6 +25189,27 @@
    "added_at": "2026-09-13",
    "category": "嵌入式与单片机",
    "note": ""
+  },
+  {
+   "full_name": "boangs/remarkable-space",
+   "url": "https://github.com/boangs/remarkable-space",
+   "description": "reMarkable 电子纸平板的自定义主屏与应用平台（Go）：把墨水屏平板改造成可扩展桌面",
+   "language": "",
+   "stars": 26,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "sipeed/M0sense_BL702_example",
@@ -26875,6 +27001,27 @@
    ]
   },
   {
+   "full_name": "thaibm/eink-chess",
+   "url": "https://github.com/thaibm/eink-chess",
+   "description": "Kindle 电子纸上的国际象棋与残局谜题，按墨水屏刷新特性重做界面",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
    "full_name": "chibios-upstream/chibios",
    "url": "https://github.com/chibios-upstream/chibios",
    "description": "ChibiOS 的权威 git 源（RTOS + HAL）",
@@ -28403,7 +28550,14 @@
    "added_at": "2026-11-18",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -33985,7 +34139,14 @@
    "added_at": "2026-11-18",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "Logicademy/HDLGen-ChatGPT",
@@ -35301,7 +35462,14 @@
    "added_at": "2026-11-18",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "ckflight/RF_SIGNAL_GENERATOR_HARDWARE",
@@ -37844,6 +38012,27 @@
    ]
   },
   {
+   "full_name": "alimahi360/hamsphere-virtual-radio",
+   "url": "https://github.com/alimahi360/hamsphere-virtual-radio",
+   "description": "HamSphere 虚拟业余无线电台（Windows）：十一个波段加双边带调制，把火腿通联整套搬进软件",
+   "language": "",
+   "stars": 101,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
    "full_name": "liynjy/FMCW-Radar-Simulator",
    "url": "https://github.com/liynjy/FMCW-Radar-Simulator",
    "description": "MATLAB FMCW 雷达信号仿真器：生成 chirp 级原始数据，供雷达信号处理算法开发",
@@ -39653,7 +39842,14 @@
    "added_at": "2026-11-18",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "GREAT-ISAC/CSI-CLIP",
@@ -40136,6 +40332,27 @@
    ],
    "hot_dates": [
     "2026-11-10"
+   ]
+  },
+  {
+   "full_name": "Constant-Digital-Holdings-LLC/hamlive-oss",
+   "url": "https://github.com/Constant-Digital-Holdings-LLC/hamlive-oss",
+   "description": "自托管的业余无线电网络（Net）运营 Web 应用，MIT 开源版",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
    ]
   },
   {
@@ -40633,7 +40850,35 @@
    "added_at": "2026-11-18",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
+   "full_name": "mohammadHaghpanah/SpectrumAnalyzer",
+   "url": "https://github.com/mohammadHaghpanah/SpectrumAnalyzer",
+   "description": "离线 IQ 频谱分析仪（Qt 6 + FFTW3）：时域/频谱/瀑布视图、STFT、信道化与 IQ 导出，常用于软件无线电与射频测量",
+   "language": "",
+   "stars": 10,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
   },
   {
    "full_name": "BushlanovDev/ble-telemetry-lite",
@@ -40754,7 +40999,7 @@
    "url": "https://github.com/deepseek-ai/deepseek-harness",
    "description": "DeepSeek Harness: Everything is a Plugin.",
    "language": "TypeScript",
-   "stars": 282967,
+   "stars": 282968,
    "topics": [
     "ai-agents",
     "cordis",
@@ -40805,7 +41050,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 227584,
+   "stars": 227585,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -40831,7 +41076,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 150877,
+   "stars": 150878,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -41005,7 +41250,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 112159,
+   "stars": 112161,
    "topics": [
     "agent-skills",
     "ai",
@@ -41377,7 +41622,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 70353,
+   "stars": 70354,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -41659,7 +41904,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 39309,
+   "stars": 39310,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -44371,7 +44616,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 149636,
+   "stars": 149638,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -44894,20 +45139,6 @@
    ]
   },
   {
-   "full_name": "EmirErtorer/ink-away.koplugin",
-   "url": "https://github.com/EmirErtorer/ink-away.koplugin",
-   "description": "KOReader 的电子纸手写与批注插件：图层绘图、手写转文字、在 EPUB 上直接落墨，面向墨水屏设备的笔记应用",
-   "language": "",
-   "stars": 167,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "知识管理与笔记",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "chriskeraly/BerkeleyPhotonicInverseDesign",
    "url": "https://github.com/chriskeraly/BerkeleyPhotonicInverseDesign",
    "description": "UC Berkeley 的连续伴随法（adjoint）逆设计教程代码，基于 Lumerical 驱动，逐课讲解梯度优化光器件设计的实现细节",
@@ -44995,20 +45226,6 @@
    "hot_dates": [
     "2026-10-05"
    ]
-  },
-  {
-   "full_name": "senihdal34/DeusNotebook",
-   "url": "https://github.com/senihdal34/DeusNotebook",
-   "description": "Onyx Boox 电子纸平板的手写笔记本应用（Kotlin）：针对墨水屏的书写与笔记流程",
-   "language": "",
-   "stars": 38,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "知识管理与笔记",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "Platanor/hardware-compliance-handbook",
@@ -47610,7 +47827,7 @@
    "url": "https://github.com/TakWolf/ark-pixel-font",
    "description": "开源的泛拉丁与泛中日韩像素字体，黑体风格",
    "language": "Python",
-   "stars": 4988,
+   "stars": 4989,
    "topics": [
     "bitmap",
     "bitmap-font",
@@ -47853,6 +48070,27 @@
    "note": ""
   },
   {
+   "full_name": "oneamendez/crate",
+   "url": "https://github.com/oneamendez/crate",
+   "description": "可嵌入的 arm64 翻译与仿真虚拟机引擎（Rust）：为嵌入式移植与跨架构仿真提供运行环境",
+   "language": "",
+   "stars": 69,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-18",
+   "category": "开发工具与系统资源",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-18"
+   ]
+  },
+  {
    "full_name": "read-x/refactoring-ui-zh",
    "url": "https://github.com/read-x/refactoring-ui-zh",
    "description": "《Refactoring UI》中文翻译（非官方、个人学习用），含 PDF 到 Markdown 再到中文译文的完整工具链",
@@ -48045,104 +48283,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "alimahi360/hamsphere-virtual-radio",
-   "url": "https://github.com/alimahi360/hamsphere-virtual-radio",
-   "description": "HamSphere 虚拟业余无线电台（Windows）：十一个波段加双边带调制，把火腿通联整套搬进软件",
-   "language": "",
-   "stars": 101,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "manuelx900/CrossNext",
-   "url": "https://github.com/manuelx900/CrossNext",
-   "description": "Xteink X4 Pro 电子纸阅读器的第三方固件：阅读、学习工具、游戏与应用，完整整机固件形态",
-   "language": "",
-   "stars": 74,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "QinnyuLan/SONIC_unitree_h2",
-   "url": "https://github.com/QinnyuLan/SONIC_unitree_h2",
-   "description": "宇树 H2 人形机器人的全身运动控制部署（TRACE/SONIC）：动作回放、规划与 VR 遥操作，基于 MuJoCo",
-   "language": "",
-   "stars": 46,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "boangs/remarkable-space",
-   "url": "https://github.com/boangs/remarkable-space",
-   "description": "reMarkable 电子纸平板的自定义主屏与应用平台（Go）：把墨水屏平板改造成可扩展桌面",
-   "language": "",
-   "stars": 26,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "thaibm/eink-chess",
-   "url": "https://github.com/thaibm/eink-chess",
-   "description": "Kindle 电子纸上的国际象棋与残局谜题，按墨水屏刷新特性重做界面",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "Constant-Digital-Holdings-LLC/hamlive-oss",
-   "url": "https://github.com/Constant-Digital-Holdings-LLC/hamlive-oss",
-   "description": "自托管的业余无线电网络（Net）运营 Web 应用，MIT 开源版",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "mohammadHaghpanah/SpectrumAnalyzer",
-   "url": "https://github.com/mohammadHaghpanah/SpectrumAnalyzer",
-   "description": "离线 IQ 频谱分析仪（Qt 6 + FFTW3）：时域/频谱/瀑布视图、STFT、信道化与 IQ 导出，常用于软件无线电与射频测量",
-   "language": "",
-   "stars": 10,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-18",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
