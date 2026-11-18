@@ -2085,3 +2085,19 @@
 {"url": "https://github.com/rtmux/rtmux", "stars": 11, "desc": "实时 RTOS 微内核（RISC-V）带 POSIX 能力，可选通过 LKL 复用 Linux 内核对齐，面向嵌入式实时系统", "date": "2026-11-18"}
 {"url": "https://github.com/fractional-n/qzss_dcr", "stars": 10, "desc": "QZSS L1S 灾害与危机报文（DCR/DCX）接收与查看器：u-blox 接收机加 GNSS 导航定位", "date": "2026-11-18"}
 {"url": "https://github.com/mohammadHaghpanah/SpectrumAnalyzer", "stars": 10, "desc": "离线 IQ 频谱分析仪（Qt 6 + FFTW3）：时域/频谱/瀑布视图、STFT、信道化与 IQ 导出，常用于软件无线电与射频测量", "date": "2026-11-18"}
+{"url": "https://github.com/KirinDenis/OWLOS-FLIGHT-RADAR", "stars": 66, "desc": "ESP32 带屏开发板（CYD 等）上的实时航班雷达：把周边飞机画在地图上，用接收机数据驱动", "date": "2026-11-19"}
+{"url": "https://github.com/ismailakdag/cst-studio-mcp", "stars": 18, "desc": "用 MCP 驱动 CST Studio Suite 2024-2026 的 Python 服务：建模、求解设置与结果验证，用于天线/电磁仿真", "date": "2026-11-19"}
+{"url": "https://github.com/nongxl/esp32_Navigation", "stars": 16, "desc": "ESP32 上的导航定位与路径规划示例固件，嵌入式开发板实践", "date": "2026-11-19"}
+{"url": "https://github.com/guardianer9-debug/cst-studio-orchestrator-mcp", "stars": 13, "desc": "CST Studio Suite 的统一 MCP 自动化层：天线、射频/电磁、PCB 信号完整性与场路协同仿真", "date": "2026-11-19"}
+{"url": "https://github.com/arturomeneses100/servo-vision-control", "stars": 13, "desc": "Python + OpenCV 视觉闭环控制舵机：On-Off/PI/PID 串口下发，机器视觉实操", "date": "2026-11-19"}
+{"url": "https://github.com/arturomeneses100/servo-pic-firmware", "stars": 11, "desc": "PIC16F877A 舵机固件：UART 收角度、生成 PWM，单片机控制电机", "date": "2026-11-19"}
+{"url": "https://github.com/GlassOnTin/lr2021-elrs", "stars": 9, "desc": "Semtech LR2021 上的 ExpressLRS 双频（2.4GHz + Sub-GHz）发射/接收机与监测固件", "date": "2026-11-19"}
+{"url": "https://github.com/rusyln/ESP32-S3-ePaper-1.54-SigBin", "stars": 9, "desc": "1.54 吋电子纸上的被动 WiFi/BLE 无线侦察：抓包、握手与 PKID 捕获、去认证检测", "date": "2026-11-19"}
+{"url": "https://github.com/everythingfreee/ESP32-WiFi-CSI-Human-Sensing", "stars": 8, "desc": "两块 ESP32 开发板的 WiFi CSI 人体感知与粗略位置跟踪，无线感知、无摄像头", "date": "2026-11-19"}
+{"url": "https://github.com/SanjayKumaran2805/UAV-Thermal-Imaging-for-Real-Time-Anomaly-Detection", "stars": 8, "desc": "无人机载红外热像 + RGB 双光融合，做灾害搜救的实时异常检测", "date": "2026-11-19"}
+{"url": "https://github.com/woson-L/dsh-em-agent", "stars": 8, "desc": "DSH 电磁智能体 · 天线设计控制台，由 CST Studio Suite MCP 驱动做电磁仿真", "date": "2026-11-19"}
+{"url": "https://github.com/5h4d0wn1k/esp32-csi-sensing", "stars": 6, "desc": "ESP32-CSI 无线感知：原始 CSI 采集、实时可视化与人体存在检测", "date": "2026-11-19"}
+{"url": "https://github.com/microhenrio/openocd-mcp", "stars": 5, "desc": "OpenOCD 的 MCP 服务器：让 AI 助手直接做 SWD/JTAG 调试与固件烧录", "date": "2026-11-19"}
+{"url": "https://github.com/jman4162/antenna-cad", "stars": 3, "desc": "天线与相控阵 PCB 设计编译器：YAML 描述输入，自动综合出天线/相控阵电路板", "date": "2026-11-19"}
+{"url": "https://github.com/t4k3l1u/vo2-thz-metamaterial-absorber", "stars": 1, "desc": "VO2 超宽带太赫兹超材料完美吸波体的 CST 复现，含 S 参数与吸波率", "date": "2026-11-19"}
+{"url": "https://github.com/BailnXIE/FYP-Metamaterial-Absorber", "stars": 1, "desc": "宽带等离激元超表面吸波体的机器学习逆向设计", "date": "2026-11-19"}

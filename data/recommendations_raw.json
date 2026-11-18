@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/EmirErtorer/ink-away.koplugin",
-  "stars": 167,
-  "desc": "KOReader 的电子纸手写与批注插件：图层绘图、手写转文字、在 EPUB 上直接落墨，面向墨水屏设备的笔记应用"
+  "url": "https://github.com/KirinDenis/OWLOS-FLIGHT-RADAR",
+  "stars": 66,
+  "desc": "ESP32 带屏开发板（CYD 等）上的实时航班雷达：把周边飞机画在地图上，用接收机数据驱动"
  },
  {
-  "url": "https://github.com/alimahi360/hamsphere-virtual-radio",
-  "stars": 101,
-  "desc": "HamSphere 虚拟业余无线电台（Windows）：十一个波段加双边带调制，把火腿通联整套搬进软件"
- },
- {
-  "url": "https://github.com/manuelx900/CrossNext",
-  "stars": 74,
-  "desc": "Xteink X4 Pro 电子纸阅读器的第三方固件：阅读、学习工具、游戏与应用，完整整机固件形态"
- },
- {
-  "url": "https://github.com/oneamendez/crate",
-  "stars": 69,
-  "desc": "可嵌入的 arm64 翻译与仿真虚拟机引擎（Rust）：为嵌入式移植与跨架构仿真提供运行环境"
- },
- {
-  "url": "https://github.com/jayesh-cmd/spotify-deck-esp32",
-  "stars": 54,
-  "desc": "ESP32 加 ST7735 小屏做的实体「正在播放」显示牌：显示歌曲、歌手、专辑封面与实时进度条"
- },
- {
-  "url": "https://github.com/lileetung/SparrowFlight",
-  "stars": 46,
-  "desc": "用现成零件自装的微型四轴无人机：ESP32-S3 作主控与飞控，含机架设计与固件"
- },
- {
-  "url": "https://github.com/QinnyuLan/SONIC_unitree_h2",
-  "stars": 46,
-  "desc": "宇树 H2 人形机器人的全身运动控制部署（TRACE/SONIC）：动作回放、规划与 VR 遥操作，基于 MuJoCo"
- },
- {
-  "url": "https://github.com/nvrooijen/KiLeidoscope",
-  "stars": 39,
-  "desc": "KiCad 与 Blender 之间的双向实时桥：实时三维视图、X 光/剖切、柔性板折叠与多板装配，服务 PCB 设计与原理图检查"
- },
- {
-  "url": "https://github.com/senihdal34/DeusNotebook",
-  "stars": 38,
-  "desc": "Onyx Boox 电子纸平板的手写笔记本应用（Kotlin）：针对墨水屏的书写与笔记流程"
- },
- {
-  "url": "https://github.com/Matt-Housley/cyd-dashboard",
-  "stars": 37,
-  "desc": "ESP32「便宜黄屏」业余无线电仪表盘：ISS 追踪、PSK Reporter、FT8/DX/POTA/SOTA 呼号、HF 传播与天气"
- },
- {
-  "url": "https://github.com/boangs/remarkable-space",
-  "stars": 26,
-  "desc": "reMarkable 电子纸平板的自定义主屏与应用平台（Go）：把墨水屏平板改造成可扩展桌面"
- },
- {
-  "url": "https://github.com/skizzophrenic/Tab5-Monster-C5-CSI-Human-Sensing",
+  "url": "https://github.com/OpenDrone-hw/OpenAIO",
   "stars": 22,
-  "desc": "M5Stack Tab5 配 M5MonsterC5 射频模块做 WiFi CSI 人体感知：存在检测、呼吸率与潜入小游戏，无需加入目标网络"
+  "desc": "2-6S toothpick 机架开源 AIO 飞控板：飞控 + 4 合 1 AM32 电调一体化 PCB"
  },
  {
-  "url": "https://github.com/thaibm/eink-chess",
+  "url": "https://github.com/ismailakdag/cst-studio-mcp",
+  "stars": 18,
+  "desc": "用 MCP 驱动 CST Studio Suite 2024-2026 的 Python 服务：建模、求解设置与结果验证，用于天线/电磁仿真"
+ },
+ {
+  "url": "https://github.com/admin-2026/kicad_ems_plugin_pub",
+  "stars": 18,
+  "desc": "KiCad pcbnew 插件：在真实 PCB 版图上仿真并调谐天线，做电磁仿真闭环"
+ },
+ {
+  "url": "https://github.com/OpenDrone-hw/OpenAIO-Whoop",
   "stars": 16,
-  "desc": "Kindle 电子纸上的国际象棋与残局谜题，按墨水屏刷新特性重做界面"
+  "desc": "1S whoop 开源 AIO：飞控 + 四路无刷电调 + ExpressLRS 接收机一体板"
  },
  {
-  "url": "https://github.com/timofeytkachenko/drone_survival_analysis",
-  "stars": 14,
-  "desc": "无人机机队的失效预测：用生存分析回答「何时会坏、先修哪架、为何风险高」，含固件与载荷变化的对照"
+  "url": "https://github.com/nongxl/esp32_Navigation",
+  "stars": 16,
+  "desc": "ESP32 上的导航定位与路径规划示例固件，嵌入式开发板实践"
  },
  {
-  "url": "https://github.com/Constant-Digital-Holdings-LLC/hamlive-oss",
-  "stars": 14,
-  "desc": "自托管的业余无线电网络（Net）运营 Web 应用，MIT 开源版"
- },
- {
-  "url": "https://github.com/Cyanat-qt/ros2_vision_grasp",
+  "url": "https://github.com/guardianer9-debug/cst-studio-orchestrator-mcp",
   "stars": 13,
-  "desc": "Franka FR3 机械臂抓取仿真（ROS 2 Humble + MoveIt 2 + MuJoCo）：从 RGB-D 相机到运动规划与抓取的完整链路"
+  "desc": "CST Studio Suite 的统一 MCP 自动化层：天线、射频/电磁、PCB 信号完整性与场路协同仿真"
  },
  {
-  "url": "https://github.com/Ssbullock/pcb-layout-llm",
+  "url": "https://github.com/arturomeneses100/servo-vision-control",
+  "stars": 13,
+  "desc": "Python + OpenCV 视觉闭环控制舵机：On-Off/PI/PID 串口下发，机器视觉实操"
+ },
+ {
+  "url": "https://github.com/okupacolossal/WifiSpaceMapper",
   "stars": 12,
-  "desc": "为 KiCad PCB 布局微调的 Qwen2.5-Coder-32B（SFT + GRPO）：布局规划、布线策略与 23 块板的基准"
+  "desc": "商品 ESP32 上从零实现的 WiFi CSI 免设备动作感知，走 ESP-IDF 固件，做无线感知"
  },
  {
-  "url": "https://github.com/rtmux/rtmux",
+  "url": "https://github.com/arturomeneses100/servo-pic-firmware",
   "stars": 11,
-  "desc": "实时 RTOS 微内核（RISC-V）带 POSIX 能力，可选通过 LKL 复用 Linux 内核对齐，面向嵌入式实时系统"
+  "desc": "PIC16F877A 舵机固件：UART 收角度、生成 PWM，单片机控制电机"
  },
  {
-  "url": "https://github.com/fractional-n/qzss_dcr",
-  "stars": 10,
-  "desc": "QZSS L1S 灾害与危机报文（DCR/DCX）接收与查看器：u-blox 接收机加 GNSS 导航定位"
+  "url": "https://github.com/GlassOnTin/lr2021-elrs",
+  "stars": 9,
+  "desc": "Semtech LR2021 上的 ExpressLRS 双频（2.4GHz + Sub-GHz）发射/接收机与监测固件"
  },
  {
-  "url": "https://github.com/mohammadHaghpanah/SpectrumAnalyzer",
-  "stars": 10,
-  "desc": "离线 IQ 频谱分析仪（Qt 6 + FFTW3）：时域/频谱/瀑布视图、STFT、信道化与 IQ 导出，常用于软件无线电与射频测量"
+  "url": "https://github.com/rusyln/ESP32-S3-ePaper-1.54-SigBin",
+  "stars": 9,
+  "desc": "1.54 吋电子纸上的被动 WiFi/BLE 无线侦察：抓包、握手与 PKID 捕获、去认证检测"
+ },
+ {
+  "url": "https://github.com/everythingfreee/ESP32-WiFi-CSI-Human-Sensing",
+  "stars": 8,
+  "desc": "两块 ESP32 开发板的 WiFi CSI 人体感知与粗略位置跟踪，无线感知、无摄像头"
+ },
+ {
+  "url": "https://github.com/SanjayKumaran2805/UAV-Thermal-Imaging-for-Real-Time-Anomaly-Detection",
+  "stars": 8,
+  "desc": "无人机载红外热像 + RGB 双光融合，做灾害搜救的实时异常检测"
+ },
+ {
+  "url": "https://github.com/woson-L/dsh-em-agent",
+  "stars": 8,
+  "desc": "DSH 电磁智能体 · 天线设计控制台，由 CST Studio Suite MCP 驱动做电磁仿真"
+ },
+ {
+  "url": "https://github.com/5h4d0wn1k/esp32-csi-sensing",
+  "stars": 6,
+  "desc": "ESP32-CSI 无线感知：原始 CSI 采集、实时可视化与人体存在检测"
+ },
+ {
+  "url": "https://github.com/microhenrio/openocd-mcp",
+  "stars": 5,
+  "desc": "OpenOCD 的 MCP 服务器：让 AI 助手直接做 SWD/JTAG 调试与固件烧录"
+ },
+ {
+  "url": "https://github.com/jman4162/antenna-cad",
+  "stars": 3,
+  "desc": "天线与相控阵 PCB 设计编译器：YAML 描述输入，自动综合出天线/相控阵电路板"
+ },
+ {
+  "url": "https://github.com/t4k3l1u/vo2-thz-metamaterial-absorber",
+  "stars": 1,
+  "desc": "VO2 超宽带太赫兹超材料完美吸波体的 CST 复现，含 S 参数与吸波率"
+ },
+ {
+  "url": "https://github.com/BailnXIE/FYP-Metamaterial-Absorber",
+  "stars": 1,
+  "desc": "宽带等离激元超表面吸波体的机器学习逆向设计"
  }
 ]
