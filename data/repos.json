@@ -7049,6 +7049,27 @@
    ]
   },
   {
+   "full_name": "GlassOnTin/lr2021-elrs",
+   "url": "https://github.com/GlassOnTin/lr2021-elrs",
+   "description": "Semtech LR2021 上的 ExpressLRS 双频（2.4GHz + Sub-GHz）发射/接收机与监测固件",
+   "language": "",
+   "stars": 9,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-19",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
+  },
+  {
    "full_name": "Zhuyicheng-HIT/multi-slam-simulation",
    "url": "https://github.com/Zhuyicheng-HIT/multi-slam-simulation",
    "description": "ROS 2 Humble + Gazebo Harmonic + ArduPilot 多传感器无人机仿真（D435i/MID360/光流/FAST-LIO）",
@@ -7081,7 +7102,14 @@
    "added_at": "2026-11-19",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "renesas-rdk/rzv2h_drone_px4",
@@ -11613,7 +11641,14 @@
    "added_at": "2026-11-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "witwin-ai/witwin-maxwell",
@@ -12026,7 +12061,14 @@
    "added_at": "2026-11-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "OpenLithoHub/DiffNano",
@@ -12061,7 +12103,14 @@
    "added_at": "2026-11-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "GiuseppeELio/metasurface-agent-pipeline",
@@ -12128,7 +12177,14 @@
    "added_at": "2026-11-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "BailnXIE/FYP-Metamaterial-Absorber",
@@ -12142,7 +12198,14 @@
    "added_at": "2026-11-19",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "Nishandhini0311/Patch-Antenna-with-Metamaterial-Superstrate",
@@ -22373,7 +22436,14 @@
    "added_at": "2026-11-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "Evil-Project-Team/ESP32-C5-J4CK3D",
@@ -27138,7 +27208,14 @@
    "added_at": "2026-11-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "chibios-upstream/chibios",
@@ -28690,7 +28767,14 @@
    "added_at": "2026-11-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -29383,7 +29467,14 @@
    "added_at": "2026-11-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "beriberikix/zephyr-desktop",
@@ -29481,7 +29572,14 @@
    "added_at": "2026-11-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "karagure/rvkit",
@@ -29537,7 +29635,14 @@
    "added_at": "2026-11-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "microhenrio/openocd-mcp",
@@ -29551,7 +29656,14 @@
    "added_at": "2026-11-19",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "tenstorrent/rv_tester",
@@ -41116,7 +41228,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 394757,
+   "stars": 394758,
    "topics": [
     "ai",
     "assistant",
@@ -41137,7 +41249,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 306455,
+   "stars": 306456,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -41384,7 +41496,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 128847,
+   "stars": 128848,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -47452,7 +47564,14 @@
    "added_at": "2026-11-19",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-19"
+   ]
   },
   {
    "full_name": "asad-shafi/synapedge",
@@ -48486,20 +48605,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "GlassOnTin/lr2021-elrs",
-   "url": "https://github.com/GlassOnTin/lr2021-elrs",
-   "description": "Semtech LR2021 上的 ExpressLRS 双频（2.4GHz + Sub-GHz）发射/接收机与监测固件",
-   "language": "",
-   "stars": 9,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-19",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

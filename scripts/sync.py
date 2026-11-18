@@ -89,6 +89,9 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-19：本轮 20 条，待归类 1 条 ----
+    # 飞控与无人机（Semtech LR2021 上的 ExpressLRS 双频 TX/RX 固件，遥控链路口径）
+    "GlassOnTin/lr2021-elrs": "飞控与无人机",
     # ---- 2026-11-18：本轮 20 条，待归类 7 条 + 规则误判 1 条 + 口径一致性 2 条 ----
     # 无线通信与感知（HamSphere 虚拟业余无线电台，ham 口径）
     "alimahi360/hamsphere-virtual-radio": "无线通信与感知",
