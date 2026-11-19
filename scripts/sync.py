@@ -1134,6 +1134,13 @@ OVERRIDES: dict[str, str] = {
     # 飞控与无人机（LiDAR-惯性-视觉里程计与雷达-视觉-惯性 SLAM，机器人定位口径；历史上被 AI 规则抢走）
     "Huashuijingying/SA-LIVO-Reimpl": "飞控与无人机",
     "hanjun815/RAGNAROK": "飞控与无人机",
+    # 嵌入式与单片机（2026-11-20：仪器固件/电子纸固件/调试探针/热像相机，均按「MCU 固件 + 器件」口径；
+    # 与 EEVblog/121GW-Multimeter-Firmware-RE、Circuit-Digest/MLX90640-Thermal-Camera 同格）
+    "kralonur/kws-x1-standalone-rs": "嵌入式与单片机",
+    "viticci/muse-pocket": "嵌入式与单片机",
+    "wegooo-cell/read-pico-reader": "嵌入式与单片机",
+    "UnicornLZY/nrf52840-wireless-dap": "嵌入式与单片机",
+    "jrdntnnr/AuraCam": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"

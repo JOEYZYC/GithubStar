@@ -3889,7 +3889,14 @@
    "added_at": "2026-11-20",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "ysoldak/HeadTracker",
@@ -4627,7 +4634,14 @@
    "added_at": "2026-11-20",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "YongLD/Multi-UAV-JEV",
@@ -5004,7 +5018,14 @@
    "added_at": "2026-11-20",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "kuieless/AerialMetric",
@@ -8527,7 +8548,14 @@
    "added_at": "2026-11-20",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "kc-ml2/meent",
@@ -12054,7 +12082,14 @@
    "added_at": "2026-11-20",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "hongwei1-c/RF-AIagent",
@@ -18908,7 +18943,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "amcchord/M5Tab-Macintosh",
@@ -19502,7 +19544,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "simplefoc/SimpleFOCMini",
@@ -22387,7 +22436,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "WayV5/RK3588-STM32-ROS2-SLAM-Robot",
@@ -22429,6 +22485,27 @@
    ],
    "hot_dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "full_name": "kralonur/kws-x1-standalone-rs",
+   "url": "https://github.com/kralonur/kws-x1-standalone-rs",
+   "description": "KWS-X1 / UT01C USB-C 台式表开源 Rust 固件：实时功率、Ah/Wh、纹波波形，USB PD（含 EPR）与 PPS/AVS 诱骗到 30V，是台便携仪器",
+   "language": "",
+   "stars": 68,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-20",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
    ]
   },
   {
@@ -22849,6 +22926,27 @@
    ],
    "hot_dates": [
     "2026-10-14"
+   ]
+  },
+  {
+   "full_name": "viticci/muse-pocket",
+   "url": "https://github.com/viticci/muse-pocket",
+   "description": "Xteink X4 Pro 墨水屏伴侣固件：角色、状态与设置界面，支持 SD 卡可恢复升级，C 语言裸机实现",
+   "language": "",
+   "stars": 59,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-20",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
    ]
   },
   {
@@ -23570,6 +23668,27 @@
    ]
   },
   {
+   "full_name": "wegooo-cell/read-pico-reader",
+   "url": "https://github.com/wegooo-cell/read-pico-reader",
+   "description": "基于 RP2040 的独立开源电子纸阅读器固件，支持浏览器直接刷机，面向墨水屏整机改造",
+   "language": "",
+   "stars": 47,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-20",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "full_name": "Mazin-O3/cpm-neo",
    "url": "https://github.com/Mazin-O3/cpm-neo",
    "description": "纯 C 实现的 CP/M 风格操作系统，复古系统移植与教学参考",
@@ -23791,7 +23910,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "BoumedineBillal/esp32-pie-asr",
@@ -24087,7 +24213,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "lvgl/lvgl_project_creator",
@@ -24626,7 +24759,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "cifertech/free-embedded-dev-tools",
@@ -25391,6 +25531,27 @@
    ],
    "hot_dates": [
     "2026-11-12"
+   ]
+  },
+  {
+   "full_name": "UnicornLZY/nrf52840-wireless-dap",
+   "url": "https://github.com/UnicornLZY/nrf52840-wireless-dap",
+   "description": "nRF52840 无线 CMSIS-DAP v2 调试器与串口桥固件，可对目标板做无线 SWD 下载与调试",
+   "language": "",
+   "stars": 28,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-20",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
    ]
   },
   {
@@ -26279,7 +26440,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "gbroeckling/esphome-devices",
@@ -27903,6 +28071,27 @@
    ]
   },
   {
+   "full_name": "jrdntnnr/AuraCam",
+   "url": "https://github.com/jrdntnnr/AuraCam",
+   "description": "M5Stack Cardputer Zero / Pi Zero 2W 上的摄像头与 MLX90640 红外热像融合，输出双光融合画面",
+   "language": "",
+   "stars": 14,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-20",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
    "url": "https://github.com/sixblade325/WaterHand-Processor-Development-Skills",
    "description": "Chisel/RISC-V 处理器开发技能集：微架构、RTL 验证、Vivado 时序分析与 FPGA 优化",
@@ -28271,7 +28460,14 @@
    "added_at": "2026-11-20",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -39905,7 +40101,14 @@
    "added_at": "2026-11-20",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "jsammarco/FlipRSDR",
@@ -41547,7 +41750,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 228035,
+   "stars": 228036,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -41692,7 +41895,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 129847,
+   "stars": 129848,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -41747,7 +41950,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 113442,
+   "stars": 113443,
    "topics": [
     "agent-skills",
     "ai",
@@ -42056,7 +42259,7 @@
    "url": "https://github.com/cline/cline",
    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
    "language": "TypeScript",
-   "stars": 71771,
+   "stars": 71772,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -45853,7 +46056,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "language": "Python",
-   "stars": 66829,
+   "stars": 66830,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -47550,7 +47753,14 @@
    "added_at": "2026-11-20",
    "category": "AI 模型与视觉",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-20"
+   ]
   },
   {
    "full_name": "KJ-Falloutlast/FIRE-LIVWO",
@@ -48815,76 +49025,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "kralonur/kws-x1-standalone-rs",
-   "url": "https://github.com/kralonur/kws-x1-standalone-rs",
-   "description": "KWS-X1 / UT01C USB-C 台式表开源 Rust 固件：实时功率、Ah/Wh、纹波波形，USB PD（含 EPR）与 PPS/AVS 诱骗到 30V，是台便携仪器",
-   "language": "",
-   "stars": 68,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-20",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "viticci/muse-pocket",
-   "url": "https://github.com/viticci/muse-pocket",
-   "description": "Xteink X4 Pro 墨水屏伴侣固件：角色、状态与设置界面，支持 SD 卡可恢复升级，C 语言裸机实现",
-   "language": "",
-   "stars": 59,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-20",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "wegooo-cell/read-pico-reader",
-   "url": "https://github.com/wegooo-cell/read-pico-reader",
-   "description": "基于 RP2040 的独立开源电子纸阅读器固件，支持浏览器直接刷机，面向墨水屏整机改造",
-   "language": "",
-   "stars": 47,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-20",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "UnicornLZY/nrf52840-wireless-dap",
-   "url": "https://github.com/UnicornLZY/nrf52840-wireless-dap",
-   "description": "nRF52840 无线 CMSIS-DAP v2 调试器与串口桥固件，可对目标板做无线 SWD 下载与调试",
-   "language": "",
-   "stars": 28,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-20",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "jrdntnnr/AuraCam",
-   "url": "https://github.com/jrdntnnr/AuraCam",
-   "description": "M5Stack Cardputer Zero / Pi Zero 2W 上的摄像头与 MLX90640 红外热像融合，输出双光融合画面",
-   "language": "",
-   "stars": 14,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-20",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
