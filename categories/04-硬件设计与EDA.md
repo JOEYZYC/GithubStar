@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 302 个项目 · 数据更新时间 2026-11-19 · [返回总览](../README.md)
+> 共 302 个项目 · 数据更新时间 2026-11-20 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,584 · C++ · ⭐ 已 star`
+`★35,619 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★17,103 · Rust · ⭐ 已 star`
+`★17,284 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -74,18 +74,18 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 
 ---
 
+#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+`★4,174 · Rust · ⭐ 已 star`
+A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+> 收录日期：2026-09-13
+
+---
+
 #### [samyk/magspoof](https://github.com/samyk/magspoof)
 `★4,155 · ⭐🔥 已 star + 热点推荐`
 便携式磁条卡模拟器（MagSpoof）：无线模拟任意磁条卡，含硬件电路与固件
 > 热点推荐于 2026-10-20
 > 收录日期：2026-10-20
-
----
-
-#### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,154 · Rust · ⭐ 已 star`
-A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
-> 收录日期：2026-09-13
 
 ---
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,390 · Python · ⭐ 已 star`
+`★3,399 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,190 · C++ · ⭐ 已 star`
+`★3,193 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,873 · ⭐ 已 star`
+`★1,874 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -413,7 +413,7 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
-`★1,209 · ⭐ 已 star`
+`★1,210 · ⭐ 已 star`
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.
 > 收录日期：2026-10-28
 
@@ -787,7 +787,7 @@ KiCad 自动布线工具集，Python + Rust 实现
 ---
 
 #### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★428 · Python · ⭐ 已 star`
+`★429 · Python · ⭐ 已 star`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 收录日期：2026-10-27
 
@@ -954,7 +954,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★280 · C++ · ⭐ 已 star`
+`★281 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1056,7 +1056,7 @@ CH341A EEPROM/FLASH 编程器的扩展烧录工具
 ---
 
 #### [zelea2/rigol_vendor_bin](https://github.com/zelea2/rigol_vendor_bin)
-`★226 · C · ⭐ 已 star`
+`★225 · C · ⭐ 已 star`
 > 收录日期：2026-10-21
 
 ---
@@ -1182,7 +1182,7 @@ Rust 写的开源 EDA：单窗口多标签编辑器、兼容 KiCad 工程格式�
 ---
 
 #### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★173 · C · ⭐ 已 star`
+`★174 · C · ⭐ 已 star`
 USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
 > 收录日期：2026-11-12
 
