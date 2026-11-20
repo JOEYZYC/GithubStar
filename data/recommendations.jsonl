@@ -2121,3 +2121,23 @@
 {"url": "https://github.com/jrdntnnr/AuraCam", "stars": 14, "desc": "M5Stack Cardputer Zero / Pi Zero 2W 上的摄像头与 MLX90640 红外热像融合，输出双光融合画面", "date": "2026-11-20"}
 {"url": "https://github.com/amir1387aht/MicroCS", "stars": 13, "desc": "把现代 C# 编译到单片机的微型编译器 + 字节码 VM（16KB RAM/64KB Flash），覆盖 ESP32、RP2040/2350、STM32、nRF52 与 Zephyr", "date": "2026-11-20"}
 {"url": "https://github.com/valenZW/cst-sim-agent", "stars": 10, "desc": "把 CST Studio 变成对话式电磁仿真助手的插件，含 MCP 工具与内嵌 VBA 知识库，可自动建模、扫参与导出电磁结果", "date": "2026-11-20"}
+{"url": "https://github.com/llros007/leneo", "stars": 106, "desc": "低成本轮式升降双臂机器人（约 350 美元），嵌入式运动控制与机械臂", "date": "2026-11-21"}
+{"url": "https://github.com/Forrest404/unidex", "stars": 83, "desc": "口袋型 ESP32-S3 墨水屏操作系统：课表日历同步、AI 语音笔记、电子纸 UI，嵌入式固件", "date": "2026-11-21"}
+{"url": "https://github.com/CasaVargas/deckle", "stars": 58, "desc": "在电脑上为 Kindle 制作晨报与高质量电子书排版，电子纸/墨水屏阅读生态", "date": "2026-11-21"}
+{"url": "https://github.com/EVOLCORE/FalconEye-FPV", "stars": 53, "desc": "自主 AI FPV 无人机系统：边缘视觉(YOLO11/TensorRT)视觉跟踪与拦截、多机空中网格、飞控", "date": "2026-11-21"}
+{"url": "https://github.com/Tartarus6/sonix-player", "stars": 47, "desc": "HiBy R3 Pro II 播放器替代固件，LVGL 图形界面，嵌入式 C 实现", "date": "2026-11-21"}
+{"url": "https://github.com/joebentham/desk-buddy", "stars": 46, "desc": "ESP32-S3 玻璃棱镜显示屏桌面小宠，嵌入式固件，显示 Claude 会话状态", "date": "2026-11-21"}
+{"url": "https://github.com/invisiblelevel/canifol", "stars": 29, "desc": "电子元件计算器（电阻/电容/电感/晶体管/BMS）与元器件检索、原理图/板级图数据库", "date": "2026-11-21"}
+{"url": "https://github.com/misterm2310/einkaufslisten-card", "stars": 29, "desc": "Home Assistant 电子纸购物清单卡片，墨水屏显示", "date": "2026-11-21"}
+{"url": "https://github.com/RyuhungLiu/PPStoAVS", "stars": 22, "desc": "WCH CH32M030K9U7 的 USB PD PPS 转 AVS 转换器固件，电源与嵌入式单片机方案", "date": "2026-11-21"}
+{"url": "https://github.com/regymm/pci_eerie", "stars": 22, "desc": "Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，Verilog/HDL 实现，可替代 PCIE_2_1 硬核", "date": "2026-11-21"}
+{"url": "https://github.com/He-no3opbc9l/g106-open", "stars": 20, "desc": "G106 HF QRP 收发机开源固件（STM32F4），业余无线电/收发机", "date": "2026-11-21"}
+{"url": "https://github.com/kodediy/kode-app-template", "stars": 18, "desc": "kode SDK 应用模板：一个 Active Object 与一个 FreeRTOS 任务，嵌入式/RTOS 起点", "date": "2026-11-21"}
+{"url": "https://github.com/solar2ain/ink-nfc-fmsc-by-pn532", "stars": 16, "desc": "复旦微 FMSC 无源电子纸 NFC 刷图工具(PN532/PCR532)，跨平台墨水屏刷写", "date": "2026-11-21"}
+{"url": "https://github.com/wifi75/Aurora", "stars": 16, "desc": "多模式业余无线电收发软件：FT8/FT4/WSPR/PSK/RTTY 等，软件无线电 SDR 收发机", "date": "2026-11-21"}
+{"url": "https://github.com/yhl88890/qpoll-lite", "stars": 16, "desc": "墨小七：NFC 直刷四色墨水屏手机壳，电子纸显示", "date": "2026-11-21"}
+{"url": "https://github.com/bve/OpenOSC", "stars": 14, "desc": "开源示波器/万用表/信号发生器固件，面向 ZT703S/ZT706S 手持仪器(STM32H7B0)", "date": "2026-11-21"}
+{"url": "https://github.com/zxkmm/sweepsa", "stars": 13, "desc": "面向 AD936x SDR 的快速锁定扫频频谱分析仪(spectrum analyzer)软件，射频仪器", "date": "2026-11-21"}
+{"url": "https://github.com/0wQ/ch32x035-usb-wchlink", "stars": 11, "desc": "CH32X035 USB WCH-Link 调试器固件，嵌入式单片机方案", "date": "2026-11-21"}
+{"url": "https://github.com/shilicon/P100_robotic_arm", "stars": 10, "desc": "P100 机械臂项目，机器人运动控制", "date": "2026-11-21"}
+{"url": "https://github.com/TheOneNightshade/SWARM-Node-Flasher", "stars": 10, "desc": "SWARM ESP32-C5 节点的网页烧录器，嵌入式固件", "date": "2026-11-21"}

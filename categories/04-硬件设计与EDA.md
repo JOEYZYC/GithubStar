@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 302 个项目 · 数据更新时间 2026-11-20 · [返回总览](../README.md)
+> 共 303 个项目 · 数据更新时间 2026-11-21 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,619 · C++ · ⭐ 已 star`
+`★35,650 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★17,284 · Rust · ⭐ 已 star`
+`★17,460 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -75,7 +75,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,174 · Rust · ⭐ 已 star`
+`★4,194 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,399 · Python · ⭐ 已 star`
+`★3,412 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,193 · C++ · ⭐ 已 star`
+`★3,198 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,874 · ⭐ 已 star`
+`★1,875 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -651,18 +651,18 @@ KiCad 插件与资源精选清单
 
 ---
 
+#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
+`★588 · C · ⭐ 已 star`
+Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
+> 收录日期：2026-09-13
+
+---
+
 #### [dalance/svls](https://github.com/dalance/svls)
 `★587 · ⭐🔥 已 star + 热点推荐`
 SystemVerilog 语言服务器，为 Verilog/HDL 编辑与 EDA 工具链提供补全
 > 热点推荐于 2026-11-06
 > 收录日期：2026-11-06
-
----
-
-#### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★586 · C · ⭐ 已 star`
-Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
-> 收录日期：2026-09-13
 
 ---
 
@@ -945,17 +945,17 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★283 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [pulp-platform/croc](https://github.com/pulp-platform/croc)
 `★282 · ⭐🔥 已 star + 热点推荐`
 教学用 PULP SoC，含从 RTL 到物理设计的完整流程
 > 热点推荐于 2026-10-05
 > 收录日期：2026-10-05
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★281 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 
@@ -1182,7 +1182,7 @@ Rust 写的开源 EDA：单窗口多标签编辑器、兼容 KiCad 工程格式�
 ---
 
 #### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★174 · C · ⭐ 已 star`
+`★176 · C · ⭐ 已 star`
 USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
 > 收录日期：2026-11-12
 
@@ -1619,7 +1619,7 @@ MCP server that lets any AI app design real, orderable KiCad boards: schematic, 
 ---
 
 #### [cormoran/dya-dash-keyboard](https://github.com/cormoran/dya-dash-keyboard)
-`★57 · C · ⭐ 已 star`
+`★58 · C · ⭐ 已 star`
 DYA Dash portable wireless split keyboard with 25mm trackball
 > 收录日期：2026-10-28
 
@@ -1885,6 +1885,13 @@ RoboCup 小型组足球机器人的 KiCad 电路设计文件
 SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计平台智能助手
 > 热点推荐于 2026-11-14
 > 收录日期：2026-11-14
+
+---
+
+#### [invisiblelevel/canifol](https://github.com/invisiblelevel/canifol)
+`★29 · 🔥 热点推荐`
+电子元件计算器（电阻/电容/电感/晶体管/BMS）与元器件检索、原理图/板级图数据库
+> 收录日期：2026-11-21
 
 ---
 

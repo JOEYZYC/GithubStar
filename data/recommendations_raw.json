@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/mcer12/PixelFonts",
-  "stars": 289,
-  "desc": "给极小板载显示屏用的 AdafruitGFX / u8g2 像素级字体库，含 1-2 像素高小字，C 语言可裁剪，适合单片机与嵌入式 GUI"
+  "url": "https://github.com/llros007/leneo",
+  "stars": 106,
+  "desc": "低成本轮式升降双臂机器人（约 350 美元），嵌入式运动控制与机械臂"
  },
  {
-  "url": "https://github.com/seamusc/papermono-shopping-list",
-  "stars": 208,
-  "desc": "M5Stack PaperMono 电子纸购物清单固件：ESP32 端 C++ 固件 + FastAPI 后端 + 手机网页，墨水屏离线也能翻页"
+  "url": "https://github.com/Forrest404/unidex",
+  "stars": 83,
+  "desc": "口袋型 ESP32-S3 墨水屏操作系统：课表日历同步、AI 语音笔记、电子纸 UI，嵌入式固件"
  },
  {
-  "url": "https://github.com/tholtman1-del/deadboard",
-  "stars": 143,
-  "desc": "浏览器里的板级维修训练器：在仿真工作台上诊断并修复电路板故障，练万用表与示波器的量测手法"
+  "url": "https://github.com/CasaVargas/deckle",
+  "stars": 58,
+  "desc": "在电脑上为 Kindle 制作晨报与高质量电子书排版，电子纸/墨水屏阅读生态"
  },
  {
-  "url": "https://github.com/sdua078/TeleoPro",
-  "stars": 118,
-  "desc": "通用遥操作框架：任意输入设备驱动任意机械臂，Python 实现，兼容 ROS2 与 Isaac 仿真"
+  "url": "https://github.com/EVOLCORE/FalconEye-FPV",
+  "stars": 53,
+  "desc": "自主 AI FPV 无人机系统：边缘视觉(YOLO11/TensorRT)视觉跟踪与拦截、多机空中网格、飞控"
  },
  {
-  "url": "https://github.com/atunverse/moink",
-  "stars": 71,
-  "desc": "ESP32-C3 + 华为拆机四色墨水屏的电子拍立得：浏览器端合成画面，设备端固件只负责收图刷屏与配网"
- },
- {
-  "url": "https://github.com/kralonur/kws-x1-standalone-rs",
-  "stars": 68,
-  "desc": "KWS-X1 / UT01C USB-C 台式表开源 Rust 固件：实时功率、Ah/Wh、纹波波形，USB PD（含 EPR）与 PPS/AVS 诱骗到 30V，是台便携仪器"
- },
- {
-  "url": "https://github.com/viticci/muse-pocket",
-  "stars": 59,
-  "desc": "Xteink X4 Pro 墨水屏伴侣固件：角色、状态与设置界面，支持 SD 卡可恢复升级，C 语言裸机实现"
- },
- {
-  "url": "https://github.com/Z-billi/roboArm",
-  "stars": 56,
-  "desc": "开源六轴机械臂：SolidWorks 结构模型 + Arduino UNO 固件 + Python/PySide6 上位机，MIT 许可"
- },
- {
-  "url": "https://github.com/wegooo-cell/read-pico-reader",
+  "url": "https://github.com/Tartarus6/sonix-player",
   "stars": 47,
-  "desc": "基于 RP2040 的独立开源电子纸阅读器固件，支持浏览器直接刷机，面向墨水屏整机改造"
+  "desc": "HiBy R3 Pro II 播放器替代固件，LVGL 图形界面，嵌入式 C 实现"
  },
  {
-  "url": "https://github.com/Ozonised/FeroFlyF405",
-  "stars": 45,
-  "desc": "基于 STM32F405 的开源飞控板，运行 INAV 固件，含原理图与 PCB 设计文件，可自行打板"
+  "url": "https://github.com/joebentham/desk-buddy",
+  "stars": 46,
+  "desc": "ESP32-S3 玻璃棱镜显示屏桌面小宠，嵌入式固件，显示 Claude 会话状态"
  },
  {
-  "url": "https://github.com/linchbeta/inkboard",
-  "stars": 42,
-  "desc": "自托管 ESP32 墨水屏家庭看板：TypeScript 后端 + ESP32 固件，显示日历天气留言课程表，带离线月历"
+  "url": "https://github.com/invisiblelevel/canifol",
+  "stars": 29,
+  "desc": "电子元件计算器（电阻/电容/电感/晶体管/BMS）与元器件检索、原理图/板级图数据库"
  },
  {
-  "url": "https://github.com/psytraxx/esp32-xiaomi-air-purifier-matter",
-  "stars": 39,
-  "desc": "小米空气净化器 3H/3C 的免云 Matter 固件，直接跑在机器自带 ESP32 上（ESP-IDF + esp-matter），传感器数据本地可用"
+  "url": "https://github.com/misterm2310/einkaufslisten-card",
+  "stars": 29,
+  "desc": "Home Assistant 电子纸购物清单卡片，墨水屏显示"
  },
  {
-  "url": "https://github.com/Renegade-Penguin/Hammunition",
-  "stars": 37,
-  "desc": "把 Debian 系系统一键变成业余无线电 / SDR / 射频实验工作站的安装脚本，覆盖 GNU Radio 与常用收发工具链"
+  "url": "https://github.com/RyuhungLiu/PPStoAVS",
+  "stars": 22,
+  "desc": "WCH CH32M030K9U7 的 USB PD PPS 转 AVS 转换器固件，电源与嵌入式单片机方案"
  },
  {
-  "url": "https://github.com/panyihang/3.98Inch-ESP32C3-EPD",
-  "stars": 36,
-  "desc": "ESP32-C3 驱动 3.98 寸四色墨水屏，做华为 nova14/15 墨水屏手机壳的电子相册与日历，含固件与刷写说明"
+  "url": "https://github.com/regymm/pci_eerie",
+  "stars": 22,
+  "desc": "Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，Verilog/HDL 实现，可替代 PCIE_2_1 硬核"
  },
  {
-  "url": "https://github.com/UnicornLZY/nrf52840-wireless-dap",
-  "stars": 28,
-  "desc": "nRF52840 无线 CMSIS-DAP v2 调试器与串口桥固件，可对目标板做无线 SWD 下载与调试"
+  "url": "https://github.com/He-no3opbc9l/g106-open",
+  "stars": 20,
+  "desc": "G106 HF QRP 收发机开源固件（STM32F4），业余无线电/收发机"
  },
  {
-  "url": "https://github.com/va3bpf/OpenDMR",
-  "stars": 23,
-  "desc": "宝锋 DM-32 / DM-32UV 对讲机的开源替代固件，面向业余无线电数字语音（DMR）使用"
+  "url": "https://github.com/kodediy/kode-app-template",
+  "stars": 18,
+  "desc": "kode SDK 应用模板：一个 Active Object 与一个 FreeRTOS 任务，嵌入式/RTOS 起点"
  },
  {
-  "url": "https://github.com/chipguyhere/ESP32-CYD-Resistive_display",
-  "stars": 21,
-  "desc": "在电阻触摸 Cheap Yellow Display（ESP32-2432S028）上跑 LVGL 的 Arduino 库，可自动识别屏幕变体"
+  "url": "https://github.com/solar2ain/ink-nfc-fmsc-by-pn532",
+  "stars": 16,
+  "desc": "复旦微 FMSC 无源电子纸 NFC 刷图工具(PN532/PCR532)，跨平台墨水屏刷写"
  },
  {
-  "url": "https://github.com/jrdntnnr/AuraCam",
+  "url": "https://github.com/wifi75/Aurora",
+  "stars": 16,
+  "desc": "多模式业余无线电收发软件：FT8/FT4/WSPR/PSK/RTTY 等，软件无线电 SDR 收发机"
+ },
+ {
+  "url": "https://github.com/yhl88890/qpoll-lite",
+  "stars": 16,
+  "desc": "墨小七：NFC 直刷四色墨水屏手机壳，电子纸显示"
+ },
+ {
+  "url": "https://github.com/bve/OpenOSC",
   "stars": 14,
-  "desc": "M5Stack Cardputer Zero / Pi Zero 2W 上的摄像头与 MLX90640 红外热像融合，输出双光融合画面"
+  "desc": "开源示波器/万用表/信号发生器固件，面向 ZT703S/ZT706S 手持仪器(STM32H7B0)"
  },
  {
-  "url": "https://github.com/amir1387aht/MicroCS",
+  "url": "https://github.com/zxkmm/sweepsa",
   "stars": 13,
-  "desc": "把现代 C# 编译到单片机的微型编译器 + 字节码 VM（16KB RAM/64KB Flash），覆盖 ESP32、RP2040/2350、STM32、nRF52 与 Zephyr"
+  "desc": "面向 AD936x SDR 的快速锁定扫频频谱分析仪(spectrum analyzer)软件，射频仪器"
  },
  {
-  "url": "https://github.com/valenZW/cst-sim-agent",
+  "url": "https://github.com/0wQ/ch32x035-usb-wchlink",
+  "stars": 11,
+  "desc": "CH32X035 USB WCH-Link 调试器固件，嵌入式单片机方案"
+ },
+ {
+  "url": "https://github.com/shilicon/P100_robotic_arm",
   "stars": 10,
-  "desc": "把 CST Studio 变成对话式电磁仿真助手的插件，含 MCP 工具与内嵌 VBA 知识库，可自动建模、扫参与导出电磁结果"
+  "desc": "P100 机械臂项目，机器人运动控制"
+ },
+ {
+  "url": "https://github.com/TheOneNightshade/SWARM-Node-Flasher",
+  "stars": 10,
+  "desc": "SWARM ESP32-C5 节点的网页烧录器，嵌入式固件"
  }
 ]
