@@ -89,6 +89,17 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-21：本轮 20 条，待归类 5 条 ----
+    # 嵌入式与单片机（Kindle 电子书排版/晨报生成器，电子纸应用口径）
+    "CasaVargas/deckle": "嵌入式与单片机",
+    # 嵌入式与单片机（Home Assistant 电子纸购物清单卡片，与其它电子纸件同口径）
+    "misterm2310/einkaufslisten-card": "嵌入式与单片机",
+    # 硬件设计与 EDA（Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，FPGA/HDL 口径）
+    "regymm/pci_eerie": "硬件设计与 EDA",
+    # 嵌入式与单片机（复旦微无源电子纸 NFC 刷图工具，与其它电子纸件同口径）
+    "solar2ain/ink-nfc-fmsc-by-pn532": "嵌入式与单片机",
+    # 嵌入式与单片机（NFC 直刷四色墨水屏手机壳，与其它电子纸件同口径）
+    "yhl88890/qpoll-lite": "嵌入式与单片机",
     # ---- 2026-11-19：本轮 20 条，待归类 1 条 ----
     # 飞控与无人机（Semtech LR2021 上的 ExpressLRS 双频 TX/RX 固件，遥控链路口径）
     "GlassOnTin/lr2021-elrs": "飞控与无人机",

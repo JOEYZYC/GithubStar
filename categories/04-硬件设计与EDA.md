@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 303 个项目 · 数据更新时间 2026-11-21 · [返回总览](../README.md)
+> 共 304 个项目 · 数据更新时间 2026-11-21 · [返回总览](../README.md)
 
 ---
 
@@ -1889,8 +1889,9 @@ SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计�
 ---
 
 #### [invisiblelevel/canifol](https://github.com/invisiblelevel/canifol)
-`★29 · 🔥 热点推荐`
+`★29 · ⭐🔥 已 star + 热点推荐`
 电子元件计算器（电阻/电容/电感/晶体管/BMS）与元器件检索、原理图/板级图数据库
+> 热点推荐于 2026-11-21
 > 收录日期：2026-11-21
 
 ---
@@ -1996,6 +1997,14 @@ NanoVNA 的 MATLAB 脚本：保存 S2P、对数幅度与史密斯圆图
 Vivado 实现后设计的交互式查看器：布局布线与时序可视化，FPGA 设计复盘工具
 > 热点推荐于 2026-11-08
 > 收录日期：2026-11-08
+
+---
+
+#### [regymm/pci_eerie](https://github.com/regymm/pci_eerie)
+`★22 · ⭐🔥 已 star + 热点推荐`
+Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，Verilog/HDL 实现，可替代 PCIE_2_1 硬核
+> 热点推荐于 2026-11-21
+> 收录日期：2026-11-21
 
 ---
 

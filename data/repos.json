@@ -4078,7 +4078,14 @@
    "added_at": "2026-11-21",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "OpenDrone-hw/OpenFC-Lite-Mini",
@@ -4732,7 +4739,14 @@
    "added_at": "2026-11-21",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "RomanSlack/jev-drone",
@@ -7088,7 +7102,14 @@
    "added_at": "2026-11-21",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "012345kxy/ch32v307-multirotor-flight-controller",
@@ -21971,7 +21992,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "Mr-Mika/M-Gauge",
@@ -23073,6 +23101,27 @@
    "note": ""
   },
   {
+   "full_name": "CasaVargas/deckle",
+   "url": "https://github.com/CasaVargas/deckle",
+   "description": "在电脑上为 Kindle 制作晨报与高质量电子书排版，电子纸/墨水屏阅读生态",
+   "language": "",
+   "stars": 58,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
+  },
+  {
    "full_name": "merckhung/nt51_xfce4_embedded",
    "url": "https://github.com/merckhung/nt51_xfce4_embedded",
    "description": "嵌入式平台上用 Windows XP 内核 + Linux 用户态（musl/busybox/Xfce）跑起桌面系统的嵌入式实验",
@@ -23756,7 +23805,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "Mazin-O3/cpm-neo",
@@ -23791,7 +23847,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "php-baremetal/php-esp32",
@@ -25555,6 +25618,27 @@
    ]
   },
   {
+   "full_name": "misterm2310/einkaufslisten-card",
+   "url": "https://github.com/misterm2310/einkaufslisten-card",
+   "description": "Home Assistant 电子纸购物清单卡片，墨水屏显示",
+   "language": "",
+   "stars": 29,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
+  },
+  {
    "full_name": "Gao-Den/rkos",
    "url": "https://github.com/Gao-Den/rkos",
    "description": "带事件驱动框架的抢占式 RTOS（学习项目）",
@@ -26314,7 +26398,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "Stevee87/Tactical-Radar-System-ESP32-P4",
@@ -26643,7 +26734,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "ArmstrongSubero/dabao-sdk",
@@ -27174,7 +27272,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "alexex1993/mcu-skills",
@@ -27677,6 +27782,48 @@
    ],
    "hot_dates": [
     "2026-11-19"
+   ]
+  },
+  {
+   "full_name": "solar2ain/ink-nfc-fmsc-by-pn532",
+   "url": "https://github.com/solar2ain/ink-nfc-fmsc-by-pn532",
+   "description": "复旦微 FMSC 无源电子纸 NFC 刷图工具(PN532/PCR532)，跨平台墨水屏刷写",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
+  },
+  {
+   "full_name": "yhl88890/qpoll-lite",
+   "url": "https://github.com/yhl88890/qpoll-lite",
+   "description": "墨小七：NFC 直刷四色墨水屏手机壳，电子纸显示",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
    ]
   },
   {
@@ -28229,7 +28376,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -29306,7 +29460,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -29894,7 +30055,14 @@
    "added_at": "2026-11-21",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -35293,7 +35461,14 @@
    "added_at": "2026-11-21",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "RuihongY/axi-compliance-skill",
@@ -35566,6 +35741,27 @@
    ],
    "hot_dates": [
     "2026-11-08"
+   ]
+  },
+  {
+   "full_name": "regymm/pci_eerie",
+   "url": "https://github.com/regymm/pci_eerie",
+   "description": "Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，Verilog/HDL 实现，可替代 PCIE_2_1 硬核",
+   "language": "",
+   "stars": 22,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-21",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
    ]
   },
   {
@@ -41157,7 +41353,14 @@
    "added_at": "2026-11-21",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "Stevee87/Lidar-Radar-combination-Raspberry",
@@ -41360,7 +41563,14 @@
    "added_at": "2026-11-21",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-21"
+   ]
   },
   {
    "full_name": "KI3P/VWS-SDR",
@@ -49261,76 +49471,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "CasaVargas/deckle",
-   "url": "https://github.com/CasaVargas/deckle",
-   "description": "在电脑上为 Kindle 制作晨报与高质量电子书排版，电子纸/墨水屏阅读生态",
-   "language": "",
-   "stars": 58,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "misterm2310/einkaufslisten-card",
-   "url": "https://github.com/misterm2310/einkaufslisten-card",
-   "description": "Home Assistant 电子纸购物清单卡片，墨水屏显示",
-   "language": "",
-   "stars": 29,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "regymm/pci_eerie",
-   "url": "https://github.com/regymm/pci_eerie",
-   "description": "Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，Verilog/HDL 实现，可替代 PCIE_2_1 硬核",
-   "language": "",
-   "stars": 22,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "solar2ain/ink-nfc-fmsc-by-pn532",
-   "url": "https://github.com/solar2ain/ink-nfc-fmsc-by-pn532",
-   "description": "复旦微 FMSC 无源电子纸 NFC 刷图工具(PN532/PCR532)，跨平台墨水屏刷写",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-21",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "yhl88890/qpoll-lite",
-   "url": "https://github.com/yhl88890/qpoll-lite",
-   "description": "墨小七：NFC 直刷四色墨水屏手机壳，电子纸显示",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-21",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
