@@ -12,7 +12,7 @@ The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 ---
 
 #### [affaan-m/ECC](https://github.com/affaan-m/ECC)
-`★307,826 · JavaScript · ⭐ 已 star`
+`★307,827 · JavaScript · ⭐ 已 star`
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 > 收录日期：2026-09-13
 
@@ -56,7 +56,7 @@ The open source coding agent.
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★169,557 · Shell · ⭐ 已 star`
+`★169,559 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -70,7 +70,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★150,820 · Python · ⭐ 已 star`
+`★150,821 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -93,14 +93,14 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 ---
 
 #### [garrytan/gstack](https://github.com/garrytan/gstack)
-`★142,222 · TypeScript · ⭐ 已 star`
+`★142,221 · TypeScript · ⭐ 已 star`
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 > 收录日期：2026-10-13
 
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★130,995 · TypeScript · ⭐ 已 star`
+`★130,999 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -115,7 +115,7 @@ OpenAI 官方终端编码 agent，Rust 实现，当日涨星 172★
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★114,024 · Rust · ⭐ 已 star`
+`★114,027 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -145,7 +145,7 @@ AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 ---
 
 #### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-`★98,319 · JavaScript · ⭐ 已 star`
+`★98,321 · JavaScript · ⭐ 已 star`
 Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 > 收录日期：2026-10-01
 
@@ -215,7 +215,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★71,650 · Python · ⭐ 已 star`
+`★71,651 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
@@ -281,7 +281,7 @@ Build resilient agents.
 ---
 
 #### [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
-`★44,987 · PowerShell · ⭐ 已 star`
+`★44,988 · PowerShell · ⭐ 已 star`
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 > 收录日期：2026-09-13
 

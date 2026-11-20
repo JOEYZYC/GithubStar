@@ -12606,6 +12606,20 @@
    ]
   },
   {
+   "full_name": "flipperdevices/flipperzero-firmware",
+   "url": "https://github.com/flipperdevices/flipperzero-firmware",
+   "description": "Flipper Zero 多协议硬件工具箱的开源固件（C 实现）：嵌入式设备上的 Sub-GHz/NFC/RFID/红外无线收发与固件生态",
+   "language": "",
+   "stars": 16941,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
+  },
+  {
    "full_name": "zephyrproject-rtos/zephyr",
    "url": "https://github.com/zephyrproject-rtos/zephyr",
    "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
@@ -15576,6 +15590,20 @@
    "hot_dates": [
     "2026-11-02"
    ]
+  },
+  {
+   "full_name": "hypery11/flipper-tesla-fsd",
+   "url": "https://github.com/hypery11/flipper-tesla-fsd",
+   "description": "Flipper Zero + ESP32 的特斯拉改装固件：BMS 电源管理、CAN 总线抓包、盲区告警等，经 OBD-II/X179 接入",
+   "language": "",
+   "stars": 1327,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-21",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": ""
   },
   {
    "full_name": "wiredopposite/OGX-Mini",
@@ -30431,7 +30459,7 @@
    "url": "https://github.com/FreeCAD/FreeCAD",
    "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
    "language": "C++",
-   "stars": 35650,
+   "stars": 35651,
    "topics": [
     "3d",
     "3d-printing",
@@ -36851,7 +36879,7 @@
    "url": "https://github.com/AprilNEA/OpenLogi",
    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
    "language": "Rust",
-   "stars": 25968,
+   "stars": 25969,
    "topics": [
     "dpi",
     "gpui",
@@ -42081,7 +42109,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 307826,
+   "stars": 307827,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -42196,7 +42224,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 169557,
+   "stars": 169559,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -42242,7 +42270,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 150820,
+   "stars": 150821,
    "topics": [
     "ai",
     "copilot",
@@ -42315,7 +42343,7 @@
    "url": "https://github.com/garrytan/gstack",
    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "language": "TypeScript",
-   "stars": 142222,
+   "stars": 142221,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -42328,7 +42356,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 130995,
+   "stars": 130999,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -42383,7 +42411,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 114024,
+   "stars": 114027,
    "topics": [
     "agent-skills",
     "ai",
@@ -42477,7 +42505,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
    "language": "JavaScript",
-   "stars": 98319,
+   "stars": 98321,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -42705,7 +42733,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 71650,
+   "stars": 71651,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -42918,7 +42946,7 @@
    "url": "https://github.com/zhaoxuya520/reverse-skill",
    "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
    "language": "PowerShell",
-   "stars": 44987,
+   "stars": 44988,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -45762,7 +45790,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 151155,
+   "stars": 151157,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -45827,7 +45855,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 79688,
+   "stars": 79689,
    "topics": [
     "agents",
     "ai",
@@ -45895,7 +45923,7 @@
    "url": "https://github.com/Mintplex-Labs/anything-llm",
    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
    "language": "JavaScript",
-   "stars": 68471,
+   "stars": 68472,
    "topics": [
     "agent-computer",
     "agent-harness",
@@ -45924,7 +45952,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 61084,
+   "stars": 61085,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -46502,7 +46530,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "language": "Python",
-   "stars": 67666,
+   "stars": 67668,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -48549,7 +48577,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 500488,
+   "stars": 500489,
    "topics": [
     "api",
     "apis",
@@ -48676,7 +48704,7 @@
    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
    "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
    "language": "Java",
-   "stars": 30353,
+   "stars": 30352,
    "topics": [
     "a11y",
     "accessibility",

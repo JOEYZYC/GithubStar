@@ -2141,3 +2141,5 @@
 {"url": "https://github.com/0wQ/ch32x035-usb-wchlink", "stars": 11, "desc": "CH32X035 USB WCH-Link 调试器固件，嵌入式单片机方案", "date": "2026-11-21"}
 {"url": "https://github.com/shilicon/P100_robotic_arm", "stars": 10, "desc": "P100 机械臂项目，机器人运动控制", "date": "2026-11-21"}
 {"url": "https://github.com/TheOneNightshade/SWARM-Node-Flasher", "stars": 10, "desc": "SWARM ESP32-C5 节点的网页烧录器，嵌入式固件", "date": "2026-11-21"}
+{"url": "https://github.com/flipperdevices/flipperzero-firmware", "stars": 16941, "desc": "Flipper Zero 多协议硬件工具箱的开源固件（C 实现）：嵌入式设备上的 Sub-GHz/NFC/RFID/红外无线收发与固件生态", "date": "2026-11-21"}
+{"url": "https://github.com/hypery11/flipper-tesla-fsd", "stars": 1327, "desc": "Flipper Zero + ESP32 的特斯拉改装固件：BMS 电源管理、CAN 总线抓包、盲区告警等，经 OBD-II/X179 接入", "date": "2026-11-21"}

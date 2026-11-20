@@ -1,5 +1,15 @@
 [
  {
+  "url": "https://github.com/flipperdevices/flipperzero-firmware",
+  "stars": 16941,
+  "desc": "Flipper Zero 多协议硬件工具箱的开源固件（C 实现）：嵌入式设备上的 Sub-GHz/NFC/RFID/红外无线收发与固件生态"
+ },
+ {
+  "url": "https://github.com/hypery11/flipper-tesla-fsd",
+  "stars": 1327,
+  "desc": "Flipper Zero + ESP32 的特斯拉改装固件：BMS 电源管理、CAN 总线抓包、盲区告警等，经 OBD-II/X179 接入"
+ },
+ {
   "url": "https://github.com/llros007/leneo",
   "stars": 106,
   "desc": "低成本轮式升降双臂机器人（约 350 美元），嵌入式运动控制与机械臂"
@@ -28,16 +38,6 @@
   "url": "https://github.com/joebentham/desk-buddy",
   "stars": 46,
   "desc": "ESP32-S3 玻璃棱镜显示屏桌面小宠，嵌入式固件，显示 Claude 会话状态"
- },
- {
-  "url": "https://github.com/invisiblelevel/canifol",
-  "stars": 29,
-  "desc": "电子元件计算器（电阻/电容/电感/晶体管/BMS）与元器件检索、原理图/板级图数据库"
- },
- {
-  "url": "https://github.com/misterm2310/einkaufslisten-card",
-  "stars": 29,
-  "desc": "Home Assistant 电子纸购物清单卡片，墨水屏显示"
  },
  {
   "url": "https://github.com/RyuhungLiu/PPStoAVS",
