@@ -2143,3 +2143,21 @@
 {"url": "https://github.com/TheOneNightshade/SWARM-Node-Flasher", "stars": 10, "desc": "SWARM ESP32-C5 节点的网页烧录器，嵌入式固件", "date": "2026-11-21"}
 {"url": "https://github.com/flipperdevices/flipperzero-firmware", "stars": 16941, "desc": "Flipper Zero 多协议硬件工具箱的开源固件（C 实现）：嵌入式设备上的 Sub-GHz/NFC/RFID/红外无线收发与固件生态", "date": "2026-11-21"}
 {"url": "https://github.com/hypery11/flipper-tesla-fsd", "stars": 1327, "desc": "Flipper Zero + ESP32 的特斯拉改装固件：BMS 电源管理、CAN 总线抓包、盲区告警等，经 OBD-II/X179 接入", "date": "2026-11-21"}
+{"url": "https://github.com/songge8/CF-Drone", "stars": 429, "desc": "ESP32 无人机飞控固件，双核 Arduino 框架实现姿态控制、WiFi 调参与实时遥测", "date": "2026-11-22"}
+{"url": "https://github.com/andrisgauracs/bevel-os", "stars": 127, "desc": "ESP32-S3 单芯片跑出 VGA 输出的 Win95 风格桌面系统，含 USB 键鼠驱动与多窗口固件", "date": "2026-11-22"}
+{"url": "https://github.com/Sguan-ZhouQing/SguanESC_Library", "stars": 56, "desc": "无感 BLDC 无刷电调库：三相分压电阻过零检测 + 六步换相状态机，可移植进单片机固件", "date": "2026-11-22"}
+{"url": "https://github.com/agharsallah/esp-labs", "stars": 55, "desc": "ESP32-S3 教学实验仓：PlatformIO 独立工程覆盖显示、WiFi、RFID/NFC 与 BLE 外设", "date": "2026-11-22"}
+{"url": "https://github.com/umeiko/ESP32_Dual_Vision_Thermal", "stars": 50, "desc": "ESP32 双光融合开发板：MLX90640 与海曼 5.0 热成像阵列叠加 OV2640/OV3660 可见光", "date": "2026-11-22"}
+{"url": "https://github.com/physicsexpert/ExlinkPro", "stars": 46, "desc": "Exlink 嵌入式多功能调试器改进版，重做电源控制板，提供宽压数控电源输出与 SWD 调试", "date": "2026-11-22"}
+{"url": "https://github.com/xmz28/Carplay-S3", "stars": 45, "desc": "ESP32-S3 有线 CarPlay 接收端实验固件：软件 H.264 解码、RGB 屏驱动与 GT911 触摸交互", "date": "2026-11-22"}
+{"url": "https://github.com/ShanQuea/easyeda-3d-stencil", "stars": 28, "desc": "嘉立创 EDA 专业版扩展：把 PCB 一键转成 FDM 可打印的锡膏钢网，省掉开钢网费用", "date": "2026-11-22"}
+{"url": "https://github.com/KayraKocak/PerfboardMaker", "stars": 27, "desc": "Windows 洞洞板/万用板布局工具：先排电路走线与焊盘再动手焊接，避免飞线返工", "date": "2026-11-22"}
+{"url": "https://github.com/cyberbeast0829/robot_mc", "stars": 26, "desc": "专为机器人执行器设计的电机驱动板与固件，支持 FOC 闭环与相电流采样", "date": "2026-11-22"}
+{"url": "https://github.com/NullVectorCyber/matts-ble-tracker", "stars": 23, "desc": "ESP32-S3 手持 BLE 扫描与接近告警器，TFT 屏实时画 RSSI 曲线", "date": "2026-11-22"}
+{"url": "https://github.com/ChengJiaAI/FluxScope", "stars": 21, "desc": "电机控制（FOC）专用高速实时示波与后分析工作台，带 AI/MCP 分析接口", "date": "2026-11-22"}
+{"url": "https://github.com/c0rnelone/sensor-presencia", "stars": 20, "desc": "HLK-LD2410C 毫米波存在传感器 + ESP32-C6，ESPHome 走 WiFi/Zigbee 接入 Home Assistant", "date": "2026-11-22"}
+{"url": "https://github.com/zulea1/ESP32-HD", "stars": 20, "desc": "ESP32 上的哈雷摩托诊断与调校服务盒，CAN 总线读写 ECU 参数与故障码", "date": "2026-11-22"}
+{"url": "https://github.com/bluecraank/lvglab", "stars": 15, "desc": "Rust 写的 LVGL 8/9 界面设计器，可导入 SquareLine 工程并导出 ESP32 可编译代码", "date": "2026-11-22"}
+{"url": "https://github.com/tanerkolcak/DRP-Eye-Scan", "stars": 15, "desc": "Xilinx 7 系列 GT 收发机眼图扫描工具，经 DRP 输出 BER 统计与眼宽眼高，FPGA 高速链路调试用", "date": "2026-11-22"}
+{"url": "https://github.com/Witylk/RadarDataAcquisitionApp", "stars": 13, "desc": "毫米波雷达非接触生理监测：MATLAB 上位机从胸腔微动信号里分离呼吸率与心跳", "date": "2026-11-22"}
+{"url": "https://github.com/XiaoMiku01/esp32_wifi_repeater", "stars": 10, "desc": "ESP32 WiFi 中继固件，用 NAT 转发把上游热点扩到本地局域网", "date": "2026-11-22"}

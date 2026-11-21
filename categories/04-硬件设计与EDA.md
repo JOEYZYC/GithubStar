@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 304 个项目 · 数据更新时间 2026-11-21 · [返回总览](../README.md)
+> 共 306 个项目 · 数据更新时间 2026-11-22 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,651 · C++ · ⭐ 已 star`
+`★35,667 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★17,460 · Rust · ⭐ 已 star`
+`★17,612 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -75,7 +75,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,194 · Rust · ⭐ 已 star`
+`★4,212 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,412 · Python · ⭐ 已 star`
+`★3,425 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,198 · C++ · ⭐ 已 star`
+`★3,197 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -652,7 +652,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★588 · C · ⭐ 已 star`
+`★589 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -787,7 +787,7 @@ KiCad 自动布线工具集，Python + Rust 实现
 ---
 
 #### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★429 · Python · ⭐ 已 star`
+`★431 · Python · ⭐ 已 star`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 收录日期：2026-10-27
 
@@ -1165,6 +1165,13 @@ JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试
 
 ---
 
+#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
+`★179 · C · ⭐ 已 star`
+USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
+> 收录日期：2026-11-12
+
+---
+
 #### [ElectronicCats/faultycat](https://github.com/ElectronicCats/faultycat)
 `★178 · ⭐🔥 已 star + 热点推荐`
 低成本电磁故障注入（EMFI）工具，KiCad 硬件设计、RP2040 直贴板载，源自 ChipSHOUTER PicoEMP 的 remix
@@ -1178,13 +1185,6 @@ JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试
 Rust 写的开源 EDA：单窗口多标签编辑器、兼容 KiCad 工程格式，MCP 优先可被 AI 代理驱动原理图与 PCB 设计
 > 热点推荐于 2026-11-08
 > 收录日期：2026-11-08
-
----
-
-#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★176 · C · ⭐ 已 star`
-USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
-> 收录日期：2026-11-12
 
 ---
 
@@ -1896,11 +1896,25 @@ SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计�
 
 ---
 
+#### [ShanQuea/easyeda-3d-stencil](https://github.com/ShanQuea/easyeda-3d-stencil)
+`★28 · 🔥 热点推荐`
+嘉立创 EDA 专业版扩展：把 PCB 一键转成 FDM 可打印的锡膏钢网，省掉开钢网费用
+> 收录日期：2026-11-22
+
+---
+
 #### [RuihongY/axi-compliance-skill](https://github.com/RuihongY/axi-compliance-skill)
 `★27 · ⭐🔥 已 star + 热点推荐`
 AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
 > 热点推荐于 2026-09-20
 > 收录日期：2026-09-20
+
+---
+
+#### [KayraKocak/PerfboardMaker](https://github.com/KayraKocak/PerfboardMaker)
+`★27 · 🔥 热点推荐`
+Windows 洞洞板/万用板布局工具：先排电路走线与焊盘再动手焊接，避免飞线返工
+> 收录日期：2026-11-22
 
 ---
 

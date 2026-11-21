@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/flipperdevices/flipperzero-firmware",
-  "stars": 16941,
-  "desc": "Flipper Zero 多协议硬件工具箱的开源固件（C 实现）：嵌入式设备上的 Sub-GHz/NFC/RFID/红外无线收发与固件生态"
+  "url": "https://github.com/songge8/CF-Drone",
+  "stars": 429,
+  "desc": "ESP32 无人机飞控固件，双核 Arduino 框架实现姿态控制、WiFi 调参与实时遥测"
  },
  {
-  "url": "https://github.com/hypery11/flipper-tesla-fsd",
-  "stars": 1327,
-  "desc": "Flipper Zero + ESP32 的特斯拉改装固件：BMS 电源管理、CAN 总线抓包、盲区告警等，经 OBD-II/X179 接入"
+  "url": "https://github.com/andrisgauracs/bevel-os",
+  "stars": 127,
+  "desc": "ESP32-S3 单芯片跑出 VGA 输出的 Win95 风格桌面系统，含 USB 键鼠驱动与多窗口固件"
  },
  {
-  "url": "https://github.com/llros007/leneo",
-  "stars": 106,
-  "desc": "低成本轮式升降双臂机器人（约 350 美元），嵌入式运动控制与机械臂"
+  "url": "https://github.com/phish-tech/mmWave-Heartbeat-Dataset-Preprocessing-Toolbox-",
+  "stars": 67,
+  "desc": "77GHz 毫米波雷达心跳原始数据集与 MATLAB 预处理流程，用 EEMD 分离呼吸率等生命体征"
  },
  {
-  "url": "https://github.com/Forrest404/unidex",
-  "stars": 83,
-  "desc": "口袋型 ESP32-S3 墨水屏操作系统：课表日历同步、AI 语音笔记、电子纸 UI，嵌入式固件"
+  "url": "https://github.com/Sguan-ZhouQing/SguanESC_Library",
+  "stars": 56,
+  "desc": "无感 BLDC 无刷电调库：三相分压电阻过零检测 + 六步换相状态机，可移植进单片机固件"
  },
  {
-  "url": "https://github.com/CasaVargas/deckle",
-  "stars": 58,
-  "desc": "在电脑上为 Kindle 制作晨报与高质量电子书排版，电子纸/墨水屏阅读生态"
+  "url": "https://github.com/agharsallah/esp-labs",
+  "stars": 55,
+  "desc": "ESP32-S3 教学实验仓：PlatformIO 独立工程覆盖显示、WiFi、RFID/NFC 与 BLE 外设"
  },
  {
-  "url": "https://github.com/EVOLCORE/FalconEye-FPV",
-  "stars": 53,
-  "desc": "自主 AI FPV 无人机系统：边缘视觉(YOLO11/TensorRT)视觉跟踪与拦截、多机空中网格、飞控"
+  "url": "https://github.com/umeiko/ESP32_Dual_Vision_Thermal",
+  "stars": 50,
+  "desc": "ESP32 双光融合开发板：MLX90640 与海曼 5.0 热成像阵列叠加 OV2640/OV3660 可见光"
  },
  {
-  "url": "https://github.com/Tartarus6/sonix-player",
-  "stars": 47,
-  "desc": "HiBy R3 Pro II 播放器替代固件，LVGL 图形界面，嵌入式 C 实现"
- },
- {
-  "url": "https://github.com/joebentham/desk-buddy",
+  "url": "https://github.com/physicsexpert/ExlinkPro",
   "stars": 46,
-  "desc": "ESP32-S3 玻璃棱镜显示屏桌面小宠，嵌入式固件，显示 Claude 会话状态"
+  "desc": "Exlink 嵌入式多功能调试器改进版，重做电源控制板，提供宽压数控电源输出与 SWD 调试"
  },
  {
-  "url": "https://github.com/RyuhungLiu/PPStoAVS",
-  "stars": 22,
-  "desc": "WCH CH32M030K9U7 的 USB PD PPS 转 AVS 转换器固件，电源与嵌入式单片机方案"
+  "url": "https://github.com/xmz28/Carplay-S3",
+  "stars": 45,
+  "desc": "ESP32-S3 有线 CarPlay 接收端实验固件：软件 H.264 解码、RGB 屏驱动与 GT911 触摸交互"
  },
  {
-  "url": "https://github.com/regymm/pci_eerie",
-  "stars": 22,
-  "desc": "Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，Verilog/HDL 实现，可替代 PCIE_2_1 硬核"
+  "url": "https://github.com/ShanQuea/easyeda-3d-stencil",
+  "stars": 28,
+  "desc": "嘉立创 EDA 专业版扩展：把 PCB 一键转成 FDM 可打印的锡膏钢网，省掉开钢网费用"
  },
  {
-  "url": "https://github.com/He-no3opbc9l/g106-open",
+  "url": "https://github.com/KayraKocak/PerfboardMaker",
+  "stars": 27,
+  "desc": "Windows 洞洞板/万用板布局工具：先排电路走线与焊盘再动手焊接，避免飞线返工"
+ },
+ {
+  "url": "https://github.com/cyberbeast0829/robot_mc",
+  "stars": 26,
+  "desc": "专为机器人执行器设计的电机驱动板与固件，支持 FOC 闭环与相电流采样"
+ },
+ {
+  "url": "https://github.com/agentthink/lvgl-hmi-studio",
+  "stars": 23,
+  "desc": "开源 HMI 可视化设计器：拖拽画面、Modbus/MQTT 绑定，生成 LVGL C 代码并部署到嵌入式 Linux"
+ },
+ {
+  "url": "https://github.com/NullVectorCyber/matts-ble-tracker",
+  "stars": 23,
+  "desc": "ESP32-S3 手持 BLE 扫描与接近告警器，TFT 屏实时画 RSSI 曲线"
+ },
+ {
+  "url": "https://github.com/ChengJiaAI/FluxScope",
+  "stars": 21,
+  "desc": "电机控制（FOC）专用高速实时示波与后分析工作台，带 AI/MCP 分析接口"
+ },
+ {
+  "url": "https://github.com/c0rnelone/sensor-presencia",
   "stars": 20,
-  "desc": "G106 HF QRP 收发机开源固件（STM32F4），业余无线电/收发机"
+  "desc": "HLK-LD2410C 毫米波存在传感器 + ESP32-C6，ESPHome 走 WiFi/Zigbee 接入 Home Assistant"
  },
  {
-  "url": "https://github.com/kodediy/kode-app-template",
-  "stars": 18,
-  "desc": "kode SDK 应用模板：一个 Active Object 与一个 FreeRTOS 任务，嵌入式/RTOS 起点"
+  "url": "https://github.com/zulea1/ESP32-HD",
+  "stars": 20,
+  "desc": "ESP32 上的哈雷摩托诊断与调校服务盒，CAN 总线读写 ECU 参数与故障码"
  },
  {
-  "url": "https://github.com/solar2ain/ink-nfc-fmsc-by-pn532",
-  "stars": 16,
-  "desc": "复旦微 FMSC 无源电子纸 NFC 刷图工具(PN532/PCR532)，跨平台墨水屏刷写"
+  "url": "https://github.com/bluecraank/lvglab",
+  "stars": 15,
+  "desc": "Rust 写的 LVGL 8/9 界面设计器，可导入 SquareLine 工程并导出 ESP32 可编译代码"
  },
  {
-  "url": "https://github.com/wifi75/Aurora",
-  "stars": 16,
-  "desc": "多模式业余无线电收发软件：FT8/FT4/WSPR/PSK/RTTY 等，软件无线电 SDR 收发机"
+  "url": "https://github.com/tanerkolcak/DRP-Eye-Scan",
+  "stars": 15,
+  "desc": "Xilinx 7 系列 GT 收发机眼图扫描工具，经 DRP 输出 BER 统计与眼宽眼高，FPGA 高速链路调试用"
  },
  {
-  "url": "https://github.com/yhl88890/qpoll-lite",
-  "stars": 16,
-  "desc": "墨小七：NFC 直刷四色墨水屏手机壳，电子纸显示"
- },
- {
-  "url": "https://github.com/bve/OpenOSC",
-  "stars": 14,
-  "desc": "开源示波器/万用表/信号发生器固件，面向 ZT703S/ZT706S 手持仪器(STM32H7B0)"
- },
- {
-  "url": "https://github.com/zxkmm/sweepsa",
+  "url": "https://github.com/Witylk/RadarDataAcquisitionApp",
   "stars": 13,
-  "desc": "面向 AD936x SDR 的快速锁定扫频频谱分析仪(spectrum analyzer)软件，射频仪器"
+  "desc": "毫米波雷达非接触生理监测：MATLAB 上位机从胸腔微动信号里分离呼吸率与心跳"
  },
  {
-  "url": "https://github.com/0wQ/ch32x035-usb-wchlink",
-  "stars": 11,
-  "desc": "CH32X035 USB WCH-Link 调试器固件，嵌入式单片机方案"
- },
- {
-  "url": "https://github.com/shilicon/P100_robotic_arm",
+  "url": "https://github.com/XiaoMiku01/esp32_wifi_repeater",
   "stars": 10,
-  "desc": "P100 机械臂项目，机器人运动控制"
- },
- {
-  "url": "https://github.com/TheOneNightshade/SWARM-Node-Flasher",
-  "stars": 10,
-  "desc": "SWARM ESP32-C5 节点的网页烧录器，嵌入式固件"
+  "desc": "ESP32 WiFi 中继固件，用 NAT 转发把上游热点扩到本地局域网"
  }
 ]
