@@ -1152,6 +1152,11 @@ OVERRIDES: dict[str, str] = {
     "wegooo-cell/read-pico-reader": "嵌入式与单片机",
     "UnicornLZY/nrf52840-wireless-dap": "嵌入式与单片机",
     "jrdntnnr/AuraCam": "嵌入式与单片机",
+    # ---- 2026-11-22：本轮 20 条，待归类 2 条 ----
+    # 嵌入式与单片机（机器人执行器 FOC 电机驱动板 + 固件，驱动/电机口径）
+    "cyberbeast0829/robot_mc": "嵌入式与单片机",
+    # 硬件设计与 EDA（Xilinx 7 系列 GT 收发机眼图扫描，FPGA/HDL 口径）
+    "tanerkolcak/DRP-Eye-Scan": "硬件设计与 EDA",
 }
 
 UNCLASSIFIED = "待归类"

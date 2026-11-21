@@ -100,7 +100,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★131,939 · TypeScript · ⭐ 已 star`
+`★131,940 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -208,7 +208,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★71,969 · Python · ⭐ 已 star`
+`★71,968 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
@@ -327,7 +327,7 @@ Lightpanda: the headless browser designed for AI and automation
 ---
 
 #### [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-`★39,595 · TypeScript · ⭐ 已 star`
+`★39,594 · TypeScript · ⭐ 已 star`
 ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 > 收录日期：2026-09-13
 
@@ -1271,8 +1271,9 @@ ASIC/FPGA 设计用的 AI 技能集
 ---
 
 #### [ChengJiaAI/FluxScope](https://github.com/ChengJiaAI/FluxScope)
-`★21 · 🔥 热点推荐`
+`★21 · ⭐🔥 已 star + 热点推荐`
 电机控制（FOC）专用高速实时示波与后分析工作台，带 AI/MCP 分析接口
+> 热点推荐于 2026-11-22
 > 收录日期：2026-11-22
 
 ---

@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 306 个项目 · 数据更新时间 2026-11-22 · [返回总览](../README.md)
+> 共 307 个项目 · 数据更新时间 2026-11-22 · [返回总览](../README.md)
 
 ---
 
@@ -1897,8 +1897,9 @@ SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计�
 ---
 
 #### [ShanQuea/easyeda-3d-stencil](https://github.com/ShanQuea/easyeda-3d-stencil)
-`★28 · 🔥 热点推荐`
+`★28 · ⭐🔥 已 star + 热点推荐`
 嘉立创 EDA 专业版扩展：把 PCB 一键转成 FDM 可打印的锡膏钢网，省掉开钢网费用
+> 热点推荐于 2026-11-22
 > 收录日期：2026-11-22
 
 ---
@@ -1912,8 +1913,9 @@ AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
 ---
 
 #### [KayraKocak/PerfboardMaker](https://github.com/KayraKocak/PerfboardMaker)
-`★27 · 🔥 热点推荐`
+`★27 · ⭐🔥 已 star + 热点推荐`
 Windows 洞洞板/万用板布局工具：先排电路走线与焊盘再动手焊接，避免飞线返工
+> 热点推荐于 2026-11-22
 > 收录日期：2026-11-22
 
 ---
@@ -2195,6 +2197,14 @@ BLDC 无刷电机 FOC 驱动板 PCB 设计，含原理图与固件脚手架
 FPGA 上的流水线压缩缓存架构，运行时可变相联度
 > 热点推荐于 2026-10-30
 > 收录日期：2026-10-30
+
+---
+
+#### [tanerkolcak/DRP-Eye-Scan](https://github.com/tanerkolcak/DRP-Eye-Scan)
+`★15 · ⭐🔥 已 star + 热点推荐`
+Xilinx 7 系列 GT 收发机眼图扫描工具，经 DRP 输出 BER 统计与眼宽眼高，FPGA 高速链路调试用
+> 热点推荐于 2026-11-22
+> 收录日期：2026-11-22
 
 ---
 

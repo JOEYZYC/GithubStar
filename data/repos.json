@@ -2251,7 +2251,14 @@
    "added_at": "2026-11-22",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "lijx10/uwb-localization",
@@ -20985,7 +20992,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "VIPnytt/Kortlinje",
@@ -23266,7 +23280,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "tlack/babytalk",
@@ -23343,7 +23364,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "gcallipo/RadioDSP-DNR-Stm32f407",
@@ -23714,7 +23742,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "cn0xroot/IFDA",
@@ -23980,7 +24015,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "php-baremetal/php-esp32",
@@ -24036,7 +24078,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "mark-belbin/motor-controller",
@@ -26010,6 +26059,27 @@
    ]
   },
   {
+   "full_name": "cyberbeast0829/robot_mc",
+   "url": "https://github.com/cyberbeast0829/robot_mc",
+   "description": "专为机器人执行器设计的电机驱动板与固件，支持 FOC 闭环与相电流采样",
+   "language": "",
+   "stars": 26,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-22",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
+  },
+  {
    "full_name": "sipeed/M0sense_BL702_example",
    "url": "https://github.com/sipeed/M0sense_BL702_example",
    "description": "M0sense_BL702_example",
@@ -26391,7 +26461,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "MikeWuPing/UEFI_LVGL",
@@ -26909,7 +26986,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "zulea1/ESP32-HD",
@@ -26923,7 +27007,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "ArmstrongSubero/dabao-sdk",
@@ -28314,7 +28405,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "cytstudiooo/cytstudio",
@@ -30272,7 +30370,14 @@
    "added_at": "2026-11-22",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -35692,7 +35797,14 @@
    "added_at": "2026-11-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "RuihongY/axi-compliance-skill",
@@ -35727,7 +35839,14 @@
    "added_at": "2026-11-22",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "balmerdx/BalmerDX_VNA",
@@ -36462,6 +36581,27 @@
    ],
    "hot_dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "full_name": "tanerkolcak/DRP-Eye-Scan",
+   "url": "https://github.com/tanerkolcak/DRP-Eye-Scan",
+   "description": "Xilinx 7 系列 GT 收发机眼图扫描工具，经 DRP 输出 BER 统计与眼宽眼高，FPGA 高速链路调试用",
+   "language": "",
+   "stars": 15,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-22",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
    ]
   },
   {
@@ -41835,7 +41975,14 @@
    "added_at": "2026-11-22",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "KI3P/VWS-SDR",
@@ -42593,7 +42740,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 131939,
+   "stars": 131940,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -42957,7 +43104,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 71969,
+   "stars": 71968,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -43302,7 +43449,7 @@
    "url": "https://github.com/can1357/oh-my-pi",
    "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
    "language": "TypeScript",
-   "stars": 39595,
+   "stars": 39594,
    "topics": [
     "ai-agent",
     "ai-coding-agent",
@@ -45938,7 +46085,14 @@
    "added_at": "2026-11-22",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-22"
+   ]
   },
   {
    "full_name": "prasetyarobert205-jpg/codex-fpga-engineering-workflow",
@@ -46781,7 +46935,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "language": "Python",
-   "stars": 68127,
+   "stars": 68128,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -49750,34 +49904,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "cyberbeast0829/robot_mc",
-   "url": "https://github.com/cyberbeast0829/robot_mc",
-   "description": "专为机器人执行器设计的电机驱动板与固件，支持 FOC 闭环与相电流采样",
-   "language": "",
-   "stars": 26,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-22",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "tanerkolcak/DRP-Eye-Scan",
-   "url": "https://github.com/tanerkolcak/DRP-Eye-Scan",
-   "description": "Xilinx 7 系列 GT 收发机眼图扫描工具，经 DRP 输出 BER 统计与眼宽眼高，FPGA 高速链路调试用",
-   "language": "",
-   "stars": 15,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-22",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
