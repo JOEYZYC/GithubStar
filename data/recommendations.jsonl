@@ -2161,3 +2161,21 @@
 {"url": "https://github.com/tanerkolcak/DRP-Eye-Scan", "stars": 15, "desc": "Xilinx 7 系列 GT 收发机眼图扫描工具，经 DRP 输出 BER 统计与眼宽眼高，FPGA 高速链路调试用", "date": "2026-11-22"}
 {"url": "https://github.com/Witylk/RadarDataAcquisitionApp", "stars": 13, "desc": "毫米波雷达非接触生理监测：MATLAB 上位机从胸腔微动信号里分离呼吸率与心跳", "date": "2026-11-22"}
 {"url": "https://github.com/XiaoMiku01/esp32_wifi_repeater", "stars": 10, "desc": "ESP32 WiFi 中继固件，用 NAT 转发把上游热点扩到本地局域网", "date": "2026-11-22"}
+{"url": "https://github.com/fanhao375/microduck-replica", "stars": 1771, "desc": "四足机器人 Microduck 整机复刻：飞特 HD-1910 舵机、CAD/BOM、电路工程与步态训练平台全开源", "date": "2026-11-23"}
+{"url": "https://github.com/xueyouluo/fridge_tracker", "stars": 117, "desc": "ESP32 三色/四色墨水屏食材保鲜提醒器：含 C3/S3 固件、H5+SQLite 服务端与 3D 打印外壳", "date": "2026-11-23"}
+{"url": "https://github.com/askfanxiaojun/epd-ai-quota-display", "stars": 109, "desc": "把 Codex 配额经 macOS 与 BLE、由 nRF52811 推到 400×300 三色墨水屏的桌面显示固件", "date": "2026-11-23"}
+{"url": "https://github.com/csqwdy/PrTrx_PT1", "stars": 46, "desc": "便携 QRP 业余无线电收发电台：SDR 架构，基于 VK7IAN MBPTRX 二次开发，硬件与逻辑设计开源", "date": "2026-11-23"}
+{"url": "https://github.com/konsumer/fm1buddy", "stars": 46, "desc": "把 Freenove ESP32-S3 2.8 寸触摸屏做成 FM-1/SMK-37 合成器的免电脑固件盒，免焊接", "date": "2026-11-23"}
+{"url": "https://github.com/dariondong/APRSLocus", "stars": 42, "desc": "业余无线电 APRS 客户端：实时定位、台站追踪、消息收发与地图显示（Flutter 跨平台）", "date": "2026-11-23"}
+{"url": "https://github.com/Mupceet/EssentialReader", "stars": 36, "desc": "「墨本阅读」电子纸阅读器：针对墨水屏刷新与排版优化的 Android 阅读 App", "date": "2026-11-23"}
+{"url": "https://github.com/wiwiwei/ink-nfc-lab", "stars": 29, "desc": "Android NFC 写图工具：给华为四色电子纸写图，实验性 Root/ST54L 支持（非商用许可）", "date": "2026-11-23"}
+{"url": "https://github.com/AirLongDian/Legado-Ink", "stars": 24, "desc": "「开源阅读」的墨水屏优化分支：电子纸翻页、局刷与排版调整", "date": "2026-11-23"}
+{"url": "https://github.com/robinlanger/glancebox", "stars": 18, "desc": "GeekMagic SmallTV Ultra（ESP8266）开源固件 + Docker 服务端：把任意 HTML 渲染到 240×240 小屏", "date": "2026-11-23"}
+{"url": "https://github.com/kanoqwq/u30pro_openwrt", "stars": 17, "desc": "U30 Pro 路由器的 OpenWrt 固件：原生硬件支持与共用安装器，基于 MU300 框架", "date": "2026-11-23"}
+{"url": "https://github.com/AungMoeKhine/AMK_CYD_Universal_TFT", "stars": 15, "desc": "ESP32 Cheap Yellow Display 的通用 TFT/触摸/LVGL 驱动与按钮库，单文件固件驱动", "date": "2026-11-23"}
+{"url": "https://github.com/LNC0831/crac-ham-guide", "stars": 15, "desc": "中文业余无线电 A/B 类操作证考试教程：讲原理的题库整理（A 类 683 题 / B 类 1143 题）", "date": "2026-11-23"}
+{"url": "https://github.com/wjat2333/bluedafeiyu-pcb", "stars": 13, "desc": "蓝色大肥鱼主题的 NFC 彩色丝印 PCB：NFC/无 NFC 两版，嘉立创 EDA 专业版工程 + Gerber", "date": "2026-11-23"}
+{"url": "https://github.com/jvitkauskas/m-card", "stars": 13, "desc": "M-VAVE FM-1 的 microSD 扩展小板：不对琴体做焊接的插接方案（CC0）", "date": "2026-11-23"}
+{"url": "https://github.com/mgwalkerjr95/logic-boole-16", "stars": 11, "desc": "16 通道 200 MS/s USB3 逻辑分析仪 + 树莓派 HAT：开源硬件、FPGA 设计与固件", "date": "2026-11-23"}
+{"url": "https://github.com/Mazha0309/CallsignRollLog", "stars": 11, "desc": "业余无线电模拟点名（Roll Call）记录工具，Dart 跨平台", "date": "2026-11-23"}
+{"url": "https://github.com/kemomi/TARS-chat", "stars": 10, "desc": "树莓派 4B 上的桌面机器人：表情显示、头部转动与语音对话，手机/浏览器远程控制", "date": "2026-11-23"}

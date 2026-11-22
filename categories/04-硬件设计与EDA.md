@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 307 个项目 · 数据更新时间 2026-11-22 · [返回总览](../README.md)
+> 共 308 个项目 · 数据更新时间 2026-11-23 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,667 · C++ · ⭐ 已 star`
+`★35,695 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★17,612 · Rust · ⭐ 已 star`
+`★17,756 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -75,7 +75,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,212 · Rust · ⭐ 已 star`
+`★4,229 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,425 · Python · ⭐ 已 star`
+`★3,441 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,197 · C++ · ⭐ 已 star`
+`★3,202 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -413,7 +413,7 @@ AI coding agent skills for KiCad electronics design. Works with Claude Code and 
 ---
 
 #### [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR)
-`★1,210 · ⭐ 已 star`
+`★1,212 · ⭐ 已 star`
 KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.
 > 收录日期：2026-10-28
 
@@ -946,7 +946,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★283 · C++ · ⭐ 已 star`
+`★284 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -1157,18 +1157,18 @@ Nordic 全系列芯片 KiCad 元件库
 
 ---
 
+#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
+`★182 · C · ⭐ 已 star`
+USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
+> 收录日期：2026-11-12
+
+---
+
 #### [viveris/jtag-boundary-scanner](https://github.com/viveris/jtag-boundary-scanner)
 `★181 · ⭐🔥 已 star + 热点推荐`
 JTAG 边界扫描调试与测试工具，用 BSDL 文件做板级互连测试
 > 热点推荐于 2026-10-18
 > 收录日期：2026-10-18
-
----
-
-#### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★179 · C · ⭐ 已 star`
-USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
-> 收录日期：2026-11-12
 
 ---
 
@@ -2285,6 +2285,13 @@ tinySA Ultra 与 NanoVNA-F V3 的台式风格上位机：VNA 实时曲线、标�
 SystemVerilog 验证框架：即时/并发断言配功能覆盖率，协议与复位检查报违规（HDL/EDA）
 > 热点推荐于 2026-11-13
 > 收录日期：2026-11-13
+
+---
+
+#### [wjat2333/bluedafeiyu-pcb](https://github.com/wjat2333/bluedafeiyu-pcb)
+`★13 · 🔥 热点推荐`
+蓝色大肥鱼主题的 NFC 彩色丝印 PCB：NFC/无 NFC 两版，嘉立创 EDA 专业版工程 + Gerber
+> 收录日期：2026-11-23
 
 ---
 
