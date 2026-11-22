@@ -1,6 +1,6 @@
 # AI Agent 与 LLM 工具链
 
-> 共 173 个项目 · 数据更新时间 2026-11-23 · [返回总览](../README.md)
+> 共 172 个项目 · 数据更新时间 2026-11-23 · [返回总览](../README.md)
 
 ---
 
@@ -1151,13 +1151,6 @@ MCP server for AI image generation and editing with automatic prompt optimizatio
 面向 RTL 仿真调试的 MCP 服务器，关联 VCS/Xcelium 日志与 VCD/FSDB 波形，agent 直读验证数据
 > 热点推荐于 2026-10-02
 > 收录日期：2026-10-02
-
----
-
-#### [askfanxiaojun/epd-ai-quota-display](https://github.com/askfanxiaojun/epd-ai-quota-display)
-`★109 · 🔥 热点推荐`
-把 Codex 配额经 macOS 与 BLE、由 nRF52811 推到 400×300 三色墨水屏的桌面显示固件
-> 收录日期：2026-11-23
 
 ---
 

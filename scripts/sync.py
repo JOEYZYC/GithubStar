@@ -1157,6 +1157,21 @@ OVERRIDES: dict[str, str] = {
     "cyberbeast0829/robot_mc": "嵌入式与单片机",
     # 硬件设计与 EDA（Xilinx 7 系列 GT 收发机眼图扫描，FPGA/HDL 口径）
     "tanerkolcak/DRP-Eye-Scan": "硬件设计与 EDA",
+    # ---- 2026-11-23：本轮 18 条，待归类 8 条 + 误归类 3 条 ----
+    # 嵌入式与单片机（电子纸/墨水屏整机与应用、路由器固件、CYD 驱动、逻辑分析仪上位机口径）
+    "askfanxiaojun/epd-ai-quota-display": "嵌入式与单片机",
+    "Mupceet/EssentialReader": "嵌入式与单片机",
+    "wiwiwei/ink-nfc-lab": "嵌入式与单片机",
+    "AirLongDian/Legado-Ink": "嵌入式与单片机",
+    "kanoqwq/u30pro_openwrt": "嵌入式与单片机",
+    "mgwalkerjr95/logic-boole-16": "嵌入式与单片机",
+    "kemomi/TARS-chat": "嵌入式与单片机",
+    # 无线通信与感知（业余无线电 APRS / 点名记录 / 火腿教程，射频口径）
+    "dariondong/APRSLocus": "无线通信与感知",
+    "Mazha0309/CallsignRollLog": "无线通信与感知",
+    "LNC0831/crac-ham-guide": "无线通信与感知",
+    # 硬件设计与 EDA（乐器 microSD 扩展小板，板级配件口径）
+    "jvitkauskas/m-card": "硬件设计与 EDA",
 }
 
 UNCLASSIFIED = "待归类"

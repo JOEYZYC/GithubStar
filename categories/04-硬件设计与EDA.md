@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 308 个项目 · 数据更新时间 2026-11-23 · [返回总览](../README.md)
+> 共 309 个项目 · 数据更新时间 2026-11-23 · [返回总览](../README.md)
 
 ---
 
@@ -2289,8 +2289,17 @@ SystemVerilog 验证框架：即时/并发断言配功能覆盖率，协议与�
 ---
 
 #### [wjat2333/bluedafeiyu-pcb](https://github.com/wjat2333/bluedafeiyu-pcb)
-`★13 · 🔥 热点推荐`
+`★13 · ⭐🔥 已 star + 热点推荐`
 蓝色大肥鱼主题的 NFC 彩色丝印 PCB：NFC/无 NFC 两版，嘉立创 EDA 专业版工程 + Gerber
+> 热点推荐于 2026-11-23
+> 收录日期：2026-11-23
+
+---
+
+#### [jvitkauskas/m-card](https://github.com/jvitkauskas/m-card)
+`★13 · ⭐🔥 已 star + 热点推荐`
+M-VAVE FM-1 的 microSD 扩展小板：不对琴体做焊接的插接方案（CC0）
+> 热点推荐于 2026-11-23
 > 收录日期：2026-11-23
 
 ---
