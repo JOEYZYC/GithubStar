@@ -1172,6 +1172,17 @@ OVERRIDES: dict[str, str] = {
     "LNC0831/crac-ham-guide": "无线通信与感知",
     # 硬件设计与 EDA（乐器 microSD 扩展小板，板级配件口径）
     "jvitkauskas/m-card": "硬件设计与 EDA",
+    # ---- 2026-11-24：本轮 19 条，待归类 4 条 + star 同步 1 条 ----
+    # 硬件设计与 EDA（SystemVerilog 参数化 ALU，Verilator 验证 + Yosys 综合，HDL 口径）
+    "FLASHICON/parameterized-8-bit-alu": "硬件设计与 EDA",
+    # 嵌入式与单片机（Supercon 2026 胸牌的 ESP-IDF badge OS，整机固件口径）
+    "yigitabi5444/supercon26-badge-os": "嵌入式与单片机",
+    # 嵌入式与单片机（Pico + 屏幕 + 安全芯片的 DIY 硬件钱包，嵌入式硬件口径）
+    "clawdbotatg/wedgie-dev": "嵌入式与单片机",
+    # 嵌入式与单片机（Pico 电压毛刺（VFI）固件补丁与台架工具，硬件调试口径）
+    "darkmaniac7/cmp170hx-8gb-vfi-tools": "嵌入式与单片机",
+    # 嵌入式与单片机（电子纸作品集/相框类应用，与其它电子纸件同口径）
+    "respectevery01/inkfolio": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"

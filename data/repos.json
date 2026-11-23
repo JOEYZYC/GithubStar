@@ -7165,7 +7165,14 @@
    "added_at": "2026-11-24",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "012345kxy/ch32v307-multirotor-flight-controller",
@@ -12033,7 +12040,14 @@
    "added_at": "2026-11-24",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "eye1patch/merlin",
@@ -20970,7 +20984,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "ventZl/cmrx",
@@ -22331,7 +22352,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "uLipe/espFoC",
@@ -23727,7 +23755,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "brilliantlabsAR/halo-firmware",
@@ -24119,7 +24154,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "Mazin-O3/cpm-neo",
@@ -26894,7 +26936,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "KevinCJM/ai-passport-all-in-one",
@@ -26908,7 +26957,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "Stevee87/Tactical-Radar-System-ESP32-P4",
@@ -27300,7 +27356,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "ArmstrongSubero/dabao-sdk",
@@ -28428,6 +28491,27 @@
    ]
   },
   {
+   "full_name": "yigitabi5444/supercon26-badge-os",
+   "url": "https://github.com/yigitabi5444/supercon26-badge-os",
+   "description": "Supercon 2026 广告牌胸牌的 badge OS 固件：ESP-IDF 实现的主屏与内置应用",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
+  },
+  {
    "full_name": "chibios-upstream/chibios",
    "url": "https://github.com/chibios-upstream/chibios",
    "description": "ChibiOS 的权威 git 源（RTOS + HAL）",
@@ -29407,6 +29491,27 @@
    ]
   },
   {
+   "full_name": "clawdbotatg/wedgie-dev",
+   "url": "https://github.com/clawdbotatg/wedgie-dev",
+   "description": "DIY 以太坊硬件钱包：Pico + 屏幕 + 安全芯片，开源硬件与固件，无需焊接",
+   "language": "",
+   "stars": 13,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
+  },
+  {
    "full_name": "kavishka-dot/vulcan-os",
    "url": "https://github.com/kavishka-dot/vulcan-os",
    "description": "面向 STM32H7 从零构建的极简 RTOS，支持边缘 ML 推理与端侧训练",
@@ -29817,7 +29922,14 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "EIC-UESTC/aCoral",
@@ -30187,7 +30299,35 @@
    "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
+  },
+  {
+   "full_name": "darkmaniac7/cmp170hx-8gb-vfi-tools",
+   "url": "https://github.com/darkmaniac7/cmp170hx-8gb-vfi-tools",
+   "description": "RP2350/Pico 电压毛刺（VFI）固件补丁与台架工具，硬件安全测试",
+   "language": "",
+   "stars": 11,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-24",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -31157,6 +31297,28 @@
    "archived": false,
    "source": "star",
    "added_at": "2026-11-21",
+   "category": "嵌入式与单片机",
+   "note": ""
+  },
+  {
+   "full_name": "respectevery01/inkfolio",
+   "url": "https://github.com/respectevery01/inkfolio",
+   "description": "Inkfolio — an editorial bilingual Astro theme for writers and indie builders. Config-driven, no web fonts, GPL-3.0.",
+   "language": "Astro",
+   "stars": 1,
+   "topics": [
+    "astro",
+    "astro-theme",
+    "bilingual",
+    "blog-theme",
+    "editorial",
+    "gpl",
+    "i18n",
+    "static-site"
+   ],
+   "archived": false,
+   "source": "star",
+   "added_at": "2026-11-24",
    "category": "嵌入式与单片机",
    "note": ""
   },
@@ -35741,7 +35903,14 @@
    "added_at": "2026-11-24",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "amoslee2026/Babel",
@@ -36251,7 +36420,14 @@
    "added_at": "2026-11-24",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "RuihongY/axi-compliance-skill",
@@ -36923,6 +37099,27 @@
    ],
    "hot_dates": [
     "2026-11-14"
+   ]
+  },
+  {
+   "full_name": "FLASHICON/parameterized-8-bit-alu",
+   "url": "https://github.com/FLASHICON/parameterized-8-bit-alu",
+   "description": "SystemVerilog 参数化 8 位 ALU：10 种算术/逻辑/移位运算，Verilator 验证 + Yosys 综合",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-24",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
    ]
   },
   {
@@ -40456,7 +40653,14 @@
    "added_at": "2026-11-24",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "Open-X-Humanoid/BICMap",
@@ -46553,7 +46757,14 @@
    "added_at": "2026-11-24",
    "category": "AI Agent 与 LLM 工具链",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-24"
+   ]
   },
   {
    "full_name": "XZhaoSudo/stm32debug-skill",
@@ -47552,7 +47763,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "language": "Python",
-   "stars": 69420,
+   "stars": 69421,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -50521,84 +50732,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "FLASHICON/parameterized-8-bit-alu",
-   "url": "https://github.com/FLASHICON/parameterized-8-bit-alu",
-   "description": "SystemVerilog 参数化 8 位 ALU：10 种算术/逻辑/移位运算，Verilator 验证 + Yosys 综合",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "yigitabi5444/supercon26-badge-os",
-   "url": "https://github.com/yigitabi5444/supercon26-badge-os",
-   "description": "Supercon 2026 广告牌胸牌的 badge OS 固件：ESP-IDF 实现的主屏与内置应用",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "clawdbotatg/wedgie-dev",
-   "url": "https://github.com/clawdbotatg/wedgie-dev",
-   "description": "DIY 以太坊硬件钱包：Pico + 屏幕 + 安全芯片，开源硬件与固件，无需焊接",
-   "language": "",
-   "stars": 13,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "darkmaniac7/cmp170hx-8gb-vfi-tools",
-   "url": "https://github.com/darkmaniac7/cmp170hx-8gb-vfi-tools",
-   "description": "RP2350/Pico 电压毛刺（VFI）固件补丁与台架工具，硬件安全测试",
-   "language": "",
-   "stars": 11,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-24",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "respectevery01/inkfolio",
-   "url": "https://github.com/respectevery01/inkfolio",
-   "description": "Inkfolio — an editorial bilingual Astro theme for writers and indie builders. Config-driven, no web fonts, GPL-3.0.",
-   "language": "Astro",
-   "stars": 1,
-   "topics": [
-    "astro",
-    "astro-theme",
-    "bilingual",
-    "blog-theme",
-    "editorial",
-    "gpl",
-    "i18n",
-    "static-site"
-   ],
-   "archived": false,
-   "source": "star",
-   "added_at": "2026-11-24",
-   "category": "待归类",
    "note": ""
   }
  ]

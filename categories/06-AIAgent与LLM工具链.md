@@ -1225,8 +1225,9 @@ Zephyr RTOS 的 agent 技能注册表：按 Kconfig 模式与 devicetree compati
 ---
 
 #### [agentthink/MeterSim645](https://github.com/agentthink/MeterSim645)
-`★59 · 🔥 热点推荐`
+`★59 · ⭐🔥 已 star + 热点推荐`
 DL/T645-2007 多功能电能表主站调试工具，串口与红外通信、电能计量，电力仪器调试
+> 热点推荐于 2026-11-24
 > 收录日期：2026-11-24
 
 ---

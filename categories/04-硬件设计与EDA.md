@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 311 个项目 · 数据更新时间 2026-11-24 · [返回总览](../README.md)
+> 共 312 个项目 · 数据更新时间 2026-11-24 · [返回总览](../README.md)
 
 ---
 
@@ -1714,8 +1714,9 @@ Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具�
 ---
 
 #### [cachanova/synth-explorer](https://github.com/cachanova/synth-explorer)
-`★46 · 🔥 热点推荐`
+`★46 · ⭐🔥 已 star + 热点推荐`
 RTL 版 Compiler Explorer：Yosys 综合 Verilog，交互查看时序路径、逻辑深度与扇入扇出（FPGA/EDA）
+> 热点推荐于 2026-11-24
 > 收录日期：2026-11-24
 
 ---
@@ -1912,8 +1913,9 @@ SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计�
 ---
 
 #### [BTTLab/simple_and_affordable_lps](https://github.com/BTTLab/simple_and_affordable_lps)
-`★28 · 🔥 热点推荐`
+`★28 · ⭐🔥 已 star + 热点推荐`
 简单低成本线性电源的开源硬件设计与电路
+> 热点推荐于 2026-11-24
 > 收录日期：2026-11-24
 
 ---
@@ -2171,6 +2173,14 @@ AI agent 做 PCB：调 KiCad 封装库与 LCSC 料号，出 Gerber/BOM/贴片坐
 在 FPGA（ALINX AX7101 / Artix-7）上学习 SerDes 的 VHDL 实验课：OSERDES/ISERDES、眼图扫描、CDC FIFO
 > 热点推荐于 2026-11-14
 > 收录日期：2026-11-14
+
+---
+
+#### [FLASHICON/parameterized-8-bit-alu](https://github.com/FLASHICON/parameterized-8-bit-alu)
+`★17 · ⭐🔥 已 star + 热点推荐`
+SystemVerilog 参数化 8 位 ALU：10 种算术/逻辑/移位运算，Verilator 验证 + Yosys 综合
+> 热点推荐于 2026-11-24
+> 收录日期：2026-11-24
 
 ---
 
