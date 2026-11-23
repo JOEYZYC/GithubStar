@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 309 个项目 · 数据更新时间 2026-11-23 · [返回总览](../README.md)
+> 共 311 个项目 · 数据更新时间 2026-11-24 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,695 · C++ · ⭐ 已 star`
+`★35,729 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★17,756 · Rust · ⭐ 已 star`
+`★17,911 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -75,7 +75,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,229 · Rust · ⭐ 已 star`
+`★4,243 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,7 +138,7 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,441 · Python · ⭐ 已 star`
+`★3,455 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
@@ -937,17 +937,17 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★286 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [ngspice/ngspice](https://github.com/ngspice/ngspice)
 `★284 · ⭐🔥 已 star + 热点推荐`
 开源 SPICE 电路仿真器本体
 > 热点推荐于 2026-10-05
 > 收录日期：2026-10-05
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★284 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 
@@ -1158,7 +1158,7 @@ Nordic 全系列芯片 KiCad 元件库
 ---
 
 #### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★182 · C · ⭐ 已 star`
+`★183 · C · ⭐ 已 star`
 USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
 > 收录日期：2026-11-12
 
@@ -1713,6 +1713,13 @@ Alientek DM40 万用表/示波器/信号发生器的开源固件与仪器工具�
 
 ---
 
+#### [cachanova/synth-explorer](https://github.com/cachanova/synth-explorer)
+`★46 · 🔥 热点推荐`
+RTL 版 Compiler Explorer：Yosys 综合 Verilog，交互查看时序路径、逻辑深度与扇入扇出（FPGA/EDA）
+> 收录日期：2026-11-24
+
+---
+
 #### [amoslee2026/Babel](https://github.com/amoslee2026/Babel)
 `★45 · ⭐🔥 已 star + 热点推荐`
 AI-native Chiplet 设计流，用 agent 编排开源 EDA 工具链
@@ -1901,6 +1908,13 @@ SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计�
 嘉立创 EDA 专业版扩展：把 PCB 一键转成 FDM 可打印的锡膏钢网，省掉开钢网费用
 > 热点推荐于 2026-11-22
 > 收录日期：2026-11-22
+
+---
+
+#### [BTTLab/simple_and_affordable_lps](https://github.com/BTTLab/simple_and_affordable_lps)
+`★28 · 🔥 热点推荐`
+简单低成本线性电源的开源硬件设计与电路
+> 收录日期：2026-11-24
 
 ---
 
