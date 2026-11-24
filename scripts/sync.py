@@ -1194,6 +1194,8 @@ OVERRIDES: dict[str, str] = {
     "3dhaoxinren/miaomo": "嵌入式与单片机",
     # 嵌入式与单片机（华为四色墨水屏本地阅读器，与其它电子纸件同口径）
     "pjk2336/huawei-eink-reader": "嵌入式与单片机",
+    # 飞控与无人机（大疆 Agras T100 农业无人机 Mid-360 LiDAR 驱动，机载感知口径；本轮 star 同步带入）
+    "AkiyamaYukina/mid360_agras_t100_lidar_driver": "飞控与无人机",
 }
 
 UNCLASSIFIED = "待归类"

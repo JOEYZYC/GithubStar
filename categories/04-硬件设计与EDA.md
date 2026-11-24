@@ -1921,8 +1921,9 @@ SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计�
 ---
 
 #### [alsunmengy/GPT-PCB-Art](https://github.com/alsunmengy/GPT-PCB-Art)
-`★28 · 🔥 热点推荐`
+`★28 · ⭐🔥 已 star + 热点推荐`
 带 NFC 的 PCB 艺术板（龙娘图案）：把天线走线与丝印图案合成在同一块电路板上，开源硬件工艺参考
+> 热点推荐于 2026-11-25
 > 收录日期：2026-11-25
 
 ---
@@ -2192,8 +2193,9 @@ SystemVerilog 参数化 8 位 ALU：10 种算术/逻辑/移位运算，Verilator
 ---
 
 #### [FLASHICON/uart-tx-rx-communication-ip](https://github.com/FLASHICON/uart-tx-rx-communication-ip)
-`★17 · 🔥 热点推荐`
+`★17 · ⭐🔥 已 star + 热点推荐`
 SystemVerilog 实现的 UART IP 核：发送/接收 + 波特率发生器，带 FIFO 缓冲与错误标志，Yosys 综合验证
+> 热点推荐于 2026-11-25
 > 收录日期：2026-11-25
 
 ---
