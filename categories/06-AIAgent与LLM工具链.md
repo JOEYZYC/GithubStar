@@ -100,7 +100,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★136,016 · TypeScript · ⭐ 已 star`
+`★136,017 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -115,7 +115,7 @@ OpenAI 官方终端编码 agent，Rust 实现，当日涨星 172★
 ---
 
 #### [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
-`★116,257 · Rust · ⭐ 已 star`
+`★116,258 · Rust · ⭐ 已 star`
 The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 > 收录日期：2026-09-13
 
@@ -208,7 +208,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★73,159 · Python · ⭐ 已 star`
+`★73,160 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 

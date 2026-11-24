@@ -20075,27 +20075,6 @@
    ]
   },
   {
-   "full_name": "joelewis012/CSIght",
-   "url": "https://github.com/joelewis012/CSIght",
-   "description": "WiFi CSI 人体感知雷达：Flipper Zero + ESP32 双端，用信道状态信息穿墙检测移动、存在与接近，无需摄像头和红外传感器",
-   "language": "",
-   "stars": 183,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-25",
-   "category": "嵌入式与单片机",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-25"
-   ]
-  },
-  {
    "full_name": "eez-open/psu-firmware",
    "url": "https://github.com/eez-open/psu-firmware",
    "description": "EEZ H24005 台式电源固件：电压/电流环控制、SCPI 远程控制与前面板 UI",
@@ -26888,6 +26867,27 @@
    ]
   },
   {
+   "full_name": "miantiao-me/giligili",
+   "url": "https://github.com/miantiao-me/giligili",
+   "description": "M5Stack StackChan 的开源 AI 语音陪伴机器人固件：ESP-IDF + PocketJS MicroTS + Rust，舵机与语音交互",
+   "language": "",
+   "stars": 23,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-25",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-25"
+   ]
+  },
+  {
    "full_name": "MikeWuPing/UEFI_LVGL",
    "url": "https://github.com/MikeWuPing/UEFI_LVGL",
    "description": "把 LVGL v9 移植进 UEFI 固件环境（EDK2 包 + 完整 UEFI 移植层）",
@@ -28430,6 +28430,27 @@
    ],
    "hot_dates": [
     "2026-11-23"
+   ]
+  },
+  {
+   "full_name": "Aleitao2/bambu-ams-rfid",
+   "url": "https://github.com/Aleitao2/bambu-ams-rfid",
+   "description": "拓竹 AMS 供料系统的 RFID 标签读写工具，3D 打印耗材识别与 NFC 标签逆向",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-25",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-25"
    ]
   },
   {
@@ -39973,6 +39994,27 @@
    ]
   },
   {
+   "full_name": "joelewis012/CSIght",
+   "url": "https://github.com/joelewis012/CSIght",
+   "description": "WiFi CSI 人体感知雷达：Flipper Zero + ESP32 双端，用信道状态信息穿墙检测移动、存在与接近，无需摄像头和红外传感器",
+   "language": "",
+   "stars": 183,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-25",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-25"
+   ]
+  },
+  {
    "full_name": "rookiepeng/beamscope",
    "url": "https://github.com/rookiepeng/beamscope",
    "description": "天线阵列分析与波束合成可视化 GUI 工具",
@@ -43967,7 +44009,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 136016,
+   "stars": 136017,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -44022,7 +44064,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 116257,
+   "stars": 116258,
    "topics": [
     "agent-skills",
     "ai",
@@ -44331,7 +44373,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 73159,
+   "stars": 73160,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -48199,7 +48241,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "language": "Python",
-   "stars": 70146,
+   "stars": 70147,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -49906,27 +49948,6 @@
    ]
   },
   {
-   "full_name": "miantiao-me/giligili",
-   "url": "https://github.com/miantiao-me/giligili",
-   "description": "M5Stack StackChan 的开源 AI 语音陪伴机器人固件：ESP-IDF + PocketJS MicroTS + Rust，舵机与语音交互",
-   "language": "",
-   "stars": 23,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-25",
-   "category": "AI 模型与视觉",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-25"
-   ]
-  },
-  {
    "full_name": "KJ-Falloutlast/FIRE-LIVWO",
    "url": "https://github.com/KJ-Falloutlast/FIRE-LIVWO",
    "description": "mmWave 雷达增强的 LiDAR-惯性-视觉-轮式里程计（IROS 2026）",
@@ -50071,27 +50092,6 @@
    ],
    "hot_dates": [
     "2026-09-15"
-   ]
-  },
-  {
-   "full_name": "Aleitao2/bambu-ams-rfid",
-   "url": "https://github.com/Aleitao2/bambu-ams-rfid",
-   "description": "拓竹 AMS 供料系统的 RFID 标签读写工具，3D 打印耗材识别与 NFC 标签逆向",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-25",
-   "category": "AI 模型与视觉",
-   "applicable": "",
-   "note": "",
-   "sources": [
-    "hot",
-    "star"
-   ],
-   "hot_dates": [
-    "2026-11-25"
    ]
   },
   {

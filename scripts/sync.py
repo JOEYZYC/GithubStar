@@ -1196,6 +1196,12 @@ OVERRIDES: dict[str, str] = {
     "pjk2336/huawei-eink-reader": "嵌入式与单片机",
     # 飞控与无人机（大疆 Agras T100 农业无人机 Mid-360 LiDAR 驱动，机载感知口径；本轮 star 同步带入）
     "AkiyamaYukina/mid360_agras_t100_lidar_driver": "飞控与无人机",
+    # 无线通信与感知（WiFi CSI 人体感知雷达，无线感知口径优先于嵌入式）
+    "joelewis012/CSIght": "无线通信与感知",
+    # 嵌入式与单片机（M5Stack StackChan 机器人整机固件；简介含「语音」被误判进 AI 模型与视觉）
+    "miantiao-me/giligili": "嵌入式与单片机",
+    # 嵌入式与单片机（拓竹 AMS 的 RFID 读写工具；简介含「识别」被误判进 AI 模型与视觉）
+    "Aleitao2/bambu-ams-rfid": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"
