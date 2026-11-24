@@ -1183,6 +1183,17 @@ OVERRIDES: dict[str, str] = {
     "darkmaniac7/cmp170hx-8gb-vfi-tools": "嵌入式与单片机",
     # 嵌入式与单片机（电子纸作品集/相框类应用，与其它电子纸件同口径）
     "respectevery01/inkfolio": "嵌入式与单片机",
+    # ---- 2026-11-25：本轮 20 条，预判待归类/口径校正 ----
+    # 无线通信与感知（ESP8266/ESP32 上的 AM/FM/SSB 收发，射频电台口径）
+    "kaboom748/ESP-AnalogRadio": "无线通信与感知",
+    # 无线通信与感知（IC-705 业余无线电固件研究，CW/SSTV 收发，火腿口径）
+    "BI1BIF/IC-705-Firmware": "无线通信与感知",
+    # 硬件设计与 EDA（SystemVerilog UART IP 核，Yosys 综合，HDL 口径）
+    "FLASHICON/uart-tx-rx-communication-ip": "硬件设计与 EDA",
+    # 嵌入式与单片机（华为四色 NFC 墨水屏刷图工具，与其它电子纸件同口径）
+    "3dhaoxinren/miaomo": "嵌入式与单片机",
+    # 嵌入式与单片机（华为四色墨水屏本地阅读器，与其它电子纸件同口径）
+    "pjk2336/huawei-eink-reader": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"

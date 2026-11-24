@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 312 个项目 · 数据更新时间 2026-11-24 · [返回总览](../README.md)
+> 共 314 个项目 · 数据更新时间 2026-11-25 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,729 · C++ · ⭐ 已 star`
+`★35,759 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★17,911 · Rust · ⭐ 已 star`
+`★18,091 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -75,7 +75,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,243 · Rust · ⭐ 已 star`
+`★4,259 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,455 · Python · ⭐ 已 star`
+`★3,468 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,202 · C++ · ⭐ 已 star`
+`★3,207 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -1158,7 +1158,7 @@ Nordic 全系列芯片 KiCad 元件库
 ---
 
 #### [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-`★183 · C · ⭐ 已 star`
+`★184 · C · ⭐ 已 star`
 USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
 > 收录日期：2026-11-12
 
@@ -1388,6 +1388,13 @@ USB PD 供电的口袋型可调直流电源，含固件、PCB 与外壳设计
 
 ---
 
+#### [sekigon-gonnoc/torabo-tsuki-lp](https://github.com/sekigon-gonnoc/torabo-tsuki-lp)
+`★111 · JavaScript · ⭐ 已 star`
+torabo-tsuki lp is low profile split keyboard with trackball(s)
+> 收录日期：2026-10-28
+
+---
+
 #### [DavidClawson/OpenScope-2C53T](https://github.com/DavidClawson/OpenScope-2C53T)
 `★110 · ⭐🔥 已 star + 热点推荐`
 FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开发
@@ -1401,13 +1408,6 @@ FNIRSI 2C53T 示波器、万用表与信号源的开源逆向工程与固件开�
 从 PyTorch 到自研 ASIC 的最短路径：面向边缘 AI 的可综合加速核
 > 热点推荐于 2026-10-01
 > 收录日期：2026-10-01
-
----
-
-#### [sekigon-gonnoc/torabo-tsuki-lp](https://github.com/sekigon-gonnoc/torabo-tsuki-lp)
-`★110 · JavaScript · ⭐ 已 star`
-torabo-tsuki lp is low profile split keyboard with trackball(s)
-> 收录日期：2026-10-28
 
 ---
 
@@ -1920,6 +1920,13 @@ SiCo（矽科）：基于 Codex CLI 的定制集成电路芯片（EDA）设计�
 
 ---
 
+#### [alsunmengy/GPT-PCB-Art](https://github.com/alsunmengy/GPT-PCB-Art)
+`★28 · 🔥 热点推荐`
+带 NFC 的 PCB 艺术板（龙娘图案）：把天线走线与丝印图案合成在同一块电路板上，开源硬件工艺参考
+> 收录日期：2026-11-25
+
+---
+
 #### [RuihongY/axi-compliance-skill](https://github.com/RuihongY/axi-compliance-skill)
 `★27 · ⭐🔥 已 star + 热点推荐`
 AXI4-Stream 协议合规性检查的 agent 技能，商业 EDA 的开源替代
@@ -2181,6 +2188,13 @@ AI agent 做 PCB：调 KiCad 封装库与 LCSC 料号，出 Gerber/BOM/贴片坐
 SystemVerilog 参数化 8 位 ALU：10 种算术/逻辑/移位运算，Verilator 验证 + Yosys 综合
 > 热点推荐于 2026-11-24
 > 收录日期：2026-11-24
+
+---
+
+#### [FLASHICON/uart-tx-rx-communication-ip](https://github.com/FLASHICON/uart-tx-rx-communication-ip)
+`★17 · 🔥 热点推荐`
+SystemVerilog 实现的 UART IP 核：发送/接收 + 波特率发生器，带 FIFO 缓冲与错误标志，Yosys 综合验证
+> 收录日期：2026-11-25
 
 ---
 

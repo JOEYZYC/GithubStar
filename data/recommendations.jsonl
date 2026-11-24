@@ -2198,3 +2198,23 @@
 {"url": "https://github.com/lfpoulain/cornelius-satellite", "stars": 11, "desc": "Waveshare ESP32-S3-AUDIO 音频卫星节点的 ESP-IDF 固件", "date": "2026-11-24"}
 {"url": "https://github.com/darkmaniac7/cmp170hx-8gb-vfi-tools", "stars": 11, "desc": "RP2350/Pico 电压毛刺（VFI）固件补丁与台架工具，硬件安全测试", "date": "2026-11-24"}
 {"url": "https://github.com/0ct0sec/GNDHOG", "stars": 10, "desc": "Cardputer Zero 上的 BetaFlight CLI 终端，飞控参数现场调试", "date": "2026-11-24"}
+{"url": "https://github.com/joelewis012/CSIght", "stars": 183, "desc": "WiFi CSI 人体感知雷达：Flipper Zero + ESP32 双端，用信道状态信息穿墙检测移动、存在与接近，无需摄像头和红外传感器", "date": "2026-11-25"}
+{"url": "https://github.com/kaboom748/ESP-AnalogRadio", "stars": 63, "desc": "把 ESP8266 / ESP32 当模拟无线电：独立收发 FM 立体声、AM 与 SSB，嵌入式固件直接驱动射频收发", "date": "2026-11-25"}
+{"url": "https://github.com/zrecore/kicad-em-fdtd", "stars": 48, "desc": "实时 3D FDTD 电磁仿真器（Vulkan 加速）+ 跨平台 KiCad 插件，在 PCB 设计环境里直接看电磁场分布", "date": "2026-11-25"}
+{"url": "https://github.com/baicyber/P4can-No-Reboot", "stars": 38, "desc": "Tesla CAN 总线固件修补：解决 MCU 重启问题（0x331 缓存重放），只发二进制，可作 CAN 报文重放的参考实现", "date": "2026-11-25"}
+{"url": "https://github.com/serg5z/woodland-x11", "stars": 33, "desc": "在 ESP32-S3 开发板上跑 X11 服务器（Elecrow CrowPanel Advance 4.3 寸），嵌入式图形栈的另一条路线", "date": "2026-11-25"}
+{"url": "https://github.com/alsunmengy/GPT-PCB-Art", "stars": 28, "desc": "带 NFC 的 PCB 艺术板（龙娘图案）：把天线走线与丝印图案合成在同一块电路板上，开源硬件工艺参考", "date": "2026-11-25"}
+{"url": "https://github.com/Wua-maker/smart-agri-lora-iot", "stars": 23, "desc": "开源智慧农业 LoRa 传感网络：免 SIM 卡、超低功耗野外环境监测节点与网关，无线传感与低功耗设计", "date": "2026-11-25"}
+{"url": "https://github.com/miantiao-me/giligili", "stars": 23, "desc": "M5Stack StackChan 的开源 AI 语音陪伴机器人固件：ESP-IDF + PocketJS MicroTS + Rust，舵机与语音交互", "date": "2026-11-25"}
+{"url": "https://github.com/BI1BIF/IC-705-Firmware", "stars": 21, "desc": "IC-705 业余无线电固件研究：CW 译码与 23 种 SSTV 模式收发，射频接收机数字信号处理实践", "date": "2026-11-25"}
+{"url": "https://github.com/nbtca/CABadge", "stars": 21, "desc": "ESP32-S3 开源圆屏互动徽章：PCB、3D 打印外壳、固件全套开源，支持 Wi-Fi/BLE 与动态壁纸小应用", "date": "2026-11-25"}
+{"url": "https://github.com/RaduTek/CEonPi", "stars": 18, "desc": "在树莓派上跑 Windows Embedded Compact（CE），把老嵌入式系统移植到现代开发板的实验记录", "date": "2026-11-25"}
+{"url": "https://github.com/Aleitao2/bambu-ams-rfid", "stars": 17, "desc": "拓竹 AMS 供料系统的 RFID 标签读写工具，3D 打印耗材识别与 NFC 标签逆向", "date": "2026-11-25"}
+{"url": "https://github.com/FLASHICON/uart-tx-rx-communication-ip", "stars": 17, "desc": "SystemVerilog 实现的 UART IP 核：发送/接收 + 波特率发生器，带 FIFO 缓冲与错误标志，Yosys 综合验证", "date": "2026-11-25"}
+{"url": "https://github.com/3dhaoxinren/miaomo", "stars": 15, "desc": "华为四色 NFC 墨水屏照片编辑与刷屏工具，手机 NFC 直刷电子纸，无需 root", "date": "2026-11-25"}
+{"url": "https://github.com/younes-makhchan/esp32-bike-nav-display", "stars": 13, "desc": "ESP32-S3 自行车导航屏：安卓端推 GPS 与路线，设备用 LVGL 画旋转地图、路线与转向卡片", "date": "2026-11-25"}
+{"url": "https://github.com/pjk2336/huawei-eink-reader", "stars": 13, "desc": "华为 552×768 四色 NFC 墨水屏专用的本地 TXT 阅读器，电子纸排版与刷屏优化", "date": "2026-11-25"}
+{"url": "https://github.com/osptek/devkit-hueleaf_base", "stars": 12, "desc": "ESP32-C5 开发板：3.7 寸六色电子纸 + 双频 Wi-Fi 6 + NFC + RTC，电子纸整机硬件设计参考", "date": "2026-11-25"}
+{"url": "https://github.com/DanielAbdelNour/tricky-sticks-fpv", "stars": 11, "desc": "EdgeTX Lua 脚本：识别 tinywhoop 花式动作并叠加到 Betaflight OSD 打分，飞控遥测与 OSD 扩展", "date": "2026-11-25"}
+{"url": "https://github.com/u6420771547-hash/hartbox", "stars": 11, "desc": "Hartbox RISC-V 模拟器：在 iPhone / iPad 上启动 Alpine Linux，RISC-V 指令集与 SoC 模拟", "date": "2026-11-25"}
+{"url": "https://github.com/huichen/esp32-agent", "stars": 10, "desc": "ESP32 上的 agent 循环：把开发板工具（GPIO、传感器）经 MCP 暴露给大模型调用", "date": "2026-11-25"}
