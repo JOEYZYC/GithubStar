@@ -12,7 +12,7 @@ Official source code of FreeCAD, a free and opensource multiplatform 3D parametr
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★18,247 · Rust · ⭐ 已 star`
+`★18,248 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -2209,8 +2209,9 @@ SystemVerilog 实现的 UART IP 核：发送/接收 + 波特率发生器，带 F
 ---
 
 #### [FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii](https://github.com/FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii)
-`★16 · 🔥 热点推荐`
+`★16 · ⭐🔥 已 star + 热点推荐`
 工业风格数字 ASIC 子系统：UART、FIFO、GPIO、定时器与寄存器堆挂在 AXI 上，给 RTL 到 GDSII 全流程做参考工程
+> 热点推荐于 2026-11-26
 > 收录日期：2026-11-26
 
 ---

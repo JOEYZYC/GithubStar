@@ -106,6 +106,10 @@ OVERRIDES: dict[str, str] = {
     "colonelpanichacks/oui-spy-recon-app": "无线通信与感知",
     # 硬件设计与 EDA（RTL 到 GDSII 的数字 ASIC 子系统参考工程）
     "FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii": "硬件设计与 EDA",
+    # 嵌入式与单片机（SSD1681 电子纸高速刷新驱动，中文简介无 ASCII 关键词会落待归类）
+    "PinkiePie1/SmoothEPD": "嵌入式与单片机",
+    # 无线通信与感知（SDR 接收机，中文简介里只有「软件无线电」）
+    "CasualArclamp/DecLAB": "无线通信与感知",
     # ---- 2026-11-21：本轮 20 条，待归类 5 条 ----
     # 嵌入式与单片机（Kindle 电子书排版/晨报生成器，电子纸应用口径）
     "CasaVargas/deckle": "嵌入式与单片机",

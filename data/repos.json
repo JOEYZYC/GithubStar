@@ -4217,7 +4217,14 @@
    "added_at": "2026-11-26",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "PteroLabsAI/PteroSim-UAV-Simulator",
@@ -4525,7 +4532,14 @@
    "added_at": "2026-11-26",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "dashs20/Chesapeake",
@@ -5702,7 +5716,14 @@
    "added_at": "2026-11-26",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "dbloemhard/ESP32_Transmitter_for_ELRS",
@@ -6246,7 +6267,14 @@
    "added_at": "2026-11-26",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "egekonuk/ExBEMT--An-Extended-Blade-Element-Momentum-Theory-Solver",
@@ -12080,7 +12108,14 @@
    "added_at": "2026-11-26",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "ntotorica/SMP_Passivity_Enforcement",
@@ -12199,7 +12234,14 @@
    "added_at": "2026-11-26",
    "category": "电磁仿真与超表面",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "eye1patch/merlin",
@@ -19898,7 +19940,14 @@
    "added_at": "2026-11-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "seamusc/papermono-shopping-list",
@@ -21444,7 +21493,14 @@
    "added_at": "2026-11-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "esp-cpp/espp",
@@ -21835,6 +21891,27 @@
    ],
    "hot_dates": [
     "2026-10-18"
+   ]
+  },
+  {
+   "full_name": "PinkiePie1/SmoothEPD",
+   "url": "https://github.com/PinkiePie1/SmoothEPD",
+   "description": "SSD1681 串口电子纸屏的 47Hz 高刷驱动固件：改 LUT 只刷变化像素，CH32H417 双核大核算内容小核刷墨水屏，实测秒表与 2300 粒子流体",
+   "language": "",
+   "stars": 103,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-26",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
    ]
   },
   {
@@ -24187,7 +24264,14 @@
    "added_at": "2026-11-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "techchipnet/maricha",
@@ -28235,7 +28319,14 @@
    "added_at": "2026-11-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "alexex1993/mcu-skills",
@@ -29479,7 +29570,14 @@
    "added_at": "2026-11-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -30794,7 +30892,14 @@
    "added_at": "2026-11-26",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -31877,7 +31982,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 18247,
+   "stars": 18248,
    "topics": [
     "3d-modeling",
     "brep",
@@ -37717,7 +37822,14 @@
    "added_at": "2026-11-26",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "piyushbag/awesome-pcb-workflow",
@@ -39473,7 +39585,14 @@
    "added_at": "2026-11-26",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "tomojitakasu/PocketSDR",
@@ -39718,7 +39837,14 @@
    "added_at": "2026-11-26",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "Ttl/fmcw3",
@@ -41984,7 +42110,14 @@
    "added_at": "2026-11-26",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "rookiepeng/arraybeam",
@@ -42775,7 +42908,14 @@
    "added_at": "2026-11-26",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "GREAT-ISAC/CSI-CLIP",
@@ -43314,7 +43454,14 @@
    "added_at": "2026-11-26",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
+   ]
   },
   {
    "full_name": "loganzarov-alt/D325f-SDR",
@@ -43545,6 +43692,27 @@
    ],
    "hot_dates": [
     "2026-11-11"
+   ]
+  },
+  {
+   "full_name": "CasualArclamp/DecLAB",
+   "url": "https://github.com/CasualArclamp/DecLAB",
+   "description": "一个软件无线电接收机覆盖 DVB-T/T2、DAB+、FM、寻呼、DMR/NXDN/P25 等全部在空信号",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-26",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-26"
    ]
   },
   {
@@ -44261,7 +44429,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 137913,
+   "stars": 137914,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -51462,34 +51630,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "PinkiePie1/SmoothEPD",
-   "url": "https://github.com/PinkiePie1/SmoothEPD",
-   "description": "SSD1681 串口电子纸屏的 47Hz 高刷驱动固件：改 LUT 只刷变化像素，CH32H417 双核大核算内容小核刷墨水屏，实测秒表与 2300 粒子流体",
-   "language": "",
-   "stars": 103,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-26",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "CasualArclamp/DecLAB",
-   "url": "https://github.com/CasualArclamp/DecLAB",
-   "description": "一个软件无线电接收机覆盖 DVB-T/T2、DAB+、FM、寻呼、DMR/NXDN/P25 等全部在空信号",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-26",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]

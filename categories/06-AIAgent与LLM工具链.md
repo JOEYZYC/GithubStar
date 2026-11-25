@@ -100,7 +100,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★137,913 · TypeScript · ⭐ 已 star`
+`★137,914 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
