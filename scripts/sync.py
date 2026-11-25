@@ -89,6 +89,23 @@ RULES: dict[str, list[str]] = {
 
 # 人工校正：full_name -> 分类（优先级最高，用于规则误判的个案）
 OVERRIDES: dict[str, str] = {
+    # ---- 2026-11-26：本轮 20 条，预判性写入 8 条 ----
+    # 无线通信与感知（AirPods 头部姿态当鼠标，BLE HID 逆向 + IMU 口径）
+    "starman-tech/Mousepods": "无线通信与感知",
+    # 嵌入式与单片机（FOC 驱动板 + 关节固件，执行器/电机口径）
+    "yzytz17/1.5-joint-module": "嵌入式与单片机",
+    # 嵌入式与单片机（RK3588 NPU 上跑 LLM 推理，边缘嵌入式而非 PC 工具链）
+    "happyme531/open_rknpu2_lm_infer": "嵌入式与单片机",
+    # 飞控与无人机（ROS2 兼容的机器人中间件）
+    "podomy/weld": "飞控与无人机",
+    # 飞控与无人机（LiDAR SLAM 建图 + Nav2 导航控制台）
+    "Leonhart999/slam-autonav-console": "飞控与无人机",
+    # 飞控与无人机（相机图像在 LiDAR 点云中定位，机器人无 GNSS 定位）
+    "ori-drs/drs-vpt": "飞控与无人机",
+    # 无线通信与感知（按 OUI 扫周边蓝牙/无线设备，不是无人机项目）
+    "colonelpanichacks/oui-spy-recon-app": "无线通信与感知",
+    # 硬件设计与 EDA（RTL 到 GDSII 的数字 ASIC 子系统参考工程）
+    "FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii": "硬件设计与 EDA",
     # ---- 2026-11-21：本轮 20 条，待归类 5 条 ----
     # 嵌入式与单片机（Kindle 电子书排版/晨报生成器，电子纸应用口径）
     "CasaVargas/deckle": "嵌入式与单片机",

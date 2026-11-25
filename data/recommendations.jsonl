@@ -2218,3 +2218,23 @@
 {"url": "https://github.com/DanielAbdelNour/tricky-sticks-fpv", "stars": 11, "desc": "EdgeTX Lua 脚本：识别 tinywhoop 花式动作并叠加到 Betaflight OSD 打分，飞控遥测与 OSD 扩展", "date": "2026-11-25"}
 {"url": "https://github.com/u6420771547-hash/hartbox", "stars": 11, "desc": "Hartbox RISC-V 模拟器：在 iPhone / iPad 上启动 Alpine Linux，RISC-V 指令集与 SoC 模拟", "date": "2026-11-25"}
 {"url": "https://github.com/huichen/esp32-agent", "stars": 10, "desc": "ESP32 上的 agent 循环：把开发板工具（GPIO、传感器）经 MCP 暴露给大模型调用", "date": "2026-11-25"}
+{"url": "https://github.com/starman-tech/Mousepods", "stars": 567, "desc": "把 AirPods 3 的头部姿态当鼠标用：逆向 Apple RemoteHID（蓝牙 BLE HID），Linux 上直接输出鼠标/键盘事件，并用 IMU 姿态做指针", "date": "2026-11-26"}
+{"url": "https://github.com/SAMS0N1TE/lr2021-sdr", "stars": 324, "desc": "把 Semtech LR2021 LoRa 芯片当软件无线电：100MHz 至 2.74GHz 连续接收、800ksps I/Q 经 USB 或无线送出，可当 SoapySDR 设备解 P25/寻呼/FM/BLE", "date": "2026-11-26"}
+{"url": "https://github.com/yzytz17/1.5-joint-module", "stars": 213, "desc": "1.5 美元四层 FOC 驱动板塞进 1503 无刷云台电机，配全 3D 打印高减速比齿轮箱：低成本机器人关节，硬件、固件与 CAD 全开", "date": "2026-11-26"}
+{"url": "https://github.com/happyme531/open_rknpu2_lm_infer", "stars": 119, "desc": "RK3588 处理器 NPU 上完全开源的 Rust 大模型推理引擎，直接吃 RKNPU2，让嵌入式边缘设备本地跑 LLM", "date": "2026-11-26"}
+{"url": "https://github.com/PinkiePie1/SmoothEPD", "stars": 103, "desc": "SSD1681 串口电子纸屏的 47Hz 高刷驱动固件：改 LUT 只刷变化像素，CH32H417 双核大核算内容小核刷墨水屏，实测秒表与 2300 粒子流体", "date": "2026-11-26"}
+{"url": "https://github.com/podomy/weld", "stars": 101, "desc": "Go 写的现代机器人中间件，兼容 ROS2 的节点与话题语义，走轻量协议栈替代 DDS", "date": "2026-11-26"}
+{"url": "https://github.com/Leonhart999/slam-autonav-console", "stars": 72, "desc": "浏览器里的 LiDAR SLAM 控制台：接 FAST-LIO2 与 GLIM 建图、ROS2 Nav2 导航和 evo 轨迹评估，免装桌面环境", "date": "2026-11-26"}
+{"url": "https://github.com/WarpKVM/rk628-bridge-boards", "stars": 49, "desc": "RK628H 芯片的 HDMI 转 MIPI CSI-2 桥接板开源硬件：原理图、制板文件、设备树与驱动补丁，给嵌入式板子加摄像头输入", "date": "2026-11-26"}
+{"url": "https://github.com/colonelpanichacks/oui-spy-recon-app", "stars": 46, "desc": "OUI SPY 板配套 App：扫周边蓝牙与无线设备的 MAC OUI，把无人机、追踪器、摄像头标到地图上", "date": "2026-11-26"}
+{"url": "https://github.com/ori-drs/drs-vpt", "stars": 28, "desc": "ECCV 2026 工作：把单张相机图像直接定位到 LiDAR 点云地图里，带跨模态标定，用于无 GNSS 的机器人定位", "date": "2026-11-26"}
+{"url": "https://github.com/antirez/sx1262-adsb", "stars": 22, "desc": "不改硬件的 SX1262 LoRa 芯片收 1090MHz ADS-B：LilyGO T3-S3 与 T-Echo 变口袋飞机接收机，显示呼号、高度、速度与坐标", "date": "2026-11-26"}
+{"url": "https://github.com/JA-cmd-wq/RK3588-AntiUAV-Tracker", "stars": 20, "desc": "RK3588 处理器 NPU 上实时无人机检测跟踪：YOLOv8 加 FEAR 孪生跟踪加 Kalman，三种模式约 115 FPS，用于低空监视", "date": "2026-11-26"}
+{"url": "https://github.com/Rekalyptus/rekadeck", "stars": 18, "desc": "ESP32-S3 墨水屏抽认卡整机：固件、模拟器、mock 服务与一键安装器齐全，电子纸低功耗背单词", "date": "2026-11-26"}
+{"url": "https://github.com/FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii", "stars": 16, "desc": "工业风格数字 ASIC 子系统：UART、FIFO、GPIO、定时器与寄存器堆挂在 AXI 上，给 RTL 到 GDSII 全流程做参考工程", "date": "2026-11-26"}
+{"url": "https://github.com/xdab/rxx_lora", "stars": 15, "desc": "用 RTL-SDR 与 SDRPlay 接收机 demod LoRa 包的实现，低成本收听 LoRa 无线报文", "date": "2026-11-26"}
+{"url": "https://github.com/YuchanHu/Godox-S3-Trigger", "stars": 14, "desc": "用 ESP32-S3 触摸墨水屏开发板做神牛 X 系列闪光灯的无线引闪控制器", "date": "2026-11-26"}
+{"url": "https://github.com/ICDT-Inatel-Cubesat-Design-Team/S-Band-Antenna", "stars": 12, "desc": "1U CubeSat 的 S 波段 2.45GHz 右旋圆极化贴片天线：天线设计、仿真与实测，开源硬件", "date": "2026-11-26"}
+{"url": "https://github.com/CasualArclamp/DecLAB", "stars": 12, "desc": "一个软件无线电接收机覆盖 DVB-T/T2、DAB+、FM、寻呼、DMR/NXDN/P25 等全部在空信号", "date": "2026-11-26"}
+{"url": "https://github.com/patapovich/open-dimmer", "stars": 11, "desc": "Zigbee 调光模块 AVATTO ZDMS16-2 的调光单片机开源固件：平滑调光曲线、墙面开关手势、逐通道设置，升级走 Zigbee", "date": "2026-11-26"}
+{"url": "https://github.com/tachsin/photonoxide", "stars": 11, "desc": "Rust 写的光子学与电磁仿真工具链：模式求解、FDFD 与 FDTD、逆向设计，带桌面工作室与 Python 绑定", "date": "2026-11-26"}

@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 314 个项目 · 数据更新时间 2026-11-25 · [返回总览](../README.md)
+> 共 315 个项目 · 数据更新时间 2026-11-26 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,759 · C++ · ⭐ 已 star`
+`★35,787 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★18,091 · Rust · ⭐ 已 star`
+`★18,247 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -75,7 +75,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,259 · Rust · ⭐ 已 star`
+`★4,274 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,468 · Python · ⭐ 已 star`
+`★3,481 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,207 · C++ · ⭐ 已 star`
+`★3,211 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,875 · ⭐ 已 star`
+`★1,874 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -938,7 +938,7 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 ---
 
 #### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★286 · C++ · ⭐ 已 star`
+`★288 · C++ · ⭐ 已 star`
 > 收录日期：2026-09-13
 
 ---
@@ -2205,6 +2205,13 @@ SystemVerilog 实现的 UART IP 核：发送/接收 + 波特率发生器，带 F
 让 AI agent 在 KiCad 里做 PCB 设计的 DeepSeek Harness 插件
 > 热点推荐于 2026-11-04
 > 收录日期：2026-11-04
+
+---
+
+#### [FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii](https://github.com/FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii)
+`★16 · 🔥 热点推荐`
+工业风格数字 ASIC 子系统：UART、FIFO、GPIO、定时器与寄存器堆挂在 AXI 上，给 RTL 到 GDSII 全流程做参考工程
+> 收录日期：2026-11-26
 
 ---
 
