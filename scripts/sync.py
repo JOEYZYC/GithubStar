@@ -1223,6 +1223,15 @@ OVERRIDES: dict[str, str] = {
     "miantiao-me/giligili": "嵌入式与单片机",
     # 嵌入式与单片机（拓竹 AMS 的 RFID 读写工具；简介含「识别」被误判进 AI 模型与视觉）
     "Aleitao2/bambu-ams-rfid": "嵌入式与单片机",
+    # 2026-11-27：中文/缩写简介未命中规则或误命中（microduck_ros2 被 simulation 抓到电磁）
+    "WilliamChen55/rfid-nfc-toolkit": "无线通信与感知",
+    "FLASHICON/programmable-timer-and-interrupt-controller": "硬件设计与 EDA",
+    "FLASHICON/amba-apb4-gpio-timer-subsystem": "硬件设计与 EDA",
+    "FLASHICON/synchronous-fifo-ip": "硬件设计与 EDA",
+    "SaraFanzee/Verilog-IDE": "硬件设计与 EDA",
+    "Arjunros/microduck_ros2": "飞控与无人机",
+    "be2rlab/ACCORD": "飞控与无人机",
+    "ASIG-X/RESPLE2": "飞控与无人机",
 }
 
 UNCLASSIFIED = "待归类"

@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 316 个项目 · 数据更新时间 2026-11-27 · [返回总览](../README.md)
+> 共 320 个项目 · 数据更新时间 2026-11-27 · [返回总览](../README.md)
 
 ---
 
@@ -2049,8 +2049,9 @@ Xilinx 7 系列 FPGA 的 PCIe Endpoint 软核，Verilog/HDL 实现，可替代 P
 ---
 
 #### [1Zonghao/ZUST-NFC-PCB-Campus-card](https://github.com/1Zonghao/ZUST-NFC-PCB-Campus-card)
-`★22 · 🔥 热点推荐`
+`★22 · ⭐🔥 已 star + 热点推荐`
 浙科大 NFC PCB 校园卡：刷卡点亮，含完整 PCB 工程
+> 热点推荐于 2026-11-27
 > 收录日期：2026-11-27
 
 ---
@@ -2207,6 +2208,22 @@ SystemVerilog 实现的 UART IP 核：发送/接收 + 波特率发生器，带 F
 
 ---
 
+#### [FLASHICON/programmable-timer-and-interrupt-controller](https://github.com/FLASHICON/programmable-timer-and-interrupt-controller)
+`★17 · ⭐🔥 已 star + 热点推荐`
+SystemVerilog 实现的寄存器映射定时器 + 中断控制器 RTL IP 核
+> 热点推荐于 2026-11-27
+> 收录日期：2026-11-27
+
+---
+
+#### [FLASHICON/amba-apb4-gpio-timer-subsystem](https://github.com/FLASHICON/amba-apb4-gpio-timer-subsystem)
+`★17 · ⭐🔥 已 star + 热点推荐`
+APB4 从设备的 GPIO 控制器与定时器子系统，SystemVerilog RTL
+> 热点推荐于 2026-11-27
+> 收录日期：2026-11-27
+
+---
+
 #### [LuYanFCP/dsh-kicad](https://github.com/LuYanFCP/dsh-kicad)
 `★16 · ⭐🔥 已 star + 热点推荐`
 让 AI agent 在 KiCad 里做 PCB 设计的 DeepSeek Harness 插件
@@ -2220,6 +2237,14 @@ SystemVerilog 实现的 UART IP 核：发送/接收 + 波特率发生器，带 F
 工业风格数字 ASIC 子系统：UART、FIFO、GPIO、定时器与寄存器堆挂在 AXI 上，给 RTL 到 GDSII 全流程做参考工程
 > 热点推荐于 2026-11-26
 > 收录日期：2026-11-26
+
+---
+
+#### [FLASHICON/synchronous-fifo-ip](https://github.com/FLASHICON/synchronous-fifo-ip)
+`★16 · ⭐🔥 已 star + 热点推荐`
+参数化同步 FIFO 的 SystemVerilog RTL IP，基于环形缓冲
+> 热点推荐于 2026-11-27
+> 收录日期：2026-11-27
 
 ---
 
@@ -2420,6 +2445,14 @@ GPU 加速的 GDSII / OASIS 版图查看器（C++ 编译为 WebAssembly），VS 
 本地优先的浏览器 PCB 设计编辑器，含原理图、布局、3D 检视与导出
 > 热点推荐于 2026-11-01
 > 收录日期：2026-11-01
+
+---
+
+#### [SaraFanzee/Verilog-IDE](https://github.com/SaraFanzee/Verilog-IDE)
+`★11 · ⭐🔥 已 star + 热点推荐`
+开箱即用的 Verilog/SystemVerilog IDE：实时语法检查、综合与波形生成
+> 热点推荐于 2026-11-27
+> 收录日期：2026-11-27
 
 ---
 

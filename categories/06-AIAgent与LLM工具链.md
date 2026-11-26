@@ -5,7 +5,7 @@
 ---
 
 #### [openclaw/openclaw](https://github.com/openclaw/openclaw)
-`★395,299 · TypeScript · ⭐ 已 star`
+`★395,300 · TypeScript · ⭐ 已 star`
 The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 > 收录日期：2026-09-13
 
@@ -49,14 +49,14 @@ A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar
 ---
 
 #### [anomalyco/opencode](https://github.com/anomalyco/opencode)
-`★229,401 · TypeScript · ⭐ 已 star`
+`★229,402 · TypeScript · ⭐ 已 star`
 The open source coding agent.
 > 收录日期：2026-09-13
 
 ---
 
 #### [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
-`★170,425 · Shell · ⭐ 已 star`
+`★170,427 · Shell · ⭐ 已 star`
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 > 收录日期：2026-09-13
 
@@ -70,7 +70,7 @@ An AI skill that provides design intelligence for building professional UI/UX ac
 ---
 
 #### [github/spec-kit](https://github.com/github/spec-kit)
-`★151,609 · Python · ⭐ 已 star`
+`★151,610 · Python · ⭐ 已 star`
 💫 Toolkit to help you get started with SDD or any other process!
 > 收录日期：2026-09-13
 
@@ -100,7 +100,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 ---
 
 #### [stablyai/orca](https://github.com/stablyai/orca)
-`★140,320 · TypeScript · ⭐ 已 star`
+`★140,323 · TypeScript · ⭐ 已 star`
 Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 > 收录日期：2026-09-13
 
@@ -208,7 +208,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 ---
 
 #### [blader/humanizer](https://github.com/blader/humanizer)
-`★73,977 · Python · ⭐ 已 star`
+`★73,979 · Python · ⭐ 已 star`
 Agent skill that removes signs of AI-generated writing from text
 > 收录日期：2026-09-29
 
@@ -230,7 +230,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 ---
 
 #### [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)
-`★71,140 · TypeScript · ⭐ 已 star`
+`★71,141 · TypeScript · ⭐ 已 star`
 OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 > 收录日期：2026-09-13
 

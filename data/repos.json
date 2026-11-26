@@ -4416,6 +4416,27 @@
    ]
   },
   {
+   "full_name": "be2rlab/ACCORD",
+   "url": "https://github.com/be2rlab/ACCORD",
+   "description": "单目相机 + IMU 的稠密度量建图（SLAM），用 foundation 模型补尺度",
+   "language": "",
+   "stars": 83,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
+  },
+  {
    "full_name": "pfeerick/USB_ELRS_Receiver",
    "url": "https://github.com/pfeerick/USB_ELRS_Receiver",
    "description": "把 ESP32 做成 USB HID 摇杆的 ELRS 接收机固件，手柄直连无人机模拟器免遥控器",
@@ -4697,6 +4718,27 @@
    "added_at": "2026-10-29",
    "category": "飞控与无人机",
    "note": ""
+  },
+  {
+   "full_name": "ASIG-X/RESPLE2",
+   "url": "https://github.com/ASIG-X/RESPLE2",
+   "description": "连续时间 B 样条多传感器状态估计框架，支持 IMU / LiDAR / 相机里程计",
+   "language": "",
+   "stars": 64,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "JackJu-HIT/OctoPlanner3D-ROS2",
@@ -5960,7 +6002,14 @@
    "added_at": "2026-11-27",
    "category": "飞控与无人机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "mihalinn/torne_drv",
@@ -6960,6 +7009,27 @@
    ],
    "hot_dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "full_name": "Arjunros/microduck_ros2",
+   "url": "https://github.com/Arjunros/microduck_ros2",
+   "description": "Pollen Robotics Microduck 双足机器人的 ROS2 仿真、Nav2 导航与语音控制",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "飞控与无人机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -12130,20 +12200,6 @@
    "hot_dates": [
     "2026-11-26"
    ]
-  },
-  {
-   "full_name": "Arjunros/microduck_ros2",
-   "url": "https://github.com/Arjunros/microduck_ros2",
-   "description": "Pollen Robotics Microduck 双足机器人的 ROS2 仿真、Nav2 导航与语音控制",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "ntotorica/SMP_Passivity_Enforcement",
@@ -21080,7 +21136,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "x1958075990h-pixel/RuView_Radar_Lite",
@@ -25701,7 +25764,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "cifertech/free-embedded-dev-tools",
@@ -25892,7 +25962,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "lalitshankarch/rvcore",
@@ -26948,7 +27025,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "notnameuse/embedded-debug-skill",
@@ -27836,7 +27920,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "ArmstrongSubero/dabao-sdk",
@@ -30130,7 +30221,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -30585,7 +30683,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "EIC-UESTC/aCoral",
@@ -31039,7 +31144,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -31683,7 +31795,14 @@
    "added_at": "2026-11-27",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -37556,7 +37675,14 @@
    "added_at": "2026-11-27",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "Keitark/pcba-design-skills",
@@ -37958,6 +38084,48 @@
    ]
   },
   {
+   "full_name": "FLASHICON/programmable-timer-and-interrupt-controller",
+   "url": "https://github.com/FLASHICON/programmable-timer-and-interrupt-controller",
+   "description": "SystemVerilog 实现的寄存器映射定时器 + 中断控制器 RTL IP 核",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
+  },
+  {
+   "full_name": "FLASHICON/amba-apb4-gpio-timer-subsystem",
+   "url": "https://github.com/FLASHICON/amba-apb4-gpio-timer-subsystem",
+   "description": "APB4 从设备的 GPIO 控制器与定时器子系统，SystemVerilog RTL",
+   "language": "",
+   "stars": 17,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
+  },
+  {
    "full_name": "LuYanFCP/dsh-kicad",
    "url": "https://github.com/LuYanFCP/dsh-kicad",
    "description": "让 AI agent 在 KiCad 里做 PCB 设计的 DeepSeek Harness 插件",
@@ -37997,6 +38165,27 @@
    ],
    "hot_dates": [
     "2026-11-26"
+   ]
+  },
+  {
+   "full_name": "FLASHICON/synchronous-fifo-ip",
+   "url": "https://github.com/FLASHICON/synchronous-fifo-ip",
+   "description": "参数化同步 FIFO 的 SystemVerilog RTL IP，基于环形缓冲",
+   "language": "",
+   "stars": 16,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -38522,6 +38711,27 @@
    ],
    "hot_dates": [
     "2026-11-01"
+   ]
+  },
+  {
+   "full_name": "SaraFanzee/Verilog-IDE",
+   "url": "https://github.com/SaraFanzee/Verilog-IDE",
+   "description": "开箱即用的 Verilog/SystemVerilog IDE：实时语法检查、综合与波形生成",
+   "language": "",
+   "stars": 11,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -41438,20 +41648,6 @@
    ]
   },
   {
-   "full_name": "be2rlab/ACCORD",
-   "url": "https://github.com/be2rlab/ACCORD",
-   "description": "单目相机 + IMU 的稠密度量建图（SLAM），用 foundation 模型补尺度",
-   "language": "",
-   "stars": 83,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "无线通信与感知",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "DarkSZChao/MMWave-radar-human-tracking-and-fall-detection",
    "url": "https://github.com/DarkSZChao/MMWave-radar-human-tracking-and-fall-detection",
    "description": "毫米波雷达多人跟踪与摔倒检测系统",
@@ -41946,20 +42142,6 @@
    "hot_dates": [
     "2026-10-12"
    ]
-  },
-  {
-   "full_name": "ASIG-X/RESPLE2",
-   "url": "https://github.com/ASIG-X/RESPLE2",
-   "description": "连续时间 B 样条多传感器状态估计框架，支持 IMU / LiDAR / 相机里程计",
-   "language": "",
-   "stars": 64,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "无线通信与感知",
-   "applicable": "",
-   "note": ""
   },
   {
    "full_name": "kaboom748/ESP-AnalogRadio",
@@ -42644,6 +42826,27 @@
    ],
    "hot_dates": [
     "2026-11-20"
+   ]
+  },
+  {
+   "full_name": "WilliamChen55/rfid-nfc-toolkit",
+   "url": "https://github.com/WilliamChen55/rfid-nfc-toolkit",
+   "description": "跨平台 Python 工具包，读取解析 ISO/IEC 14443-A/B 等 RFID/NFC 标签",
+   "language": "",
+   "stars": 37,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-27",
+   "category": "无线通信与感知",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -43687,7 +43890,14 @@
    "added_at": "2026-11-27",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-27"
+   ]
   },
   {
    "full_name": "loganzarov-alt/D325f-SDR",
@@ -44387,7 +44597,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 395299,
+   "stars": 395300,
    "topics": [
     "ai",
     "assistant",
@@ -44510,7 +44720,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 229401,
+   "stars": 229402,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -44523,7 +44733,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 170425,
+   "stars": 170427,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -44569,7 +44779,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 151609,
+   "stars": 151610,
    "topics": [
     "ai",
     "copilot",
@@ -44655,7 +44865,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 140320,
+   "stars": 140323,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -45019,7 +45229,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 73977,
+   "stars": 73979,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -45080,7 +45290,7 @@
    "url": "https://github.com/code-yeongyu/oh-my-openagent",
    "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
    "language": "TypeScript",
-   "stars": 71140,
+   "stars": 71141,
    "topics": [
     "ai",
     "ai-agents",
@@ -48309,7 +48519,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 63247,
+   "stars": 63249,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -50996,7 +51206,7 @@
    "url": "https://github.com/zed-industries/zed",
    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
    "language": "Rust",
-   "stars": 95798,
+   "stars": 95799,
    "topics": [
     "gpui",
     "rust-lang",
@@ -51856,76 +52066,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "WilliamChen55/rfid-nfc-toolkit",
-   "url": "https://github.com/WilliamChen55/rfid-nfc-toolkit",
-   "description": "跨平台 Python 工具包，读取解析 ISO/IEC 14443-A/B 等 RFID/NFC 标签",
-   "language": "",
-   "stars": 37,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "FLASHICON/programmable-timer-and-interrupt-controller",
-   "url": "https://github.com/FLASHICON/programmable-timer-and-interrupt-controller",
-   "description": "SystemVerilog 实现的寄存器映射定时器 + 中断控制器 RTL IP 核",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "FLASHICON/amba-apb4-gpio-timer-subsystem",
-   "url": "https://github.com/FLASHICON/amba-apb4-gpio-timer-subsystem",
-   "description": "APB4 从设备的 GPIO 控制器与定时器子系统，SystemVerilog RTL",
-   "language": "",
-   "stars": 17,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "FLASHICON/synchronous-fifo-ip",
-   "url": "https://github.com/FLASHICON/synchronous-fifo-ip",
-   "description": "参数化同步 FIFO 的 SystemVerilog RTL IP，基于环形缓冲",
-   "language": "",
-   "stars": 16,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "待归类",
-   "applicable": "",
-   "note": ""
-  },
-  {
-   "full_name": "SaraFanzee/Verilog-IDE",
-   "url": "https://github.com/SaraFanzee/Verilog-IDE",
-   "description": "开箱即用的 Verilog/SystemVerilog IDE：实时语法检查、综合与波形生成",
-   "language": "",
-   "stars": 11,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-27",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
