@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/starman-tech/Mousepods",
-  "stars": 567,
-  "desc": "把 AirPods 3 的头部姿态当鼠标用：逆向 Apple RemoteHID（蓝牙 BLE HID），Linux 上直接输出鼠标/键盘事件，并用 IMU 姿态做指针"
+  "url": "https://github.com/BasilSkyWalk/echopod",
+  "stars": 134,
+  "desc": "Snowsky Echo Mini 播放器的替代固件：Cover Flow 与自建曲库，嵌入式改造"
  },
  {
-  "url": "https://github.com/SAMS0N1TE/lr2021-sdr",
-  "stars": 324,
-  "desc": "把 Semtech LR2021 LoRa 芯片当软件无线电：100MHz 至 2.74GHz 连续接收、800ksps I/Q 经 USB 或无线送出，可当 SoapySDR 设备解 P25/寻呼/FM/BLE"
+  "url": "https://github.com/be2rlab/ACCORD",
+  "stars": 83,
+  "desc": "单目相机 + IMU 的稠密度量建图（SLAM），用 foundation 模型补尺度"
  },
  {
-  "url": "https://github.com/yzytz17/1.5-joint-module",
-  "stars": 213,
-  "desc": "1.5 美元四层 FOC 驱动板塞进 1503 无刷云台电机，配全 3D 打印高减速比齿轮箱：低成本机器人关节，硬件、固件与 CAD 全开"
+  "url": "https://github.com/ASIG-X/RESPLE2",
+  "stars": 64,
+  "desc": "连续时间 B 样条多传感器状态估计框架，支持 IMU / LiDAR / 相机里程计"
  },
  {
-  "url": "https://github.com/happyme531/open_rknpu2_lm_infer",
-  "stars": 119,
-  "desc": "RK3588 处理器 NPU 上完全开源的 Rust 大模型推理引擎，直接吃 RKNPU2，让嵌入式边缘设备本地跑 LLM"
+  "url": "https://github.com/WilliamChen55/rfid-nfc-toolkit",
+  "stars": 37,
+  "desc": "跨平台 Python 工具包，读取解析 ISO/IEC 14443-A/B 等 RFID/NFC 标签"
  },
  {
-  "url": "https://github.com/PinkiePie1/SmoothEPD",
-  "stars": 103,
-  "desc": "SSD1681 串口电子纸屏的 47Hz 高刷驱动固件：改 LUT 只刷变化像素，CH32H417 双核大核算内容小核刷墨水屏，实测秒表与 2300 粒子流体"
+  "url": "https://github.com/TheUnkn0wnC0DE/ESP32-OS",
+  "stars": 36,
+  "desc": "在 ESP32-P4 上原生运行的 KolibriOS 兼容操作系统，带 Wi-Fi 6 与浏览器"
  },
  {
-  "url": "https://github.com/podomy/weld",
-  "stars": 101,
-  "desc": "Go 写的现代机器人中间件，兼容 ROS2 的节点与话题语义，走轻量协议栈替代 DDS"
+  "url": "https://github.com/happyme531/rknpu2_matmul_open",
+  "stars": 34,
+  "desc": "RK3588 RKNPU2 的矩阵乘与 LLM 推理算子库，嵌入式 NPU 加速"
  },
  {
-  "url": "https://github.com/Leonhart999/slam-autonav-console",
-  "stars": 72,
-  "desc": "浏览器里的 LiDAR SLAM 控制台：接 FAST-LIO2 与 GLIM 建图、ROS2 Nav2 导航和 evo 轨迹评估，免装桌面环境"
+  "url": "https://github.com/YaolinDong/infrabot",
+  "stars": 25,
+  "desc": "开源七轴机械臂：达妙 CAN FD 关节 + STM32H743 控制器，板载固件做力控"
  },
  {
-  "url": "https://github.com/WarpKVM/rk628-bridge-boards",
-  "stars": 49,
-  "desc": "RK628H 芯片的 HDMI 转 MIPI CSI-2 桥接板开源硬件：原理图、制板文件、设备树与驱动补丁，给嵌入式板子加摄像头输入"
+  "url": "https://github.com/FreakStudioCN/ai-agent-embedded-debugging-kit",
+  "stars": 24,
+  "desc": "面向嵌入式设备的 AI Agent 调试套件：观测、运动控制、测量与可复现实验"
  },
  {
-  "url": "https://github.com/colonelpanichacks/oui-spy-recon-app",
-  "stars": 46,
-  "desc": "OUI SPY 板配套 App：扫周边蓝牙与无线设备的 MAC OUI，把无人机、追踪器、摄像头标到地图上"
- },
- {
-  "url": "https://github.com/ori-drs/drs-vpt",
-  "stars": 28,
-  "desc": "ECCV 2026 工作：把单张相机图像直接定位到 LiDAR 点云地图里，带跨模态标定，用于无 GNSS 的机器人定位"
- },
- {
-  "url": "https://github.com/antirez/sx1262-adsb",
+  "url": "https://github.com/1Zonghao/ZUST-NFC-PCB-Campus-card",
   "stars": 22,
-  "desc": "不改硬件的 SX1262 LoRa 芯片收 1090MHz ADS-B：LilyGO T3-S3 与 T-Echo 变口袋飞机接收机，显示呼号、高度、速度与坐标"
+  "desc": "浙科大 NFC PCB 校园卡：刷卡点亮，含完整 PCB 工程"
  },
  {
-  "url": "https://github.com/JA-cmd-wq/RK3588-AntiUAV-Tracker",
+  "url": "https://github.com/unagisan69/Zerogotchi",
   "stars": 20,
-  "desc": "RK3588 处理器 NPU 上实时无人机检测跟踪：YOLOv8 加 FEAR 孪生跟踪加 Kalman，三种模式约 115 FPS，用于低空监视"
+  "desc": "M5Stack Cardputer Zero 上的 Wi-Fi 审计与 GPS wardriving 固件，ESP32 无线"
  },
  {
-  "url": "https://github.com/Rekalyptus/rekadeck",
-  "stars": 18,
-  "desc": "ESP32-S3 墨水屏抽认卡整机：固件、模拟器、mock 服务与一键安装器齐全，电子纸低功耗背单词"
+  "url": "https://github.com/FLASHICON/programmable-timer-and-interrupt-controller",
+  "stars": 17,
+  "desc": "SystemVerilog 实现的寄存器映射定时器 + 中断控制器 RTL IP 核"
  },
  {
-  "url": "https://github.com/FLASHICON/industry-style-digital-asic-subsystem-rtl-to-gdsii",
+  "url": "https://github.com/FLASHICON/amba-apb4-gpio-timer-subsystem",
+  "stars": 17,
+  "desc": "APB4 从设备的 GPIO 控制器与定时器子系统，SystemVerilog RTL"
+ },
+ {
+  "url": "https://github.com/FLASHICON/synchronous-fifo-ip",
   "stars": 16,
-  "desc": "工业风格数字 ASIC 子系统：UART、FIFO、GPIO、定时器与寄存器堆挂在 AXI 上，给 RTL 到 GDSII 全流程做参考工程"
+  "desc": "参数化同步 FIFO 的 SystemVerilog RTL IP，基于环形缓冲"
  },
  {
-  "url": "https://github.com/xdab/rxx_lora",
+  "url": "https://github.com/ea2eoe-cmd/OmniSDR",
   "stars": 15,
-  "desc": "用 RTL-SDR 与 SDRPlay 接收机 demod LoRa 包的实现，低成本收听 LoRa 无线报文"
+  "desc": "通用网络与本地 SDR 接收机（RTL-TCP / KiwiSDR / SpyServer），60FPS 瀑布图"
  },
  {
-  "url": "https://github.com/YuchanHu/Godox-S3-Trigger",
-  "stars": 14,
-  "desc": "用 ESP32-S3 触摸墨水屏开发板做神牛 X 系列闪光灯的无线引闪控制器"
+  "url": "https://github.com/xiaowoniu928/p4can-zh-cn",
+  "stars": 13,
+  "desc": "ESP32-P4 三路 CAN 总线方案：特斯拉 Model Y 台架研究 + 中文仪表盘"
  },
  {
-  "url": "https://github.com/ICDT-Inatel-Cubesat-Design-Team/S-Band-Antenna",
+  "url": "https://github.com/Arjunros/microduck_ros2",
   "stars": 12,
-  "desc": "1U CubeSat 的 S 波段 2.45GHz 右旋圆极化贴片天线：天线设计、仿真与实测，开源硬件"
+  "desc": "Pollen Robotics Microduck 双足机器人的 ROS2 仿真、Nav2 导航与语音控制"
  },
  {
-  "url": "https://github.com/CasualArclamp/DecLAB",
+  "url": "https://github.com/HanerQAQ/3.98inch_NFC_EPD",
   "stars": 12,
-  "desc": "一个软件无线电接收机覆盖 DVB-T/T2、DAB+、FM、寻呼、DMR/NXDN/P25 等全部在空信号"
+  "desc": "ESP32 + PN5180 驱动华为 3.98 寸 NFC 四色墨水屏刷图"
  },
  {
-  "url": "https://github.com/patapovich/open-dimmer",
+  "url": "https://github.com/SaraFanzee/Verilog-IDE",
   "stars": 11,
-  "desc": "Zigbee 调光模块 AVATTO ZDMS16-2 的调光单片机开源固件：平滑调光曲线、墙面开关手势、逐通道设置，升级走 Zigbee"
+  "desc": "开箱即用的 Verilog/SystemVerilog IDE：实时语法检查、综合与波形生成"
  },
  {
-  "url": "https://github.com/tachsin/photonoxide",
+  "url": "https://github.com/Free-Ink/dessen",
   "stars": 11,
-  "desc": "Rust 写的光子学与电磁仿真工具链：模式求解、FDFD 与 FDTD、逆向设计，带桌面工作室与 Python 绑定"
+  "desc": "面向电子纸设备的 RISC-V 沙箱运行时，无需刷机跑微型二进制"
+ },
+ {
+  "url": "https://github.com/solana-foundation/solana-os",
+  "stars": 10,
+  "desc": "Solana Breakpoint 2026 徽章固件：ESP32-C5 + ESP-IDF + LVGL + Lua"
  }
 ]
