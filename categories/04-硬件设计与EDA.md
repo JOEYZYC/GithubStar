@@ -1,6 +1,6 @@
 # 硬件设计与 EDA
 
-> 共 321 个项目 · 数据更新时间 2026-11-28 · [返回总览](../README.md)
+> 共 322 个项目 · 数据更新时间 2026-11-28 · [返回总览](../README.md)
 
 ---
 
@@ -12,7 +12,7 @@ Official source code of FreeCAD, a free and opensource multiplatform 3D parametr
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★18,756 · Rust · ⭐ 已 star`
+`★18,760 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -1587,6 +1587,14 @@ VHDL 的 Python 抽象语言模型，用于 HDL 工具链
 
 ---
 
+#### [atmarachchige0081/Tang-FPGA-Studio](https://github.com/atmarachchige0081/Tang-FPGA-Studio)
+`★65 · ⭐🔥 已 star + 热点推荐`
+面向 Sipeed Tang Nano / Primer 的入门 FPGA IDE：Verilog / SystemVerilog 综合仿真、波形查看，FPGA 开发板友好
+> 热点推荐于 2026-11-28
+> 收录日期：2026-11-28
+
+---
+
 #### [aziz123456789123456789/pcb-wizard](https://github.com/aziz123456789123456789/pcb-wizard)
 `★65 · ⭐🔥 已 star + 热点推荐`
 Windows 上的 PCB 设计软件，面向单/双面板的手工布线（原理图到 PCB）
@@ -1865,8 +1873,9 @@ Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，
 ---
 
 #### [YutingXu/waffle-eda](https://github.com/YutingXu/waffle-eda)
-`★33 · 🔥 热点推荐`
+`★33 · ⭐🔥 已 star + 热点推荐`
 轻量开源原理图与 PCB 编辑器，跨平台 EDA 工具
+> 热点推荐于 2026-11-28
 > 收录日期：2026-11-28
 
 ---

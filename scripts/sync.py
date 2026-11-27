@@ -1232,6 +1232,11 @@ OVERRIDES: dict[str, str] = {
     "Arjunros/microduck_ros2": "飞控与无人机",
     "be2rlab/ACCORD": "飞控与无人机",
     "ASIG-X/RESPLE2": "飞控与无人机",
+    # 2026-11-28：本轮 20 条，待归类 1 条 + 规则误判 1 条（「Tang」+「仿真」被电磁规则抓走）
+    # 硬件设计与 EDA（Sipeed Tang Nano/Primer 的入门 FPGA IDE：Verilog/SystemVerilog 综合仿真，HDL 工具链口径）
+    "atmarachchige0081/Tang-FPGA-Studio": "硬件设计与 EDA",
+    # 嵌入式与单片机（电子纸墨水屏硬件设计 + 驱动代码，与其它电子纸件同口径）
+    "MineralNaCl/InkLark-E-Paper": "嵌入式与单片机",
 }
 
 UNCLASSIFIED = "待归类"

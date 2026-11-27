@@ -9655,20 +9655,6 @@
    ]
   },
   {
-   "full_name": "atmarachchige0081/Tang-FPGA-Studio",
-   "url": "https://github.com/atmarachchige0081/Tang-FPGA-Studio",
-   "description": "面向 Sipeed Tang Nano / Primer 的入门 FPGA IDE：Verilog / SystemVerilog 综合仿真、波形查看，FPGA 开发板友好",
-   "language": "",
-   "stars": 65,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-28",
-   "category": "电磁仿真与超表面",
-   "applicable": "",
-   "note": ""
-  },
-  {
    "full_name": "eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme",
    "url": "https://github.com/eleweiz/Solving-full-wave-nonlinear-inverse-scattering-problems-with-back-propagation-scheme",
    "description": "用 CNN 加反向传播方案求解全波非线性逆散射问题（Matlab 实现）",
@@ -20835,7 +20821,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "MoveCall/onepage-reader",
@@ -22290,7 +22283,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "crichars/embedded-project-governance",
@@ -25638,7 +25638,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "lucaong/nerves_thermal_camera",
@@ -26270,7 +26277,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "artfulbytes/i_kept_coding_until_an_rtos_was_inevitable",
@@ -26788,7 +26802,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "alexkid77/openlara_esp32p4",
@@ -28025,7 +28046,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "ArmstrongSubero/dabao-sdk",
@@ -29878,7 +29906,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "sixblade325/WaterHand-Processor-Development-Skills",
@@ -30354,7 +30389,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "kavishka-dot/vulcan-os",
@@ -30830,7 +30872,35 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
+  },
+  {
+   "full_name": "MineralNaCl/InkLark-E-Paper",
+   "url": "https://github.com/MineralNaCl/InkLark-E-Paper",
+   "description": "电子纸墨水屏硬件设计与驱动代码开源：驱动板 + 固件",
+   "language": "",
+   "stars": 12,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-28",
+   "category": "嵌入式与单片机",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "EIC-UESTC/aCoral",
@@ -31305,7 +31375,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "caesar-empereur/esp32p4-2inch-amoled-lvgl",
@@ -32002,7 +32079,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "sayhellotojungle/esp32-ga100vfi",
@@ -32016,7 +32100,14 @@
    "added_at": "2026-11-28",
    "category": "嵌入式与单片机",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "hqy123-git/rk3568-lvgl-project",
@@ -32437,7 +32528,7 @@
    "url": "https://github.com/tangency-labs/solidcraft",
    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
    "language": "Rust",
-   "stars": 18756,
+   "stars": 18760,
    "topics": [
     "3d-modeling",
     "brep",
@@ -36638,6 +36729,27 @@
    ]
   },
   {
+   "full_name": "atmarachchige0081/Tang-FPGA-Studio",
+   "url": "https://github.com/atmarachchige0081/Tang-FPGA-Studio",
+   "description": "面向 Sipeed Tang Nano / Primer 的入门 FPGA IDE：Verilog / SystemVerilog 综合仿真、波形查看，FPGA 开发板友好",
+   "language": "",
+   "stars": 65,
+   "topics": [],
+   "archived": false,
+   "source": "hot",
+   "added_at": "2026-11-28",
+   "category": "硬件设计与 EDA",
+   "applicable": "",
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
+  },
+  {
    "full_name": "aziz123456789123456789/pcb-wizard",
    "url": "https://github.com/aziz123456789123456789/pcb-wizard",
    "description": "Windows 上的 PCB 设计软件，面向单/双面板的手工布线（原理图到 PCB）",
@@ -37374,7 +37486,14 @@
    "added_at": "2026-11-28",
    "category": "硬件设计与 EDA",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "RoboJackets/robocup-pcb",
@@ -39177,7 +39296,7 @@
    "url": "https://github.com/AprilNEA/OpenLogi",
    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
    "language": "Rust",
-   "stars": 26277,
+   "stars": 26278,
    "topics": [
     "dpi",
     "gpui",
@@ -41120,7 +41239,14 @@
    "added_at": "2026-11-28",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "hardcoreerik/OrcSDR",
@@ -43848,7 +43974,14 @@
    "added_at": "2026-11-28",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "hardcoreerik/esp-rtl-sdr",
@@ -44135,7 +44268,14 @@
    "added_at": "2026-11-28",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "loganzarov-alt/D325f-SDR",
@@ -44317,7 +44457,14 @@
    "added_at": "2026-11-28",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "KI3P/VWS-SDR",
@@ -44814,7 +44961,14 @@
    "added_at": "2026-11-28",
    "category": "无线通信与感知",
    "applicable": "",
-   "note": ""
+   "note": "",
+   "sources": [
+    "hot",
+    "star"
+   ],
+   "hot_dates": [
+    "2026-11-28"
+   ]
   },
   {
    "full_name": "BushlanovDev/ble-telemetry-lite",
@@ -44863,7 +45017,7 @@
    "url": "https://github.com/openclaw/openclaw",
    "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
    "language": "TypeScript",
-   "stars": 395352,
+   "stars": 395354,
    "topics": [
     "ai",
     "assistant",
@@ -44884,7 +45038,7 @@
    "url": "https://github.com/affaan-m/ECC",
    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
    "language": "JavaScript",
-   "stars": 311831,
+   "stars": 311842,
    "topics": [
     "ai-agents",
     "anthropic",
@@ -44973,7 +45127,7 @@
    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
    "language": "",
-   "stars": 236190,
+   "stars": 236193,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -44986,7 +45140,7 @@
    "url": "https://github.com/anomalyco/opencode",
    "description": "The open source coding agent.",
    "language": "TypeScript",
-   "stars": 229642,
+   "stars": 229644,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -44999,7 +45153,7 @@
    "url": "https://github.com/msitarzewski/agency-agents",
    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
    "language": "Shell",
-   "stars": 170625,
+   "stars": 170626,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -45012,7 +45166,7 @@
    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
    "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
    "language": "Python",
-   "stars": 155136,
+   "stars": 155140,
    "topics": [
     "ai-skills",
     "antigravity",
@@ -45045,7 +45199,7 @@
    "url": "https://github.com/github/spec-kit",
    "description": "💫 Toolkit to help you get started with SDD or any other process!",
    "language": "Python",
-   "stars": 152290,
+   "stars": 152298,
    "topics": [
     "ai",
     "copilot",
@@ -45118,7 +45272,7 @@
    "url": "https://github.com/garrytan/gstack",
    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
    "language": "TypeScript",
-   "stars": 142814,
+   "stars": 142815,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -45131,7 +45285,7 @@
    "url": "https://github.com/stablyai/orca",
    "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
    "language": "TypeScript",
-   "stars": 142418,
+   "stars": 142422,
    "topics": [
     "agent-ide",
     "ai-agents",
@@ -45186,7 +45340,7 @@
    "url": "https://github.com/pbakaus/impeccable",
    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
    "language": "Rust",
-   "stars": 118037,
+   "stars": 118043,
    "topics": [
     "agent-skills",
     "ai",
@@ -45246,7 +45400,7 @@
    "url": "https://github.com/D4Vinci/Scrapling",
    "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
    "language": "Python",
-   "stars": 106370,
+   "stars": 106373,
    "topics": [
     "ai",
     "ai-scraping",
@@ -45280,7 +45434,7 @@
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Cursor and more.",
    "language": "JavaScript",
-   "stars": 100954,
+   "stars": 100956,
    "topics": [
     "agent-skills",
     "ai-agents",
@@ -45495,7 +45649,7 @@
    "url": "https://github.com/blader/humanizer",
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "language": "Python",
-   "stars": 74324,
+   "stars": 74330,
    "topics": [
     "agent-skills",
     "ai-humanizer",
@@ -45522,7 +45676,7 @@
    "url": "https://github.com/cline/cline",
    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
    "language": "TypeScript",
-   "stars": 71954,
+   "stars": 71955,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -45755,7 +45909,7 @@
    "url": "https://github.com/lightpanda-io/browser",
    "description": "Lightpanda: the headless browser designed for AI and automation",
    "language": "Zig",
-   "stars": 42669,
+   "stars": 42670,
    "topics": [
     "browser",
     "browser-automation",
@@ -46324,7 +46478,7 @@
    "url": "https://github.com/ai-openshell/openshell",
    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
    "language": "Rust",
-   "stars": 21995,
+   "stars": 21996,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -48623,7 +48777,7 @@
    "url": "https://github.com/Graphify-Labs/graphify",
    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
    "language": "Python",
-   "stars": 154261,
+   "stars": 154265,
    "topics": [
     "ai-agents",
     "antigravity",
@@ -48657,7 +48811,7 @@
    "url": "https://github.com/Egonex-AI/Understand-Anything",
    "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "language": "TypeScript",
-   "stars": 94713,
+   "stars": 94714,
    "topics": [
     "antigravity-skills",
     "business-knowledge",
@@ -48688,7 +48842,7 @@
    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
    "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
    "language": "Python",
-   "stars": 80875,
+   "stars": 80878,
    "topics": [
     "agents",
     "ai",
@@ -48722,7 +48876,7 @@
    "url": "https://github.com/eternity4719/HowToLiveBetter",
    "description": "高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
    "language": "HTML",
-   "stars": 77819,
+   "stars": 77820,
    "topics": [],
    "archived": false,
    "source": "star",
@@ -48785,7 +48939,7 @@
    "url": "https://github.com/HKUDS/DeepTutor",
    "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
    "language": "Python",
-   "stars": 63786,
+   "stars": 63788,
    "topics": [
     "ai-agents",
     "ai-tutor",
@@ -48808,7 +48962,7 @@
    "url": "https://github.com/bojieli/ai-agent-book",
    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
    "language": "Python",
-   "stars": 60116,
+   "stars": 60117,
    "topics": [
     "agent",
     "agent-memory",
@@ -49363,7 +49517,7 @@
    "url": "https://github.com/jingyaogong/minimind",
    "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
    "language": "Python",
-   "stars": 72195,
+   "stars": 72199,
    "topics": [
     "artificial-intelligence",
     "large-language-model"
@@ -51410,7 +51564,7 @@
    "url": "https://github.com/public-apis/public-apis",
    "description": "A collective list of free APIs",
    "language": "Python",
-   "stars": 501824,
+   "stars": 501827,
    "topics": [
     "api",
     "apis",
@@ -51455,7 +51609,7 @@
    "url": "https://github.com/NationalSecurityAgency/ghidra",
    "description": "Ghidra is a software reverse engineering (SRE) framework",
    "language": "Java",
-   "stars": 101520,
+   "stars": 101521,
    "topics": [
     "disassembler",
     "reverse-engineering",
@@ -51571,7 +51725,7 @@
    "url": "https://github.com/subframe7536/maple-font",
    "description": "Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项",
    "language": "Python",
-   "stars": 29911,
+   "stars": 29912,
    "topics": [
     "coding-font",
     "font",
@@ -51816,7 +51970,7 @@
    "url": "https://github.com/qingjian-team/qingjian",
    "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
    "language": "Rust",
-   "stars": 8173,
+   "stars": 8174,
    "topics": [
     "chinese",
     "chinese-input-method",
@@ -51906,7 +52060,7 @@
    "url": "https://github.com/Kyant0/AndroidLiquidGlass",
    "description": "Compose Multiplatform Liquid Glass effect",
    "language": "Kotlin",
-   "stars": 4835,
+   "stars": 4836,
    "topics": [
     "compose-multiplatform",
     "jetpack-compose",
@@ -52332,20 +52486,6 @@
    "source": "star",
    "added_at": "2026-11-15",
    "category": "开发工具与系统资源",
-   "note": ""
-  },
-  {
-   "full_name": "MineralNaCl/InkLark-E-Paper",
-   "url": "https://github.com/MineralNaCl/InkLark-E-Paper",
-   "description": "电子纸墨水屏硬件设计与驱动代码开源：驱动板 + 固件",
-   "language": "",
-   "stars": 12,
-   "topics": [],
-   "archived": false,
-   "source": "hot",
-   "added_at": "2026-11-28",
-   "category": "待归类",
-   "applicable": "",
    "note": ""
   }
  ]
