@@ -1,18 +1,18 @@
 # 硬件设计与 EDA
 
-> 共 320 个项目 · 数据更新时间 2026-11-27 · [返回总览](../README.md)
+> 共 321 个项目 · 数据更新时间 2026-11-28 · [返回总览](../README.md)
 
 ---
 
 #### [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-`★35,819 · C++ · ⭐ 已 star`
+`★35,836 · C++ · ⭐ 已 star`
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 > 收录日期：2026-09-27
 
 ---
 
 #### [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
-`★18,536 · Rust · ⭐ 已 star`
+`★18,756 · Rust · ⭐ 已 star`
 SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.
 > 收录日期：2026-10-17
 
@@ -75,7 +75,7 @@ KiCad/Altium 交互式网页 BOM，手工贴装时高亮板面元件位置
 ---
 
 #### [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
-`★4,294 · Rust · ⭐ 已 star`
+`★4,313 · Rust · ⭐ 已 star`
 A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 > 收录日期：2026-09-13
 
@@ -138,14 +138,14 @@ Icarus Verilog 开源仿真器，轻量、跨平台，适合教学与小规模 R
 ---
 
 #### [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp)
-`★3,493 · Python · ⭐ 已 star`
+`★3,504 · Python · ⭐ 已 star`
 FreeCAD MCP(Model Context Protocol) server
 > 收录日期：2026-09-27
 
 ---
 
 #### [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
-`★3,214 · C++ · ⭐ 已 star`
+`★3,218 · C++ · ⭐ 已 star`
 OCCT is an open-source software development platform for 3D CAD, CAM, CAE.
 > 收录日期：2026-09-13
 
@@ -311,7 +311,7 @@ CHIPS Alliance 的 SystemVerilog 工具套件，含解析器、Linter、格式�
 ---
 
 #### [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis)
-`★1,874 · ⭐ 已 star`
+`★1,875 · ⭐ 已 star`
 > 收录日期：2026-10-28
 
 ---
@@ -652,7 +652,7 @@ KiCad 插件与资源精选清单
 ---
 
 #### [mercedes-benz/ardep](https://github.com/mercedes-benz/ardep)
-`★589 · C · ⭐ 已 star`
+`★591 · C · ⭐ 已 star`
 Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
 > 收录日期：2026-09-13
 
@@ -787,7 +787,7 @@ KiCad 自动布线工具集，Python + Rust 实现
 ---
 
 #### [BackplaneWorks/kistack](https://github.com/BackplaneWorks/kistack)
-`★431 · Python · ⭐ 已 star`
+`★433 · Python · ⭐ 已 star`
 KiStack is a HUMAN WRITTEN bunch of skills for KiCad
 > 收录日期：2026-10-27
 
@@ -929,17 +929,17 @@ Xilinx 虚拟线缆 XVC 协议实现，用 TCP/IP 当 JTAG 线调试 FPGA/SoC
 
 ---
 
+#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
+`★291 · C++ · ⭐ 已 star`
+> 收录日期：2026-09-13
+
+---
+
 #### [Chanchaldhiman/CANviz](https://github.com/Chanchaldhiman/CANviz)
 `★289 · ⭐🔥 已 star + 热点推荐`
 浏览器里的 CAN 总线分析仪，pip 安装即可用，兼容任意 USB CAN 适配器与 J1939/CANopen
 > 热点推荐于 2026-09-26
 > 收录日期：2026-09-26
-
----
-
-#### [sl4v3k/Shapr3d_crack](https://github.com/sl4v3k/Shapr3d_crack)
-`★288 · C++ · ⭐ 已 star`
-> 收录日期：2026-09-13
 
 ---
 
@@ -1861,6 +1861,13 @@ Claude Code/Codex 配合 KiCad 10 设计 PCB 并交 JLCPCB 打样的工作流，
 把 KiCad PCB 布局过程录成延时视频：编辑器视角加整板渲染，硬件设计过程记录
 > 热点推荐于 2026-11-08
 > 收录日期：2026-11-08
+
+---
+
+#### [YutingXu/waffle-eda](https://github.com/YutingXu/waffle-eda)
+`★33 · 🔥 热点推荐`
+轻量开源原理图与 PCB 编辑器，跨平台 EDA 工具
+> 收录日期：2026-11-28
 
 ---
 

@@ -2258,3 +2258,23 @@
 {"url": "https://github.com/SaraFanzee/Verilog-IDE", "stars": 11, "desc": "开箱即用的 Verilog/SystemVerilog IDE：实时语法检查、综合与波形生成", "date": "2026-11-27"}
 {"url": "https://github.com/Free-Ink/dessen", "stars": 11, "desc": "面向电子纸设备的 RISC-V 沙箱运行时，无需刷机跑微型二进制", "date": "2026-11-27"}
 {"url": "https://github.com/solana-foundation/solana-os", "stars": 10, "desc": "Solana Breakpoint 2026 徽章固件：ESP32-C5 + ESP-IDF + LVGL + Lua", "date": "2026-11-27"}
+{"url": "https://github.com/unfr0zen/unfr0zen", "stars": 154, "desc": "Nest 恒温器 USB 刷机本地化：脱离云端，靠本地 MQTT / Matter / Zigbee 控制，嵌入式固件改造", "date": "2026-11-28"}
+{"url": "https://github.com/simoncirstoiu/Ripple", "stars": 151, "desc": "用现有 Zigbee 设备做运动 / 人体感知，无需额外硬件，无线感知方向", "date": "2026-11-28"}
+{"url": "https://github.com/ethangao907/stow-p1", "stars": 97, "desc": "折叠便携 3D 打印机：剪刀升降 Z 轴，整机 CAD + BOM + Klipper 固件", "date": "2026-11-28"}
+{"url": "https://github.com/atmarachchige0081/Tang-FPGA-Studio", "stars": 65, "desc": "面向 Sipeed Tang Nano / Primer 的入门 FPGA IDE：Verilog / SystemVerilog 综合仿真、波形查看，FPGA 开发板友好", "date": "2026-11-28"}
+{"url": "https://github.com/xyc0677/veradroid", "stars": 37, "desc": "在越狱 Kindle 上运行精简 Android，为墨水屏阅读优化的嵌入式改造", "date": "2026-11-28"}
+{"url": "https://github.com/YutingXu/waffle-eda", "stars": 33, "desc": "轻量开源原理图与 PCB 编辑器，跨平台 EDA 工具", "date": "2026-11-28"}
+{"url": "https://github.com/tuanpmt/vtts", "stars": 32, "desc": "在 ESP32-P4 / ESP32-S3 上本地跑多语言语音合成（TTS）：C99 int8 推理运行时，嵌入式端侧", "date": "2026-11-28"}
+{"url": "https://github.com/andrisgauracs/s3-ondevice-training", "stars": 27, "desc": "在 ESP32-S3 片上直接训练神经网络：纯 C 反向传播 + Adam，双核信号分类，嵌入式 TinyML", "date": "2026-11-28"}
+{"url": "https://github.com/kodediy/kode_slave_c5", "stars": 20, "desc": "Kode Dot 无线电模块的 ESP32-C5 固件：基于 esp-hosted 的无线协处理器", "date": "2026-11-28"}
+{"url": "https://github.com/afterplanet/Vessel", "stars": 17, "desc": "macOS 上跟踪、收听并通联卫星：跟踪器 + SDR 接收 + 解码一体，业余无线电", "date": "2026-11-28"}
+{"url": "https://github.com/jeypnet/KG5ZZB-Radio-Apps", "stars": 15, "desc": "RTL-SDR 无线电应用：航空波段扫描、飞机实时地图与明语报文，软件无线电 / 业余无线电", "date": "2026-11-28"}
+{"url": "https://github.com/Traangas/LiDL-Mini-Pocket-Printer-ESP32", "stars": 14, "desc": "Lidl TRONIC 迷你口袋打印机的 ESP32 BLE 驱动（LuckPrinter A2Y 协议），嵌入式蓝牙打印", "date": "2026-11-28"}
+{"url": "https://github.com/ngxson/tiny-voca-esp32s3", "stars": 13, "desc": "把 tiny-voca 语音合成移植到 ESP32-S3，嵌入式端侧 TTS", "date": "2026-11-28"}
+{"url": "https://github.com/home-controls/zigbee-studio", "stars": 13, "desc": "Zigbee2MQTT 的实时 Web UI（Home Assistant 插件），无线 Zigbee 网络管理", "date": "2026-11-28"}
+{"url": "https://github.com/MineralNaCl/InkLark-E-Paper", "stars": 12, "desc": "电子纸墨水屏硬件设计与驱动代码开源：驱动板 + 固件", "date": "2026-11-28"}
+{"url": "https://github.com/iinde/slr-remote", "stars": 12, "desc": "单键 LoRa 长距离快门遥控，给富士相机的超低功耗嵌入式固件", "date": "2026-11-28"}
+{"url": "https://github.com/ywfish-ops/inkwords", "stars": 11, "desc": "ESP32-S3 墨水屏背单词卡：换词库只拷 TF 卡，Leitner 间隔复习，电子纸固件", "date": "2026-11-28"}
+{"url": "https://github.com/home-controls/zigbee-bridge", "stars": 10, "desc": "ESP32-P4 以太网桥固件：把 Zigbee 协调器接入网络，带仪表盘，无线", "date": "2026-11-28"}
+{"url": "https://github.com/sayhellotojungle/esp32-ga100vfi", "stars": 10, "desc": "用 ESP32-S3 电压毛刺（glitch）解锁 NVIDIA CMP 170HX（GA100）：固件 + 熔丝烧写工具链，实卡验证", "date": "2026-11-28"}
+{"url": "https://github.com/hieuha/CardputerZero-Sondechase", "stars": 10, "desc": "M5Stack CardputerZero 上的 RS41 探空仪追踪器：RTL-SDR 接收解码、追逐罗盘与落点地图，业余无线电", "date": "2026-11-28"}

@@ -1,102 +1,102 @@
 [
  {
-  "url": "https://github.com/BasilSkyWalk/echopod",
-  "stars": 134,
-  "desc": "Snowsky Echo Mini 播放器的替代固件：Cover Flow 与自建曲库，嵌入式改造"
+  "url": "https://github.com/unfr0zen/unfr0zen",
+  "stars": 154,
+  "desc": "Nest 恒温器 USB 刷机本地化：脱离云端，靠本地 MQTT / Matter / Zigbee 控制，嵌入式固件改造"
  },
  {
-  "url": "https://github.com/be2rlab/ACCORD",
-  "stars": 83,
-  "desc": "单目相机 + IMU 的稠密度量建图（SLAM），用 foundation 模型补尺度"
+  "url": "https://github.com/simoncirstoiu/Ripple",
+  "stars": 151,
+  "desc": "用现有 Zigbee 设备做运动 / 人体感知，无需额外硬件，无线感知方向"
  },
  {
-  "url": "https://github.com/ASIG-X/RESPLE2",
-  "stars": 64,
-  "desc": "连续时间 B 样条多传感器状态估计框架，支持 IMU / LiDAR / 相机里程计"
+  "url": "https://github.com/ethangao907/stow-p1",
+  "stars": 97,
+  "desc": "折叠便携 3D 打印机：剪刀升降 Z 轴，整机 CAD + BOM + Klipper 固件"
  },
  {
-  "url": "https://github.com/WilliamChen55/rfid-nfc-toolkit",
+  "url": "https://github.com/atmarachchige0081/Tang-FPGA-Studio",
+  "stars": 65,
+  "desc": "面向 Sipeed Tang Nano / Primer 的入门 FPGA IDE：Verilog / SystemVerilog 综合仿真、波形查看，FPGA 开发板友好"
+ },
+ {
+  "url": "https://github.com/xyc0677/veradroid",
   "stars": 37,
-  "desc": "跨平台 Python 工具包，读取解析 ISO/IEC 14443-A/B 等 RFID/NFC 标签"
+  "desc": "在越狱 Kindle 上运行精简 Android，为墨水屏阅读优化的嵌入式改造"
  },
  {
-  "url": "https://github.com/TheUnkn0wnC0DE/ESP32-OS",
-  "stars": 36,
-  "desc": "在 ESP32-P4 上原生运行的 KolibriOS 兼容操作系统，带 Wi-Fi 6 与浏览器"
+  "url": "https://github.com/YutingXu/waffle-eda",
+  "stars": 33,
+  "desc": "轻量开源原理图与 PCB 编辑器，跨平台 EDA 工具"
  },
  {
-  "url": "https://github.com/happyme531/rknpu2_matmul_open",
-  "stars": 34,
-  "desc": "RK3588 RKNPU2 的矩阵乘与 LLM 推理算子库，嵌入式 NPU 加速"
+  "url": "https://github.com/tuanpmt/vtts",
+  "stars": 32,
+  "desc": "在 ESP32-P4 / ESP32-S3 上本地跑多语言语音合成（TTS）：C99 int8 推理运行时，嵌入式端侧"
  },
  {
-  "url": "https://github.com/YaolinDong/infrabot",
-  "stars": 25,
-  "desc": "开源七轴机械臂：达妙 CAN FD 关节 + STM32H743 控制器，板载固件做力控"
+  "url": "https://github.com/andrisgauracs/s3-ondevice-training",
+  "stars": 27,
+  "desc": "在 ESP32-S3 片上直接训练神经网络：纯 C 反向传播 + Adam，双核信号分类，嵌入式 TinyML"
  },
  {
-  "url": "https://github.com/FreakStudioCN/ai-agent-embedded-debugging-kit",
-  "stars": 24,
-  "desc": "面向嵌入式设备的 AI Agent 调试套件：观测、运动控制、测量与可复现实验"
- },
- {
-  "url": "https://github.com/1Zonghao/ZUST-NFC-PCB-Campus-card",
-  "stars": 22,
-  "desc": "浙科大 NFC PCB 校园卡：刷卡点亮，含完整 PCB 工程"
- },
- {
-  "url": "https://github.com/unagisan69/Zerogotchi",
+  "url": "https://github.com/kodediy/kode_slave_c5",
   "stars": 20,
-  "desc": "M5Stack Cardputer Zero 上的 Wi-Fi 审计与 GPS wardriving 固件，ESP32 无线"
+  "desc": "Kode Dot 无线电模块的 ESP32-C5 固件：基于 esp-hosted 的无线协处理器"
  },
  {
-  "url": "https://github.com/FLASHICON/programmable-timer-and-interrupt-controller",
+  "url": "https://github.com/afterplanet/Vessel",
   "stars": 17,
-  "desc": "SystemVerilog 实现的寄存器映射定时器 + 中断控制器 RTL IP 核"
+  "desc": "macOS 上跟踪、收听并通联卫星：跟踪器 + SDR 接收 + 解码一体，业余无线电"
  },
  {
-  "url": "https://github.com/FLASHICON/amba-apb4-gpio-timer-subsystem",
-  "stars": 17,
-  "desc": "APB4 从设备的 GPIO 控制器与定时器子系统，SystemVerilog RTL"
- },
- {
-  "url": "https://github.com/FLASHICON/synchronous-fifo-ip",
-  "stars": 16,
-  "desc": "参数化同步 FIFO 的 SystemVerilog RTL IP，基于环形缓冲"
- },
- {
-  "url": "https://github.com/ea2eoe-cmd/OmniSDR",
+  "url": "https://github.com/jeypnet/KG5ZZB-Radio-Apps",
   "stars": 15,
-  "desc": "通用网络与本地 SDR 接收机（RTL-TCP / KiwiSDR / SpyServer），60FPS 瀑布图"
+  "desc": "RTL-SDR 无线电应用：航空波段扫描、飞机实时地图与明语报文，软件无线电 / 业余无线电"
  },
  {
-  "url": "https://github.com/xiaowoniu928/p4can-zh-cn",
+  "url": "https://github.com/Traangas/LiDL-Mini-Pocket-Printer-ESP32",
+  "stars": 14,
+  "desc": "Lidl TRONIC 迷你口袋打印机的 ESP32 BLE 驱动（LuckPrinter A2Y 协议），嵌入式蓝牙打印"
+ },
+ {
+  "url": "https://github.com/ngxson/tiny-voca-esp32s3",
   "stars": 13,
-  "desc": "ESP32-P4 三路 CAN 总线方案：特斯拉 Model Y 台架研究 + 中文仪表盘"
+  "desc": "把 tiny-voca 语音合成移植到 ESP32-S3，嵌入式端侧 TTS"
  },
  {
-  "url": "https://github.com/Arjunros/microduck_ros2",
+  "url": "https://github.com/home-controls/zigbee-studio",
+  "stars": 13,
+  "desc": "Zigbee2MQTT 的实时 Web UI（Home Assistant 插件），无线 Zigbee 网络管理"
+ },
+ {
+  "url": "https://github.com/MineralNaCl/InkLark-E-Paper",
   "stars": 12,
-  "desc": "Pollen Robotics Microduck 双足机器人的 ROS2 仿真、Nav2 导航与语音控制"
+  "desc": "电子纸墨水屏硬件设计与驱动代码开源：驱动板 + 固件"
  },
  {
-  "url": "https://github.com/HanerQAQ/3.98inch_NFC_EPD",
+  "url": "https://github.com/iinde/slr-remote",
   "stars": 12,
-  "desc": "ESP32 + PN5180 驱动华为 3.98 寸 NFC 四色墨水屏刷图"
+  "desc": "单键 LoRa 长距离快门遥控，给富士相机的超低功耗嵌入式固件"
  },
  {
-  "url": "https://github.com/SaraFanzee/Verilog-IDE",
+  "url": "https://github.com/ywfish-ops/inkwords",
   "stars": 11,
-  "desc": "开箱即用的 Verilog/SystemVerilog IDE：实时语法检查、综合与波形生成"
+  "desc": "ESP32-S3 墨水屏背单词卡：换词库只拷 TF 卡，Leitner 间隔复习，电子纸固件"
  },
  {
-  "url": "https://github.com/Free-Ink/dessen",
-  "stars": 11,
-  "desc": "面向电子纸设备的 RISC-V 沙箱运行时，无需刷机跑微型二进制"
- },
- {
-  "url": "https://github.com/solana-foundation/solana-os",
+  "url": "https://github.com/home-controls/zigbee-bridge",
   "stars": 10,
-  "desc": "Solana Breakpoint 2026 徽章固件：ESP32-C5 + ESP-IDF + LVGL + Lua"
+  "desc": "ESP32-P4 以太网桥固件：把 Zigbee 协调器接入网络，带仪表盘，无线"
+ },
+ {
+  "url": "https://github.com/sayhellotojungle/esp32-ga100vfi",
+  "stars": 10,
+  "desc": "用 ESP32-S3 电压毛刺（glitch）解锁 NVIDIA CMP 170HX（GA100）：固件 + 熔丝烧写工具链，实卡验证"
+ },
+ {
+  "url": "https://github.com/hieuha/CardputerZero-Sondechase",
+  "stars": 10,
+  "desc": "M5Stack CardputerZero 上的 RS41 探空仪追踪器：RTL-SDR 接收解码、追逐罗盘与落点地图，业余无线电"
  }
 ]
